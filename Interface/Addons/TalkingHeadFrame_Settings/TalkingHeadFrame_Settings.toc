@@ -1,0 +1,16 @@
+## Title: TalkingHeadFrame |cff00ffffSettings|r
+## Interface: 70000
+## Version: 7.0.3.15
+## Author: Klynk
+## Notes: Basic settings for the TalkingHeadFrame. /thf or /talkingheadframe to toggle the menu.
+## SavedVariables: THF_DB
+## DefaultState: enabled
+## OptionalDeps: LibSharedMedia-3.0
+## X-Curse-Packaged-Version: r17
+## X-Curse-Project-Name: TalkingHeadFrame Settings
+## X-Curse-Project-ID: talkingheadframe_settings
+## X-Curse-Repository-ID: wow/talkingheadframe_settings/mainline
+embeds.xml
+Fonts.lua
+DropDownMenu.lua
+Core.lua

@@ -1,0 +1,32 @@
+
+AddOnSkinsDB = {
+	["profileKeys"] = {
+		["Ahriak - Area 52"] = "Default",
+		["Thepride - Area 52"] = "Default",
+		["Fhayup - Area 52"] = "Default",
+		["Fhayslam - Area 52"] = "Default",
+		["Primeboi - Area 52"] = "Default",
+		["Dulgan - Kilrogg"] = "Default",
+		["Primerlock - Kel'Thuzad"] = "Default",
+		["Primepriest - Area 52"] = "Default",
+		["Fhayrin - Area 52"] = "Default",
+		["Iamprime - Area 52"] = "Default",
+		["Warodner - Moon Guard"] = "Default",
+		["Primehunter - Area 52"] = "Default",
+		["Primelocker - Kel'Thuzad"] = "Default",
+		["Fhayge - Area 52"] = "Default",
+		["Primepriest - Kel'Thuzad"] = "Default",
+		["Paintprimer - Kel'Thuzad"] = "Default",
+		["Plskillme - Kilrogg"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["ChangeLogVersion"] = 4.21,
+			["Azeroth Auto Pilot"] = false,
+			["EmbedLeftWidth"] = 232,
+			["EmbedSystemDual"] = true,
+		},
+	},
+}
+AddOnSkinsDS = {
+}

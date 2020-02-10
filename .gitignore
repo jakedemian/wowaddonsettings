@@ -1,0 +1,11 @@
+*.exe
+*.dll
+*.DLL
+*.info
+.curseclient
+Utils/
+Logs/
+GPUCache/
+Errors/
+Cache/
+blob_storage/

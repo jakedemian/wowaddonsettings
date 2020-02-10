@@ -1,0 +1,11 @@
+
+RaiderIO_Config = {
+	["displayWeeklyGuildBest"] = false,
+}
+RaiderIO_LastCharacter = "us-Rotrin-area-52"
+RaiderIO_MissingCharacters = {
+	["us-Kåos-area-52"] = true,
+	["us-Rotrin-area-52"] = true,
+	["us-Raiizo-area-52"] = true,
+	["us-Chemo-area-52"] = true,
+}

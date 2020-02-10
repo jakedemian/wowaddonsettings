@@ -1,0 +1,16 @@
+BigWigs_Core: enabled
+BigWigs_Options: enabled
+BigWigs_Plugins: enabled
+WeakAurasCompanion: enabled
+BigWigs_Countdown_HeroesOfTheStorm: enabled
+LittleWigs: enabled
+Pawn: disabled
+AAP-Core: disabled
+BigWigs_Cataclysm: enabled
+BigWigs_EternalPalace: enabled
+BigWigs_Azeroth: enabled
+BigWigs_WrathOfTheLichKing: enabled
+HandyNotes: disabled
+LockItems: disabled
+Mouse_Tooltip: disabled
+ReputationBars: disabled

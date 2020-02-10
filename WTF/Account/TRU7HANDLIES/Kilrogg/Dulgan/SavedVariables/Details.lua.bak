@@ -1,0 +1,3497 @@
+
+_detalhes_database = {
+	["savedbuffs"] = {
+	},
+	["mythic_dungeon_id"] = 0,
+	["tabela_historico"] = {
+		["tabelas"] = {
+			{
+				{
+					["combatId"] = 2,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.007245,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Training Dummy"] = 69745,
+							},
+							["pets"] = {
+								"Niple <Dulgan>", -- [1]
+							},
+							["on_hold"] = false,
+							["classe"] = "WARLOCK",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 48961.007245,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1580662914,
+							["friendlyfire_total"] = 0,
+							["spec"] = 267,
+							["nome"] = "Dulgan",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[42223] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 895,
+										["targets"] = {
+											["Training Dummy"] = 6736,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 6736,
+										["n_min"] = 802,
+										["g_dmg"] = 0,
+										["counter"] = 8,
+										["total"] = 6736,
+										["c_max"] = 0,
+										["id"] = 42223,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 8,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[280705] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 2326,
+										["g_amt"] = 0,
+										["n_max"] = 1163,
+										["targets"] = {
+											["Training Dummy"] = 6978,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 4652,
+										["n_min"] = 1163,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 6978,
+										["c_max"] = 2326,
+										["id"] = 280705,
+										["r_dmg"] = 0,
+										["spellschool"] = 64,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["r_amt"] = 0,
+										["c_min"] = 2326,
+									},
+									[271686] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1318,
+										["targets"] = {
+											["Training Dummy"] = 2636,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2636,
+										["n_min"] = 1318,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 2636,
+										["c_max"] = 0,
+										["id"] = 271686,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[270827] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 7207,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Training Dummy"] = 7207,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 7207,
+										["c_max"] = 7207,
+										["id"] = 270827,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 7207,
+									},
+									[29722] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 8974,
+										["g_amt"] = 0,
+										["n_max"] = 4187,
+										["targets"] = {
+											["Training Dummy"] = 17196,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 8222,
+										["n_min"] = 4035,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 17196,
+										["c_max"] = 8974,
+										["id"] = 29722,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 8974,
+									},
+									[271685] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 3075,
+										["targets"] = {
+											["Training Dummy"] = 6149,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 6149,
+										["n_min"] = 3074,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 6149,
+										["c_max"] = 0,
+										["id"] = 271685,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[271671] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 2059,
+										["targets"] = {
+											["Training Dummy"] = 2059,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2059,
+										["n_min"] = 2059,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 2059,
+										["c_max"] = 0,
+										["id"] = 271671,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["total"] = 69745.007245,
+							["serial"] = "Player-4-0A6679C1",
+							["last_dps"] = 2909.314947858233,
+							["custom"] = 0,
+							["last_event"] = 1580662913,
+							["damage_taken"] = 0.007245,
+							["start_time"] = 1580662889,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 2600,
+							["totalabsorbed"] = 0.008726,
+							["damage_from"] = {
+								["Niple <Dulgan>"] = true,
+								["Choyal"] = true,
+								["ßäcchüs-Winterhoof"] = true,
+								["Dulgan"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.008726,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.008726,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-3132-1-32625-153285-0000B49FD1",
+							["nome"] = "Training Dummy",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1580662914,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 79508.008726,
+							["start_time"] = 1580662914,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [2]
+						{
+							["flag_original"] = 4369,
+							["totalabsorbed"] = 0.002716,
+							["serial"] = "Pet-0-3132-1-32625-58959-0202A33E93",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Training Dummy"] = 20784,
+							},
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 20784.002716,
+							["dps_started"] = false,
+							["total"] = 20784.002716,
+							["classe"] = "PET",
+							["ownerName"] = "Dulgan",
+							["nome"] = "Niple <Dulgan>",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[3110] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 2598,
+										["targets"] = {
+											["Training Dummy"] = 20784,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 20784,
+										["n_min"] = 2598,
+										["g_dmg"] = 0,
+										["counter"] = 8,
+										["total"] = 20784,
+										["c_max"] = 0,
+										["id"] = 3110,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 8,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1580662914,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.002716,
+							["start_time"] = 1580662892,
+							["delay"] = 0,
+							["last_event"] = 1580662913,
+						}, -- [3]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 2,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorb"] = 0.002724,
+							["last_hps"] = 0,
+							["targets_overheal"] = {
+								["Dulgan"] = 2602,
+								["Choyal"] = 2601,
+								["Niple <Dulgan>"] = 2602,
+								["ßäcchüs-Winterhoof"] = 2601,
+							},
+							["targets"] = {
+							},
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[280707] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Dulgan"] = 2602,
+											["Choyal"] = 2601,
+											["Niple <Dulgan>"] = 2602,
+											["ßäcchüs-Winterhoof"] = 2601,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Dulgan"] = 0,
+											["Choyal"] = 0,
+											["Niple <Dulgan>"] = 0,
+											["ßäcchüs-Winterhoof"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 4,
+										["overheal"] = 10406,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 280707,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 0,
+										["n_amt"] = 4,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["pets"] = {
+								"Niple <Dulgan>", -- [1]
+							},
+							["iniciar_hps"] = false,
+							["healing_from"] = {
+							},
+							["classe"] = "WARLOCK",
+							["totalover"] = 10406.002724,
+							["total_without_pet"] = 0.002724,
+							["heal_enemy_amt"] = 0,
+							["totalover_without_pet"] = 0.002724,
+							["healing_taken"] = 0.002724,
+							["total"] = 0.002724,
+							["end_time"] = 1580662914,
+							["start_time"] = 1580662913,
+							["nome"] = "Dulgan",
+							["targets_absorbs"] = {
+							},
+							["grupo"] = true,
+							["spec"] = 267,
+							["heal_enemy"] = {
+							},
+							["serial"] = "Player-4-0A6679C1",
+							["custom"] = 0,
+							["tipo"] = 2,
+							["on_hold"] = false,
+							["totaldenied"] = 0.002724,
+							["delay"] = 1580662889,
+							["last_event"] = 1580662889,
+						}, -- [1]
+						{
+							["flag_original"] = 4369,
+							["totalabsorb"] = 0.006668,
+							["last_hps"] = 0,
+							["healing_from"] = {
+							},
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+								},
+							},
+							["targets"] = {
+							},
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+							},
+							["totalover_without_pet"] = 0.006668,
+							["start_time"] = 1580662914,
+							["classe"] = "PET",
+							["totalover"] = 0.006668,
+							["total_without_pet"] = 0.006668,
+							["iniciar_hps"] = false,
+							["end_time"] = 1580662914,
+							["heal_enemy_amt"] = 0,
+							["total"] = 0.006668,
+							["targets_absorbs"] = {
+							},
+							["ownerName"] = "Dulgan",
+							["nome"] = "Niple <Dulgan>",
+							["healing_taken"] = 0.006668,
+							["heal_enemy"] = {
+							},
+							["serial"] = "Pet-0-3132-1-32625-58959-0202A33E93",
+							["custom"] = 0,
+							["last_event"] = 0,
+							["on_hold"] = false,
+							["totaldenied"] = 0.006668,
+							["delay"] = 0,
+							["tipo"] = 2,
+						}, -- [2]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 2,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 2,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 267,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[29722] = 3,
+							},
+							["buff_uptime"] = 0,
+							["nome"] = "Dulgan",
+							["pets"] = {
+								"Niple <Dulgan>", -- [1]
+							},
+							["last_event"] = 1580662910,
+							["classe"] = "WARLOCK",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[282559] = {
+										["activedamt"] = 1,
+										["id"] = 282559,
+										["targets"] = {
+										},
+										["actived_at"] = 1580662889,
+										["uptime"] = 0,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = true,
+										["counter"] = 0,
+									},
+									[108366] = {
+										["activedamt"] = 1,
+										["id"] = 108366,
+										["targets"] = {
+										},
+										["actived_at"] = 1580662892,
+										["uptime"] = 0,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = true,
+										["counter"] = 0,
+									},
+									[281517] = {
+										["activedamt"] = 1,
+										["id"] = 281517,
+										["targets"] = {
+										},
+										["actived_at"] = 1580662910,
+										["uptime"] = 0,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = true,
+										["counter"] = 0,
+									},
+									[2479] = {
+										["activedamt"] = 1,
+										["id"] = 2479,
+										["targets"] = {
+										},
+										["actived_at"] = 1580662889,
+										["uptime"] = 0,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = true,
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-4-0A6679C1",
+							["tipo"] = 4,
+						}, -- [1]
+						{
+							["flag_original"] = 4369,
+							["ownerName"] = "Dulgan",
+							["nome"] = "Niple <Dulgan>",
+							["pets"] = {
+							},
+							["classe"] = "PET",
+							["tipo"] = 4,
+							["spell_cast"] = {
+								[3110] = 8,
+							},
+							["serial"] = "Pet-0-3132-1-32625-58959-0202A33E93",
+							["last_event"] = 0,
+						}, -- [2]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 2,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Dulgan"] = true,
+				},
+				["last_events_tables"] = {
+				},
+				["overall_added"] = true,
+				["cleu_timeline"] = {
+				},
+				["alternate_power"] = {
+				},
+				["tempo_start"] = 1580662889,
+				["enemy"] = "Training Dummy",
+				["combat_counter"] = 9,
+				["playing_solo"] = true,
+				["totals"] = {
+					69744.988542, -- [1]
+					-0.01533, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatEndedAt"] = 699081.4130000001,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "12:01:29",
+				["end_time"] = 699081.4130000001,
+				["totals_grupo"] = {
+					48961, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["combat_id"] = 2,
+				["TotalElapsedCombatTime"] = 699081.4130000001,
+				["frags_need_refresh"] = false,
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Dulgan"] = 0.002724,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Dulgan"] = 69745.007245,
+						}, -- [1]
+					},
+				},
+				["frags"] = {
+				},
+				["data_fim"] = "12:01:55",
+				["instance_type"] = "none",
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 699055.752,
+				["TimeData"] = {
+				},
+				["pvp"] = true,
+			}, -- [1]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 1,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.00532,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Training Dummy"] = 947780,
+							},
+							["spec"] = 267,
+							["pets"] = {
+								"Niple <Dulgan>", -- [1]
+								"Infernal <Dulgan>", -- [2]
+							},
+							["end_time"] = 1580662889,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 740679.00532,
+							["serial"] = "Player-4-0A6679C1",
+							["colocacao"] = 1,
+							["dps_started"] = false,
+							["total"] = 947780.00532,
+							["friendlyfire"] = {
+							},
+							["classe"] = "WARLOCK",
+							["nome"] = "Dulgan",
+							["spells"] = {
+								["_ActorTable"] = {
+									[280705] = {
+										["c_amt"] = 5,
+										["b_amt"] = 0,
+										["c_dmg"] = 14830,
+										["g_amt"] = 0,
+										["n_max"] = 1454,
+										["targets"] = {
+											["Training Dummy"] = 25007,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 10177,
+										["n_min"] = 1453,
+										["g_dmg"] = 0,
+										["counter"] = 12,
+										["total"] = 25007,
+										["c_max"] = 3199,
+										["id"] = 280705,
+										["r_dmg"] = 0,
+										["spellschool"] = 64,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 2907,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 7,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[157736] = {
+										["c_amt"] = 7,
+										["b_amt"] = 0,
+										["c_dmg"] = 21133,
+										["g_amt"] = 0,
+										["n_max"] = 1953,
+										["targets"] = {
+											["Training Dummy"] = 89397,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 68264,
+										["n_min"] = 4,
+										["g_dmg"] = 0,
+										["counter"] = 49,
+										["total"] = 89397,
+										["c_max"] = 3436,
+										["id"] = 157736,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 1648,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 42,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[22703] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 4048,
+										["targets"] = {
+											["Training Dummy"] = 4048,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 4048,
+										["n_min"] = 4048,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 4048,
+										["c_max"] = 0,
+										["id"] = 22703,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[42223] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 858,
+										["targets"] = {
+											["Training Dummy"] = 6547,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 6547,
+										["n_min"] = 776,
+										["g_dmg"] = 0,
+										["counter"] = 8,
+										["total"] = 6547,
+										["c_max"] = 0,
+										["id"] = 42223,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 8,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[29722] = {
+										["c_amt"] = 8,
+										["b_amt"] = 0,
+										["c_dmg"] = 66446,
+										["g_amt"] = 0,
+										["n_max"] = 4931,
+										["targets"] = {
+											["Training Dummy"] = 186477,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 120031,
+										["n_min"] = 2386,
+										["g_dmg"] = 0,
+										["counter"] = 37,
+										["total"] = 186477,
+										["c_max"] = 9114,
+										["id"] = 29722,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 7730,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 29,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[234153] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 2593,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Training Dummy"] = 2593,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 2593,
+										["c_max"] = 1297,
+										["id"] = 234153,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 1296,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[270827] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 3964,
+										["targets"] = {
+											["Training Dummy"] = 15495,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 15495,
+										["n_min"] = 3604,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 15495,
+										["c_max"] = 0,
+										["id"] = 270827,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[152108] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 12218,
+										["targets"] = {
+											["Training Dummy"] = 12218,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 12218,
+										["n_min"] = 12218,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 12218,
+										["c_max"] = 0,
+										["id"] = 152108,
+										["r_dmg"] = 0,
+										["spellschool"] = 36,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[17962] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 13482,
+										["g_amt"] = 0,
+										["n_max"] = 7717,
+										["targets"] = {
+											["Training Dummy"] = 86898,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 73416,
+										["n_min"] = 3479,
+										["g_dmg"] = 0,
+										["counter"] = 12,
+										["total"] = 86898,
+										["c_max"] = 13482,
+										["id"] = 17962,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 13482,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 11,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[271685] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 12913,
+										["g_amt"] = 0,
+										["n_max"] = 3382,
+										["targets"] = {
+											["Training Dummy"] = 16295,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 3382,
+										["n_min"] = 3382,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 16295,
+										["c_max"] = 6764,
+										["id"] = 271685,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 6149,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[116858] = {
+										["c_amt"] = 12,
+										["b_amt"] = 0,
+										["c_dmg"] = 221243,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Training Dummy"] = 221243,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 12,
+										["total"] = 221243,
+										["c_max"] = 27400,
+										["id"] = 116858,
+										["r_dmg"] = 0,
+										["spellschool"] = 124,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 11661,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[266136] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 5566,
+										["g_amt"] = 0,
+										["n_max"] = 3660,
+										["targets"] = {
+											["Training Dummy"] = 24145,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 18579,
+										["n_min"] = 2839,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 24145,
+										["c_max"] = 5566,
+										["id"] = 266136,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 5566,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 6,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[348] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 5435,
+										["g_amt"] = 0,
+										["n_max"] = 3039,
+										["targets"] = {
+											["Training Dummy"] = 26654,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 21219,
+										["n_min"] = 1753,
+										["g_dmg"] = 0,
+										["counter"] = 9,
+										["total"] = 26654,
+										["c_max"] = 5435,
+										["id"] = 348,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 5435,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 8,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[271686] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 5534,
+										["g_amt"] = 0,
+										["n_max"] = 1450,
+										["targets"] = {
+											["Training Dummy"] = 6984,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1450,
+										["n_min"] = 1450,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 6984,
+										["c_max"] = 2899,
+										["id"] = 271686,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 2635,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[271671] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 4118,
+										["g_amt"] = 0,
+										["n_max"] = 2265,
+										["targets"] = {
+											["Training Dummy"] = 16678,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 12560,
+										["n_min"] = 2059,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 16678,
+										["c_max"] = 4118,
+										["id"] = 271671,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 4118,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 6,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["grupo"] = true,
+							["on_hold"] = false,
+							["last_event"] = 1565232285,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.00532,
+							["start_time"] = 1580662720,
+							["delay"] = 1565232285,
+							["last_dps"] = 5711.031871821442,
+						}, -- [1]
+						{
+							["flag_original"] = 4369,
+							["totalabsorbed"] = 0.006692,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Training Dummy"] = 140581,
+							},
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 140581.006692,
+							["classe"] = "PET",
+							["dps_started"] = false,
+							["total"] = 140581.006692,
+							["serial"] = "Pet-0-3018-1-7263-58959-0202A33E93",
+							["ownerName"] = "Dulgan",
+							["nome"] = "Niple <Dulgan>",
+							["spells"] = {
+								["_ActorTable"] = {
+									[3110] = {
+										["c_amt"] = 8,
+										["b_amt"] = 0,
+										["c_dmg"] = 39679,
+										["g_amt"] = 0,
+										["n_max"] = 2602,
+										["targets"] = {
+											["Training Dummy"] = 140581,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 100902,
+										["n_min"] = 2479,
+										["g_dmg"] = 0,
+										["counter"] = 48,
+										["total"] = 140581,
+										["c_max"] = 4960,
+										["id"] = 3110,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 4959,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 40,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["end_time"] = 1565232283,
+							["tipo"] = 1,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1565232282,
+							["damage_taken"] = 0.006692,
+							["start_time"] = 1565232119,
+							["delay"] = 0,
+							["friendlyfire"] = {
+							},
+						}, -- [2]
+						{
+							["flag_original"] = 8465,
+							["totalabsorbed"] = 0.003045,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Training Dummy"] = 66520,
+							},
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 66520.00304499999,
+							["classe"] = "PET",
+							["dps_started"] = false,
+							["total"] = 66520.00304499999,
+							["serial"] = "Creature-0-3018-1-7263-89-00004B8C5F",
+							["ownerName"] = "Dulgan",
+							["nome"] = "Infernal <Dulgan>",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 6,
+										["b_amt"] = 0,
+										["c_dmg"] = 14010,
+										["g_amt"] = 0,
+										["n_max"] = 1215,
+										["targets"] = {
+											["Training Dummy"] = 25989,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 11979,
+										["n_min"] = 1158,
+										["g_dmg"] = 0,
+										["counter"] = 16,
+										["total"] = 25989,
+										["c_max"] = 2430,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 2316,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 10,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[20153] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 4960,
+										["g_amt"] = 0,
+										["n_max"] = 2602,
+										["targets"] = {
+											["Training Dummy"] = 40531,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 35571,
+										["n_min"] = 2480,
+										["g_dmg"] = 0,
+										["counter"] = 15,
+										["total"] = 40531,
+										["c_max"] = 4960,
+										["id"] = 20153,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 4960,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 14,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["end_time"] = 1565232283,
+							["tipo"] = 1,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1565232251,
+							["damage_taken"] = 0.003045,
+							["start_time"] = 1565232255,
+							["delay"] = 1565232251,
+							["friendlyfire"] = {
+							},
+						}, -- [3]
+						{
+							["flag_original"] = 68136,
+							["totalabsorbed"] = 0.007792,
+							["damage_from"] = {
+								["Choyal"] = true,
+								["Niple <Dulgan>"] = true,
+								["Infernal <Dulgan>"] = true,
+								["Dulgan"] = true,
+								["ßäcchüs-Winterhoof"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["tipo"] = 1,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.007792,
+							["dps_started"] = false,
+							["fight_component"] = true,
+							["total"] = 0.007792,
+							["serial"] = "Creature-0-3018-1-7263-153285-00014B7533",
+							["damage_taken"] = 996908.007792,
+							["nome"] = "Training Dummy",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["on_hold"] = false,
+							["end_time"] = 1565232283,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1565232283,
+							["delay"] = 0,
+							["classe"] = "UNKNOW",
+						}, -- [4]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 1,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["healing_from"] = {
+							},
+							["pets"] = {
+								"Niple <Dulgan>", -- [1]
+								"Infernal <Dulgan>", -- [2]
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "WARLOCK",
+							["totalover"] = 47651.006263,
+							["total_without_pet"] = 0.006263,
+							["total"] = 0.006263,
+							["spec"] = 267,
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-4-0A6679C1",
+							["totalabsorb"] = 0.006263,
+							["last_hps"] = 0,
+							["targets"] = {
+							},
+							["totalover_without_pet"] = 0.006263,
+							["healing_taken"] = 0.006263,
+							["end_time"] = 1565232283,
+							["start_time"] = 1565232281,
+							["nome"] = "Dulgan",
+							["spells"] = {
+								["_ActorTable"] = {
+									[280707] = {
+										["c_amt"] = 1,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Infernal <Dulgan>"] = 6937,
+											["Niple <Dulgan>"] = 13874,
+											["Dulgan"] = 13875,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Infernal <Dulgan>"] = 0,
+											["Niple <Dulgan>"] = 0,
+											["Dulgan"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 7,
+										["overheal"] = 34686,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 280707,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["n_curado"] = 0,
+										["n_amt"] = 6,
+										["m_healed"] = 0,
+										["totaldenied"] = 0,
+										["absorbed"] = 0,
+									},
+									[234153] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Dulgan"] = 12965,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Dulgan"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 2,
+										["overheal"] = 12965,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 234153,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["n_curado"] = 0,
+										["n_amt"] = 2,
+										["m_healed"] = 0,
+										["totaldenied"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+								["tipo"] = 3,
+							},
+							["grupo"] = true,
+							["targets_overheal"] = {
+								["Infernal <Dulgan>"] = 6937,
+								["Niple <Dulgan>"] = 13874,
+								["Dulgan"] = 26840,
+							},
+							["targets_absorbs"] = {
+							},
+							["custom"] = 0,
+							["tipo"] = 2,
+							["heal_enemy_amt"] = 0,
+							["totaldenied"] = 0.006263,
+							["delay"] = 1565232273,
+							["last_event"] = 1565232273,
+						}, -- [1]
+						{
+							["flag_original"] = 4369,
+							["healing_from"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 0.008212,
+							["total_without_pet"] = 0.008212,
+							["total"] = 0.008212,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Pet-0-3018-1-7263-58959-0202A33E93",
+							["totalabsorb"] = 0.008212,
+							["last_hps"] = 0,
+							["targets"] = {
+							},
+							["totalover_without_pet"] = 0.008212,
+							["healing_taken"] = 0.008212,
+							["end_time"] = 1565232283,
+							["ownerName"] = "Dulgan",
+							["nome"] = "Niple <Dulgan>",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 3,
+							},
+							["targets_overheal"] = {
+							},
+							["start_time"] = 1565232283,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["classe"] = "PET",
+							["totaldenied"] = 0.008212,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [2]
+						{
+							["flag_original"] = 8465,
+							["healing_from"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 0.001021,
+							["total_without_pet"] = 0.001021,
+							["total"] = 0.001021,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Creature-0-3018-1-7263-89-00004B8C5F",
+							["totalabsorb"] = 0.001021,
+							["last_hps"] = 0,
+							["targets"] = {
+							},
+							["totalover_without_pet"] = 0.001021,
+							["healing_taken"] = 0.001021,
+							["end_time"] = 1565232283,
+							["ownerName"] = "Dulgan",
+							["nome"] = "Infernal <Dulgan>",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 3,
+							},
+							["targets_overheal"] = {
+							},
+							["start_time"] = 1565232283,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["classe"] = "PET",
+							["totaldenied"] = 0.001021,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [3]
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 1,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 1,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[200587] = {
+										["appliedamt"] = 12,
+										["targets"] = {
+										},
+										["activedamt"] = 0,
+										["uptime"] = 62,
+										["id"] = 200587,
+										["refreshamt"] = 2,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[234153] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 0,
+										["uptime"] = 2,
+										["id"] = 234153,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[22703] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 0,
+										["uptime"] = 2,
+										["id"] = 22703,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[157736] = {
+										["appliedamt"] = 4,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 106,
+										["id"] = 157736,
+										["refreshamt"] = 6,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[233582] = {
+										["appliedamt"] = 9,
+										["targets"] = {
+										},
+										["activedamt"] = 0,
+										["uptime"] = 27,
+										["id"] = 233582,
+										["refreshamt"] = 3,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[196414] = {
+										["appliedamt"] = 9,
+										["targets"] = {
+										},
+										["activedamt"] = 0,
+										["uptime"] = 71,
+										["id"] = 196414,
+										["refreshamt"] = 3,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[80240] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 0,
+										["uptime"] = 10,
+										["id"] = 80240,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["pets"] = {
+								"Niple <Dulgan>", -- [1]
+								"Infernal <Dulgan>", -- [2]
+							},
+							["classe"] = "WARLOCK",
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[113858] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 20,
+										["id"] = 113858,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[281517] = {
+										["appliedamt"] = 8,
+										["targets"] = {
+										},
+										["activedamt"] = 8,
+										["uptime"] = 64,
+										["id"] = 281517,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[117828] = {
+										["appliedamt"] = 8,
+										["targets"] = {
+										},
+										["activedamt"] = 8,
+										["uptime"] = 45,
+										["id"] = 117828,
+										["refreshamt"] = 3,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[282559] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 166,
+										["id"] = 282559,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[280412] = {
+										["appliedamt"] = 3,
+										["targets"] = {
+										},
+										["activedamt"] = 3,
+										["uptime"] = 60,
+										["id"] = 280412,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[108366] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 166,
+										["id"] = 108366,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[266091] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 11,
+										["id"] = 266091,
+										["refreshamt"] = 3,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["debuff_uptime"] = 280,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 267,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[1122] = 1,
+								[80240] = 1,
+								[17962] = 11,
+								[152108] = 1,
+								[5740] = 1,
+								[234153] = 1,
+								[113858] = 1,
+								[116858] = 10,
+								[348] = 8,
+								[29722] = 36,
+								[119905] = 1,
+							},
+							["buff_uptime"] = 532,
+							["last_event"] = 1565232283,
+							["nome"] = "Dulgan",
+							["tipo"] = 4,
+							["serial"] = "Player-4-0A6679C1",
+							["debuff_uptime_targets"] = {
+							},
+						}, -- [1]
+						{
+							["flag_original"] = 4369,
+							["ownerName"] = "Dulgan",
+							["nome"] = "Niple <Dulgan>",
+							["pets"] = {
+							},
+							["last_event"] = 0,
+							["classe"] = "PET",
+							["tipo"] = 4,
+							["serial"] = "Pet-0-3018-1-7263-58959-0202A33E93",
+							["spell_cast"] = {
+								[3110] = 48,
+							},
+						}, -- [2]
+						{
+							["flag_original"] = 8465,
+							["ownerName"] = "Dulgan",
+							["nome"] = "Infernal <Dulgan>",
+							["pets"] = {
+							},
+							["last_event"] = 0,
+							["classe"] = "PET",
+							["tipo"] = 4,
+							["serial"] = "Creature-0-3018-1-7263-89-00004B8C5F",
+							["spell_cast"] = {
+								[19483] = 1,
+							},
+						}, -- [3]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 1,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Dulgan"] = true,
+				},
+				["CombatStartedAt"] = 699055.752,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 6,
+				["playing_solo"] = true,
+				["totals"] = {
+					947779.99176, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = false,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "22:44:44",
+				["pvp"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Training Dummy",
+				["TotalElapsedCombatTime"] = 10404.998,
+				["CombatEndedAt"] = 10404.998,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "22:41:58",
+				["end_time"] = 10404.998,
+				["combat_id"] = 1,
+				["spells_cast_timeline"] = {
+				},
+				["frags"] = {
+				},
+				["tempo_start"] = 1565232117,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					740679, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 10239.042,
+				["TimeData"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage_section"] = {
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Dulgan"] = 0.006263,
+						}, -- [1]
+					},
+					["damage"] = {
+						{
+							["Dulgan"] = 944564.00532,
+						}, -- [1]
+					},
+				},
+			}, -- [2]
+		},
+	},
+	["last_version"] = "v8.3.0.7259",
+	["SoloTablesSaved"] = {
+		["Mode"] = 1,
+	},
+	["tabela_instancias"] = {
+	},
+	["on_death_menu"] = true,
+	["nick_tag_cache"] = {
+		["nextreset"] = 1581825287,
+		["last_version"] = 11,
+	},
+	["last_instance_id"] = 0,
+	["announce_interrupts"] = {
+		["enabled"] = false,
+		["whisper"] = "",
+		["channel"] = "SAY",
+		["custom"] = "",
+		["next"] = "",
+	},
+	["last_instance_time"] = 0,
+	["active_profile"] = "Dulgan-Kilrogg",
+	["mythic_dungeon_currentsaved"] = {
+		["dungeon_name"] = "",
+		["started"] = false,
+		["segment_id"] = 0,
+		["ej_id"] = 0,
+		["started_at"] = 0,
+		["run_id"] = 0,
+		["level"] = 0,
+		["dungeon_zone_id"] = 0,
+		["previous_boss_killed_at"] = 0,
+	},
+	["ignore_nicktag"] = false,
+	["plugin_database"] = {
+		["DETAILS_PLUGIN_DEATH_GRAPHICS"] = {
+			["last_boss"] = false,
+			["v1"] = true,
+			["captures"] = {
+				false, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+			},
+			["first_run"] = true,
+			["endurance_threshold"] = 3,
+			["max_deaths_for_timeline"] = 5,
+			["deaths_threshold"] = 10,
+			["show_icon"] = 1,
+			["max_segments_for_current"] = 2,
+			["max_deaths_for_current"] = 20,
+			["last_player"] = false,
+			["author"] = "Details! Team",
+			["last_encounter_hash"] = false,
+			["enabled"] = true,
+			["timeline_cutoff_time"] = 3,
+			["last_segment"] = false,
+			["last_combat_id"] = 0,
+			["timeline_cutoff_delete_time"] = 3,
+			["showing_type"] = 4,
+			["InstalledAt"] = 1564360257,
+		},
+		["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
+			["enabled"] = true,
+			["encounter_timers_bw"] = {
+			},
+			["max_emote_segments"] = 3,
+			["author"] = "Details! Team",
+			["window_scale"] = 1,
+			["encounter_timers_dbm"] = {
+			},
+			["show_icon"] = 5,
+			["opened"] = 0,
+			["hide_on_combat"] = false,
+		},
+		["DETAILS_PLUGIN_CHART_VIEWER"] = {
+			["enabled"] = true,
+			["author"] = "Details! Team",
+			["tabs"] = {
+				{
+					["name"] = "Your Damage",
+					["segment_type"] = 2,
+					["version"] = "v2.0",
+					["data"] = "Player Damage Done",
+					["texture"] = "line",
+				}, -- [1]
+				{
+					["name"] = "Class Damage",
+					["iType"] = "raid-DAMAGER",
+					["segment_type"] = 1,
+					["version"] = "v2.0",
+					["data"] = "PRESET_DAMAGE_SAME_CLASS",
+					["texture"] = "line",
+				}, -- [2]
+				{
+					["name"] = "Raid Damage",
+					["segment_type"] = 2,
+					["version"] = "v2.0",
+					["data"] = "Raid Damage Done",
+					["texture"] = "line",
+				}, -- [3]
+				["last_selected"] = 1,
+			},
+			["options"] = {
+				["show_method"] = 4,
+				["auto_create"] = true,
+				["window_scale"] = 1,
+			},
+		},
+		["DETAILS_PLUGIN_TINY_THREAT"] = {
+			["updatespeed"] = 1,
+			["enabled"] = true,
+			["showamount"] = false,
+			["useplayercolor"] = false,
+			["author"] = "Details! Team",
+			["useclasscolors"] = false,
+			["playercolor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			},
+			["animate"] = false,
+		},
+		["DETAILS_PLUGIN_RAIDCHECK"] = {
+			["enabled"] = true,
+			["food_tier1"] = true,
+			["mythic_1_4"] = true,
+			["food_tier2"] = true,
+			["author"] = "Details! Team",
+			["use_report_panel"] = true,
+			["pre_pot_healers"] = false,
+			["pre_pot_tanks"] = false,
+			["food_tier3"] = true,
+		},
+		["DETAILS_PLUGIN_VANGUARD"] = {
+			["enabled"] = true,
+			["tank_block_color"] = {
+				0.24705882, -- [1]
+				0.0039215, -- [2]
+				0, -- [3]
+				0.8, -- [4]
+			},
+			["tank_block_texture"] = "Details Serenity",
+			["show_inc_bars"] = false,
+			["author"] = "Details! Team",
+			["first_run"] = false,
+			["tank_block_size"] = 150,
+		},
+		["DETAILS_PLUGIN_TARGET_CALLER"] = {
+			["enabled"] = true,
+			["author"] = "Details! Team",
+		},
+		["DETAILS_PLUGIN_STREAM_OVERLAY"] = {
+			["font_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["is_first_run"] = false,
+			["arrow_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0.5, -- [4]
+			},
+			["main_frame_size"] = {
+				300.0000610351563, -- [1]
+				500.0000305175781, -- [2]
+			},
+			["minimap"] = {
+				["minimapPos"] = 160,
+				["radius"] = 160,
+				["hide"] = true,
+			},
+			["arrow_anchor_x"] = 0,
+			["row_texture"] = "Details Serenity",
+			["use_spark"] = true,
+			["main_frame_locked"] = false,
+			["arrow_anchor_y"] = 0,
+			["enabled"] = false,
+			["arrow_size"] = 10,
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
+			["row_spacement"] = 21,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.2, -- [4]
+			},
+			["main_frame_strata"] = "LOW",
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["y"] = 9.999984741210938,
+			["per_second"] = {
+				["enabled"] = false,
+				["point"] = "CENTER",
+				["scale"] = 1,
+				["font_shadow"] = true,
+				["y"] = 6.103515625e-05,
+				["x"] = -0.000244140625,
+				["attribute_type"] = 1,
+				["update_speed"] = 0.05,
+				["size"] = 32,
+			},
+			["x"] = -444.1664581298828,
+			["font_face"] = "Friz Quadrata TT",
+			["font_size"] = 10,
+			["author"] = "Details! Team",
+			["point"] = "CENTER",
+			["row_height"] = 20,
+			["scale"] = 1,
+		},
+		["DETAILS_PLUGIN_TIME_LINE"] = {
+			["enabled"] = true,
+			["author"] = "Details! Team",
+		},
+		["DETAILS_PLUGIN_RAID_POWER_BARS"] = {
+			["enabled"] = true,
+			["author"] = "Details! Team",
+		},
+	},
+	["cached_talents"] = {
+	},
+	["announce_prepots"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+		["reverse"] = false,
+	},
+	["last_day"] = "02",
+	["benchmark_db"] = {
+		["frame"] = {
+		},
+	},
+	["character_data"] = {
+		["logons"] = 4,
+	},
+	["combat_id"] = 2,
+	["savedStyles"] = {
+	},
+	["local_instances_config"] = {
+		{
+			["segment"] = 0,
+			["sub_attribute"] = 1,
+			["horizontalSnap"] = false,
+			["verticalSnap"] = false,
+			["is_open"] = true,
+			["isLocked"] = true,
+			["sub_atributo_last"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+			},
+			["snap"] = {
+				[3] = 2,
+			},
+			["mode"] = 2,
+			["attribute"] = 1,
+			["pos"] = {
+				["normal"] = {
+					["y"] = -505.1666564941406,
+					["x"] = 770.5001220703125,
+					["w"] = 232.0000152587891,
+					["h"] = 131.3333435058594,
+				},
+				["solo"] = {
+					["y"] = 2,
+					["x"] = 1,
+					["w"] = 300,
+					["h"] = 200,
+				},
+			},
+		}, -- [1]
+		{
+			["segment"] = 0,
+			["sub_attribute"] = 1,
+			["horizontalSnap"] = false,
+			["verticalSnap"] = false,
+			["is_open"] = true,
+			["isLocked"] = true,
+			["sub_atributo_last"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+			},
+			["snap"] = {
+				1, -- [1]
+			},
+			["mode"] = 2,
+			["attribute"] = 1,
+			["pos"] = {
+				["normal"] = {
+					["y"] = -505.1666564941406,
+					["x"] = 973.83349609375,
+					["w"] = 174.6666412353516,
+					["h"] = 131.3333435058594,
+				},
+				["solo"] = {
+					["y"] = 2,
+					["x"] = 1,
+					["w"] = 300,
+					["h"] = 200,
+				},
+			},
+		}, -- [2]
+	},
+	["force_font_outline"] = "",
+	["announce_deaths"] = {
+		["enabled"] = false,
+		["last_hits"] = 1,
+		["only_first"] = 5,
+		["where"] = 1,
+	},
+	["tabela_overall"] = {
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 1297,
+					["totalabsorbed"] = 0.019823,
+					["damage_from"] = {
+					},
+					["targets"] = {
+						["Training Dummy"] = 1014309,
+					},
+					["pets"] = {
+						"Niple <Dulgan>", -- [1]
+						"Infernal <Dulgan>", -- [2]
+					},
+					["classe"] = "WARLOCK",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 786424.019823,
+					["friendlyfire_total"] = 0,
+					["last_event"] = 0,
+					["dps_started"] = false,
+					["total"] = 1014309.019823,
+					["serial"] = "Player-4-0A6679C1",
+					["end_time"] = 1565232284,
+					["nome"] = "Dulgan",
+					["spells"] = {
+						["_ActorTable"] = {
+							[280705] = {
+								["c_amt"] = 6,
+								["b_amt"] = 0,
+								["c_dmg"] = 17156,
+								["g_amt"] = 0,
+								["n_max"] = 1454,
+								["targets"] = {
+									["Training Dummy"] = 31985,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 14829,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 17,
+								["total"] = 31985,
+								["c_max"] = 3199,
+								["id"] = 280705,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 11,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[157736] = {
+								["c_amt"] = 6,
+								["b_amt"] = 0,
+								["c_dmg"] = 19485,
+								["g_amt"] = 0,
+								["n_max"] = 1953,
+								["targets"] = {
+									["Training Dummy"] = 86181,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 66696,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 47,
+								["total"] = 86181,
+								["c_max"] = 3436,
+								["id"] = 157736,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 41,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[22703] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 4048,
+								["targets"] = {
+									["Training Dummy"] = 4048,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 4048,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 4048,
+								["c_max"] = 0,
+								["id"] = 22703,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 1,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[271671] = {
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 4118,
+								["g_amt"] = 0,
+								["n_max"] = 2265,
+								["targets"] = {
+									["Training Dummy"] = 18737,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 14619,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 8,
+								["total"] = 18737,
+								["c_max"] = 4118,
+								["id"] = 271671,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 7,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[271686] = {
+								["c_amt"] = 2,
+								["b_amt"] = 0,
+								["c_dmg"] = 5534,
+								["g_amt"] = 0,
+								["n_max"] = 1450,
+								["targets"] = {
+									["Training Dummy"] = 9620,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 4086,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 5,
+								["total"] = 9620,
+								["c_max"] = 2899,
+								["id"] = 271686,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 3,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[348] = {
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 5435,
+								["g_amt"] = 0,
+								["n_max"] = 3039,
+								["targets"] = {
+									["Training Dummy"] = 26654,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 21219,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 9,
+								["total"] = 26654,
+								["c_max"] = 5435,
+								["id"] = 348,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 8,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[266136] = {
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 5566,
+								["g_amt"] = 0,
+								["n_max"] = 3660,
+								["targets"] = {
+									["Training Dummy"] = 24145,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 18579,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 7,
+								["total"] = 24145,
+								["c_max"] = 5566,
+								["id"] = 266136,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 6,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[152108] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 12218,
+								["targets"] = {
+									["Training Dummy"] = 12218,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 12218,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 12218,
+								["c_max"] = 0,
+								["id"] = 152108,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 1,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[17962] = {
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 13482,
+								["g_amt"] = 0,
+								["n_max"] = 7717,
+								["targets"] = {
+									["Training Dummy"] = 86898,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 73416,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 12,
+								["total"] = 86898,
+								["c_max"] = 13482,
+								["id"] = 17962,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 11,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[271685] = {
+								["c_amt"] = 2,
+								["b_amt"] = 0,
+								["c_dmg"] = 12913,
+								["g_amt"] = 0,
+								["n_max"] = 3382,
+								["targets"] = {
+									["Training Dummy"] = 22444,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 9531,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 5,
+								["total"] = 22444,
+								["c_max"] = 6764,
+								["id"] = 271685,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 3,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[116858] = {
+								["c_amt"] = 12,
+								["b_amt"] = 0,
+								["c_dmg"] = 221243,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Training Dummy"] = 221243,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 12,
+								["total"] = 221243,
+								["c_max"] = 27400,
+								["id"] = 116858,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[234153] = {
+								["c_amt"] = 2,
+								["b_amt"] = 0,
+								["c_dmg"] = 2593,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Training Dummy"] = 2593,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 2,
+								["total"] = 2593,
+								["c_max"] = 1297,
+								["id"] = 234153,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[270827] = {
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 7207,
+								["g_amt"] = 0,
+								["n_max"] = 3964,
+								["targets"] = {
+									["Training Dummy"] = 22702,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 15495,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 5,
+								["total"] = 22702,
+								["c_max"] = 7207,
+								["id"] = 270827,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 4,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[29722] = {
+								["c_amt"] = 9,
+								["b_amt"] = 0,
+								["c_dmg"] = 75420,
+								["g_amt"] = 0,
+								["n_max"] = 4931,
+								["targets"] = {
+									["Training Dummy"] = 203673,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 128253,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 40,
+								["total"] = 203673,
+								["c_max"] = 9114,
+								["id"] = 29722,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 31,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[42223] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 895,
+								["targets"] = {
+									["Training Dummy"] = 13283,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 13283,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 16,
+								["total"] = 13283,
+								["c_max"] = 0,
+								["id"] = 42223,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 16,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+						},
+						["tipo"] = 2,
+					},
+					["grupo"] = true,
+					["spec"] = 267,
+					["friendlyfire"] = {
+					},
+					["on_hold"] = false,
+					["custom"] = 0,
+					["tipo"] = 1,
+					["damage_taken"] = 0.019823,
+					["start_time"] = 1565232090,
+					["delay"] = 0,
+					["last_dps"] = 0,
+				}, -- [1]
+				{
+					["flag_original"] = 68136,
+					["totalabsorbed"] = 0.023904,
+					["damage_from"] = {
+						["Choyal"] = true,
+						["Niple <Dulgan>"] = true,
+						["Infernal <Dulgan>"] = true,
+						["Dulgan"] = true,
+						["ßäcchüs-Winterhoof"] = true,
+					},
+					["targets"] = {
+					},
+					["on_hold"] = false,
+					["pets"] = {
+					},
+					["last_event"] = 0,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.023904,
+					["dps_started"] = false,
+					["fight_component"] = true,
+					["end_time"] = 1565232284,
+					["serial"] = "Creature-0-3018-1-7263-153285-00014B7533",
+					["damage_taken"] = 1024072.023904,
+					["nome"] = "Training Dummy",
+					["spells"] = {
+						["_ActorTable"] = {
+						},
+						["tipo"] = 2,
+					},
+					["total"] = 0.023904,
+					["friendlyfire"] = {
+					},
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1565232281,
+					["delay"] = 0,
+					["friendlyfire_total"] = 0,
+				}, -- [2]
+				{
+					["flag_original"] = 4369,
+					["totalabsorbed"] = 0.014231,
+					["damage_from"] = {
+					},
+					["targets"] = {
+						["Training Dummy"] = 161365,
+					},
+					["pets"] = {
+					},
+					["total"] = 161365.014231,
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 161365.014231,
+					["friendlyfire"] = {
+					},
+					["dps_started"] = false,
+					["end_time"] = 1565232284,
+					["on_hold"] = false,
+					["ownerName"] = "Dulgan",
+					["nome"] = "Niple <Dulgan>",
+					["spells"] = {
+						["_ActorTable"] = {
+							[3110] = {
+								["c_amt"] = 8,
+								["b_amt"] = 0,
+								["c_dmg"] = 39679,
+								["g_amt"] = 0,
+								["n_max"] = 2602,
+								["targets"] = {
+									["Training Dummy"] = 161365,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 121686,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 56,
+								["total"] = 161365,
+								["c_max"] = 4960,
+								["id"] = 3110,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 48,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+						},
+						["tipo"] = 2,
+					},
+					["classe"] = "PET",
+					["serial"] = "Pet-0-3018-1-7263-58959-0202A33E93",
+					["last_event"] = 0,
+					["custom"] = 0,
+					["tipo"] = 1,
+					["damage_taken"] = 0.014231,
+					["start_time"] = 1565232095,
+					["delay"] = 0,
+					["last_dps"] = 0,
+				}, -- [3]
+				{
+					["flag_original"] = 8465,
+					["totalabsorbed"] = 0.009978,
+					["damage_from"] = {
+					},
+					["targets"] = {
+						["Training Dummy"] = 66520,
+					},
+					["pets"] = {
+					},
+					["on_hold"] = false,
+					["classe"] = "PET",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 66520.00997799999,
+					["friendlyfire_total"] = 0,
+					["dps_started"] = false,
+					["total"] = 66520.00997799999,
+					["serial"] = "Creature-0-3018-1-7263-89-00004B8C5F",
+					["ownerName"] = "Dulgan",
+					["nome"] = "Infernal <Dulgan>",
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 6,
+								["b_amt"] = 0,
+								["c_dmg"] = 14010,
+								["g_amt"] = 0,
+								["n_max"] = 1215,
+								["targets"] = {
+									["Training Dummy"] = 25989,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 11979,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 16,
+								["total"] = 25989,
+								["c_max"] = 2430,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 10,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							}, -- [1]
+							[20153] = {
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 4960,
+								["g_amt"] = 0,
+								["n_max"] = 2602,
+								["targets"] = {
+									["Training Dummy"] = 40531,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 35571,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 15,
+								["total"] = 40531,
+								["c_max"] = 4960,
+								["id"] = 20153,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 14,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+						},
+						["tipo"] = 2,
+					},
+					["friendlyfire"] = {
+					},
+					["last_event"] = 0,
+					["end_time"] = 1565232284,
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1565232253,
+					["delay"] = 0,
+					["damage_taken"] = 0.009978,
+				}, -- [4]
+			},
+		}, -- [1]
+		{
+			["tipo"] = 3,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 1297,
+					["healing_from"] = {
+					},
+					["pets"] = {
+						"Niple <Dulgan>", -- [1]
+						"Infernal <Dulgan>", -- [2]
+					},
+					["iniciar_hps"] = false,
+					["heal_enemy_amt"] = 0,
+					["totalover"] = 58057.010547,
+					["total_without_pet"] = 0.010547,
+					["total"] = 0.010547,
+					["spec"] = 267,
+					["heal_enemy"] = {
+					},
+					["on_hold"] = false,
+					["serial"] = "Player-4-0A6679C1",
+					["totalabsorb"] = 0.010547,
+					["last_hps"] = 0,
+					["targets"] = {
+					},
+					["totalover_without_pet"] = 0.010547,
+					["healing_taken"] = 0.010547,
+					["end_time"] = 1565232284,
+					["start_time"] = 1565232278,
+					["nome"] = "Dulgan",
+					["spells"] = {
+						["_ActorTable"] = {
+							[280707] = {
+								["c_amt"] = 1,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+									["Choyal"] = 2601,
+									["Niple <Dulgan>"] = 16476,
+									["Infernal <Dulgan>"] = 6937,
+									["Dulgan"] = 16477,
+									["ßäcchüs-Winterhoof"] = 2601,
+								},
+								["n_max"] = 0,
+								["targets"] = {
+									["Choyal"] = 0,
+									["Niple <Dulgan>"] = 0,
+									["Infernal <Dulgan>"] = 0,
+									["Dulgan"] = 0,
+									["ßäcchüs-Winterhoof"] = 0,
+								},
+								["n_min"] = 0,
+								["counter"] = 11,
+								["overheal"] = 45092,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 280707,
+								["targets_absorbs"] = {
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["m_amt"] = 0,
+								["c_min"] = 0,
+								["n_curado"] = 0,
+								["n_amt"] = 10,
+								["m_healed"] = 0,
+								["totaldenied"] = 0,
+								["absorbed"] = 0,
+							},
+							[234153] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+									["Dulgan"] = 12965,
+								},
+								["n_max"] = 0,
+								["targets"] = {
+									["Dulgan"] = 0,
+								},
+								["n_min"] = 0,
+								["counter"] = 2,
+								["overheal"] = 12965,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 234153,
+								["targets_absorbs"] = {
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["m_amt"] = 0,
+								["c_min"] = 0,
+								["n_curado"] = 0,
+								["n_amt"] = 2,
+								["m_healed"] = 0,
+								["totaldenied"] = 0,
+								["absorbed"] = 0,
+							},
+						},
+						["tipo"] = 3,
+					},
+					["grupo"] = true,
+					["targets_overheal"] = {
+						["Choyal"] = 2601,
+						["Niple <Dulgan>"] = 2602,
+						["Infernal <Dulgan>"] = 0,
+						["Dulgan"] = 2602,
+						["ßäcchüs-Winterhoof"] = 2601,
+					},
+					["targets_absorbs"] = {
+					},
+					["custom"] = 0,
+					["tipo"] = 2,
+					["classe"] = "WARLOCK",
+					["totaldenied"] = 0.010547,
+					["delay"] = 0,
+					["last_event"] = 0,
+				}, -- [1]
+				{
+					["flag_original"] = 4369,
+					["targets_overheal"] = {
+					},
+					["pets"] = {
+					},
+					["iniciar_hps"] = false,
+					["heal_enemy_amt"] = 0,
+					["totalover"] = 0.0185,
+					["total_without_pet"] = 0.0185,
+					["total"] = 0.0185,
+					["targets_absorbs"] = {
+					},
+					["heal_enemy"] = {
+					},
+					["on_hold"] = false,
+					["serial"] = "Pet-0-3018-1-7263-58959-0202A33E93",
+					["totalabsorb"] = 0.0185,
+					["last_hps"] = 0,
+					["targets"] = {
+					},
+					["totalover_without_pet"] = 0.0185,
+					["healing_taken"] = 0.0185,
+					["end_time"] = 1565232284,
+					["ownerName"] = "Dulgan",
+					["nome"] = "Niple <Dulgan>",
+					["spells"] = {
+						["_ActorTable"] = {
+						},
+						["tipo"] = 3,
+					},
+					["healing_from"] = {
+					},
+					["tipo"] = 2,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["classe"] = "PET",
+					["totaldenied"] = 0.0185,
+					["delay"] = 0,
+					["start_time"] = 1565232281,
+				}, -- [2]
+				{
+					["flag_original"] = 8465,
+					["totalabsorb"] = 0.003468,
+					["last_hps"] = 0,
+					["targets_overheal"] = {
+					},
+					["targets"] = {
+					},
+					["tipo"] = 2,
+					["pets"] = {
+					},
+					["totalover_without_pet"] = 0.003468,
+					["healing_from"] = {
+					},
+					["healing_taken"] = 0.003468,
+					["totalover"] = 0.003468,
+					["total_without_pet"] = 0.003468,
+					["iniciar_hps"] = false,
+					["classe"] = "PET",
+					["end_time"] = 1565232284,
+					["serial"] = "Creature-0-3018-1-7263-89-00004B8C5F",
+					["ownerName"] = "Dulgan",
+					["nome"] = "Infernal <Dulgan>",
+					["targets_absorbs"] = {
+					},
+					["heal_enemy_amt"] = 0,
+					["total"] = 0.003468,
+					["heal_enemy"] = {
+					},
+					["spells"] = {
+						["_ActorTable"] = {
+						},
+						["tipo"] = 3,
+					},
+					["custom"] = 0,
+					["last_event"] = 0,
+					["on_hold"] = false,
+					["start_time"] = 1565232281,
+					["delay"] = 0,
+					["totaldenied"] = 0.003468,
+				}, -- [3]
+			},
+		}, -- [2]
+		{
+			["tipo"] = 7,
+			["_ActorTable"] = {
+			},
+		}, -- [3]
+		{
+			["tipo"] = 9,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 1047,
+					["debuff_uptime_spells"] = {
+						["_ActorTable"] = {
+							[200587] = {
+								["refreshamt"] = 2,
+								["activedamt"] = 0,
+								["appliedamt"] = 12,
+								["id"] = 200587,
+								["uptime"] = 62,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[234153] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 1,
+								["id"] = 234153,
+								["uptime"] = 2,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[22703] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 1,
+								["id"] = 22703,
+								["uptime"] = 2,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[157736] = {
+								["refreshamt"] = 6,
+								["activedamt"] = 1,
+								["appliedamt"] = 4,
+								["id"] = 157736,
+								["uptime"] = 106,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[233582] = {
+								["refreshamt"] = 3,
+								["activedamt"] = 0,
+								["appliedamt"] = 9,
+								["id"] = 233582,
+								["uptime"] = 27,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[196414] = {
+								["refreshamt"] = 3,
+								["activedamt"] = 0,
+								["appliedamt"] = 9,
+								["id"] = 196414,
+								["uptime"] = 71,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[80240] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 1,
+								["id"] = 80240,
+								["uptime"] = 10,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+						},
+						["tipo"] = 9,
+					},
+					["pets"] = {
+						"Niple <Dulgan>", -- [1]
+						"Infernal <Dulgan>", -- [2]
+					},
+					["classe"] = "WARLOCK",
+					["buff_uptime_spells"] = {
+						["_ActorTable"] = {
+							[113858] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 113858,
+								["uptime"] = 20,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[281517] = {
+								["actived_at"] = 1580662910,
+								["refreshamt"] = 0,
+								["activedamt"] = 9,
+								["appliedamt"] = 9,
+								["id"] = 281517,
+								["uptime"] = 64,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[117828] = {
+								["refreshamt"] = 3,
+								["activedamt"] = 8,
+								["appliedamt"] = 8,
+								["id"] = 117828,
+								["uptime"] = 45,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[2479] = {
+								["refreshamt"] = 0,
+								["appliedamt"] = 1,
+								["activedamt"] = 1,
+								["uptime"] = 0,
+								["id"] = 2479,
+								["actived_at"] = 1580662889,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[282559] = {
+								["actived_at"] = 1580662889,
+								["refreshamt"] = 0,
+								["activedamt"] = 2,
+								["appliedamt"] = 2,
+								["id"] = 282559,
+								["uptime"] = 166,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[280412] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 3,
+								["appliedamt"] = 3,
+								["id"] = 280412,
+								["uptime"] = 60,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[108366] = {
+								["actived_at"] = 1580662892,
+								["refreshamt"] = 0,
+								["activedamt"] = 2,
+								["appliedamt"] = 2,
+								["id"] = 108366,
+								["uptime"] = 166,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[266091] = {
+								["refreshamt"] = 3,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 266091,
+								["uptime"] = 11,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+						},
+						["tipo"] = 9,
+					},
+					["debuff_uptime"] = 280,
+					["buff_uptime_targets"] = {
+					},
+					["spec"] = 267,
+					["grupo"] = true,
+					["spell_cast"] = {
+						[1122] = 1,
+						[119905] = 1,
+						[29722] = 39,
+						[80240] = 1,
+						[5740] = 1,
+						[348] = 8,
+						[116858] = 10,
+						[152108] = 1,
+						[234153] = 1,
+						[17962] = 11,
+						[113858] = 1,
+					},
+					["buff_uptime"] = 532,
+					["tipo"] = 4,
+					["nome"] = "Dulgan",
+					["last_event"] = 0,
+					["serial"] = "Player-4-0A6679C1",
+					["debuff_uptime_targets"] = {
+					},
+				}, -- [1]
+				{
+					["flag_original"] = 4369,
+					["last_event"] = 0,
+					["ownerName"] = "Dulgan",
+					["nome"] = "Niple <Dulgan>",
+					["pets"] = {
+					},
+					["tipo"] = 4,
+					["spell_cast"] = {
+						[3110] = 56,
+					},
+					["serial"] = "Pet-0-3018-1-7263-58959-0202A33E93",
+					["classe"] = "PET",
+				}, -- [2]
+				{
+					["flag_original"] = 8465,
+					["ownerName"] = "Dulgan",
+					["nome"] = "Infernal <Dulgan>",
+					["pets"] = {
+					},
+					["last_event"] = 0,
+					["tipo"] = 4,
+					["spell_cast"] = {
+						[19483] = 1,
+					},
+					["serial"] = "Creature-0-3018-1-7263-89-00004B8C5F",
+					["classe"] = "PET",
+				}, -- [3]
+			},
+		}, -- [4]
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+			},
+		}, -- [5]
+		["raid_roster"] = {
+		},
+		["tempo_start"] = 1565232117,
+		["last_events_tables"] = {
+		},
+		["alternate_power"] = {
+		},
+		["spells_cast_timeline"] = {
+		},
+		["combat_counter"] = 5,
+		["totals"] = {
+			1251957.052994, -- [1]
+			0.040218, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[3] = 0,
+				[6] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["cooldowns_defensive"] = 0,
+				["dispell"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+			["frags_total"] = 0,
+			["voidzone_damage"] = 0,
+		},
+		["player_last_events"] = {
+		},
+		["frags_need_refresh"] = false,
+		["aura_timeline"] = {
+		},
+		["__call"] = {
+		},
+		["data_inicio"] = "22:41:58",
+		["end_time"] = 699081.4130000001,
+		["cleu_events"] = {
+			["n"] = 1,
+		},
+		["totals_grupo"] = {
+			1014309.012565, -- [1]
+			0.008987, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[3] = 0,
+				[6] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["cooldowns_defensive"] = 0,
+				["dispell"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+		},
+		["overall_refreshed"] = true,
+		["frags"] = {
+		},
+		["hasSaved"] = true,
+		["segments_added"] = {
+			{
+				["elapsed"] = 25.66100000008009,
+				["type"] = 0,
+				["name"] = "Training Dummy",
+				["clock"] = "12:01:29",
+			}, -- [1]
+			{
+				["elapsed"] = 165.9560000000001,
+				["type"] = 0,
+				["name"] = "Training Dummy",
+				["clock"] = "22:41:58",
+			}, -- [2]
+		},
+		["data_fim"] = "12:01:55",
+		["overall_enemy_name"] = "Training Dummy",
+		["CombatSkillCache"] = {
+		},
+		["PhaseData"] = {
+			{
+				1, -- [1]
+				1, -- [2]
+			}, -- [1]
+			["damage_section"] = {
+			},
+			["heal_section"] = {
+			},
+			["heal"] = {
+			},
+			["damage"] = {
+			},
+		},
+		["start_time"] = 698889.796,
+		["TimeData"] = {
+			["Player Damage Done"] = {
+			},
+			["Raid Damage Done"] = {
+			},
+		},
+		["cleu_timeline"] = {
+		},
+	},
+	["combat_counter"] = 9,
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["last_realversion"] = 140,
+	["announce_cooldowns"] = {
+		["ignored_cooldowns"] = {
+		},
+		["enabled"] = false,
+		["custom"] = "",
+		["channel"] = "RAID",
+	},
+	["rank_window"] = {
+		["last_difficulty"] = 15,
+		["last_raid"] = "",
+	},
+	["announce_damagerecord"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["cached_specs"] = {
+		["Player-4-0A6679C1"] = 267,
+		["Player-4-08439233"] = 267,
+	},
+}

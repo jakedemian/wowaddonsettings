@@ -1,0 +1,14 @@
+AAP-Core: disabled
+TinyInspect: disabled
+BigWigs_Core: enabled
+BigWigs_Options: enabled
+BigWigs_Plugins: enabled
+WeakAurasCompanion: enabled
+!InspectFix: disabled
+Pawn: disabled
+BigWigs_Countdown_HeroesOfTheStorm: enabled
+LittleWigs: enabled
+HandyNotes: disabled
+LockItems: disabled
+Mouse_Tooltip: disabled
+ReputationBars: disabled

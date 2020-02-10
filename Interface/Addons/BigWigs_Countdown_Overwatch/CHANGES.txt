@@ -1,0 +1,12 @@
+tag bfa526d94edc71630462f9a20e5f2a7991e0b6c3 1.2.2
+Author:	Kyle Buller <bullerk@gmail.com>
+Date:	Mon Jul 8 21:29:03 2019 -0500
+
+Tagging as 1.2.2
+
+commit c9af872e125c7f98b5471087d8bc741bc4d23243
+Author: Kyle Buller <bullerk@gmail.com>
+Date:   Mon Jul 8 21:28:50 2019 -0500
+
+    Update TOC for 8.2
+

@@ -1,0 +1,54 @@
+lightweight tag c34343a6309bf73127f48a9e4b077d0eac2f0de1 Plater-v8.3.0.286-Retail
+Author:	Tercio Jose <terciob19@hotmail.com>
+Date:	Sat Jan 25 16:52:39 2020 -0300
+
+commit c34343a6309bf73127f48a9e4b077d0eac2f0de1
+Author: Tercio Jose <terciob19@hotmail.com>
+Date:   Sat Jan 25 16:52:39 2020 -0300
+
+    More development on native resourses
+
+commit db371bcc52f7e4c6fa15e5e5fae32cbe1cd8935c
+Author: Continuity <continuity@gmx.net>
+Date:   Sat Jan 25 16:05:36 2020 +0100
+
+    - adding Target/In-Range alpha option
+
+commit db371bcc52f7e4c6fa15e5e5fae32cbe1cd8935c
+Author: Continuity <continuity@gmx.net>
+Date:   Sat Jan 25 16:05:36 2020 +0100
+
+    - adding Target/In-Range alpha option
+
+commit c0f9b51a8018d7e61ef2e20713fdb33aaebd55a3
+Author: Tercio Jose <terciob19@hotmail.com>
+Date:   Fri Jan 24 23:33:12 2020 -0300
+
+    Starting the native support to combo points
+
+commit 60df82f03c293eda1d7ded1eb646824bdfe12988
+Author: Tercio Jose <terciob19@hotmail.com>
+Date:   Fri Jan 24 23:32:50 2020 -0300
+
+    Sort the changelog, moving the native support for non target alpha to UP so players can find what's going on faster
+
+commit 32233e4afef5488cc2bb35a9e694a2fd8725c88e
+Author: Tercio Jose <terciob19@hotmail.com>
+Date:   Fri Jan 24 23:31:30 2020 -0300
+
+    Putting back the "open plater" button in the interface panel > Names
+
+commit 32233e4afef5488cc2bb35a9e694a2fd8725c88e
+Author: Tercio Jose <terciob19@hotmail.com>
+Date:   Fri Jan 24 23:31:30 2020 -0300
+
+    Putting back the "open plater" button in the interface panel > Names
+
+commit 7f57b0678a8393e8dc9f11152965ec7b234664b4
+Author: Continuity <continuity@gmx.net>
+Date:   Sat Jan 25 01:36:48 2020 +0100
+
+    - fixing an issue with OmniCC integration
+    
+    Rules should always be enabled and we need to iterate over all rule sets as well.
+

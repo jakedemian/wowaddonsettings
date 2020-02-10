@@ -1,0 +1,8 @@
+AAP-Core: disabled
+TinyInspect: disabled
+!InspectFix: disabled
+Pawn: disabled
+HandyNotes: disabled
+LockItems: disabled
+Mouse_Tooltip: disabled
+ReputationBars: disabled

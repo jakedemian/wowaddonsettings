@@ -1,0 +1,11 @@
+## Interface: 60000
+## Title: Bartender4-Arched
+## Notes: Simple drag and drop to create arched bars.
+## Version: 1.1.1
+## Author: nullberri
+## X-Category: Action Bars
+## X-License: All rights reserved.
+## Dependencies: Bartender4
+
+core.lua
+

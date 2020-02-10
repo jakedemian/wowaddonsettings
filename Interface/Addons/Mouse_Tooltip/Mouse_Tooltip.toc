@@ -1,0 +1,6 @@
+## Interface: 70300
+## Title: Mouse Tooltip
+## Notes: Anchors tooltip to mouse cursor
+## Author: bdew
+## Version: 1.0
+Mouse_Tooltip.lua
