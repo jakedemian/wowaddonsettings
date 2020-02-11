@@ -1,5 +1,5 @@
 --
--- RaiderIO Client Data. Generated on 2020-02-10T15:07:47Z
+-- RaiderIO Client Data. Generated on 2020-02-11T05:10:43Z
 --
 local _, ns = ...
 ns.GUILD_BEST_DATA = {
@@ -375,6 +375,40 @@ ns.GUILD_BEST_DATA = {
     },
     ["season_best"] = {
       [1] = {
+        ["zone_id"] = 9526,
+        ["level"] = 15,
+        ["upgrades"] = 0,
+        ["fraction"] = 1.4383873218513772,
+        ["clear_time"] = "01:00:26.173",
+        ["party"] = {
+          [1] = {
+            ["name"] = "Mogam",
+            ["role"] = "tank",
+            ["class_id"] = 1
+          },
+          [2] = {
+            ["name"] = "Frito",
+            ["role"] = "healer",
+            ["class_id"] = 10
+          },
+          [3] = {
+            ["name"] = "Fatalimpact",
+            ["role"] = "dps",
+            ["class_id"] = 4
+          },
+          [4] = {
+            ["name"] = "Gaanzitten",
+            ["role"] = "dps",
+            ["class_id"] = 8
+          },
+          [5] = {
+            ["name"] = "Rangee",
+            ["role"] = "dps",
+            ["class_id"] = 3
+          }
+        }
+      },
+      [2] = {
         ["zone_id"] = 800001,
         ["level"] = 14,
         ["upgrades"] = 0,
@@ -408,7 +442,7 @@ ns.GUILD_BEST_DATA = {
           }
         }
       },
-      [2] = {
+      [3] = {
         ["zone_id"] = 800002,
         ["level"] = 13,
         ["upgrades"] = 1,
@@ -442,7 +476,7 @@ ns.GUILD_BEST_DATA = {
           }
         }
       },
-      [3] = {
+      [4] = {
         ["zone_id"] = 8064,
         ["level"] = 13,
         ["upgrades"] = 0,
@@ -476,7 +510,7 @@ ns.GUILD_BEST_DATA = {
           }
         }
       },
-      [4] = {
+      [5] = {
         ["zone_id"] = 9391,
         ["level"] = 13,
         ["upgrades"] = 0,
@@ -509,44 +543,44 @@ ns.GUILD_BEST_DATA = {
             ["class_id"] = 10
           }
         }
-      },
-      [5] = {
-        ["zone_id"] = 9354,
-        ["level"] = 13,
-        ["upgrades"] = 0,
-        ["fraction"] = 1.5750178505404213,
-        ["clear_time"] = "00:56:43.612",
-        ["party"] = {
-          [1] = {
-            ["name"] = "Mummah",
-            ["role"] = "tank",
-            ["class_id"] = 10
-          },
-          [2] = {
-            ["name"] = "Taikuushift",
-            ["role"] = "healer",
-            ["class_id"] = 11
-          },
-          [3] = {
-            ["name"] = "Cowlateral",
-            ["role"] = "dps",
-            ["class_id"] = 6
-          },
-          [4] = {
-            ["name"] = "Dadrat",
-            ["role"] = "dps",
-            ["class_id"] = 5
-          },
-          [5] = {
-            ["name"] = "Ghoulybeef",
-            ["role"] = "dps",
-            ["class_id"] = 6
-          }
-        }
       }
     },
     ["weekly_best"] = {
       [1] = {
+        ["zone_id"] = 9526,
+        ["level"] = 15,
+        ["upgrades"] = 0,
+        ["fraction"] = 1.4383873218513772,
+        ["clear_time"] = "01:00:26.173",
+        ["party"] = {
+          [1] = {
+            ["name"] = "Mogam",
+            ["role"] = "tank",
+            ["class_id"] = 1
+          },
+          [2] = {
+            ["name"] = "Frito",
+            ["role"] = "healer",
+            ["class_id"] = 10
+          },
+          [3] = {
+            ["name"] = "Fatalimpact",
+            ["role"] = "dps",
+            ["class_id"] = 4
+          },
+          [4] = {
+            ["name"] = "Gaanzitten",
+            ["role"] = "dps",
+            ["class_id"] = 8
+          },
+          [5] = {
+            ["name"] = "Rangee",
+            ["role"] = "dps",
+            ["class_id"] = 3
+          }
+        }
+      },
+      [2] = {
         ["zone_id"] = 8064,
         ["level"] = 13,
         ["upgrades"] = 0,
@@ -580,7 +614,7 @@ ns.GUILD_BEST_DATA = {
           }
         }
       },
-      [2] = {
+      [3] = {
         ["zone_id"] = 9527,
         ["level"] = 12,
         ["upgrades"] = 1,
@@ -614,7 +648,7 @@ ns.GUILD_BEST_DATA = {
           }
         }
       },
-      [3] = {
+      [4] = {
         ["zone_id"] = 9527,
         ["level"] = 12,
         ["upgrades"] = 0,
@@ -648,7 +682,7 @@ ns.GUILD_BEST_DATA = {
           }
         }
       },
-      [4] = {
+      [5] = {
         ["zone_id"] = 9028,
         ["level"] = 11,
         ["upgrades"] = 1,
@@ -679,40 +713,6 @@ ns.GUILD_BEST_DATA = {
             ["name"] = "Soxy",
             ["role"] = "dps",
             ["class_id"] = 8
-          }
-        }
-      },
-      [5] = {
-        ["zone_id"] = 9525,
-        ["level"] = 10,
-        ["upgrades"] = 1,
-        ["fraction"] = 0.9536362370631642,
-        ["clear_time"] = "00:40:04.116",
-        ["party"] = {
-          [1] = {
-            ["name"] = "Goliiàth",
-            ["role"] = "tank",
-            ["class_id"] = 6
-          },
-          [2] = {
-            ["name"] = "Massiveunit",
-            ["role"] = "healer",
-            ["class_id"] = 11
-          },
-          [3] = {
-            ["name"] = "Rangee",
-            ["role"] = "dps",
-            ["class_id"] = 3
-          },
-          [4] = {
-            ["name"] = "Soccerrad",
-            ["role"] = "dps",
-            ["class_id"] = 2
-          },
-          [5] = {
-            ["name"] = "Succahfree",
-            ["role"] = "dps",
-            ["class_id"] = 2
           }
         }
       }

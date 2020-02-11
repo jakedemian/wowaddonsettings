@@ -9,19 +9,19 @@ SimulationCraftDB = {
 		["Dulgan - Kilrogg"] = "Dulgan - Kilrogg",
 		["Primerlock - Kel'Thuzad"] = "Primerlock - Kel'Thuzad",
 		["Primepriest - Area 52"] = "Primepriest - Area 52",
-		["Fhayrin - Area 52"] = "Fhayrin - Area 52",
+		["Rotrin - Area 52"] = "Rotrin - Area 52",
 		["Uwutuskdaddy - Area 52"] = "Uwutuskdaddy - Area 52",
 		["Pewpybholes - Area 52"] = "Pewpybholes - Area 52",
 		["Warodner - Moon Guard"] = "Warodner - Moon Guard",
 		["Iamprime - Area 52"] = "Iamprime - Area 52",
 		["Ahriak - Area 52"] = "Ahriak - Area 52",
 		["Plskillme - Kilrogg"] = "Plskillme - Kilrogg",
-		["Primepriest - Kel'Thuzad"] = "Primepriest - Kel'Thuzad",
+		["Primehunter - Area 52"] = "Primehunter - Area 52",
 		["Primelocker - Kel'Thuzad"] = "Primelocker - Kel'Thuzad",
 		["Fhayge - Area 52"] = "Fhayge - Area 52",
-		["Primehunter - Area 52"] = "Primehunter - Area 52",
+		["Primepriest - Kel'Thuzad"] = "Primepriest - Kel'Thuzad",
 		["Paintprimer - Kel'Thuzad"] = "Paintprimer - Kel'Thuzad",
-		["Rotrin - Area 52"] = "Rotrin - Area 52",
+		["Fhayrin - Area 52"] = "Fhayrin - Area 52",
 	},
 	["profiles"] = {
 		["Thepride - Area 52"] = {
@@ -46,7 +46,7 @@ SimulationCraftDB = {
 		},
 		["Primepriest - Area 52"] = {
 		},
-		["Fhayrin - Area 52"] = {
+		["Rotrin - Area 52"] = {
 		},
 		["Uwutuskdaddy - Area 52"] = {
 			["minimap"] = {
@@ -70,21 +70,21 @@ SimulationCraftDB = {
 				["hide"] = true,
 			},
 		},
-		["Primepriest - Kel'Thuzad"] = {
-		},
-		["Primelocker - Kel'Thuzad"] = {
-		},
-		["Fhayge - Area 52"] = {
-		},
 		["Primehunter - Area 52"] = {
 			["minimap"] = {
 				["minimapPos"] = 206.8258546903572,
 				["hide"] = true,
 			},
 		},
+		["Primelocker - Kel'Thuzad"] = {
+		},
+		["Fhayge - Area 52"] = {
+		},
+		["Primepriest - Kel'Thuzad"] = {
+		},
 		["Paintprimer - Kel'Thuzad"] = {
 		},
-		["Rotrin - Area 52"] = {
+		["Fhayrin - Area 52"] = {
 		},
 	},
 }

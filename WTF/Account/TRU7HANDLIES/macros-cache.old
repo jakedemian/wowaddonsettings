@@ -1,3 +1,7 @@
+VER 3 0000000000000046 " " "1100041"
+#showtooltip Wraith Walk
+/cast [nomounted] Wraith Walk
+END
 VER 3 000000000000003E " " "136184"
 #showtooltip Psychic Scream
 /cast Psychic Scream
@@ -8,10 +12,6 @@ VER 3 000000000000002C " " "ABILITY_RACIAL_BEARFORM"
 END
 VER 3 000000000000003F " " "136200"
 /target Hearthsinger Forresten
-END
-VER 3 0000000000000046 " " "1100041"
-#showtooltip Wraith Walk
-/cast [nomounted] Wraith Walk
 END
 VER 3 000000000000002F " artifact" "135408"
 #showtooltip 16

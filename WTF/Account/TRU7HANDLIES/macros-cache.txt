@@ -1,3 +1,8 @@
+VER 3 000000000000003E " " "136184"
+#showtooltip Psychic Scream
+/cast Psychic Scream
+/roar
+END
 VER 3 000000000000002C " " "ABILITY_RACIAL_BEARFORM"
 /castsequece [nostance:1] Bear Form; [nocombat] Bear Form;
 END
@@ -7,11 +12,6 @@ END
 VER 3 0000000000000046 " " "1100041"
 #showtooltip Wraith Walk
 /cast [nomounted] Wraith Walk
-END
-VER 3 000000000000003E " " "136184"
-#showtooltip Psychic Scream
-/cast Psychic Scream
-/roar
 END
 VER 3 000000000000002F " artifact" "135408"
 #showtooltip 16

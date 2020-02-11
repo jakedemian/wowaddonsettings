@@ -23,7 +23,7 @@ Bartender4DB = {
 						["y"] = 65,
 					},
 				},
-				["Fhayge - Area 52"] = {
+				["Uwutuskdaddy - Area 52"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -43,7 +43,7 @@ Bartender4DB = {
 					},
 					["version"] = 3,
 				},
-				["Uwutuskdaddy - Area 52"] = {
+				["Thartuk - Area 52"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -73,7 +73,7 @@ Bartender4DB = {
 						["scale"] = 1.264999985694885,
 					},
 				},
-				["Thartuk - Area 52"] = {
+				["Fhayge - Area 52"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -117,8 +117,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 248,
@@ -127,8 +127,8 @@ Bartender4DB = {
 							},
 						}, -- [4]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 248,
@@ -137,8 +137,8 @@ Bartender4DB = {
 							},
 						}, -- [5]
 						{
-							["rows"] = 12,
 							["padding"] = 6,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 253.5001220703125,
@@ -175,8 +175,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -185,8 +185,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -241,8 +241,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 187.7667236328125,
@@ -251,8 +251,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 187.2333374023438,
@@ -333,8 +333,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 248,
@@ -343,8 +343,8 @@ Bartender4DB = {
 							},
 						}, -- [4]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 248,
@@ -353,8 +353,8 @@ Bartender4DB = {
 							},
 						}, -- [5]
 						{
-							["rows"] = 12,
 							["padding"] = 6,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 253.5001220703125,
@@ -401,8 +401,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 248,
@@ -411,8 +411,8 @@ Bartender4DB = {
 							},
 						}, -- [4]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 248,
@@ -421,8 +421,8 @@ Bartender4DB = {
 							},
 						}, -- [5]
 						{
-							["rows"] = 12,
 							["padding"] = 6,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 253.5001220703125,
@@ -460,8 +460,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 187.7667236328125,
@@ -470,8 +470,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 187.2333374023438,
@@ -551,8 +551,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 248,
@@ -561,8 +561,8 @@ Bartender4DB = {
 							},
 						}, -- [4]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 248,
@@ -571,8 +571,8 @@ Bartender4DB = {
 							},
 						}, -- [5]
 						{
-							["rows"] = 12,
 							["padding"] = 6,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 253.5001220703125,
@@ -619,8 +619,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 248,
@@ -629,8 +629,8 @@ Bartender4DB = {
 							},
 						}, -- [4]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 248,
@@ -639,8 +639,8 @@ Bartender4DB = {
 							},
 						}, -- [5]
 						{
-							["rows"] = 12,
 							["padding"] = 6,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 253.5001220703125,
@@ -656,68 +656,83 @@ Bartender4DB = {
 						},
 					},
 				},
-				["Fhayrin - Area 52"] = {
+				["Rotrin - Area 52"] = {
 					["actionbars"] = {
 						{
-							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 41.75,
 								["x"] = -510,
 								["point"] = "BOTTOM",
 							},
+							["padding"] = 6,
 						}, -- [1]
 						{
-							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 93,
-								["x"] = -509,
+								["y"] = 150,
+								["x"] = -510,
 								["point"] = "BOTTOM",
 							},
+							["padding"] = 6,
 						}, -- [2]
 						{
-							["padding"] = 6,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 93,
-								["x"] = 12,
-								["point"] = "BOTTOM",
+								["y"] = 187.7667236328125,
+								["x"] = -85,
+								["point"] = "RIGHT",
 							},
+							["padding"] = 5,
 						}, -- [3]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 248,
-								["x"] = -49,
+								["y"] = 187.2333374023438,
+								["x"] = -43.500244140625,
 								["point"] = "RIGHT",
 							},
+							["padding"] = 5,
 						}, -- [4]
 						{
-							["padding"] = 5,
-							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 248,
-								["x"] = -88.851318359375,
-								["point"] = "RIGHT",
+								["y"] = 110,
+								["x"] = 3,
+								["point"] = "BOTTOM",
 							},
+							["padding"] = 6,
 						}, -- [5]
 						{
-							["padding"] = 6,
-							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 253.5001220703125,
-								["x"] = 4.000001907348633,
-								["point"] = "LEFT",
+								["y"] = 110,
+								["x"] = -510,
+								["point"] = "BOTTOM",
 							},
+							["padding"] = 6,
 						}, -- [6]
 						{
+							["enabled"] = true,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 150,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+							["padding"] = 6,
 						}, -- [7]
 						{
+							["enabled"] = true,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+							["padding"] = 6,
 						}, -- [8]
 						nil, -- [9]
 						{
@@ -745,8 +760,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 187.7667236328125,
@@ -755,8 +770,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 187.2333374023438,
@@ -828,8 +843,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 187.7667236328125,
@@ -838,8 +853,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 187.2333374023438,
@@ -911,8 +926,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -921,8 +936,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -986,8 +1001,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 248,
@@ -996,8 +1011,8 @@ Bartender4DB = {
 							},
 						}, -- [4]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 248,
@@ -1006,8 +1021,8 @@ Bartender4DB = {
 							},
 						}, -- [5]
 						{
-							["padding"] = 6,
 							["rows"] = 12,
+							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 253.5001220703125,
@@ -1045,8 +1060,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 187.7667236328125,
@@ -1055,8 +1070,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 187.2333374023438,
@@ -1137,8 +1152,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 248,
@@ -1147,8 +1162,8 @@ Bartender4DB = {
 							},
 						}, -- [4]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 248,
@@ -1157,8 +1172,8 @@ Bartender4DB = {
 							},
 						}, -- [5]
 						{
-							["rows"] = 12,
 							["padding"] = 6,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 253.5001220703125,
@@ -1175,7 +1190,7 @@ Bartender4DB = {
 						}, -- [10]
 					},
 				},
-				["Primepriest - Kel'Thuzad"] = {
+				["Primehunter - Area 52"] = {
 					["actionbars"] = {
 						{
 							["padding"] = 6,
@@ -1190,18 +1205,19 @@ Bartender4DB = {
 							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 93,
-								["x"] = -509,
+								["y"] = 150,
+								["x"] = -510,
 								["point"] = "BOTTOM",
 							},
 						}, -- [2]
 						{
-							["padding"] = 6,
+							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 93,
-								["x"] = 12,
-								["point"] = "BOTTOM",
+								["y"] = 187.7667236328125,
+								["x"] = -85,
+								["point"] = "RIGHT",
 							},
 						}, -- [3]
 						{
@@ -1209,37 +1225,52 @@ Bartender4DB = {
 							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 248,
-								["x"] = -49,
+								["y"] = 187.2333374023438,
+								["x"] = -43.500244140625,
 								["point"] = "RIGHT",
 							},
 						}, -- [4]
 						{
-							["padding"] = 5,
-							["rows"] = 12,
+							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 248,
-								["x"] = -88.851318359375,
-								["point"] = "RIGHT",
+								["y"] = 110,
+								["x"] = 3,
+								["point"] = "BOTTOM",
 							},
 						}, -- [5]
 						{
 							["padding"] = 6,
-							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 253.5001220703125,
-								["x"] = 4.000001907348633,
-								["point"] = "LEFT",
+								["y"] = 110,
+								["x"] = -510,
+								["point"] = "BOTTOM",
 							},
 						}, -- [6]
 						{
+							["enabled"] = true,
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 150,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
 						}, -- [7]
 						{
+							["enabled"] = true,
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
 						}, -- [8]
-						[10] = {
-						},
+						nil, -- [9]
+						{
+						}, -- [10]
 					},
 				},
 				["Primelocker - Kel'Thuzad"] = {
@@ -1272,8 +1303,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 248,
@@ -1282,8 +1313,8 @@ Bartender4DB = {
 							},
 						}, -- [4]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 248,
@@ -1292,8 +1323,8 @@ Bartender4DB = {
 							},
 						}, -- [5]
 						{
-							["rows"] = 12,
 							["padding"] = 6,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 253.5001220703125,
@@ -1331,8 +1362,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 187.7667236328125,
@@ -1341,8 +1372,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 187.2333374023438,
@@ -1393,7 +1424,7 @@ Bartender4DB = {
 						}, -- [10]
 					},
 				},
-				["Primehunter - Area 52"] = {
+				["Primepriest - Kel'Thuzad"] = {
 					["actionbars"] = {
 						{
 							["padding"] = 6,
@@ -1408,19 +1439,18 @@ Bartender4DB = {
 							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 150,
-								["x"] = -510,
+								["y"] = 93,
+								["x"] = -509,
 								["point"] = "BOTTOM",
 							},
 						}, -- [2]
 						{
-							["rows"] = 12,
-							["padding"] = 5,
+							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 187.7667236328125,
-								["x"] = -85,
-								["point"] = "RIGHT",
+								["y"] = 93,
+								["x"] = 12,
+								["point"] = "BOTTOM",
 							},
 						}, -- [3]
 						{
@@ -1428,52 +1458,37 @@ Bartender4DB = {
 							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 187.2333374023438,
-								["x"] = -43.500244140625,
+								["y"] = 248,
+								["x"] = -49,
 								["point"] = "RIGHT",
 							},
 						}, -- [4]
 						{
-							["padding"] = 6,
+							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 110,
-								["x"] = 3,
-								["point"] = "BOTTOM",
+								["y"] = 248,
+								["x"] = -88.851318359375,
+								["point"] = "RIGHT",
 							},
 						}, -- [5]
 						{
+							["rows"] = 12,
 							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 110,
-								["x"] = -510,
-								["point"] = "BOTTOM",
+								["y"] = 253.5001220703125,
+								["x"] = 4.000001907348633,
+								["point"] = "LEFT",
 							},
 						}, -- [6]
 						{
-							["enabled"] = true,
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 150,
-								["x"] = 3,
-								["point"] = "BOTTOM",
-							},
 						}, -- [7]
 						{
-							["enabled"] = true,
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41,
-								["x"] = 3,
-								["point"] = "BOTTOM",
-							},
 						}, -- [8]
-						nil, -- [9]
-						{
-						}, -- [10]
+						[10] = {
+						},
 					},
 				},
 				["Paintprimer - Kel'Thuzad"] = {
@@ -1497,8 +1512,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 204.2334594726563,
@@ -1507,8 +1522,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 204.2333984375,
@@ -1543,83 +1558,68 @@ Bartender4DB = {
 						}, -- [10]
 					},
 				},
-				["Rotrin - Area 52"] = {
+				["Fhayrin - Area 52"] = {
 					["actionbars"] = {
 						{
+							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 41.75,
 								["x"] = -510,
 								["point"] = "BOTTOM",
 							},
-							["padding"] = 6,
 						}, -- [1]
 						{
+							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 150,
-								["x"] = -510,
+								["y"] = 93,
+								["x"] = -509,
 								["point"] = "BOTTOM",
 							},
-							["padding"] = 6,
 						}, -- [2]
 						{
-							["rows"] = 12,
+							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 187.7667236328125,
-								["x"] = -85,
-								["point"] = "RIGHT",
+								["y"] = 93,
+								["x"] = 12,
+								["point"] = "BOTTOM",
 							},
-							["padding"] = 5,
 						}, -- [3]
 						{
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 187.2333374023438,
-								["x"] = -43.500244140625,
+								["y"] = 248,
+								["x"] = -49,
 								["point"] = "RIGHT",
 							},
-							["padding"] = 5,
 						}, -- [4]
 						{
+							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 110,
-								["x"] = 3,
-								["point"] = "BOTTOM",
+								["y"] = 248,
+								["x"] = -88.851318359375,
+								["point"] = "RIGHT",
 							},
-							["padding"] = 6,
 						}, -- [5]
 						{
+							["rows"] = 12,
+							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 110,
-								["x"] = -510,
-								["point"] = "BOTTOM",
+								["y"] = 253.5001220703125,
+								["x"] = 4.000001907348633,
+								["point"] = "LEFT",
 							},
-							["padding"] = 6,
 						}, -- [6]
 						{
-							["enabled"] = true,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 150,
-								["x"] = 3,
-								["point"] = "BOTTOM",
-							},
-							["padding"] = 6,
 						}, -- [7]
 						{
-							["enabled"] = true,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41,
-								["x"] = 3,
-								["point"] = "BOTTOM",
-							},
-							["padding"] = 6,
 						}, -- [8]
 						nil, -- [9]
 						{
@@ -1696,13 +1696,13 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Fhayrin - Area 52"] = {
-					["version"] = 3,
+				["Rotrin - Area 52"] = {
 					["position"] = {
 						["y"] = 223.0000305175781,
 						["x"] = -31.5001220703125,
 						["point"] = "BOTTOM",
 					},
+					["version"] = 3,
 				},
 				["Uwutuskdaddy - Area 52"] = {
 					["version"] = 3,
@@ -1752,7 +1752,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Primepriest - Kel'Thuzad"] = {
+				["Primehunter - Area 52"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 223.0000305175781,
@@ -1776,7 +1776,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Primehunter - Area 52"] = {
+				["Primepriest - Kel'Thuzad"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 223.0000305175781,
@@ -1792,13 +1792,13 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Rotrin - Area 52"] = {
+				["Fhayrin - Area 52"] = {
+					["version"] = 3,
 					["position"] = {
 						["y"] = 223.0000305175781,
 						["x"] = -31.5001220703125,
 						["point"] = "BOTTOM",
 					},
-					["version"] = 3,
 				},
 			},
 		},
@@ -1884,15 +1884,15 @@ Bartender4DB = {
 						["y"] = 41.75,
 					},
 				},
-				["Fhayrin - Area 52"] = {
-					["padding"] = -2,
-					["version"] = 3,
+				["Rotrin - Area 52"] = {
 					["position"] = {
-						["y"] = 41.75,
-						["x"] = 37.5,
-						["point"] = "BOTTOM",
+						["y"] = 40,
+						["x"] = 154.6971130371094,
+						["point"] = "BOTTOMLEFT",
 						["scale"] = 1,
 					},
+					["version"] = 3,
+					["padding"] = -2,
 				},
 				["Uwutuskdaddy - Area 52"] = {
 					["padding"] = -2,
@@ -1954,14 +1954,14 @@ Bartender4DB = {
 						["scale"] = 1,
 					},
 				},
-				["Primepriest - Kel'Thuzad"] = {
+				["Primehunter - Area 52"] = {
 					["padding"] = -2,
 					["version"] = 3,
 					["position"] = {
+						["y"] = 40,
+						["x"] = -5.000000953674316,
+						["point"] = "BOTTOMLEFT",
 						["scale"] = 1,
-						["x"] = 37.5,
-						["point"] = "BOTTOM",
-						["y"] = 41.75,
 					},
 				},
 				["Primelocker - Kel'Thuzad"] = {
@@ -1984,14 +1984,14 @@ Bartender4DB = {
 						["scale"] = 1,
 					},
 				},
-				["Primehunter - Area 52"] = {
+				["Primepriest - Kel'Thuzad"] = {
 					["padding"] = -2,
 					["version"] = 3,
 					["position"] = {
-						["y"] = 40,
-						["x"] = -5.000000953674316,
-						["point"] = "BOTTOMLEFT",
 						["scale"] = 1,
+						["x"] = 37.5,
+						["point"] = "BOTTOM",
+						["y"] = 41.75,
 					},
 				},
 				["Paintprimer - Kel'Thuzad"] = {
@@ -2004,15 +2004,15 @@ Bartender4DB = {
 						["scale"] = 1,
 					},
 				},
-				["Rotrin - Area 52"] = {
+				["Fhayrin - Area 52"] = {
+					["padding"] = -2,
+					["version"] = 3,
 					["position"] = {
-						["y"] = 40,
-						["x"] = 154.6971130371094,
-						["point"] = "BOTTOMLEFT",
+						["y"] = 41.75,
+						["x"] = 37.5,
+						["point"] = "BOTTOM",
 						["scale"] = 1,
 					},
-					["version"] = 3,
-					["padding"] = -2,
 				},
 			},
 		},
@@ -2084,12 +2084,13 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Fhayrin - Area 52"] = {
+				["Rotrin - Area 52"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
+						["y"] = 32.40000600814801,
+						["x"] = -2.700001430511435,
+						["point"] = "BOTTOMLEFT",
+						["scale"] = 0.8999999761581421,
 					},
 				},
 				["Uwutuskdaddy - Area 52"] = {
@@ -2142,12 +2143,13 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Primepriest - Kel'Thuzad"] = {
+				["Primehunter - Area 52"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
+						["y"] = 39,
+						["x"] = 293.7895124809074,
+						["point"] = "BOTTOMLEFT",
+						["scale"] = 0.8999999761581421,
 					},
 				},
 				["Primelocker - Kel'Thuzad"] = {
@@ -2167,13 +2169,12 @@ Bartender4DB = {
 						["scale"] = 0.8999999761581421,
 					},
 				},
-				["Primehunter - Area 52"] = {
+				["Primepriest - Kel'Thuzad"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 39,
-						["x"] = 293.7895124809074,
-						["point"] = "BOTTOMLEFT",
-						["scale"] = 0.8999999761581421,
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
 					},
 				},
 				["Paintprimer - Kel'Thuzad"] = {
@@ -2184,13 +2185,12 @@ Bartender4DB = {
 						["point"] = "BOTTOMRIGHT",
 					},
 				},
-				["Rotrin - Area 52"] = {
+				["Fhayrin - Area 52"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 32.40000600814801,
-						["x"] = -2.700001430511435,
-						["point"] = "BOTTOMLEFT",
-						["scale"] = 0.8999999761581421,
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
 					},
 				},
 			},
@@ -2217,13 +2217,13 @@ Bartender4DB = {
 				},
 				["Thartuk - Area 52"] = {
 					["enabled"] = true,
-					["artLayout"] = "TWOBAR",
-					["version"] = 3,
 					["position"] = {
 						["y"] = 47,
 						["x"] = -511.5000610351563,
 						["point"] = "BOTTOM",
 					},
+					["version"] = 3,
+					["artLayout"] = "TWOBAR",
 				},
 				["Fhayslam - Area 52"] = {
 					["enabled"] = true,
@@ -2245,13 +2245,13 @@ Bartender4DB = {
 				},
 				["Dulgan - Kilrogg"] = {
 					["enabled"] = true,
-					["artLayout"] = "TWOBAR",
-					["version"] = 3,
 					["position"] = {
 						["y"] = 47,
 						["x"] = -511.5000610351563,
 						["point"] = "BOTTOM",
 					},
+					["version"] = 3,
+					["artLayout"] = "TWOBAR",
 				},
 				["Primerlock - Kel'Thuzad"] = {
 					["enabled"] = true,
@@ -2271,24 +2271,25 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Fhayrin - Area 52"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47,
-						["x"] = -512,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Uwutuskdaddy - Area 52"] = {
+				["Rotrin - Area 52"] = {
 					["enabled"] = true,
 					["artLayout"] = "TWOBAR",
-					["version"] = 3,
 					["position"] = {
 						["y"] = 47,
 						["x"] = -511.5000610351563,
 						["point"] = "BOTTOM",
 					},
+					["version"] = 3,
+				},
+				["Uwutuskdaddy - Area 52"] = {
+					["enabled"] = true,
+					["position"] = {
+						["y"] = 47,
+						["x"] = -511.5000610351563,
+						["point"] = "BOTTOM",
+					},
+					["version"] = 3,
+					["artLayout"] = "TWOBAR",
 				},
 				["Pewpybholes - Area 52"] = {
 					["enabled"] = true,
@@ -2319,13 +2320,13 @@ Bartender4DB = {
 				},
 				["Ahriak - Area 52"] = {
 					["enabled"] = true,
-					["artLayout"] = "TWOBAR",
-					["version"] = 3,
 					["position"] = {
 						["y"] = 47,
 						["x"] = -511.5000610351563,
 						["point"] = "BOTTOM",
 					},
+					["version"] = 3,
+					["artLayout"] = "TWOBAR",
 				},
 				["Plskillme - Kilrogg"] = {
 					["enabled"] = true,
@@ -2336,6 +2337,35 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
+				["Primehunter - Area 52"] = {
+					["enabled"] = true,
+					["position"] = {
+						["y"] = 47,
+						["x"] = -511.5000610351563,
+						["point"] = "BOTTOM",
+					},
+					["version"] = 3,
+					["artLayout"] = "TWOBAR",
+				},
+				["Primelocker - Kel'Thuzad"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Fhayge - Area 52"] = {
+					["enabled"] = true,
+					["position"] = {
+						["y"] = 47,
+						["x"] = -511.5000610351563,
+						["point"] = "BOTTOM",
+					},
+					["version"] = 3,
+					["artLayout"] = "TWOBAR",
+				},
 				["Primepriest - Kel'Thuzad"] = {
 					["enabled"] = true,
 					["version"] = 3,
@@ -2345,8 +2375,9 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Primelocker - Kel'Thuzad"] = {
+				["Paintprimer - Kel'Thuzad"] = {
 					["enabled"] = true,
+					["artLayout"] = "TWOBAR",
 					["version"] = 3,
 					["position"] = {
 						["y"] = 47,
@@ -2354,620 +2385,12 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Fhayge - Area 52"] = {
+				["Fhayrin - Area 52"] = {
 					["enabled"] = true,
-					["artLayout"] = "TWOBAR",
 					["version"] = 3,
-					["position"] = {
-						["y"] = 47,
-						["x"] = -511.5000610351563,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Primehunter - Area 52"] = {
-					["enabled"] = true,
-					["artLayout"] = "TWOBAR",
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47,
-						["x"] = -511.5000610351563,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Paintprimer - Kel'Thuzad"] = {
-					["enabled"] = true,
 					["position"] = {
 						["y"] = 47,
 						["x"] = -512,
-						["point"] = "BOTTOM",
-					},
-					["version"] = 3,
-					["artLayout"] = "TWOBAR",
-				},
-				["Rotrin - Area 52"] = {
-					["enabled"] = true,
-					["artLayout"] = "TWOBAR",
-					["position"] = {
-						["y"] = 47,
-						["x"] = -511.5000610351563,
-						["point"] = "BOTTOM",
-					},
-					["version"] = 3,
-				},
-			},
-		},
-		["Bartender4Radial"] = {
-			["profiles"] = {
-				["Thepride - Area 52"] = {
-					["version"] = 4,
-				},
-				["Rotrin - Area 52"] = {
-					["version"] = 4,
-				},
-				["Thartuk - Area 52"] = {
-					["version"] = 4,
-				},
-				["Fhayslam - Area 52"] = {
-					["version"] = 4,
-				},
-				["Primeboi - Area 52"] = {
-					["version"] = 4,
-				},
-				["Dulgan - Kilrogg"] = {
-					["version"] = 4,
-				},
-				["Primerlock - Kel'Thuzad"] = {
-					["version"] = 4,
-				},
-				["Primepriest - Area 52"] = {
-					["version"] = 4,
-				},
-				["Uwutuskdaddy - Area 52"] = {
-					["version"] = 4,
-				},
-				["Pewpybholes - Area 52"] = {
-					["version"] = 4,
-				},
-				["Primehunter - Area 52"] = {
-					["version"] = 4,
-				},
-				["Iamprime - Area 52"] = {
-					["version"] = 4,
-				},
-				["Ahriak - Area 52"] = {
-					["version"] = 4,
-				},
-				["Primepriest - Kel'Thuzad"] = {
-					["version"] = 4,
-				},
-				["Primelocker - Kel'Thuzad"] = {
-					["version"] = 4,
-				},
-				["Fhayge - Area 52"] = {
-					["version"] = 4,
-				},
-				["Fhayrin - Area 52"] = {
-					["version"] = 4,
-				},
-				["Paintprimer - Kel'Thuzad"] = {
-					["version"] = 4,
-				},
-				["Plskillme - Kilrogg"] = {
-					["version"] = 4,
-				},
-			},
-		},
-		["StanceBar"] = {
-			["profiles"] = {
-				["Thepride - Area 52"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 186.0951805114746,
-						["x"] = -29.24998474121094,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Fhayup - Area 52"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.99997711181641,
-						["x"] = -82.50003051757812,
-						["point"] = "CENTER",
-					},
-				},
-				["Thartuk - Area 52"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.99997711181641,
-						["x"] = -82.50003051757812,
-						["point"] = "CENTER",
-					},
-				},
-				["Fhayslam - Area 52"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.99997711181641,
-						["x"] = -82.50003051757812,
-						["point"] = "CENTER",
-					},
-				},
-				["Primeboi - Area 52"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.99997711181641,
-						["x"] = -82.50003051757812,
-						["point"] = "CENTER",
-					},
-				},
-				["Dulgan - Kilrogg"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.99997711181641,
-						["x"] = -82.50003051757812,
-						["point"] = "CENTER",
-					},
-				},
-				["Primerlock - Kel'Thuzad"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.99997711181641,
-						["x"] = -82.50003051757812,
-						["point"] = "CENTER",
-					},
-				},
-				["Primepriest - Area 52"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 159.1867446899414,
-						["x"] = -29.24998474121094,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Fhayrin - Area 52"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.99997711181641,
-						["x"] = -82.50003051757812,
-						["point"] = "CENTER",
-					},
-				},
-				["Uwutuskdaddy - Area 52"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.99997711181641,
-						["x"] = -82.50003051757812,
-						["point"] = "CENTER",
-					},
-				},
-				["Pewpybholes - Area 52"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.99997711181641,
-						["x"] = -82.50003051757812,
-						["point"] = "CENTER",
-					},
-				},
-				["Warodner - Moon Guard"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.99997711181641,
-						["x"] = -82.50003051757812,
-						["point"] = "CENTER",
-					},
-				},
-				["Iamprime - Area 52"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 189.7361526489258,
-						["x"] = -29.24998474121094,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Ahriak - Area 52"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.99997711181641,
-						["x"] = -82.50003051757812,
-						["point"] = "CENTER",
-					},
-				},
-				["Plskillme - Kilrogg"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.99997711181641,
-						["x"] = -82.50003051757812,
-						["point"] = "CENTER",
-					},
-				},
-				["Primepriest - Kel'Thuzad"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 157.7534294128418,
-						["x"] = -29.24998474121094,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Primelocker - Kel'Thuzad"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.99997711181641,
-						["x"] = -82.50003051757812,
-						["point"] = "CENTER",
-					},
-				},
-				["Fhayge - Area 52"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.99997711181641,
-						["x"] = -82.50003051757812,
-						["point"] = "CENTER",
-					},
-				},
-				["Primehunter - Area 52"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.99997711181641,
-						["x"] = -82.50003051757812,
-						["point"] = "CENTER",
-					},
-				},
-				["Paintprimer - Kel'Thuzad"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.99997711181641,
-						["x"] = -82.50003051757812,
-						["point"] = "CENTER",
-					},
-				},
-				["Rotrin - Area 52"] = {
-					["position"] = {
-						["y"] = -14.99997711181641,
-						["x"] = -82.50003051757812,
-						["point"] = "CENTER",
-					},
-					["version"] = 3,
-				},
-			},
-		},
-		["Vehicle"] = {
-			["profiles"] = {
-				["Thepride - Area 52"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 242.7659301757813,
-						["x"] = -213.499755859375,
-						["point"] = "RIGHT",
-					},
-				},
-				["Fhayup - Area 52"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47.50006103515625,
-						["x"] = 99.5001220703125,
-						["point"] = "CENTER",
-					},
-				},
-				["Thartuk - Area 52"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 42.50015258789063,
-						["x"] = 104.4999389648438,
-						["point"] = "CENTER",
-					},
-				},
-				["Fhayslam - Area 52"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47.50006103515625,
-						["x"] = 99.5001220703125,
-						["point"] = "CENTER",
-					},
-				},
-				["Primeboi - Area 52"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47.50006103515625,
-						["x"] = 99.5001220703125,
-						["point"] = "CENTER",
-					},
-				},
-				["Dulgan - Kilrogg"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 42.50015258789063,
-						["x"] = 104.4999389648438,
-						["point"] = "CENTER",
-					},
-				},
-				["Primerlock - Kel'Thuzad"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47.50006103515625,
-						["x"] = 99.5001220703125,
-						["point"] = "CENTER",
-					},
-				},
-				["Primepriest - Area 52"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47.50006103515625,
-						["x"] = 99.5001220703125,
-						["point"] = "CENTER",
-					},
-				},
-				["Fhayrin - Area 52"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47.50006103515625,
-						["x"] = 99.5001220703125,
-						["point"] = "CENTER",
-					},
-				},
-				["Uwutuskdaddy - Area 52"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 42.50015258789063,
-						["x"] = 104.4999389648438,
-						["point"] = "CENTER",
-					},
-				},
-				["Pewpybholes - Area 52"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 42.50015258789063,
-						["x"] = 104.4999389648438,
-						["point"] = "CENTER",
-					},
-				},
-				["Warodner - Moon Guard"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47.50006103515625,
-						["x"] = 99.5001220703125,
-						["point"] = "CENTER",
-					},
-				},
-				["Iamprime - Area 52"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -297.1874389648438,
-						["x"] = -273.129150390625,
-						["point"] = "TOPRIGHT",
-					},
-				},
-				["Ahriak - Area 52"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 42.50015258789063,
-						["x"] = 104.4999389648438,
-						["point"] = "CENTER",
-					},
-				},
-				["Plskillme - Kilrogg"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47.50006103515625,
-						["x"] = 99.5001220703125,
-						["point"] = "CENTER",
-					},
-				},
-				["Primepriest - Kel'Thuzad"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47.50006103515625,
-						["x"] = 99.5001220703125,
-						["point"] = "CENTER",
-					},
-				},
-				["Primelocker - Kel'Thuzad"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47.50006103515625,
-						["x"] = 99.5001220703125,
-						["point"] = "CENTER",
-					},
-				},
-				["Fhayge - Area 52"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 42.50015258789063,
-						["x"] = 104.4999389648438,
-						["point"] = "CENTER",
-					},
-				},
-				["Primehunter - Area 52"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 42.50015258789063,
-						["x"] = 104.4999389648438,
-						["point"] = "CENTER",
-					},
-				},
-				["Paintprimer - Kel'Thuzad"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47.50006103515625,
-						["x"] = 99.5001220703125,
-						["point"] = "CENTER",
-					},
-				},
-				["Rotrin - Area 52"] = {
-					["position"] = {
-						["y"] = 42.50015258789063,
-						["x"] = 104.4999389648438,
-						["point"] = "CENTER",
-					},
-					["version"] = 3,
-				},
-			},
-		},
-		["PetBar"] = {
-			["profiles"] = {
-				["Thepride - Area 52"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 293.5199890136719,
-						["x"] = 138.8734130859375,
-						["point"] = "BOTTOMLEFT",
-					},
-				},
-				["Fhayup - Area 52"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 127,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Thartuk - Area 52"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 217,
-						["x"] = -444.1002197265625,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Fhayslam - Area 52"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 293.5199890136719,
-						["x"] = 138.8734130859375,
-						["point"] = "BOTTOMLEFT",
-					},
-				},
-				["Primeboi - Area 52"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 293.5199890136719,
-						["x"] = 138.8734130859375,
-						["point"] = "BOTTOMLEFT",
-					},
-				},
-				["Dulgan - Kilrogg"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 217,
-						["x"] = -444.1002197265625,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Primerlock - Kel'Thuzad"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 293.5199890136719,
-						["x"] = 138.8734130859375,
-						["point"] = "BOTTOMLEFT",
-					},
-				},
-				["Primepriest - Area 52"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 293.5199890136719,
-						["x"] = 138.8734130859375,
-						["point"] = "BOTTOMLEFT",
-					},
-				},
-				["Fhayrin - Area 52"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 293.5199890136719,
-						["x"] = 138.8734130859375,
-						["point"] = "BOTTOMLEFT",
-					},
-				},
-				["Uwutuskdaddy - Area 52"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 217,
-						["x"] = -444.1002197265625,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Pewpybholes - Area 52"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 143,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Warodner - Moon Guard"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 127,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Iamprime - Area 52"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 293.5199890136719,
-						["x"] = 138.8734130859375,
-						["point"] = "BOTTOMLEFT",
-					},
-				},
-				["Ahriak - Area 52"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 217,
-						["x"] = -444.1002197265625,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Plskillme - Kilrogg"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 293.5199890136719,
-						["x"] = 138.8734130859375,
-						["point"] = "BOTTOMLEFT",
-					},
-				},
-				["Primepriest - Kel'Thuzad"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 293.5199890136719,
-						["x"] = 138.8734130859375,
-						["point"] = "BOTTOMLEFT",
-					},
-				},
-				["Primelocker - Kel'Thuzad"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 293.5199890136719,
-						["x"] = 138.8734130859375,
-						["point"] = "BOTTOMLEFT",
-					},
-				},
-				["Fhayge - Area 52"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 217,
-						["x"] = -444.1002197265625,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Primehunter - Area 52"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 217,
-						["x"] = -444.1002197265625,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Paintprimer - Kel'Thuzad"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 127,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Rotrin - Area 52"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 217,
-						["x"] = -444.1002197265625,
 						["point"] = "BOTTOM",
 					},
 				},
@@ -3039,13 +2462,13 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Fhayrin - Area 52"] = {
-					["version"] = 3,
+				["Rotrin - Area 52"] = {
 					["position"] = {
 						["y"] = 223.0000457763672,
 						["x"] = -31.500244140625,
 						["point"] = "BOTTOM",
 					},
+					["version"] = 3,
 				},
 				["Uwutuskdaddy - Area 52"] = {
 					["version"] = 3,
@@ -3095,7 +2518,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Primepriest - Kel'Thuzad"] = {
+				["Primehunter - Area 52"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 223.0000457763672,
@@ -3119,7 +2542,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Primehunter - Area 52"] = {
+				["Primepriest - Kel'Thuzad"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 223.0000457763672,
@@ -3135,13 +2558,590 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Rotrin - Area 52"] = {
+				["Fhayrin - Area 52"] = {
+					["version"] = 3,
 					["position"] = {
 						["y"] = 223.0000457763672,
 						["x"] = -31.500244140625,
 						["point"] = "BOTTOM",
 					},
+				},
+			},
+		},
+		["Vehicle"] = {
+			["profiles"] = {
+				["Thepride - Area 52"] = {
 					["version"] = 3,
+					["position"] = {
+						["y"] = 242.7659301757813,
+						["x"] = -213.499755859375,
+						["point"] = "RIGHT",
+					},
+				},
+				["Fhayup - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47.50006103515625,
+						["x"] = 99.5001220703125,
+						["point"] = "CENTER",
+					},
+				},
+				["Thartuk - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42.50015258789063,
+						["x"] = 104.4999389648438,
+						["point"] = "CENTER",
+					},
+				},
+				["Fhayslam - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47.50006103515625,
+						["x"] = 99.5001220703125,
+						["point"] = "CENTER",
+					},
+				},
+				["Primeboi - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47.50006103515625,
+						["x"] = 99.5001220703125,
+						["point"] = "CENTER",
+					},
+				},
+				["Dulgan - Kilrogg"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42.50015258789063,
+						["x"] = 104.4999389648438,
+						["point"] = "CENTER",
+					},
+				},
+				["Primerlock - Kel'Thuzad"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47.50006103515625,
+						["x"] = 99.5001220703125,
+						["point"] = "CENTER",
+					},
+				},
+				["Primepriest - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47.50006103515625,
+						["x"] = 99.5001220703125,
+						["point"] = "CENTER",
+					},
+				},
+				["Rotrin - Area 52"] = {
+					["position"] = {
+						["y"] = 42.50015258789063,
+						["x"] = 104.4999389648438,
+						["point"] = "CENTER",
+					},
+					["version"] = 3,
+				},
+				["Uwutuskdaddy - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42.50015258789063,
+						["x"] = 104.4999389648438,
+						["point"] = "CENTER",
+					},
+				},
+				["Pewpybholes - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42.50015258789063,
+						["x"] = 104.4999389648438,
+						["point"] = "CENTER",
+					},
+				},
+				["Warodner - Moon Guard"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47.50006103515625,
+						["x"] = 99.5001220703125,
+						["point"] = "CENTER",
+					},
+				},
+				["Iamprime - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -297.1874389648438,
+						["x"] = -273.129150390625,
+						["point"] = "TOPRIGHT",
+					},
+				},
+				["Ahriak - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42.50015258789063,
+						["x"] = 104.4999389648438,
+						["point"] = "CENTER",
+					},
+				},
+				["Plskillme - Kilrogg"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47.50006103515625,
+						["x"] = 99.5001220703125,
+						["point"] = "CENTER",
+					},
+				},
+				["Primehunter - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42.50015258789063,
+						["x"] = 104.4999389648438,
+						["point"] = "CENTER",
+					},
+				},
+				["Primelocker - Kel'Thuzad"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47.50006103515625,
+						["x"] = 99.5001220703125,
+						["point"] = "CENTER",
+					},
+				},
+				["Fhayge - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42.50015258789063,
+						["x"] = 104.4999389648438,
+						["point"] = "CENTER",
+					},
+				},
+				["Primepriest - Kel'Thuzad"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47.50006103515625,
+						["x"] = 99.5001220703125,
+						["point"] = "CENTER",
+					},
+				},
+				["Paintprimer - Kel'Thuzad"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47.50006103515625,
+						["x"] = 99.5001220703125,
+						["point"] = "CENTER",
+					},
+				},
+				["Fhayrin - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47.50006103515625,
+						["x"] = 99.5001220703125,
+						["point"] = "CENTER",
+					},
+				},
+			},
+		},
+		["StanceBar"] = {
+			["profiles"] = {
+				["Thepride - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 186.0951805114746,
+						["x"] = -29.24998474121094,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Fhayup - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.99997711181641,
+						["x"] = -82.50003051757812,
+						["point"] = "CENTER",
+					},
+				},
+				["Thartuk - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.99997711181641,
+						["x"] = -82.50003051757812,
+						["point"] = "CENTER",
+					},
+				},
+				["Fhayslam - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.99997711181641,
+						["x"] = -82.50003051757812,
+						["point"] = "CENTER",
+					},
+				},
+				["Primeboi - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.99997711181641,
+						["x"] = -82.50003051757812,
+						["point"] = "CENTER",
+					},
+				},
+				["Dulgan - Kilrogg"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.99997711181641,
+						["x"] = -82.50003051757812,
+						["point"] = "CENTER",
+					},
+				},
+				["Primerlock - Kel'Thuzad"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.99997711181641,
+						["x"] = -82.50003051757812,
+						["point"] = "CENTER",
+					},
+				},
+				["Primepriest - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 159.1867446899414,
+						["x"] = -29.24998474121094,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Rotrin - Area 52"] = {
+					["position"] = {
+						["y"] = -14.99997711181641,
+						["x"] = -82.50003051757812,
+						["point"] = "CENTER",
+					},
+					["version"] = 3,
+				},
+				["Uwutuskdaddy - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.99997711181641,
+						["x"] = -82.50003051757812,
+						["point"] = "CENTER",
+					},
+				},
+				["Pewpybholes - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.99997711181641,
+						["x"] = -82.50003051757812,
+						["point"] = "CENTER",
+					},
+				},
+				["Warodner - Moon Guard"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.99997711181641,
+						["x"] = -82.50003051757812,
+						["point"] = "CENTER",
+					},
+				},
+				["Iamprime - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 189.7361526489258,
+						["x"] = -29.24998474121094,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Ahriak - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.99997711181641,
+						["x"] = -82.50003051757812,
+						["point"] = "CENTER",
+					},
+				},
+				["Plskillme - Kilrogg"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.99997711181641,
+						["x"] = -82.50003051757812,
+						["point"] = "CENTER",
+					},
+				},
+				["Primehunter - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.99997711181641,
+						["x"] = -82.50003051757812,
+						["point"] = "CENTER",
+					},
+				},
+				["Primelocker - Kel'Thuzad"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.99997711181641,
+						["x"] = -82.50003051757812,
+						["point"] = "CENTER",
+					},
+				},
+				["Fhayge - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.99997711181641,
+						["x"] = -82.50003051757812,
+						["point"] = "CENTER",
+					},
+				},
+				["Primepriest - Kel'Thuzad"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 157.7534294128418,
+						["x"] = -29.24998474121094,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Paintprimer - Kel'Thuzad"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.99997711181641,
+						["x"] = -82.50003051757812,
+						["point"] = "CENTER",
+					},
+				},
+				["Fhayrin - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.99997711181641,
+						["x"] = -82.50003051757812,
+						["point"] = "CENTER",
+					},
+				},
+			},
+		},
+		["PetBar"] = {
+			["profiles"] = {
+				["Thepride - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 293.5199890136719,
+						["x"] = 138.8734130859375,
+						["point"] = "BOTTOMLEFT",
+					},
+				},
+				["Fhayup - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 127,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Thartuk - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 217,
+						["x"] = -444.1002197265625,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Fhayslam - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 293.5199890136719,
+						["x"] = 138.8734130859375,
+						["point"] = "BOTTOMLEFT",
+					},
+				},
+				["Primeboi - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 293.5199890136719,
+						["x"] = 138.8734130859375,
+						["point"] = "BOTTOMLEFT",
+					},
+				},
+				["Dulgan - Kilrogg"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 217,
+						["x"] = -444.1002197265625,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Primerlock - Kel'Thuzad"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 293.5199890136719,
+						["x"] = 138.8734130859375,
+						["point"] = "BOTTOMLEFT",
+					},
+				},
+				["Primepriest - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 293.5199890136719,
+						["x"] = 138.8734130859375,
+						["point"] = "BOTTOMLEFT",
+					},
+				},
+				["Rotrin - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 217,
+						["x"] = -444.1002197265625,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Uwutuskdaddy - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 217,
+						["x"] = -444.1002197265625,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Pewpybholes - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 143,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Warodner - Moon Guard"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 127,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Iamprime - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 293.5199890136719,
+						["x"] = 138.8734130859375,
+						["point"] = "BOTTOMLEFT",
+					},
+				},
+				["Ahriak - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 217,
+						["x"] = -444.1002197265625,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Plskillme - Kilrogg"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 293.5199890136719,
+						["x"] = 138.8734130859375,
+						["point"] = "BOTTOMLEFT",
+					},
+				},
+				["Primehunter - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 217,
+						["x"] = -444.1002197265625,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Primelocker - Kel'Thuzad"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 293.5199890136719,
+						["x"] = 138.8734130859375,
+						["point"] = "BOTTOMLEFT",
+					},
+				},
+				["Fhayge - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 217,
+						["x"] = -444.1002197265625,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Primepriest - Kel'Thuzad"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 293.5199890136719,
+						["x"] = 138.8734130859375,
+						["point"] = "BOTTOMLEFT",
+					},
+				},
+				["Paintprimer - Kel'Thuzad"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 127,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Fhayrin - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 293.5199890136719,
+						["x"] = 138.8734130859375,
+						["point"] = "BOTTOMLEFT",
+					},
+				},
+			},
+		},
+		["Bartender4Radial"] = {
+			["profiles"] = {
+				["Thepride - Area 52"] = {
+					["version"] = 4,
+				},
+				["Rotrin - Area 52"] = {
+					["version"] = 4,
+				},
+				["Thartuk - Area 52"] = {
+					["version"] = 4,
+				},
+				["Fhayslam - Area 52"] = {
+					["version"] = 4,
+				},
+				["Primeboi - Area 52"] = {
+					["version"] = 4,
+				},
+				["Dulgan - Kilrogg"] = {
+					["version"] = 4,
+				},
+				["Primerlock - Kel'Thuzad"] = {
+					["version"] = 4,
+				},
+				["Primepriest - Area 52"] = {
+					["version"] = 4,
+				},
+				["Uwutuskdaddy - Area 52"] = {
+					["version"] = 4,
+				},
+				["Pewpybholes - Area 52"] = {
+					["version"] = 4,
+				},
+				["Primehunter - Area 52"] = {
+					["version"] = 4,
+				},
+				["Iamprime - Area 52"] = {
+					["version"] = 4,
+				},
+				["Ahriak - Area 52"] = {
+					["version"] = 4,
+				},
+				["Plskillme - Kilrogg"] = {
+					["version"] = 4,
+				},
+				["Primelocker - Kel'Thuzad"] = {
+					["version"] = 4,
+				},
+				["Fhayge - Area 52"] = {
+					["version"] = 4,
+				},
+				["Fhayrin - Area 52"] = {
+					["version"] = 4,
+				},
+				["Paintprimer - Kel'Thuzad"] = {
+					["version"] = 4,
+				},
+				["Primepriest - Kel'Thuzad"] = {
+					["version"] = 4,
 				},
 			},
 		},
@@ -3155,19 +3155,19 @@ Bartender4DB = {
 		["Dulgan - Kilrogg"] = "Dulgan - Kilrogg",
 		["Primerlock - Kel'Thuzad"] = "Primerlock - Kel'Thuzad",
 		["Primepriest - Area 52"] = "Primepriest - Area 52",
-		["Fhayrin - Area 52"] = "Fhayrin - Area 52",
+		["Rotrin - Area 52"] = "Rotrin - Area 52",
 		["Uwutuskdaddy - Area 52"] = "Uwutuskdaddy - Area 52",
 		["Pewpybholes - Area 52"] = "Pewpybholes - Area 52",
 		["Warodner - Moon Guard"] = "Warodner - Moon Guard",
 		["Iamprime - Area 52"] = "Iamprime - Area 52",
 		["Ahriak - Area 52"] = "Ahriak - Area 52",
 		["Plskillme - Kilrogg"] = "Plskillme - Kilrogg",
-		["Primepriest - Kel'Thuzad"] = "Primepriest - Kel'Thuzad",
+		["Primehunter - Area 52"] = "Primehunter - Area 52",
 		["Primelocker - Kel'Thuzad"] = "Primelocker - Kel'Thuzad",
 		["Fhayge - Area 52"] = "Fhayge - Area 52",
-		["Primehunter - Area 52"] = "Primehunter - Area 52",
+		["Primepriest - Kel'Thuzad"] = "Primepriest - Kel'Thuzad",
 		["Paintprimer - Kel'Thuzad"] = "Paintprimer - Kel'Thuzad",
-		["Rotrin - Area 52"] = "Rotrin - Area 52",
+		["Fhayrin - Area 52"] = "Fhayrin - Area 52",
 	},
 	["profiles"] = {
 		["Thepride - Area 52"] = {
@@ -3240,14 +3240,13 @@ Bartender4DB = {
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
-		["Fhayrin - Area 52"] = {
+		["Rotrin - Area 52"] = {
+			["blizzardVehicle"] = true,
 			["focuscastmodifier"] = false,
+			["buttonlock"] = true,
 			["minimapIcon"] = {
-				["minimapPos"] = 196.892126477154,
 				["hide"] = true,
 			},
-			["buttonlock"] = true,
-			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
 		["Uwutuskdaddy - Area 52"] = {
@@ -3297,10 +3296,9 @@ Bartender4DB = {
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
-		["Primepriest - Kel'Thuzad"] = {
+		["Primehunter - Area 52"] = {
 			["focuscastmodifier"] = false,
 			["minimapIcon"] = {
-				["minimapPos"] = 196.892126477154,
 				["hide"] = true,
 			},
 			["buttonlock"] = true,
@@ -3326,9 +3324,10 @@ Bartender4DB = {
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
-		["Primehunter - Area 52"] = {
+		["Primepriest - Kel'Thuzad"] = {
 			["focuscastmodifier"] = false,
 			["minimapIcon"] = {
+				["minimapPos"] = 196.892126477154,
 				["hide"] = true,
 			},
 			["buttonlock"] = true,
@@ -3340,13 +3339,14 @@ Bartender4DB = {
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
-		["Rotrin - Area 52"] = {
-			["blizzardVehicle"] = true,
+		["Fhayrin - Area 52"] = {
 			["focuscastmodifier"] = false,
-			["buttonlock"] = true,
 			["minimapIcon"] = {
+				["minimapPos"] = 196.892126477154,
 				["hide"] = true,
 			},
+			["buttonlock"] = true,
+			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
 	},
