@@ -2,7 +2,7 @@
 RaiderIO_Config = {
 	["displayWeeklyGuildBest"] = false,
 }
-RaiderIO_LastCharacter = "us-Rotrin-area-52"
+RaiderIO_LastCharacter = "us-Thartuk-area-52"
 RaiderIO_MissingCharacters = {
-	["us-Rotrin-area-52"] = true,
+	["us-Apothisis-area-52"] = true,
 }

@@ -3,32 +3,27918 @@ DetailsTimeLineDB = {
 	["max_segments"] = 4,
 	["combat_data"] = {
 		{
-			["date_end"] = "15:37:44",
-			["date_start"] = "15:34:25",
-			["name"] = "King Mechagon",
-			["total_time"] = 199.7909999999683,
+			["date_end"] = "01:00:12",
+			["date_start"] = "00:57:37",
+			["name"] = "The Lich King",
+			["total_time"] = 158.0999999999767,
 		}, -- [1]
 		{
-			["date_end"] = "15:28:55",
-			["date_start"] = "15:26:59",
-			["name"] = "Machinist's Garden",
-			["total_time"] = 117.8549999999814,
+			["date_end"] = "00:55:36",
+			["date_start"] = "00:55:32",
+			["name"] = "Sindragosa",
+			["total_time"] = 4.030999999959022,
 		}, -- [2]
 		{
-			["date_end"] = "15:17:49",
-			["date_start"] = "15:15:26",
-			["name"] = "K.U.-J.0.",
-			["total_time"] = 143.8930000000401,
+			["date_end"] = "00:55:36",
+			["date_start"] = "00:55:32",
+			["name"] = "Sindragosa",
+			["total_time"] = 4.030999999959022,
 		}, -- [3]
 		{
-			["date_end"] = "15:09:40",
-			["date_start"] = "15:07:41",
-			["name"] = "Tussle Tonks",
-			["total_time"] = 118.5069999999832,
+			["date_end"] = "00:51:49",
+			["date_start"] = "00:51:46",
+			["name"] = "Valithria Dreamwalker",
+			["total_time"] = 6.250999999931082,
 		}, -- [4]
 	},
 	["hide_on_combat"] = false,
 	["IndividualSpells"] = {
+		{
+			[71769] = {
+				{
+					81.36300000001211, -- [1]
+					"The Lich King", -- [2]
+					71769, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[72350] = {
+				{
+					11.57400000002235, -- [1]
+					"The Lich King", -- [2]
+					72350, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[68981] = {
+				{
+					7.829000000027008, -- [1]
+					"The Lich King", -- [2]
+					68981, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+		}, -- [1]
+		{
+			[70460] = {
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [9]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [10]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [11]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [12]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [13]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [14]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [15]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [16]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [17]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [18]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [19]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [20]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [21]
+			},
+			[71614] = {
+				{
+					4.030999999959022, -- [1]
+					"The Lich King", -- [2]
+					71614, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+		}, -- [2]
+		{
+			[70460] = {
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [9]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [10]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [11]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [12]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [13]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [14]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [15]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [16]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [17]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [18]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [19]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [20]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [21]
+			},
+			[71614] = {
+				{
+					4.030999999959022, -- [1]
+					"The Lich King", -- [2]
+					71614, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+		}, -- [3]
+		{
+			[71592] = {
+				{
+					6.250999999931082, -- [1]
+					"Captain Rupert", -- [2]
+					71592, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					6.250999999931082, -- [1]
+					"Captain Rupert", -- [2]
+					71592, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+			[71549] = {
+				{
+					0.1, -- [1]
+					"Captain Brandon", -- [2]
+					71549, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Captain Grondel", -- [5]
+				}, -- [1]
+				{
+					6.250999999931082, -- [1]
+					"Captain Brandon", -- [2]
+					71549, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Captain Arnath", -- [5]
+				}, -- [2]
+				{
+					6.250999999931082, -- [1]
+					"Captain Brandon", -- [2]
+					71549, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Captain Rupert", -- [5]
+				}, -- [3]
+				{
+					6.250999999931082, -- [1]
+					"Captain Brandon", -- [2]
+					71549, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Captain Arnath", -- [5]
+				}, -- [4]
+			},
+			[71595] = {
+				{
+					6.250999999931082, -- [1]
+					"Captain Arnath", -- [2]
+					71595, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Captain Grondel", -- [5]
+				}, -- [1]
+				{
+					6.250999999931082, -- [1]
+					"Captain Arnath", -- [2]
+					71595, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Captain Arnath", -- [5]
+				}, -- [2]
+				{
+					6.250999999931082, -- [1]
+					"Captain Arnath", -- [2]
+					71595, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Captain Arnath", -- [5]
+				}, -- [3]
+				{
+					6.250999999931082, -- [1]
+					"Captain Arnath", -- [2]
+					71595, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Captain Arnath", -- [5]
+				}, -- [4]
+				{
+					6.250999999931082, -- [1]
+					"Captain Arnath", -- [2]
+					71595, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Captain Arnath", -- [5]
+				}, -- [5]
+				{
+					6.250999999931082, -- [1]
+					"Captain Arnath", -- [2]
+					71595, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Captain Arnath", -- [5]
+				}, -- [6]
+			},
+			[71551] = {
+				{
+					6.250999999931082, -- [1]
+					"Captain Brandon", -- [2]
+					71551, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Captain Arnath", -- [5]
+				}, -- [1]
+				{
+					6.250999999931082, -- [1]
+					"Captain Brandon", -- [2]
+					71551, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Captain Arnath", -- [5]
+				}, -- [2]
+				{
+					6.250999999931082, -- [1]
+					"Captain Brandon", -- [2]
+					71551, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Captain Rupert", -- [5]
+				}, -- [3]
+			},
+			[71552] = {
+				{
+					2.506000000052154, -- [1]
+					"Captain Grondel", -- [2]
+					71552, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Captain Brandon", -- [5]
+				}, -- [1]
+			},
+			[70460] = {
+				{
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+				{
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [9]
+				{
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [10]
+				{
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [11]
+				{
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [12]
+				{
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [13]
+				{
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [14]
+				{
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [15]
+				{
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [16]
+				{
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [17]
+				{
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [18]
+				{
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [19]
+				{
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [20]
+				{
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [21]
+				{
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [22]
+				{
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [23]
+				{
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [24]
+				{
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [25]
+				{
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [26]
+				{
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [27]
+			},
+			[71327] = {
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71327, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [1]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71327, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [2]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71327, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [3]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71327, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [4]
+			},
+			[71546] = {
+				{
+					0.3740000000689179, -- [1]
+					"Captain Arnath", -- [2]
+					71546, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Captain Brandon", -- [5]
+				}, -- [1]
+				{
+					2.795999999972992, -- [1]
+					"Captain Arnath", -- [2]
+					71546, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Captain Brandon", -- [5]
+				}, -- [2]
+				{
+					6.250999999931082, -- [1]
+					"Captain Arnath", -- [2]
+					71546, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Captain Brandon", -- [5]
+				}, -- [3]
+				{
+					6.250999999931082, -- [1]
+					"Captain Arnath", -- [2]
+					71546, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Captain Brandon", -- [5]
+				}, -- [4]
+				{
+					6.250999999931082, -- [1]
+					"Captain Arnath", -- [2]
+					71546, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Captain Brandon", -- [5]
+				}, -- [5]
+			},
+			[71590] = {
+				{
+					6.250999999931082, -- [1]
+					"Captain Rupert", -- [2]
+					71590, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Captain Brandon", -- [5]
+				}, -- [1]
+			},
+			[71801] = {
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Champion", -- [2]
+					71801, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [1]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Champion", -- [2]
+					71801, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [2]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Champion", -- [2]
+					71801, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [3]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Champion", -- [2]
+					71801, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [4]
+			},
+			[71326] = {
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [1]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [2]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [3]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [4]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [5]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [6]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [7]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [8]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [9]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [10]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [11]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [12]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [13]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [14]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [15]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [16]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [17]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [18]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [19]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [20]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [21]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [22]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [23]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [24]
+			},
+		}, -- [4]
+		{
+			[70602] = {
+				{
+					5.143999999971129, -- [1]
+					"Risen Archmage", -- [2]
+					70602, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[71465] = {
+				{
+					1.947999999974854, -- [1]
+					"Sister Svalna", -- [2]
+					71465, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					4.381000000052154, -- [1]
+					"Sister Svalna", -- [2]
+					71465, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					5.143999999971129, -- [1]
+					"Sister Svalna", -- [2]
+					71465, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					5.143999999971129, -- [1]
+					"Sister Svalna", -- [2]
+					71465, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					5.143999999971129, -- [1]
+					"Sister Svalna", -- [2]
+					71465, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					5.143999999971129, -- [1]
+					"Sister Svalna", -- [2]
+					71465, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					5.143999999971129, -- [1]
+					"Sister Svalna", -- [2]
+					71465, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					5.143999999971129, -- [1]
+					"Sister Svalna", -- [2]
+					71465, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+				{
+					5.143999999971129, -- [1]
+					"Sister Svalna", -- [2]
+					71465, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [9]
+				{
+					5.143999999971129, -- [1]
+					"Sister Svalna", -- [2]
+					71465, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [10]
+			},
+			[70460] = {
+				{
+					5.143999999971129, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					5.143999999971129, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					5.143999999971129, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					5.143999999971129, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					5.143999999971129, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					5.143999999971129, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					5.143999999971129, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					5.143999999971129, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+				{
+					5.143999999971129, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [9]
+				{
+					5.143999999971129, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [10]
+				{
+					5.143999999971129, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [11]
+				{
+					5.143999999971129, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [12]
+				{
+					5.143999999971129, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [13]
+				{
+					5.143999999971129, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [14]
+				{
+					5.143999999971129, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [15]
+				{
+					5.143999999971129, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [16]
+				{
+					5.143999999971129, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [17]
+				{
+					5.143999999971129, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [18]
+			},
+			[69929] = {
+				{
+					5.143999999971129, -- [1]
+					"Ymirjar Frostbinder", -- [2]
+					69929, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					5.143999999971129, -- [1]
+					"Ymirjar Deathbringer", -- [2]
+					69929, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					5.143999999971129, -- [1]
+					"Ymirjar Frostbinder", -- [2]
+					69929, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					5.143999999971129, -- [1]
+					"Ymirjar Deathbringer", -- [2]
+					69929, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+			},
+		}, -- [5]
+		{
+			[71465] = {
+				{
+					1.329000000027008, -- [1]
+					"Sister Svalna", -- [2]
+					71465, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					1.329000000027008, -- [1]
+					"Sister Svalna", -- [2]
+					71465, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+		}, -- [6]
+		{
+			[71465] = {
+				{
+					1.329000000027008, -- [1]
+					"Sister Svalna", -- [2]
+					71465, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					1.329000000027008, -- [1]
+					"Sister Svalna", -- [2]
+					71465, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+		}, -- [7]
+		{
+			[69871] = {
+				{
+					2.65500000002794, -- [1]
+					"Plague Scientist", -- [2]
+					69871, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Pustulating Horror", -- [5]
+				}, -- [1]
+			},
+		}, -- [8]
+		{
+			[69871] = {
+				{
+					2.65500000002794, -- [1]
+					"Plague Scientist", -- [2]
+					69871, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Pustulating Horror", -- [5]
+				}, -- [1]
+			},
+		}, -- [9]
+		{
+			[69871] = {
+				{
+					2.014999999897555, -- [1]
+					"Plague Scientist", -- [2]
+					69871, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Pustulating Horror", -- [5]
+				}, -- [1]
+			},
+			[71465] = {
+				{
+					2.014999999897555, -- [1]
+					"Sister Svalna", -- [2]
+					71465, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					2.014999999897555, -- [1]
+					"Sister Svalna", -- [2]
+					71465, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					2.014999999897555, -- [1]
+					"Sister Svalna", -- [2]
+					71465, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					2.014999999897555, -- [1]
+					"Sister Svalna", -- [2]
+					71465, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+			},
+			[70460] = {
+				{
+					2.014999999897555, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					2.014999999897555, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					2.014999999897555, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					2.014999999897555, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					2.014999999897555, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					2.014999999897555, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					2.014999999897555, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					2.014999999897555, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+			},
+		}, -- [10]
+		{
+			[69871] = {
+				{
+					2.014999999897555, -- [1]
+					"Plague Scientist", -- [2]
+					69871, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Pustulating Horror", -- [5]
+				}, -- [1]
+			},
+			[71465] = {
+				{
+					2.014999999897555, -- [1]
+					"Sister Svalna", -- [2]
+					71465, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					2.014999999897555, -- [1]
+					"Sister Svalna", -- [2]
+					71465, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					2.014999999897555, -- [1]
+					"Sister Svalna", -- [2]
+					71465, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					2.014999999897555, -- [1]
+					"Sister Svalna", -- [2]
+					71465, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+			},
+			[70460] = {
+				{
+					2.014999999897555, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					2.014999999897555, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					2.014999999897555, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					2.014999999897555, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					2.014999999897555, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					2.014999999897555, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					2.014999999897555, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					2.014999999897555, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+			},
+		}, -- [11]
+		{
+			[69871] = {
+				{
+					5.135999999940395, -- [1]
+					"Plague Scientist", -- [2]
+					69871, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Pustulating Horror", -- [5]
+				}, -- [1]
+				{
+					5.135999999940395, -- [1]
+					"Plague Scientist", -- [2]
+					69871, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Pustulating Horror", -- [5]
+				}, -- [2]
+			},
+			[71465] = {
+				{
+					5.135999999940395, -- [1]
+					"Sister Svalna", -- [2]
+					71465, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					5.135999999940395, -- [1]
+					"Sister Svalna", -- [2]
+					71465, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					5.135999999940395, -- [1]
+					"Sister Svalna", -- [2]
+					71465, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+			},
+			[70460] = {
+				{
+					5.135999999940395, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					5.135999999940395, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					5.135999999940395, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+			},
+		}, -- [12]
+		{
+			[69958] = {
+				{
+					1.488000000012107, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [3]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [4]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [5]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [6]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [7]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [8]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [9]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [10]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [11]
+			},
+			[69899] = {
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [3]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [4]
+			},
+			[69903] = {
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Protector", -- [2]
+					69903, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [1]
+			},
+			[69970] = {
+				{
+					2.211000000010245, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [3]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [4]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [5]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [6]
+			},
+			[69974] = {
+				{
+					1.707999999984168, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [3]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [4]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [5]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [6]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [7]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [8]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [9]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [10]
+			},
+			[69927] = {
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [3]
+			},
+			[70191] = {
+				{
+					2.148000000044704, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [3]
+				{
+					3.675999999977648, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [4]
+			},
+			[70396] = {
+				{
+					3.675999999977648, -- [1]
+					"Spire Minion", -- [2]
+					70396, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Spire Minion", -- [2]
+					70396, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [2]
+			},
+			[69963] = {
+				{
+					2.211000000010245, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [1]
+				{
+					2.211000000010245, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Marksman", -- [5]
+				}, -- [3]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [4]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Marksman", -- [5]
+				}, -- [5]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [6]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [7]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [8]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [9]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [10]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Marksman", -- [5]
+				}, -- [11]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [12]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [13]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Marksman", -- [5]
+				}, -- [14]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [15]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [16]
+			},
+			[69967] = {
+				{
+					0.4880000000121072, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Invoker", -- [5]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [3]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [4]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [5]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [6]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Invoker", -- [5]
+				}, -- [7]
+			},
+			[69912] = {
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [3]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [4]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [5]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [6]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [7]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [8]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [9]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [10]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [11]
+			},
+			[69916] = {
+				{
+					0.1970000000437722, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [1]
+				{
+					0.1970000000437722, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [2]
+				{
+					2.643000000040047, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [3]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [4]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [5]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [6]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [7]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [8]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [9]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [10]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [11]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [12]
+			},
+			[70361] = {
+				{
+					3.675999999977648, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70361, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [1]
+			},
+			[69869] = {
+				{
+					0.7889999999897555, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [3]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [4]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [5]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [6]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [7]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [8]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [9]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [10]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [11]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [12]
+			},
+			[70460] = {
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [9]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [10]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [11]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [12]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [13]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [14]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [15]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [16]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [17]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [18]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [19]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [20]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [21]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [22]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [23]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [24]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [25]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [26]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [27]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [28]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [29]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [30]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [31]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [32]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [33]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [34]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [35]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [36]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [37]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [38]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [39]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [40]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [41]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [42]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [43]
+			},
+			[69901] = {
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Protector", -- [2]
+					69901, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Protector", -- [2]
+					69901, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+			[69968] = {
+				{
+					0.4880000000121072, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [1]
+				{
+					1.707999999984168, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Invoker", -- [5]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [3]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [4]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [5]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [6]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [7]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Invoker", -- [5]
+				}, -- [8]
+			},
+			[69972] = {
+				{
+					0.2780000000493601, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [3]
+			},
+			[70362] = {
+				{
+					3.675999999977648, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70362, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[69929] = {
+				{
+					3.675999999977648, -- [1]
+					"Ymirjar Frostbinder", -- [2]
+					69929, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Ymirjar Deathbringer", -- [2]
+					69929, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Ymirjar Frostbinder", -- [2]
+					69929, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					3.675999999977648, -- [1]
+					"Ymirjar Deathbringer", -- [2]
+					69929, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+			},
+			[70189] = {
+				{
+					0.9990000000689179, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					0.9990000000689179, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					2.211000000010245, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [9]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [10]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [11]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [12]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [13]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [14]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [15]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [16]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [17]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [18]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [19]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [20]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [21]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [22]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [23]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [24]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [25]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [26]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [27]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [28]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [29]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [30]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [31]
+			},
+			[69882] = {
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [3]
+			},
+			[70602] = {
+				{
+					3.675999999977648, -- [1]
+					"Risen Archmage", -- [2]
+					70602, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Risen Archmage", -- [2]
+					70602, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+			[71465] = {
+				{
+					3.675999999977648, -- [1]
+					"Sister Svalna", -- [2]
+					71465, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Sister Svalna", -- [2]
+					71465, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Sister Svalna", -- [2]
+					71465, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					3.675999999977648, -- [1]
+					"Sister Svalna", -- [2]
+					71465, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					3.675999999977648, -- [1]
+					"Sister Svalna", -- [2]
+					71465, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+			},
+			[69965] = {
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Protector", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Protector", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Protector", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+			},
+			[69898] = {
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [2]
+			},
+			[69902] = {
+				{
+					0.1970000000437722, -- [1]
+					"Skybreaker Protector", -- [2]
+					69902, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Protector", -- [2]
+					69902, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Protector", -- [2]
+					69902, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [3]
+			},
+			[69969] = {
+				{
+					0.1970000000437722, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [1]
+				{
+					1.415999999968335, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [2]
+				{
+					1.425999999977648, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [3]
+				{
+					2.643000000040047, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [4]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [5]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [6]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [7]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [8]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [9]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [10]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [11]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [12]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [13]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [14]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [15]
+			},
+			[69973] = {
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [3]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [4]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [5]
+			},
+			[101406] = {
+				{
+					0.9990000000689179, -- [1]
+					"Deathbringer Saurfang", -- [2]
+					101406, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [1]
+				{
+					2.008000000030734, -- [1]
+					"Deathbringer Saurfang", -- [2]
+					101406, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [2]
+			},
+			[69989] = {
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69989, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [1]
+			},
+			[69871] = {
+				{
+					3.675999999977648, -- [1]
+					"Plague Scientist", -- [2]
+					69871, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Pustulating Horror", -- [5]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Plague Scientist", -- [2]
+					69871, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Pustulating Horror", -- [5]
+				}, -- [2]
+			},
+			[69926] = {
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [2]
+			},
+			[70371] = {
+				{
+					2.643000000040047, -- [1]
+					"Frenzied Abomination", -- [2]
+					70371, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Frenzied Abomination", -- [2]
+					70371, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+			[69934] = {
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+			[69930] = {
+				{
+					2.643000000040047, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+			},
+			[69920] = {
+				{
+					2.643000000040047, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [3]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [4]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [5]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [6]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [7]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [8]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [9]
+			},
+			[70116] = {
+				{
+					3.675999999977648, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70116, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[72737] = {
+				{
+					2.643000000040047, -- [1]
+					"Deathbringer Saurfang", -- [2]
+					72737, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[69975] = {
+				{
+					2.643000000040047, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [3]
+			},
+		}, -- [13]
+		{
+			[69958] = {
+				{
+					1.488000000012107, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [3]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [4]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [5]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [6]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [7]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [8]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [9]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [10]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [11]
+			},
+			[69899] = {
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [3]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [4]
+			},
+			[69903] = {
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Protector", -- [2]
+					69903, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [1]
+			},
+			[69970] = {
+				{
+					2.211000000010245, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [3]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [4]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [5]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [6]
+			},
+			[69974] = {
+				{
+					1.707999999984168, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [3]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [4]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [5]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [6]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [7]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [8]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [9]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [10]
+			},
+			[69927] = {
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [3]
+			},
+			[70191] = {
+				{
+					2.148000000044704, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [3]
+				{
+					3.675999999977648, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [4]
+			},
+			[70396] = {
+				{
+					3.675999999977648, -- [1]
+					"Spire Minion", -- [2]
+					70396, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Spire Minion", -- [2]
+					70396, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [2]
+			},
+			[69963] = {
+				{
+					2.211000000010245, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [1]
+				{
+					2.211000000010245, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Marksman", -- [5]
+				}, -- [3]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [4]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Marksman", -- [5]
+				}, -- [5]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [6]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [7]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [8]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [9]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [10]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Marksman", -- [5]
+				}, -- [11]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [12]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [13]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Marksman", -- [5]
+				}, -- [14]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [15]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [16]
+			},
+			[69967] = {
+				{
+					0.4880000000121072, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Invoker", -- [5]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [3]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [4]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [5]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [6]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Invoker", -- [5]
+				}, -- [7]
+			},
+			[69912] = {
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [3]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [4]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [5]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [6]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [7]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [8]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [9]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [10]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [11]
+			},
+			[69916] = {
+				{
+					0.1970000000437722, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [1]
+				{
+					0.1970000000437722, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [2]
+				{
+					2.643000000040047, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [3]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [4]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [5]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [6]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [7]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [8]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [9]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [10]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [11]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [12]
+			},
+			[70361] = {
+				{
+					3.675999999977648, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70361, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [1]
+			},
+			[69869] = {
+				{
+					0.7889999999897555, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [3]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [4]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [5]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [6]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [7]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [8]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [9]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [10]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [11]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [12]
+			},
+			[70460] = {
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [9]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [10]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [11]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [12]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [13]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [14]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [15]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [16]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [17]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [18]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [19]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [20]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [21]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [22]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [23]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [24]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [25]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [26]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [27]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [28]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [29]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [30]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [31]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [32]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [33]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [34]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [35]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [36]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [37]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [38]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [39]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [40]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [41]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [42]
+				{
+					3.675999999977648, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [43]
+			},
+			[69901] = {
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Protector", -- [2]
+					69901, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Protector", -- [2]
+					69901, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+			[69968] = {
+				{
+					0.4880000000121072, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [1]
+				{
+					1.707999999984168, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Invoker", -- [5]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [3]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [4]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [5]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [6]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [7]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Invoker", -- [5]
+				}, -- [8]
+			},
+			[69972] = {
+				{
+					0.2780000000493601, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [3]
+			},
+			[70362] = {
+				{
+					3.675999999977648, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70362, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[69929] = {
+				{
+					3.675999999977648, -- [1]
+					"Ymirjar Frostbinder", -- [2]
+					69929, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Ymirjar Deathbringer", -- [2]
+					69929, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Ymirjar Frostbinder", -- [2]
+					69929, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					3.675999999977648, -- [1]
+					"Ymirjar Deathbringer", -- [2]
+					69929, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+			},
+			[70189] = {
+				{
+					0.9990000000689179, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					0.9990000000689179, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					2.211000000010245, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [9]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [10]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [11]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [12]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [13]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [14]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [15]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [16]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [17]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [18]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [19]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [20]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [21]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [22]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [23]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [24]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [25]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [26]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [27]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [28]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [29]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [30]
+				{
+					3.675999999977648, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [31]
+			},
+			[69882] = {
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [3]
+			},
+			[70602] = {
+				{
+					3.675999999977648, -- [1]
+					"Risen Archmage", -- [2]
+					70602, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Risen Archmage", -- [2]
+					70602, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+			[71465] = {
+				{
+					3.675999999977648, -- [1]
+					"Sister Svalna", -- [2]
+					71465, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Sister Svalna", -- [2]
+					71465, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Sister Svalna", -- [2]
+					71465, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					3.675999999977648, -- [1]
+					"Sister Svalna", -- [2]
+					71465, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					3.675999999977648, -- [1]
+					"Sister Svalna", -- [2]
+					71465, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+			},
+			[69965] = {
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Protector", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Protector", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Protector", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+			},
+			[69898] = {
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [2]
+			},
+			[69902] = {
+				{
+					0.1970000000437722, -- [1]
+					"Skybreaker Protector", -- [2]
+					69902, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Protector", -- [2]
+					69902, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Protector", -- [2]
+					69902, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [3]
+			},
+			[69969] = {
+				{
+					0.1970000000437722, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [1]
+				{
+					1.415999999968335, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [2]
+				{
+					1.425999999977648, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [3]
+				{
+					2.643000000040047, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [4]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [5]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [6]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [7]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [8]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [9]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [10]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [11]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [12]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [13]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [14]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [15]
+			},
+			[69973] = {
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [3]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [4]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [5]
+			},
+			[101406] = {
+				{
+					0.9990000000689179, -- [1]
+					"Deathbringer Saurfang", -- [2]
+					101406, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [1]
+				{
+					2.008000000030734, -- [1]
+					"Deathbringer Saurfang", -- [2]
+					101406, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [2]
+			},
+			[69989] = {
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69989, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [1]
+			},
+			[69871] = {
+				{
+					3.675999999977648, -- [1]
+					"Plague Scientist", -- [2]
+					69871, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Pustulating Horror", -- [5]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Plague Scientist", -- [2]
+					69871, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Pustulating Horror", -- [5]
+				}, -- [2]
+			},
+			[69926] = {
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [2]
+			},
+			[70371] = {
+				{
+					2.643000000040047, -- [1]
+					"Frenzied Abomination", -- [2]
+					70371, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Frenzied Abomination", -- [2]
+					70371, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+			[69934] = {
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+			[69930] = {
+				{
+					2.643000000040047, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+			},
+			[69920] = {
+				{
+					2.643000000040047, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [3]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [4]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [5]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [6]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [7]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [8]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [9]
+			},
+			[70116] = {
+				{
+					3.675999999977648, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70116, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[72737] = {
+				{
+					2.643000000040047, -- [1]
+					"Deathbringer Saurfang", -- [2]
+					72737, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[69975] = {
+				{
+					2.643000000040047, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [1]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [2]
+				{
+					3.675999999977648, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [3]
+			},
+		}, -- [14]
+		{
+			[69958] = {
+				{
+					1.875, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [1]
+				{
+					2.297000000020489, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [2]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [3]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Sorcerer", -- [5]
+				}, -- [4]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Marksman", -- [5]
+				}, -- [5]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [6]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [7]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [8]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [9]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [10]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [11]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [12]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [13]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [14]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [15]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [16]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [17]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [18]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [19]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [20]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Sorcerer", -- [5]
+				}, -- [21]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [22]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Sorcerer", -- [5]
+				}, -- [23]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [24]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [25]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [26]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [27]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [28]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [29]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [30]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [31]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [32]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [33]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Sorcerer", -- [5]
+				}, -- [34]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Luminary", -- [5]
+				}, -- [35]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [36]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Luminary", -- [5]
+				}, -- [37]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [38]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [39]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [40]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Sorcerer", -- [5]
+				}, -- [41]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [42]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [43]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [44]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [45]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [46]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [47]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [48]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Sorcerer", -- [5]
+				}, -- [49]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [50]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [51]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [52]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [53]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Sorcerer", -- [5]
+				}, -- [54]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [55]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [56]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [57]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [58]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Sorcerer", -- [5]
+				}, -- [59]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [60]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [61]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [62]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [63]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [64]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [65]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Sorcerer", -- [5]
+				}, -- [66]
+			},
+			[69899] = {
+				{
+					3.5, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [1]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [2]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [3]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [4]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [5]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [6]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [7]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [8]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [9]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [10]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [11]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [12]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [13]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [14]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [15]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [16]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [17]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [18]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [19]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [20]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [21]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [22]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [23]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [24]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [25]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [26]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [27]
+			},
+			[69903] = {
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Protector", -- [2]
+					69903, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [1]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Protector", -- [2]
+					69903, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [2]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Protector", -- [2]
+					69903, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [3]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Protector", -- [2]
+					69903, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [4]
+			},
+			[69970] = {
+				{
+					5.427000000025146, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [1]
+				{
+					5.427000000025146, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [2]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [3]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [4]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [5]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [6]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [7]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [8]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [9]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [10]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [11]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [12]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [13]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [14]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [15]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [16]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [17]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [18]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [19]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [20]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [21]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [22]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [23]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [24]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [25]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [26]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [27]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [28]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [29]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [30]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [31]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [32]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [33]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [34]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [35]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [36]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [37]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [38]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [39]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [40]
+			},
+			[69974] = {
+				{
+					0.1, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [1]
+				{
+					0.8689999999478459, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [2]
+				{
+					2.496999999973923, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [3]
+				{
+					5.73699999996461, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [4]
+				{
+					6.13800000003539, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [5]
+				{
+					7.339999999967404, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [6]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [7]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [8]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [9]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [10]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [11]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [12]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [13]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [14]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [15]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [16]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [17]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [18]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [19]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [20]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [21]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [22]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [23]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [24]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [25]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [26]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [27]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [28]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [29]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [30]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [31]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [32]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [33]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [34]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [35]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [36]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [37]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [38]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [39]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [40]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [41]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [42]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [43]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [44]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [45]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [46]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [47]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [48]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [49]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [50]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [51]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [52]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [53]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [54]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [55]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [56]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [57]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [58]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [59]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [60]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [61]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [62]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [63]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [64]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [65]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [66]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [67]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [68]
+			},
+			[69927] = {
+				{
+					6.650000000023283, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [1]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [2]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [3]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [4]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [5]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [6]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [7]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [8]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [9]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [10]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [11]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [12]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [13]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [14]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [15]
+			},
+			[70191] = {
+				{
+					1.390999999945052, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [1]
+				{
+					7.410000000032596, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [2]
+				{
+					11.74800000002142, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [3]
+				{
+					11.74800000002142, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [4]
+				{
+					11.74800000002142, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [5]
+				{
+					11.74800000002142, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [6]
+				{
+					11.74800000002142, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [7]
+				{
+					11.74800000002142, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [8]
+				{
+					11.74800000002142, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [9]
+				{
+					11.74800000002142, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [10]
+				{
+					11.74800000002142, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [11]
+				{
+					11.74800000002142, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [12]
+				{
+					11.74800000002142, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [13]
+				{
+					11.74800000002142, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [14]
+				{
+					11.74800000002142, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [15]
+				{
+					11.74800000002142, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [16]
+				{
+					11.74800000002142, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [17]
+				{
+					11.74800000002142, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [18]
+				{
+					11.74800000002142, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [19]
+				{
+					11.74800000002142, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [20]
+				{
+					11.74800000002142, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [21]
+				{
+					11.74800000002142, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [22]
+			},
+			[70396] = {
+				{
+					11.74800000002142, -- [1]
+					"Spire Minion", -- [2]
+					70396, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [1]
+				{
+					11.74800000002142, -- [1]
+					"Spire Minion", -- [2]
+					70396, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [2]
+				{
+					11.74800000002142, -- [1]
+					"Spire Minion", -- [2]
+					70396, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [3]
+				{
+					11.74800000002142, -- [1]
+					"Spire Minion", -- [2]
+					70396, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [4]
+				{
+					11.74800000002142, -- [1]
+					"Spire Minion", -- [2]
+					70396, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [5]
+				{
+					11.74800000002142, -- [1]
+					"Spire Minion", -- [2]
+					70396, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [6]
+				{
+					11.74800000002142, -- [1]
+					"Spire Minion", -- [2]
+					70396, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [7]
+				{
+					11.74800000002142, -- [1]
+					"Spire Minion", -- [2]
+					70396, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [8]
+				{
+					11.74800000002142, -- [1]
+					"Spire Minion", -- [2]
+					70396, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [9]
+				{
+					11.74800000002142, -- [1]
+					"Spire Minion", -- [2]
+					70396, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [10]
+				{
+					11.74800000002142, -- [1]
+					"Spire Minion", -- [2]
+					70396, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [11]
+				{
+					11.74800000002142, -- [1]
+					"Spire Minion", -- [2]
+					70396, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [12]
+			},
+			[69963] = {
+				{
+					2.586999999941327, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [1]
+				{
+					4.202000000048429, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [2]
+				{
+					6.63800000003539, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [3]
+				{
+					6.63800000003539, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [4]
+				{
+					7.439999999944121, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [5]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Marksman", -- [5]
+				}, -- [6]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Luminary", -- [5]
+				}, -- [7]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [8]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [9]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [10]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [11]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [12]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [13]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [14]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [15]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [16]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Luminary", -- [5]
+				}, -- [17]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [18]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [19]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [20]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [21]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Luminary", -- [5]
+				}, -- [22]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [23]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Marksman", -- [5]
+				}, -- [24]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [25]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [26]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [27]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [28]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [29]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Luminary", -- [5]
+				}, -- [30]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [31]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [32]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [33]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [34]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [35]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [36]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [37]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [38]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [39]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Luminary", -- [5]
+				}, -- [40]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [41]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Marksman", -- [5]
+				}, -- [42]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [43]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [44]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Luminary", -- [5]
+				}, -- [45]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [46]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [47]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Luminary", -- [5]
+				}, -- [48]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [49]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [50]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [51]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [52]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [53]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [54]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [55]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [56]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Marksman", -- [5]
+				}, -- [57]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [58]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [59]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [60]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [61]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Marksman", -- [5]
+				}, -- [62]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Luminary", -- [5]
+				}, -- [63]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [64]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [65]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [66]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [67]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [68]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Luminary", -- [5]
+				}, -- [69]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [70]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [71]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Marksman", -- [5]
+				}, -- [72]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Luminary", -- [5]
+				}, -- [73]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [74]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [75]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [76]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [77]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [78]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [79]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Marksman", -- [5]
+				}, -- [80]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [81]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Luminary", -- [5]
+				}, -- [82]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Marksman", -- [5]
+				}, -- [83]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [84]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [85]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [86]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Marksman", -- [5]
+				}, -- [87]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [88]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [89]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [90]
+			},
+			[69967] = {
+				{
+					1.27800000004936, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [1]
+				{
+					1.27800000004936, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [2]
+				{
+					4.51500000001397, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [3]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [4]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [5]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Invoker", -- [5]
+				}, -- [6]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [7]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [8]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [9]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [10]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [11]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Invoker", -- [5]
+				}, -- [12]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [13]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [14]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [15]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [16]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [17]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [18]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [19]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [20]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [21]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [22]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [23]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [24]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [25]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [26]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Invoker", -- [5]
+				}, -- [27]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [28]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [29]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Invoker", -- [5]
+				}, -- [30]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [31]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [32]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [33]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [34]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [35]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [36]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [37]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Invoker", -- [5]
+				}, -- [38]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [39]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [40]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [41]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [42]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [43]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [44]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [45]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [46]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [47]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [48]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Invoker", -- [5]
+				}, -- [49]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [50]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [51]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [52]
+			},
+			[69912] = {
+				{
+					3.010000000009313, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [1]
+				{
+					3.42000000004191, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [2]
+				{
+					4.635000000009313, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [3]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [4]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [5]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [6]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [7]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [8]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [9]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [10]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [11]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [12]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [13]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [14]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [15]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [16]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [17]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [18]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [19]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [20]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [21]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [22]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [23]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [24]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [25]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [26]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [27]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [28]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [29]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [30]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [31]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [32]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [33]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [34]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [35]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [36]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [37]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [38]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [39]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [40]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [41]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [42]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [43]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [44]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [45]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [46]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [47]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [48]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [49]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [50]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [51]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [52]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [53]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [54]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [55]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [56]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [57]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [58]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [59]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [60]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [61]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [62]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [63]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [64]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [65]
+			},
+			[69916] = {
+				{
+					2.204999999958091, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [1]
+				{
+					5.437000000034459, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [2]
+				{
+					5.84699999995064, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [3]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [4]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [5]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [6]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [7]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [8]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [9]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [10]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [11]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [12]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [13]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [14]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [15]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [16]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [17]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [18]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [19]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [20]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [21]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [22]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [23]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [24]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [25]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [26]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [27]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [28]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [29]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [30]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [31]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [32]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [33]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [34]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [35]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [36]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [37]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [38]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [39]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [40]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [41]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [42]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [43]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [44]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [45]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [46]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [47]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [48]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [49]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [50]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [51]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [52]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [53]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [54]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [55]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [56]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [57]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [58]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [59]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [60]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [61]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [62]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [63]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [64]
+			},
+			[70361] = {
+				{
+					11.74800000002142, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70361, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [1]
+				{
+					11.74800000002142, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70361, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [2]
+				{
+					11.74800000002142, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70361, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [3]
+				{
+					11.74800000002142, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70361, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [4]
+				{
+					11.74800000002142, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70361, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [5]
+				{
+					11.74800000002142, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70361, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [6]
+				{
+					11.74800000002142, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70361, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [7]
+				{
+					11.74800000002142, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70361, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [8]
+			},
+			[69869] = {
+				{
+					1.574999999953434, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [1]
+				{
+					3.991999999969266, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [2]
+				{
+					5.206000000005588, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [3]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [4]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [5]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [6]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [7]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [8]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [9]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [10]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [11]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [12]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [13]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [14]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [15]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [16]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [17]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [18]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [19]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [20]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [21]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [22]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [23]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [24]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [25]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [26]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [27]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [28]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [29]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [30]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [31]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [32]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [33]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [34]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [35]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [36]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [37]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [38]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [39]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [40]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [41]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [42]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [43]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [44]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [45]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [46]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [47]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [48]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [49]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [50]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [51]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [52]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [53]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [54]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [55]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [56]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [57]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [58]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [59]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [60]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [61]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [62]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [63]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [64]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [65]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [66]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [67]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [68]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [69]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [70]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [71]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [72]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [73]
+			},
+			[69901] = {
+				{
+					5.84699999995064, -- [1]
+					"Skybreaker Protector", -- [2]
+					69901, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Protector", -- [2]
+					69901, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Protector", -- [2]
+					69901, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Protector", -- [2]
+					69901, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Protector", -- [2]
+					69901, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Protector", -- [2]
+					69901, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Protector", -- [2]
+					69901, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Protector", -- [2]
+					69901, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Protector", -- [2]
+					69901, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [9]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Protector", -- [2]
+					69901, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [10]
+			},
+			[69968] = {
+				{
+					0.1, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [1]
+				{
+					0.1, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [2]
+				{
+					6.13800000003539, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [3]
+				{
+					7.339999999967404, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [4]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [5]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [6]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Invoker", -- [5]
+				}, -- [7]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [8]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [9]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [10]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [11]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [12]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [13]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [14]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [15]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [16]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [17]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [18]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [19]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [20]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [21]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [22]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [23]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [24]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [25]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [26]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [27]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [28]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [29]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [30]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [31]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [32]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [33]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [34]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [35]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [36]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [37]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [38]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [39]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [40]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [41]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [42]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [43]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [44]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [45]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [46]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [47]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [48]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [49]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Invoker", -- [5]
+				}, -- [50]
+			},
+			[69972] = {
+				{
+					1.069999999948777, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [1]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [2]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [3]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [4]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [5]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [6]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [7]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [8]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [9]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [10]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [11]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [12]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [13]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [14]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [15]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [16]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [17]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [18]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [19]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [20]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [21]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [22]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [23]
+			},
+			[70362] = {
+				{
+					11.74800000002142, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70362, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					11.74800000002142, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70362, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					11.74800000002142, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70362, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					11.74800000002142, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70362, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					11.74800000002142, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70362, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					11.74800000002142, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70362, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					11.74800000002142, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70362, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					11.74800000002142, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70362, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+			},
+			[70189] = {
+				{
+					1.785000000032596, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					1.785000000032596, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					4.202000000048429, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					4.202000000048429, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					4.202000000048429, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					6.63800000003539, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					6.63800000003539, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					6.63800000003539, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [9]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [10]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [11]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [12]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [13]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [14]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [15]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [16]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [17]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [18]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [19]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [20]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [21]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [22]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [23]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [24]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [25]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [26]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [27]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [28]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [29]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [30]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [31]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [32]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [33]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [34]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [35]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [36]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [37]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [38]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [39]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [40]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [41]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [42]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [43]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [44]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [45]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [46]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [47]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [48]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [49]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [50]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [51]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [52]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [53]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [54]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [55]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [56]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [57]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [58]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [59]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [60]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [61]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [62]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [63]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [64]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [65]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [66]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [67]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [68]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [69]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [70]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [71]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [72]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [73]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [74]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [75]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [76]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [77]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [78]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [79]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [80]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [81]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [82]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [83]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [84]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [85]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [86]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [87]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [88]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [89]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [90]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [91]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [92]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [93]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [94]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [95]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [96]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [97]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [98]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [99]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [100]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [101]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [102]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [103]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [104]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [105]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [106]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [107]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [108]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [109]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [110]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [111]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [112]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [113]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [114]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [115]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [116]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [117]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [118]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [119]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [120]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [121]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [122]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [123]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [124]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [125]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [126]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [127]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [128]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [129]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [130]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [131]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [132]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [133]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [134]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [135]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [136]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [137]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [138]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [139]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [140]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [141]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [142]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [143]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [144]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [145]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [146]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [147]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [148]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [149]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [150]
+				{
+					11.74800000002142, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [151]
+			},
+			[69882] = {
+				{
+					5.427000000025146, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Luminary", -- [5]
+				}, -- [1]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [2]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [3]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [4]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [5]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [6]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [7]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [8]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [9]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [10]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [11]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [12]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [13]
+			},
+			[69705] = {
+				{
+					0.2750000000232831, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69705, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[69898] = {
+				{
+					0.9899999999906868, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [1]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [2]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [3]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [4]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [5]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Sorcerer", -- [5]
+				}, -- [6]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [7]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [8]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [9]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Sorcerer", -- [5]
+				}, -- [10]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [11]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [12]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [13]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [14]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [15]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Sorcerer", -- [5]
+				}, -- [16]
+			},
+			[69902] = {
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Protector", -- [2]
+					69902, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [1]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Protector", -- [2]
+					69902, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [2]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Protector", -- [2]
+					69902, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [3]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Protector", -- [2]
+					69902, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [4]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Protector", -- [2]
+					69902, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [5]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Protector", -- [2]
+					69902, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [6]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Protector", -- [2]
+					69902, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [7]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Protector", -- [2]
+					69902, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [8]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Protector", -- [2]
+					69902, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [9]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Protector", -- [2]
+					69902, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [10]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Protector", -- [2]
+					69902, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [11]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Protector", -- [2]
+					69902, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [12]
+			},
+			[69969] = {
+				{
+					1.805000000051223, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [1]
+				{
+					3.42000000004191, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [2]
+				{
+					5.447000000043772, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [3]
+				{
+					5.84699999995064, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [4]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [5]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [6]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [7]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [8]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [9]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [10]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [11]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [12]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [13]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [14]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [15]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [16]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [17]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [18]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [19]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [20]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [21]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [22]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [23]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [24]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [25]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [26]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [27]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [28]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [29]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [30]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [31]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [32]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [33]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [34]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [35]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [36]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [37]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [38]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [39]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [40]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [41]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [42]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [43]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [44]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [45]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [46]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [47]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [48]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [49]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [50]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [51]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [52]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [53]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [54]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [55]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [56]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [57]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [58]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [59]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [60]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [61]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [62]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [63]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [64]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [65]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [66]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [67]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [68]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [69]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [70]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [71]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [72]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [73]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [74]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [75]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [76]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [77]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [78]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [79]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [80]
+			},
+			[69973] = {
+				{
+					4.704999999958091, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [1]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [2]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [3]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [4]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [5]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [6]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [7]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [8]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [9]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [10]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [11]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [12]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [13]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [14]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [15]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [16]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [17]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [18]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [19]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [20]
+			},
+			[101406] = {
+				{
+					11.74800000002142, -- [1]
+					"Deathbringer Saurfang", -- [2]
+					101406, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [1]
+			},
+			[69989] = {
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69989, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [1]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69989, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [2]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69989, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [3]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69989, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [4]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69989, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [5]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69989, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [6]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69989, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [7]
+			},
+			[70371] = {
+				{
+					11.74800000002142, -- [1]
+					"Frenzied Abomination", -- [2]
+					70371, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					11.74800000002142, -- [1]
+					"Frenzied Abomination", -- [2]
+					70371, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					11.74800000002142, -- [1]
+					"Frenzied Abomination", -- [2]
+					70371, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					11.74800000002142, -- [1]
+					"Frenzied Abomination", -- [2]
+					70371, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					11.74800000002142, -- [1]
+					"Frenzied Abomination", -- [2]
+					70371, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					11.74800000002142, -- [1]
+					"Frenzied Abomination", -- [2]
+					70371, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					11.74800000002142, -- [1]
+					"Frenzied Abomination", -- [2]
+					70371, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+			},
+			[69926] = {
+				{
+					3.010000000009313, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [1]
+				{
+					5.84699999995064, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [2]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [3]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [4]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [5]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [6]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [7]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [8]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [9]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [10]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [11]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [12]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [13]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [14]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [15]
+			},
+			[69930] = {
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [9]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [10]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [11]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [12]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [13]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [14]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [15]
+			},
+			[69934] = {
+				{
+					4.202000000048429, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [9]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [10]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [11]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [12]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [13]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [14]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [15]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [16]
+			},
+			[70162] = {
+				{
+					1.785000000032596, -- [1]
+					"Skybreaker Rifleman", -- [2]
+					70162, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [1]
+			},
+			[69920] = {
+				{
+					1.805000000051223, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [1]
+				{
+					2.204999999958091, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [2]
+				{
+					6.650000000023283, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [3]
+				{
+					7.059999999939464, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [4]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [5]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [6]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [7]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [8]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [9]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [10]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [11]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [12]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [13]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [14]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [15]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [16]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [17]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [18]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [19]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [20]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [21]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [22]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [23]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [24]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [25]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [26]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [27]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [28]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [29]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [30]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [31]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [32]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [33]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [34]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [35]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [36]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [37]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [38]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [39]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [40]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [41]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [42]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [43]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [44]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [45]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [46]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [47]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [48]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [49]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [50]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [51]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [52]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [53]
+			},
+			[69975] = {
+				{
+					3.42000000004191, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [1]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [2]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [3]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [4]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [5]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [6]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [7]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [8]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [9]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [10]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [11]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [12]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [13]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [14]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [15]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [16]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [17]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [18]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [19]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [20]
+			},
+			[70116] = {
+				{
+					11.74800000002142, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70116, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					11.74800000002142, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70116, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					11.74800000002142, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70116, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					11.74800000002142, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70116, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					11.74800000002142, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70116, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					11.74800000002142, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70116, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					11.74800000002142, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70116, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					11.74800000002142, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70116, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+			},
+			[69965] = {
+				{
+					7.059999999939464, -- [1]
+					"Skybreaker Protector", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Protector", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Protector", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Protector", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Protector", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Protector", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Protector", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Protector", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Protector", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [9]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Protector", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [10]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Protector", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [11]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Protector", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [12]
+				{
+					11.74800000002142, -- [1]
+					"Skybreaker Protector", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [13]
+			},
+		}, -- [15]
+		{
+			[69958] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Sorcerer", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Sorcerer", -- [5]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Sorcerer", -- [5]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [14]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [15]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Luminary", -- [5]
+				}, -- [16]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Sorcerer", -- [5]
+				}, -- [17]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [18]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [19]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [20]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [21]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [22]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Sorcerer", -- [5]
+				}, -- [23]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [24]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [25]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [26]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [27]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [28]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [29]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Luminary", -- [5]
+				}, -- [30]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [31]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Sorcerer", -- [5]
+				}, -- [32]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [33]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [34]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [35]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [36]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [37]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [38]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Luminary", -- [5]
+				}, -- [39]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [40]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [41]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [42]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [43]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [44]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [45]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Sorcerer", -- [5]
+				}, -- [46]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [47]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [48]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [49]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [50]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [51]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [52]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [53]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [54]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [55]
+			},
+			[69899] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [14]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [15]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [16]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [17]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [18]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [19]
+			},
+			[69903] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69903, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69903, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69903, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69903, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [4]
+			},
+			[69970] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [14]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [15]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [16]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [17]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [18]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [19]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [20]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [21]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [22]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [23]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [24]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [25]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [26]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [27]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [28]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [29]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [30]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [31]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [32]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [33]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [34]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [35]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [36]
+			},
+			[69974] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [14]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [15]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [16]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [17]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [18]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [19]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [20]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [21]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [22]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [23]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [24]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [25]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [26]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [27]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [28]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [29]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [30]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [31]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [32]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [33]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [34]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [35]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [36]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [37]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [38]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [39]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [40]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [41]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [42]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [43]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [44]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [45]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [46]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [47]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [48]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [49]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [50]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [51]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [52]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [53]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [54]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [55]
+			},
+			[69927] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [14]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [15]
+			},
+			[70191] = {
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [14]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [15]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [16]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [17]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [18]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [19]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [20]
+			},
+			[70396] = {
+				{
+					1.353000000002794, -- [1]
+					"Spire Minion", -- [2]
+					70396, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Spire Minion", -- [2]
+					70396, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Spire Minion", -- [2]
+					70396, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Spire Minion", -- [2]
+					70396, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Spire Minion", -- [2]
+					70396, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Spire Minion", -- [2]
+					70396, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Spire Minion", -- [2]
+					70396, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Spire Minion", -- [2]
+					70396, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Spire Minion", -- [2]
+					70396, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Spire Minion", -- [2]
+					70396, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Spire Minion", -- [2]
+					70396, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [11]
+			},
+			[69963] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [14]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [15]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [16]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [17]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [18]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [19]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [20]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [21]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [22]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [23]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [24]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [25]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [26]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [27]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [28]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [29]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [30]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [31]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [32]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [33]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [34]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [35]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [36]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [37]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [38]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Luminary", -- [5]
+				}, -- [39]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [40]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Marksman", -- [5]
+				}, -- [41]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [42]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [43]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [44]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [45]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [46]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Luminary", -- [5]
+				}, -- [47]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [48]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Marksman", -- [5]
+				}, -- [49]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [50]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [51]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [52]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [53]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [54]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [55]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [56]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Luminary", -- [5]
+				}, -- [57]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [58]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [59]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [60]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [61]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [62]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Luminary", -- [5]
+				}, -- [63]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [64]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [65]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [66]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [67]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Marksman", -- [5]
+				}, -- [68]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [69]
+			},
+			[69967] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Invoker", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [14]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [15]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [16]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [17]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [18]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [19]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [20]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [21]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [22]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [23]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Invoker", -- [5]
+				}, -- [24]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [25]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [26]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Invoker", -- [5]
+				}, -- [27]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [28]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [29]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [30]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [31]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [32]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [33]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [34]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [35]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [36]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [37]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [38]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [39]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [40]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [41]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [42]
+			},
+			[69912] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [14]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [15]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [16]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [17]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [18]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [19]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [20]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [21]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [22]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [23]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [24]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [25]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [26]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [27]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [28]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [29]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [30]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [31]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [32]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [33]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [34]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [35]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [36]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [37]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [38]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [39]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [40]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [41]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [42]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [43]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [44]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [45]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [46]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [47]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [48]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [49]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [50]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [51]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [52]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [53]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [54]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [55]
+			},
+			[69916] = {
+				{
+					1.353000000002794, -- [1]
+					"Unknown", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Unknown", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [14]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [15]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [16]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [17]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [18]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [19]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [20]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [21]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [22]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [23]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [24]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [25]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [26]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [27]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [28]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [29]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [30]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [31]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [32]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [33]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [34]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [35]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [36]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [37]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [38]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [39]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [40]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [41]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [42]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [43]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [44]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [45]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [46]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [47]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [48]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [49]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [50]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [51]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [52]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [53]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [54]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [55]
+			},
+			[70361] = {
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70361, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70361, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70361, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70361, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70361, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70361, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70361, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [7]
+			},
+			[69869] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [14]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [15]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [16]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [17]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [18]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [19]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [20]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [21]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [22]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [23]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [24]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [25]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [26]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [27]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [28]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [29]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [30]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [31]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [32]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [33]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [34]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [35]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [36]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [37]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [38]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [39]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [40]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [41]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [42]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [43]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [44]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [45]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [46]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [47]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [48]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [49]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [50]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [51]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [52]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [53]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [54]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [55]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [56]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [57]
+			},
+			[69901] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69901, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69901, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69901, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69901, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69901, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69901, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69901, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69901, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69901, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69901, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [10]
+			},
+			[69968] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Invoker", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Invoker", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Invoker", -- [5]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Invoker", -- [5]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [14]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [15]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [16]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [17]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [18]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [19]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Invoker", -- [5]
+				}, -- [20]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [21]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [22]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [23]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [24]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [25]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [26]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [27]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [28]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [29]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [30]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [31]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Invoker", -- [5]
+				}, -- [32]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [33]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Invoker", -- [5]
+				}, -- [34]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [35]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Invoker", -- [5]
+				}, -- [36]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [37]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [38]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [39]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Invoker", -- [5]
+				}, -- [40]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [41]
+			},
+			[69972] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [14]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [15]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [16]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [17]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [18]
+			},
+			[70362] = {
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70362, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70362, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70362, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70362, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70362, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70362, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70362, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+			},
+			[70189] = {
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [14]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [15]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [16]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [17]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [18]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [19]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [20]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [21]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [22]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [23]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [24]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [25]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [26]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [27]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [28]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [29]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [30]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [31]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [32]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [33]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [34]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [35]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [36]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [37]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [38]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [39]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [40]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [41]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [42]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [43]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [44]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [45]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [46]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [47]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [48]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [49]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [50]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [51]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [52]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [53]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [54]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [55]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [56]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [57]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [58]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [59]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [60]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [61]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [62]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [63]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [64]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [65]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [66]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [67]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [68]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [69]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [70]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [71]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [72]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [73]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [74]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [75]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [76]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [77]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [78]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [79]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [80]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [81]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [82]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [83]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [84]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [85]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [86]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [87]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [88]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [89]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [90]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [91]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [92]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [93]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [94]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [95]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [96]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [97]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [98]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [99]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [100]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [101]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [102]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [103]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [104]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [105]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [106]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [107]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [108]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [109]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [110]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [111]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [112]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [113]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [114]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [115]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [116]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [117]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [118]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [119]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [120]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [121]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [122]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [123]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [124]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [125]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [126]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [127]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [128]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [129]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [130]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [131]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [132]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [133]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [134]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [135]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [136]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [137]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [138]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [139]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [140]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [141]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [142]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [143]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [144]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [145]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [146]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [147]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [148]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [149]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [150]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [151]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [152]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [153]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [154]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [155]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [156]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [157]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [158]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [159]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [160]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [161]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [162]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [163]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [164]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [165]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [166]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [167]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [168]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [169]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [170]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [171]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [172]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [173]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [174]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [175]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [176]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [177]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [178]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [179]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [180]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [181]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [182]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [183]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [184]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [185]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [186]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [187]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [188]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [189]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [190]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [191]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [192]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [193]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [194]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [195]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [196]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [197]
+			},
+			[69882] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [11]
+			},
+			[69898] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Sorcerer", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Luminary", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Sorcerer", -- [5]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Marksman", -- [5]
+				}, -- [14]
+			},
+			[69902] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69902, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69902, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69902, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69902, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69902, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69902, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69902, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69902, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69902, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69902, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [10]
+			},
+			[69969] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [14]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [15]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [16]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [17]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [18]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [19]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [20]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [21]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [22]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [23]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [24]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [25]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [26]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [27]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [28]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [29]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [30]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [31]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [32]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [33]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [34]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [35]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [36]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [37]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [38]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [39]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [40]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [41]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [42]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [43]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [44]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [45]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [46]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [47]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [48]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [49]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [50]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [51]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [52]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [53]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [54]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [55]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [56]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [57]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [58]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [59]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [60]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [61]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [62]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [63]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [64]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [65]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [66]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [67]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [68]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [69]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [70]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [71]
+			},
+			[69973] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [14]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [15]
+			},
+			[70371] = {
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70371, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70371, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70371, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70371, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70371, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70371, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70371, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70371, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+			},
+			[69989] = {
+				{
+					1.353000000002794, -- [1]
+					"Unknown", -- [2]
+					69989, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Unknown", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69989, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69989, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69989, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69989, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69989, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69989, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69989, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69989, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69989, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69989, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69989, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69989, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69989, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [14]
+			},
+			[69930] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [14]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [15]
+			},
+			[69934] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [14]
+			},
+			[70116] = {
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70116, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70116, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70116, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70116, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70116, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70116, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70116, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+			},
+			[69920] = {
+				{
+					1.353000000002794, -- [1]
+					"Unknown", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Unknown", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [14]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [15]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [16]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [17]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [18]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [19]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [20]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [21]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [22]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [23]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [24]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [25]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [26]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [27]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [28]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [29]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [30]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [31]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [32]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [33]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [34]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [35]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [36]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [37]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [38]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [39]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [40]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [41]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [42]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [43]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [44]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [45]
+			},
+			[69926] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Luminary", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [12]
+			},
+			[69965] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [11]
+			},
+			[69975] = {
+				{
+					1.353000000002794, -- [1]
+					"Unknown", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Unknown", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [14]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [15]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [16]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [17]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [18]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [19]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [20]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [21]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [22]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [23]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [24]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [25]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [26]
+			},
+		}, -- [16]
+		{
+			[69958] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Sorcerer", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Sorcerer", -- [5]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Sorcerer", -- [5]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [14]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [15]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Luminary", -- [5]
+				}, -- [16]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Sorcerer", -- [5]
+				}, -- [17]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [18]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [19]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [20]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [21]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [22]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Sorcerer", -- [5]
+				}, -- [23]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [24]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [25]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [26]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [27]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [28]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [29]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Luminary", -- [5]
+				}, -- [30]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [31]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Sorcerer", -- [5]
+				}, -- [32]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [33]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [34]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [35]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [36]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [37]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [38]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Luminary", -- [5]
+				}, -- [39]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [40]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [41]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [42]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [43]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [44]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [45]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Sorcerer", -- [5]
+				}, -- [46]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [47]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [48]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [49]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [50]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [51]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [52]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [53]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [54]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69958, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [55]
+			},
+			[69899] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [14]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [15]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [16]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [17]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [18]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69899, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [19]
+			},
+			[69903] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69903, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69903, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69903, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69903, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [4]
+			},
+			[69970] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [14]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [15]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [16]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [17]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [18]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [19]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [20]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [21]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [22]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [23]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [24]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [25]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [26]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [27]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [28]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [29]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [30]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [31]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [32]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [33]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [34]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [35]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69970, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [36]
+			},
+			[69974] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [14]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [15]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [16]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [17]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [18]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [19]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [20]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [21]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [22]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [23]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [24]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [25]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [26]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [27]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [28]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [29]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [30]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [31]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [32]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [33]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [34]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [35]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [36]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [37]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [38]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [39]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [40]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [41]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [42]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [43]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [44]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [45]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [46]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [47]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [48]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [49]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [50]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [51]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [52]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [53]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [54]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69974, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [55]
+			},
+			[69927] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [14]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69927, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [15]
+			},
+			[70191] = {
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [14]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [15]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [16]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [17]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [18]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [19]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70191, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [20]
+			},
+			[70396] = {
+				{
+					1.353000000002794, -- [1]
+					"Spire Minion", -- [2]
+					70396, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Spire Minion", -- [2]
+					70396, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Spire Minion", -- [2]
+					70396, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Spire Minion", -- [2]
+					70396, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Spire Minion", -- [2]
+					70396, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Spire Minion", -- [2]
+					70396, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Spire Minion", -- [2]
+					70396, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Spire Minion", -- [2]
+					70396, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Spire Minion", -- [2]
+					70396, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Spire Minion", -- [2]
+					70396, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Spire Minion", -- [2]
+					70396, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [11]
+			},
+			[69963] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [14]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [15]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [16]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [17]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [18]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [19]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [20]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [21]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [22]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [23]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [24]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [25]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [26]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [27]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [28]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [29]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [30]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [31]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [32]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [33]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [34]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [35]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [36]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [37]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [38]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Luminary", -- [5]
+				}, -- [39]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [40]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Marksman", -- [5]
+				}, -- [41]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [42]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [43]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [44]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [45]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [46]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Luminary", -- [5]
+				}, -- [47]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [48]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Marksman", -- [5]
+				}, -- [49]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [50]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [51]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [52]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [53]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [54]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [55]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [56]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Luminary", -- [5]
+				}, -- [57]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [58]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [59]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [60]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [61]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [62]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Luminary", -- [5]
+				}, -- [63]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [64]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [65]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [66]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [67]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Marksman", -- [5]
+				}, -- [68]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69963, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [69]
+			},
+			[69967] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Invoker", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [14]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [15]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [16]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [17]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [18]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [19]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [20]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [21]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [22]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [23]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Invoker", -- [5]
+				}, -- [24]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [25]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [26]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Invoker", -- [5]
+				}, -- [27]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [28]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [29]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [30]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [31]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [32]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [33]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [34]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [35]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [36]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [37]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [38]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [39]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [40]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [41]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vicar", -- [2]
+					69967, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [42]
+			},
+			[69912] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [14]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [15]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [16]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [17]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [18]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [19]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [20]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [21]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [22]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [23]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [24]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [25]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [26]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [27]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [28]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [29]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [30]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [31]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [32]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [33]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [34]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [35]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [36]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [37]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [38]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [39]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [40]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [41]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [42]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [43]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [44]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [45]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [46]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [47]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [48]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [49]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [50]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [51]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [52]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [53]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [54]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [55]
+			},
+			[69916] = {
+				{
+					1.353000000002794, -- [1]
+					"Unknown", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Unknown", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [14]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [15]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [16]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [17]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [18]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [19]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [20]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [21]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [22]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [23]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [24]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [25]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [26]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [27]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [28]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [29]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [30]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [31]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [32]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [33]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [34]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [35]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [36]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [37]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [38]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [39]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [40]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [41]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [42]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [43]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [44]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [45]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [46]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [47]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [48]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [49]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [50]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [51]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [52]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [53]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [54]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Dreadblade", -- [2]
+					69916, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [55]
+			},
+			[70361] = {
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70361, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70361, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70361, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70361, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70361, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70361, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70361, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [7]
+			},
+			[69869] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [14]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [15]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [16]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [17]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [18]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [19]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [20]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [21]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [22]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [23]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [24]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [25]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [26]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [27]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [28]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [29]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [30]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [31]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [32]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [33]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [34]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [35]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [36]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [37]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [38]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [39]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [40]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [41]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [42]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [43]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [44]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [45]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [46]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [47]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [48]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [49]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [50]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [51]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [52]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [53]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [54]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [55]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [56]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Sorcerer", -- [2]
+					69869, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [57]
+			},
+			[69901] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69901, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69901, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69901, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69901, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69901, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69901, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69901, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69901, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69901, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69901, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [10]
+			},
+			[69968] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Invoker", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Invoker", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Invoker", -- [5]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Invoker", -- [5]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [14]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [15]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [16]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [17]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [18]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [19]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Invoker", -- [5]
+				}, -- [20]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [21]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [22]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [23]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [24]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [25]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [26]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [27]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [28]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [29]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [30]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [31]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Invoker", -- [5]
+				}, -- [32]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [33]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Invoker", -- [5]
+				}, -- [34]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [35]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Invoker", -- [5]
+				}, -- [36]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [37]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [38]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [39]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Invoker", -- [5]
+				}, -- [40]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69968, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [41]
+			},
+			[69972] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [14]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [15]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [16]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [17]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69972, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [18]
+			},
+			[70362] = {
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70362, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70362, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70362, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70362, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70362, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70362, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70362, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+			},
+			[70189] = {
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [14]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [15]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [16]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [17]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [18]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [19]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [20]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [21]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [22]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [23]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [24]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [25]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [26]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [27]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [28]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [29]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [30]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [31]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [32]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [33]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [34]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [35]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [36]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [37]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [38]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [39]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [40]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [41]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [42]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [43]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [44]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [45]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [46]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [47]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [48]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [49]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [50]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [51]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [52]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [53]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [54]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [55]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [56]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [57]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [58]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [59]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [60]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [61]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [62]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [63]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [64]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [65]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [66]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [67]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [68]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [69]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [70]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [71]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [72]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [73]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [74]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [75]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [76]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [77]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [78]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [79]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [80]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [81]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [82]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [83]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [84]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [85]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [86]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [87]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [88]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [89]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [90]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [91]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [92]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [93]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [94]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [95]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [96]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [97]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [98]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [99]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [100]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [101]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [102]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [103]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [104]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [105]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [106]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [107]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [108]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [109]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [110]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [111]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [112]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [113]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [114]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [115]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [116]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [117]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [118]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [119]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [120]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [121]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [122]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [123]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [124]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [125]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [126]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [127]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [128]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [129]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [130]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [131]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [132]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [133]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [134]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [135]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [136]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [137]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [138]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [139]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [140]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [141]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [142]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [143]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [144]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [145]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [146]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [147]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [148]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [149]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [150]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [151]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [152]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [153]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [154]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [155]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [156]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [157]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [158]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [159]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [160]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [161]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [162]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [163]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [164]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [165]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [166]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [167]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [168]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [169]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [170]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [171]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [172]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [173]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [174]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [175]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [176]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [177]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [178]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [179]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [180]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [181]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [182]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [183]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [184]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [185]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [186]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [187]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [188]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [189]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [190]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [191]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [192]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [193]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [194]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [195]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [196]
+				{
+					1.353000000002794, -- [1]
+					"Spire Gargoyle", -- [2]
+					70189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [197]
+			},
+			[69882] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [11]
+			},
+			[69898] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Summoner", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Sorcerer", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Hierophant", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Luminary", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vicar", -- [5]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Sorcerer", -- [5]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Hierophant", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Marksman", -- [5]
+				}, -- [14]
+			},
+			[69902] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69902, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69902, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69902, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69902, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69902, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69902, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69902, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69902, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69902, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69902, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [10]
+			},
+			[69969] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [14]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [15]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [16]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [17]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [18]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [19]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [20]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [21]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [22]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [23]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [24]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [25]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [26]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [27]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [28]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [29]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [30]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [31]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [32]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [33]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [34]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [35]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [36]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [37]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [38]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [39]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [40]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [41]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [42]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [43]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [44]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [45]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [46]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [47]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [48]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [49]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [50]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [51]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [52]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [53]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [54]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [55]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [56]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [57]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [58]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [59]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [60]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Defender", -- [5]
+				}, -- [61]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [62]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Stalker", -- [5]
+				}, -- [63]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [64]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [65]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Necrolyte", -- [5]
+				}, -- [66]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [67]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [68]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Frenzied Abomination", -- [5]
+				}, -- [69]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [70]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69969, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Gargoyle", -- [5]
+				}, -- [71]
+			},
+			[69973] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [14]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Summoner", -- [2]
+					69973, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Oracle", -- [5]
+				}, -- [15]
+			},
+			[70371] = {
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70371, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70371, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70371, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70371, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70371, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70371, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70371, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Frenzied Abomination", -- [2]
+					70371, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+			},
+			[69989] = {
+				{
+					1.353000000002794, -- [1]
+					"Unknown", -- [2]
+					69989, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Unknown", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69989, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69989, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69989, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69989, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69989, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69989, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69989, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69989, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69989, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69989, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69989, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69989, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69989, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [14]
+			},
+			[69930] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [14]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69930, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [15]
+			},
+			[69934] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Vindicator", -- [2]
+					69934, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [14]
+			},
+			[70116] = {
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70116, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70116, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70116, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70116, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70116, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70116, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Spire Frostwyrm", -- [2]
+					70116, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+			},
+			[69920] = {
+				{
+					1.353000000002794, -- [1]
+					"Unknown", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Unknown", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [14]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [15]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [16]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [17]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [18]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [19]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [20]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [21]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [22]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [23]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [24]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [25]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [26]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [27]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [28]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [29]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [30]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [31]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [32]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [33]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [34]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [35]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [36]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [37]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [38]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [39]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [40]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [41]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [42]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [43]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [44]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Assassin", -- [2]
+					69920, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Minion", -- [5]
+				}, -- [45]
+			},
+			[69926] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Luminary", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Dreadblade", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Vindicator", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Protector", -- [5]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Luminary", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Skybreaker Assassin", -- [5]
+				}, -- [12]
+			},
+			[69965] = {
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Protector", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [11]
+			},
+			[69975] = {
+				{
+					1.353000000002794, -- [1]
+					"Unknown", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Unknown", -- [5]
+				}, -- [1]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [2]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [3]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [4]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [5]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [6]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [7]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [8]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [9]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [10]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [11]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [12]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [13]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Vanquisher", -- [5]
+				}, -- [14]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [15]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [16]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [17]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [18]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kor'kron Primalist", -- [5]
+				}, -- [19]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [20]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [21]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [22]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [23]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [24]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [25]
+				{
+					1.353000000002794, -- [1]
+					"Skybreaker Marksman", -- [2]
+					69975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Spire Frostwyrm", -- [5]
+				}, -- [26]
+			},
+		}, -- [17]
+		{
+			[71022] = {
+				{
+					1.846000000019558, -- [1]
+					"Deathbound Ward", -- [2]
+					71022, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[70842] = {
+				{
+					1.846000000019558, -- [1]
+					"Lady Deathwhisper", -- [2]
+					70842, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[70961] = {
+				{
+					1.846000000019558, -- [1]
+					"The Damned", -- [2]
+					70961, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[70965] = {
+				{
+					1.846000000019558, -- [1]
+					"Nerub'ar Broodkeeper", -- [2]
+					70965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [1]
+				{
+					1.846000000019558, -- [1]
+					"Nerub'ar Broodkeeper", -- [2]
+					70965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [2]
+				{
+					1.846000000019558, -- [1]
+					"Nerub'ar Broodkeeper", -- [2]
+					70965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [3]
+			},
+			[70980] = {
+				{
+					1.846000000019558, -- [1]
+					"Nerub'ar Broodkeeper", -- [2]
+					70980, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [1]
+			},
+		}, -- [18]
+		{
+			[71022] = {
+				{
+					1.846000000019558, -- [1]
+					"Deathbound Ward", -- [2]
+					71022, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[70842] = {
+				{
+					1.846000000019558, -- [1]
+					"Lady Deathwhisper", -- [2]
+					70842, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[70961] = {
+				{
+					1.846000000019558, -- [1]
+					"The Damned", -- [2]
+					70961, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[70965] = {
+				{
+					1.846000000019558, -- [1]
+					"Nerub'ar Broodkeeper", -- [2]
+					70965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [1]
+				{
+					1.846000000019558, -- [1]
+					"Nerub'ar Broodkeeper", -- [2]
+					70965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [2]
+				{
+					1.846000000019558, -- [1]
+					"Nerub'ar Broodkeeper", -- [2]
+					70965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [3]
+			},
+			[70980] = {
+				{
+					1.846000000019558, -- [1]
+					"Nerub'ar Broodkeeper", -- [2]
+					70980, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [1]
+			},
+		}, -- [19]
+		{
+			[304251] = {
+				{
+					3.116000000038184, -- [1]
+					"Void Boar", -- [2]
+					304251, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [1]
+				{
+					3.116000000038184, -- [1]
+					"Void Boar", -- [2]
+					304251, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [2]
+				{
+					6.743000000016764, -- [1]
+					"Void Boar", -- [2]
+					304251, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kudab-Zul'jin", -- [5]
+				}, -- [3]
+			},
+			[306752] = {
+				{
+					5.79500000004191, -- [1]
+					"Thrall", -- [2]
+					306752, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kudab-Zul'jin", -- [5]
+				}, -- [1]
+				{
+					5.79500000004191, -- [1]
+					"Thrall", -- [2]
+					306752, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kudab-Zul'jin", -- [5]
+				}, -- [2]
+				{
+					18.02399999997579, -- [1]
+					"Thrall", -- [2]
+					306752, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Vespp-Zul'jin", -- [5]
+				}, -- [3]
+				{
+					18.53200000000652, -- [1]
+					"Thrall", -- [2]
+					306752, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [4]
+				{
+					19.69999999995343, -- [1]
+					"Thrall", -- [2]
+					306752, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [5]
+				{
+					19.98900000005961, -- [1]
+					"Thrall", -- [2]
+					306752, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kudab-Zul'jin", -- [5]
+				}, -- [6]
+				{
+					21.27199999999721, -- [1]
+					"Thrall", -- [2]
+					306752, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Vespp-Zul'jin", -- [5]
+				}, -- [7]
+				{
+					23.15500000002794, -- [1]
+					"Thrall", -- [2]
+					306752, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [8]
+				{
+					35.06499999994412, -- [1]
+					"Thrall", -- [2]
+					306752, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kudab-Zul'jin", -- [5]
+				}, -- [9]
+				{
+					39.81400000001304, -- [1]
+					"Thrall", -- [2]
+					306752, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [10]
+				{
+					39.81400000001304, -- [1]
+					"Thrall", -- [2]
+					306752, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [11]
+				{
+					39.81400000001304, -- [1]
+					"Thrall", -- [2]
+					306752, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [12]
+				{
+					42.78800000005867, -- [1]
+					"Thrall", -- [2]
+					306752, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [13]
+				{
+					50.20999999996275, -- [1]
+					"Thrall", -- [2]
+					306752, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kudab-Zul'jin", -- [5]
+				}, -- [14]
+				{
+					51.78200000000652, -- [1]
+					"Thrall", -- [2]
+					306752, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [15]
+				{
+					60.00399999995716, -- [1]
+					"Thrall", -- [2]
+					306752, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [16]
+				{
+					62.71400000003632, -- [1]
+					"Thrall", -- [2]
+					306752, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [17]
+				{
+					63.48999999999069, -- [1]
+					"Thrall", -- [2]
+					306752, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [18]
+				{
+					65.3059999999823, -- [1]
+					"Thrall", -- [2]
+					306752, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Vespp-Zul'jin", -- [5]
+				}, -- [19]
+				{
+					65.57900000002701, -- [1]
+					"Thrall", -- [2]
+					306752, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [20]
+				{
+					65.82799999997951, -- [1]
+					"Thrall", -- [2]
+					306752, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kudab-Zul'jin", -- [5]
+				}, -- [21]
+				{
+					66.32999999995809, -- [1]
+					"Thrall", -- [2]
+					306752, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [22]
+			},
+			[297822] = {
+				{
+					12.07200000004377, -- [1]
+					"Thrall", -- [2]
+					297822, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					37.7730000000447, -- [1]
+					"Thrall", -- [2]
+					297822, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					58.95799999998417, -- [1]
+					"Thrall", -- [2]
+					297822, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+			},
+			[319643] = {
+				{
+					26.96900000004098, -- [1]
+					"Thrall", -- [2]
+					319643, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[306828] = {
+				{
+					5.766999999992549, -- [1]
+					"Thrall", -- [2]
+					306828, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					17.97199999995064, -- [1]
+					"Thrall", -- [2]
+					306828, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					35.01500000001397, -- [1]
+					"Thrall", -- [2]
+					306828, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					50.1480000000447, -- [1]
+					"Thrall", -- [2]
+					306828, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					62.40800000005402, -- [1]
+					"Thrall", -- [2]
+					306828, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+			},
+			[304976] = {
+				{
+					32.98800000001211, -- [1]
+					"Thrall", -- [2]
+					304976, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[297574] = {
+				{
+					47.10900000005495, -- [1]
+					"Thrall", -- [2]
+					297574, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+		}, -- [20]
+		{
+			[306617] = {
+				{
+					10.41599999996834, -- [1]
+					"Vez'okk the Lightless", -- [2]
+					306617, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					26.28099999995902, -- [1]
+					"Vez'okk the Lightless", -- [2]
+					306617, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+			[306752] = {
+				{
+					17.03899999998976, -- [1]
+					"Vez'okk the Lightless", -- [2]
+					306752, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [1]
+				{
+					22.04599999997299, -- [1]
+					"Vez'okk the Lightless", -- [2]
+					306752, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Vespp-Zul'jin", -- [5]
+				}, -- [2]
+			},
+			[306726] = {
+				{
+					5.211999999941327, -- [1]
+					"Vez'okk the Lightless", -- [2]
+					306726, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					17.00199999997858, -- [1]
+					"Vez'okk the Lightless", -- [2]
+					306726, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+			[296510] = {
+				{
+					18.21999999997206, -- [1]
+					"Crawling Corruption", -- [2]
+					296510, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					18.21999999997206, -- [1]
+					"Crawling Corruption", -- [2]
+					296510, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					20.65499999991152, -- [1]
+					"Crawling Corruption", -- [2]
+					296510, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					24.32099999999628, -- [1]
+					"Crawling Corruption", -- [2]
+					296510, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					24.32099999999628, -- [1]
+					"Crawling Corruption", -- [2]
+					296510, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					30.43299999996088, -- [1]
+					"Crawling Corruption", -- [2]
+					296510, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+			},
+			[306656] = {
+				{
+					7.497999999905005, -- [1]
+					"Vez'okk the Lightless", -- [2]
+					306656, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					12.34799999999814, -- [1]
+					"Vez'okk the Lightless", -- [2]
+					306656, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					19.64899999997579, -- [1]
+					"Vez'okk the Lightless", -- [2]
+					306656, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+			},
+		}, -- [21]
+		{
+			[297574] = {
+				{
+					7.765999999945052, -- [1]
+					"Oblivion Elemental", -- [2]
+					297574, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					12.64499999990221, -- [1]
+					"Oblivion Elemental", -- [2]
+					297574, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+		}, -- [22]
+		{
+			[304282] = {
+				{
+					17.5580000000773, -- [1]
+					"Rexxar", -- [2]
+					304282, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[304256] = {
+				{
+					5.700000000069849, -- [1]
+					"Huffer", -- [2]
+					304256, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [1]
+				{
+					9.478000000002794, -- [1]
+					"Ruffer", -- [2]
+					304256, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Vespp-Zul'jin", -- [5]
+				}, -- [2]
+				{
+					12.05400000000373, -- [1]
+					"Suffer", -- [2]
+					304256, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [3]
+				{
+					13, -- [1]
+					"C'Thuffer", -- [2]
+					304256, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Vespp-Zul'jin", -- [5]
+				}, -- [4]
+			},
+			[304251] = {
+				{
+					17.58700000005774, -- [1]
+					"Suffer", -- [2]
+					304251, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [1]
+				{
+					17.58700000005774, -- [1]
+					"Huffer", -- [2]
+					304251, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kudab-Zul'jin", -- [5]
+				}, -- [2]
+				{
+					20.98999999999069, -- [1]
+					"Suffer", -- [2]
+					304251, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Vespp-Zul'jin", -- [5]
+				}, -- [3]
+				{
+					21.35200000007171, -- [1]
+					"Ruffer", -- [2]
+					304251, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [4]
+				{
+					22.21799999999348, -- [1]
+					"C'Thuffer", -- [2]
+					304251, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kudab-Zul'jin", -- [5]
+				}, -- [5]
+				{
+					24.10400000005029, -- [1]
+					"Suffer", -- [2]
+					304251, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kudab-Zul'jin", -- [5]
+				}, -- [6]
+				{
+					24.64699999999721, -- [1]
+					"Ruffer", -- [2]
+					304251, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [7]
+				{
+					25.86400000005961, -- [1]
+					"C'Thuffer", -- [2]
+					304251, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Vespp-Zul'jin", -- [5]
+				}, -- [8]
+				{
+					28.24499999999534, -- [1]
+					"Suffer", -- [2]
+					304251, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kudab-Zul'jin", -- [5]
+				}, -- [9]
+				{
+					28.28700000001118, -- [1]
+					"Ruffer", -- [2]
+					304251, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [10]
+				{
+					29.5, -- [1]
+					"C'Thuffer", -- [2]
+					304251, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kudab-Zul'jin", -- [5]
+				}, -- [11]
+			},
+		}, -- [23]
+		{
+			[304975] = {
+				{
+					4.163999999989756, -- [1]
+					"Inquisitor Gnshal", -- [2]
+					304975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					15.18199999991339, -- [1]
+					"Inquisitor Gnshal", -- [2]
+					304975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+			[307863] = {
+				{
+					10.84999999997672, -- [1]
+					"Inquisitor Gnshal", -- [2]
+					307863, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Vespp-Zul'jin", -- [5]
+				}, -- [1]
+			},
+		}, -- [24]
+		{
+			[306617] = {
+				{
+					9.48300000000745, -- [1]
+					"Vez'okk the Lightless", -- [2]
+					306617, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					25.28599999996368, -- [1]
+					"Vez'okk the Lightless", -- [2]
+					306617, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					41.0669999999227, -- [1]
+					"Vez'okk the Lightless", -- [2]
+					306617, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					43.00799999991432, -- [1]
+					"Vez'okk the Lightless", -- [2]
+					306617, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+			},
+			[306656] = {
+				{
+					18.69899999990594, -- [1]
+					"Vez'okk the Lightless", -- [2]
+					306656, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[306726] = {
+				{
+					3.881999999983236, -- [1]
+					"Vez'okk the Lightless", -- [2]
+					306726, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					16.04799999995157, -- [1]
+					"Vez'okk the Lightless", -- [2]
+					306726, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					30.65200000000186, -- [1]
+					"Vez'okk the Lightless", -- [2]
+					306726, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+			},
+			[296510] = {
+				{
+					29.42799999995623, -- [1]
+					"Crawling Corruption", -- [2]
+					296510, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					29.42799999995623, -- [1]
+					"Crawling Corruption", -- [2]
+					296510, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					31.87199999997392, -- [1]
+					"Crawling Corruption", -- [2]
+					296510, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+			},
+		}, -- [25]
+		{
+			[304282] = {
+				{
+					18.0690000000177, -- [1]
+					"Rexxar", -- [2]
+					304282, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[304256] = {
+				{
+					6.173999999999069, -- [1]
+					"Huffer", -- [2]
+					304256, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kudab-Zul'jin", -- [5]
+				}, -- [1]
+				{
+					10.27500000002328, -- [1]
+					"Ruffer", -- [2]
+					304256, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [2]
+				{
+					12.85499999998137, -- [1]
+					"Suffer", -- [2]
+					304256, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [3]
+				{
+					13.87100000004284, -- [1]
+					"C'Thuffer", -- [2]
+					304256, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kudab-Zul'jin", -- [5]
+				}, -- [4]
+			},
+			[304251] = {
+				{
+					9.75, -- [1]
+					"Huffer", -- [2]
+					304251, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Vespp-Zul'jin", -- [5]
+				}, -- [1]
+				{
+					16.61999999999534, -- [1]
+					"Suffer", -- [2]
+					304251, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [2]
+				{
+					17.86999999999534, -- [1]
+					"C'Thuffer", -- [2]
+					304251, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kudab-Zul'jin", -- [5]
+				}, -- [3]
+				{
+					20.29200000001583, -- [1]
+					"Suffer", -- [2]
+					304251, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [4]
+				{
+					20.29200000001583, -- [1]
+					"Ruffer", -- [2]
+					304251, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [5]
+				{
+					21.51300000003539, -- [1]
+					"C'Thuffer", -- [2]
+					304251, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kudab-Zul'jin", -- [5]
+				}, -- [6]
+				{
+					23.97700000007171, -- [1]
+					"Suffer", -- [2]
+					304251, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [7]
+				{
+					25.18000000005122, -- [1]
+					"C'Thuffer", -- [2]
+					304251, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Vespp-Zul'jin", -- [5]
+				}, -- [8]
+			},
+		}, -- [26]
+		{
+			[307863] = {
+				{
+					8.103000000002794, -- [1]
+					"Inquisitor Gnshal", -- [2]
+					307863, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Vespp-Zul'jin", -- [5]
+				}, -- [1]
+				{
+					25.09499999997206, -- [1]
+					"Inquisitor Gnshal", -- [2]
+					307863, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Vespp-Zul'jin", -- [5]
+				}, -- [2]
+			},
+			[304975] = {
+				{
+					12.37400000006892, -- [1]
+					"Inquisitor Gnshal", -- [2]
+					304975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					17.22900000005029, -- [1]
+					"Inquisitor Gnshal", -- [2]
+					304975, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+		}, -- [27]
 		{
 			[291865] = {
 				{
@@ -656,7 +28542,7 @@ DetailsTimeLineDB = {
 					"Vespp-Zul'jin", -- [5]
 				}, -- [4]
 			},
-		}, -- [1]
+		}, -- [28]
 		{
 			[285454] = {
 				{
@@ -780,7 +28666,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [3]
 			},
-		}, -- [2]
+		}, -- [29]
 		{
 			[291973] = {
 				{
@@ -1020,7 +28906,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [5]
 			},
-		}, -- [3]
+		}, -- [30]
 		{
 			[285344] = {
 				{
@@ -1171,7 +29057,7 @@ DetailsTimeLineDB = {
 					"Dzblinkblink-Illidan", -- [5]
 				}, -- [2]
 			},
-		}, -- [4]
+		}, -- [31]
 		{
 			[263365] = {
 				{
@@ -1390,7 +29276,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [6]
 			},
-		}, -- [5]
+		}, -- [32]
 		{
 			[257777] = {
 				{
@@ -1534,7 +29420,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [6]
+		}, -- [33]
 		{
 			[259975] = {
 				{
@@ -1762,20 +29648,6 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-			[257608] = {
-				{
-					23.52299999992829, -- [1]
-					"The Sand Queen", -- [2]
-					257608, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-				{
-					70.92399999999907, -- [1]
-					"The Sand Queen", -- [2]
-					257608, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
-			},
 			[260016] = {
 				{
 					14.45100000000093, -- [1]
@@ -1970,7 +29842,21 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [32]
 			},
-		}, -- [7]
+			[257608] = {
+				{
+					23.52299999992829, -- [1]
+					"The Sand Queen", -- [2]
+					257608, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					70.92399999999907, -- [1]
+					"The Sand Queen", -- [2]
+					257608, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+		}, -- [34]
 		{
 			[314411] = {
 				{
@@ -2295,7 +30181,7 @@ DetailsTimeLineDB = {
 					"Kudab-Zul'jin", -- [5]
 				}, -- [1]
 			},
-		}, -- [8]
+		}, -- [35]
 		{
 			[261438] = {
 				{
@@ -2724,7 +30610,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [3]
 			},
-		}, -- [9]
+		}, -- [36]
 		{
 			[261266] = {
 				{
@@ -3215,12 +31101,13 @@ DetailsTimeLineDB = {
 					"Focusing Iris", -- [5]
 				}, -- [5]
 			},
-			[264487] = {
+			[260696] = {
 				{
-					70.03000000002794, -- [1]
-					"Loot-Kil'jaeden", -- [2]
-					264487, -- [3]
+					90.25, -- [1]
+					"Sister Malady", -- [2]
+					260696, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Kudab-Zul'jin", -- [5]
 				}, -- [1]
 			},
 			[268122] = {
@@ -3237,13 +31124,12 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-			[260696] = {
+			[264487] = {
 				{
-					90.25, -- [1]
-					"Sister Malady", -- [2]
-					260696, -- [3]
+					70.03000000002794, -- [1]
+					"Loot-Kil'jaeden", -- [2]
+					264487, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Kudab-Zul'jin", -- [5]
 				}, -- [1]
 			},
 			[260700] = {
@@ -3411,7 +31297,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [10]
+		}, -- [37]
 		{
 			[264694] = {
 				{
@@ -3610,7 +31496,7 @@ DetailsTimeLineDB = {
 					"Wasting Servant", -- [5]
 				}, -- [2]
 			},
-		}, -- [11]
+		}, -- [38]
 		{
 			[260508] = {
 				{
@@ -3662,7 +31548,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [3]
 			},
-		}, -- [12]
+		}, -- [39]
 		{
 			[268936] = {
 				{
@@ -3748,77 +31634,6 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [6]
 			},
-			[269369] = {
-				{
-					45.94500000000699, -- [1]
-					"T'zala", -- [2]
-					269369, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-				{
-					59.60700000001816, -- [1]
-					"T'zala", -- [2]
-					269369, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
-			},
-			[269231] = {
-				{
-					21.36999999999534, -- [1]
-					"Reban", -- [2]
-					269231, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Bigblaris-Zul'jin", -- [5]
-				}, -- [1]
-				{
-					33.47899999999208, -- [1]
-					"Reban", -- [2]
-					269231, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Bigblaris-Zul'jin", -- [5]
-				}, -- [2]
-				{
-					45.625, -- [1]
-					"Reban", -- [2]
-					269231, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Bigblaris-Zul'jin", -- [5]
-				}, -- [3]
-			},
-			[268932] = {
-				{
-					17.18400000000838, -- [1]
-					"King Dazar", -- [2]
-					268932, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-				{
-					36.58900000003632, -- [1]
-					"King Dazar", -- [2]
-					268932, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
-				{
-					65.73300000000745, -- [1]
-					"King Dazar", -- [2]
-					268932, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [3]
-				{
-					90.21400000003632, -- [1]
-					"King Dazar", -- [2]
-					268932, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [4]
-			},
-			[269351] = {
-				{
-					37.94500000000699, -- [1]
-					"T'zala", -- [2]
-					269351, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-			},
 			[268403] = {
 				{
 					9.129000000015367, -- [1]
@@ -3877,7 +31692,78 @@ DetailsTimeLineDB = {
 					"Bigblaris-Zul'jin", -- [5]
 				}, -- [8]
 			},
-		}, -- [13]
+			[269231] = {
+				{
+					21.36999999999534, -- [1]
+					"Reban", -- [2]
+					269231, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Bigblaris-Zul'jin", -- [5]
+				}, -- [1]
+				{
+					33.47899999999208, -- [1]
+					"Reban", -- [2]
+					269231, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Bigblaris-Zul'jin", -- [5]
+				}, -- [2]
+				{
+					45.625, -- [1]
+					"Reban", -- [2]
+					269231, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Bigblaris-Zul'jin", -- [5]
+				}, -- [3]
+			},
+			[268932] = {
+				{
+					17.18400000000838, -- [1]
+					"King Dazar", -- [2]
+					268932, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					36.58900000003632, -- [1]
+					"King Dazar", -- [2]
+					268932, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					65.73300000000745, -- [1]
+					"King Dazar", -- [2]
+					268932, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					90.21400000003632, -- [1]
+					"King Dazar", -- [2]
+					268932, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+			},
+			[269351] = {
+				{
+					37.94500000000699, -- [1]
+					"T'zala", -- [2]
+					269351, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[269369] = {
+				{
+					45.94500000000699, -- [1]
+					"T'zala", -- [2]
+					269369, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					59.60700000001816, -- [1]
+					"T'zala", -- [2]
+					269369, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+		}, -- [40]
 		{
 			[266939] = {
 				{
@@ -4148,14 +32034,6 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-			[267257] = {
-				{
-					154.6109999999753, -- [1]
-					"Thundering Totem", -- [2]
-					267257, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-			},
 			[266237] = {
 				{
 					16.90299999999115, -- [1]
@@ -4163,6 +32041,14 @@ DetailsTimeLineDB = {
 					266237, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 					"Kudab-Zul'jin", -- [5]
+				}, -- [1]
+			},
+			[267257] = {
+				{
+					154.6109999999753, -- [1]
+					"Thundering Totem", -- [2]
+					267257, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
 			[267256] = {
@@ -4203,7 +32089,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [6]
 			},
-		}, -- [14]
+		}, -- [41]
 		{
 			[267639] = {
 				{
@@ -4237,8 +32123,28 @@ DetailsTimeLineDB = {
 					"Bigblaris-Zul'jin", -- [5]
 				}, -- [1]
 			},
-		}, -- [15]
+		}, -- [42]
 		{
+			[265781] = {
+				{
+					15.78100000001723, -- [1]
+					"The Golden Serpent", -- [2]
+					265781, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					38.43400000000838, -- [1]
+					"The Golden Serpent", -- [2]
+					265781, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					60.29800000000978, -- [1]
+					"The Golden Serpent", -- [2]
+					265781, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+			},
 			[265910] = {
 				{
 					17.45299999997951, -- [1]
@@ -4268,34 +32174,6 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 					"Kudab-Zul'jin", -- [5]
 				}, -- [4]
-			},
-			[265781] = {
-				{
-					15.78100000001723, -- [1]
-					"The Golden Serpent", -- [2]
-					265781, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-				{
-					38.43400000000838, -- [1]
-					"The Golden Serpent", -- [2]
-					265781, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
-				{
-					60.29800000000978, -- [1]
-					"The Golden Serpent", -- [2]
-					265781, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [3]
-			},
-			[265923] = {
-				{
-					46.93300000001909, -- [1]
-					"The Golden Serpent", -- [2]
-					265923, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
 			},
 			[265773] = {
 				{
@@ -4341,7 +32219,15 @@ DetailsTimeLineDB = {
 					"Vespp-Zul'jin", -- [5]
 				}, -- [6]
 			},
-		}, -- [16]
+			[265923] = {
+				{
+					46.93300000001909, -- [1]
+					"The Golden Serpent", -- [2]
+					265923, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+		}, -- [43]
 		{
 			[273677] = {
 				{
@@ -4573,7 +32459,7 @@ DetailsTimeLineDB = {
 					"Kruna-Blackrock", -- [5]
 				}, -- [6]
 			},
-		}, -- [17]
+		}, -- [44]
 		{
 			[273241] = {
 				{
@@ -4682,7 +32568,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [9]
 			},
-		}, -- [18]
+		}, -- [45]
 		{
 			[264235] = {
 				{
@@ -4988,7 +32874,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [4]
 			},
-		}, -- [19]
+		}, -- [46]
 		{
 			[263371] = {
 				{
@@ -4998,36 +32884,6 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 					"Hixvak", -- [5]
 				}, -- [1]
-			},
-			[263234] = {
-				{
-					7.035000000032596, -- [1]
-					"Adderis", -- [2]
-					263234, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-				{
-					20.40799999999581, -- [1]
-					"Adderis", -- [2]
-					263234, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
-			},
-			[263309] = {
-				{
-					11.49100000003818, -- [1]
-					"Adderis", -- [2]
-					263309, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Rossk-MoonGuard", -- [5]
-				}, -- [1]
-				{
-					24.86800000001676, -- [1]
-					"Adderis", -- [2]
-					263309, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Hixvak", -- [5]
-				}, -- [2]
 			},
 			[263318] = {
 				{
@@ -5073,6 +32929,44 @@ DetailsTimeLineDB = {
 					"Rossk-MoonGuard", -- [5]
 				}, -- [6]
 			},
+			[263309] = {
+				{
+					11.49100000003818, -- [1]
+					"Adderis", -- [2]
+					263309, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Rossk-MoonGuard", -- [5]
+				}, -- [1]
+				{
+					24.86800000001676, -- [1]
+					"Adderis", -- [2]
+					263309, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hixvak", -- [5]
+				}, -- [2]
+			},
+			[263234] = {
+				{
+					7.035000000032596, -- [1]
+					"Adderis", -- [2]
+					263234, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					20.40799999999581, -- [1]
+					"Adderis", -- [2]
+					263234, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+			[263257] = {
+				{
+					27.99600000004284, -- [1]
+					"Aspix", -- [2]
+					263257, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
 			[269116] = {
 				{
 					5.29400000005262, -- [1]
@@ -5087,19 +32981,11 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-			[263257] = {
-				{
-					27.99600000004284, -- [1]
-					"Aspix", -- [2]
-					263257, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-			},
-		}, -- [20]
+		}, -- [47]
 		{
-		}, -- [21]
+		}, -- [48]
 		{
-		}, -- [22]
+		}, -- [49]
 		{
 			[137344] = {
 				{
@@ -5134,7 +33020,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [23]
+		}, -- [50]
 		{
 			[137344] = {
 				{
@@ -5169,7 +33055,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [24]
+		}, -- [51]
 		{
 			[136767] = {
 				{
@@ -5180,7 +33066,7 @@ DetailsTimeLineDB = {
 					"Ahriak", -- [5]
 				}, -- [1]
 			},
-		}, -- [25]
+		}, -- [52]
 		{
 			[138427] = {
 				{
@@ -5190,7 +33076,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [26]
+		}, -- [53]
 		{
 			[257315] = {
 				{
@@ -5253,7 +33139,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [27]
+		}, -- [54]
 		{
 			[256363] = {
 				{
@@ -5728,7 +33614,7 @@ DetailsTimeLineDB = {
 					"Moogan-Thunderlord", -- [5]
 				}, -- [3]
 			},
-		}, -- [28]
+		}, -- [55]
 		{
 			[258352] = {
 				{
@@ -5991,7 +33877,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [29]
+		}, -- [56]
 		{
 			[255952] = {
 				{
@@ -6189,7 +34075,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [30]
+		}, -- [57]
 		{
 			[308278] = {
 				{
@@ -6378,7 +34264,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [31]
+		}, -- [58]
 		{
 			[309671] = {
 				{
@@ -6388,7 +34274,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [32]
+		}, -- [59]
 		{
 			[101592] = {
 				{
@@ -6406,7 +34292,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [33]
+		}, -- [60]
 		{
 			[101592] = {
 				{
@@ -6424,22 +34310,11 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [34]
+		}, -- [61]
 		{
-		}, -- [35]
+		}, -- [62]
 		{
-		}, -- [36]
-		{
-			[102057] = {
-				{
-					0.1, -- [1]
-					"Undying Flame", -- [2]
-					102057, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Ahriak", -- [5]
-				}, -- [1]
-			},
-		}, -- [37]
+		}, -- [63]
 		{
 			[102057] = {
 				{
@@ -6450,7 +34325,18 @@ DetailsTimeLineDB = {
 					"Ahriak", -- [5]
 				}, -- [1]
 			},
-		}, -- [38]
+		}, -- [64]
+		{
+			[102057] = {
+				{
+					0.1, -- [1]
+					"Undying Flame", -- [2]
+					102057, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [1]
+			},
+		}, -- [65]
 		{
 			[77806] = {
 				{
@@ -6460,7 +34346,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [39]
+		}, -- [66]
 		{
 			[77806] = {
 				{
@@ -6470,7 +34356,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [40]
+		}, -- [67]
 		{
 			[86082] = {
 				{
@@ -6498,7 +34384,7 @@ DetailsTimeLineDB = {
 					"Anshal", -- [5]
 				}, -- [1]
 			},
-		}, -- [41]
+		}, -- [68]
 		{
 			[87654] = {
 				{
@@ -6561,7 +34447,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [42]
+		}, -- [69]
 		{
 			[82630] = {
 				{
@@ -6571,7 +34457,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [43]
+		}, -- [70]
 		{
 			[82285] = {
 				{
@@ -6589,7 +34475,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [44]
+		}, -- [71]
 		{
 			[85575] = {
 				{
@@ -6629,7 +34515,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [6]
 			},
-		}, -- [45]
+		}, -- [72]
 		{
 			[86058] = {
 				{
@@ -6639,7 +34525,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [46]
+		}, -- [73]
 		{
 			[86058] = {
 				{
@@ -6649,7 +34535,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [47]
+		}, -- [74]
 		{
 			[256363] = {
 				{
@@ -6975,7 +34861,7 @@ DetailsTimeLineDB = {
 					"Tangeleah", -- [5]
 				}, -- [2]
 			},
-		}, -- [48]
+		}, -- [75]
 		{
 			[257278] = {
 				{
@@ -7007,7 +34893,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [49]
+		}, -- [76]
 		{
 			[258352] = {
 				{
@@ -7069,26 +34955,6 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-			[256589] = {
-				{
-					7.027000000001863, -- [1]
-					"Captain Raoul", -- [2]
-					256589, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-				{
-					30.11599999997998, -- [1]
-					"Captain Raoul", -- [2]
-					256589, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
-				{
-					53.19500000000699, -- [1]
-					"Captain Raoul", -- [2]
-					256589, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [3]
-			},
 			[256979] = {
 				{
 					4.826000000000931, -- [1]
@@ -7125,6 +34991,26 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 					"Tangeleah", -- [5]
 				}, -- [5]
+			},
+			[256589] = {
+				{
+					7.027000000001863, -- [1]
+					"Captain Raoul", -- [2]
+					256589, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					30.11599999997998, -- [1]
+					"Captain Raoul", -- [2]
+					256589, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					53.19500000000699, -- [1]
+					"Captain Raoul", -- [2]
+					256589, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
 			},
 			[265168] = {
 				{
@@ -7176,7 +35062,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [3]
 			},
-		}, -- [50]
+		}, -- [77]
 		{
 			[255952] = {
 				{
@@ -7355,7 +35241,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [51]
+		}, -- [78]
 		{
 			[258202] = {
 				{
@@ -7404,7 +35290,7 @@ DetailsTimeLineDB = {
 					"Cursed Raider", -- [5]
 				}, -- [3]
 			},
-		}, -- [52]
+		}, -- [79]
 		{
 			[156669] = {
 				{
@@ -7454,7 +35340,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [53]
+		}, -- [80]
 		{
 			[155921] = {
 				{
@@ -7473,9 +35359,9 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [54]
+		}, -- [81]
 		{
-		}, -- [55]
+		}, -- [82]
 		{
 			[156861] = {
 				{
@@ -7494,11 +35380,11 @@ DetailsTimeLineDB = {
 					"Ahriak", -- [5]
 				}, -- [1]
 			},
-		}, -- [56]
+		}, -- [83]
 		{
-		}, -- [57]
+		}, -- [84]
 		{
-		}, -- [58]
+		}, -- [85]
 		{
 			[155192] = {
 				{
@@ -8050,7 +35936,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [59]
+		}, -- [86]
 		{
 			[18501] = {
 				{
@@ -8066,7 +35952,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [60]
+		}, -- [87]
 		{
 			[156390] = {
 				{
@@ -8100,7 +35986,7 @@ DetailsTimeLineDB = {
 					"Ahriak", -- [5]
 				}, -- [2]
 			},
-		}, -- [61]
+		}, -- [88]
 		{
 			[269266] = {
 				{
@@ -8204,7 +36090,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [62]
+		}, -- [89]
 		{
 			[257882] = {
 				{
@@ -8234,7 +36120,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [63]
+		}, -- [90]
 		{
 			[269029] = {
 				{
@@ -8448,7 +36334,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [10]
 			},
-		}, -- [64]
+		}, -- [91]
 		{
 			[257063] = {
 				{
@@ -8843,7 +36729,7 @@ DetailsTimeLineDB = {
 					"Tombchom-Mal'Ganis", -- [5]
 				}, -- [4]
 			},
-		}, -- [65]
+		}, -- [92]
 		{
 			[256083] = {
 				{
@@ -8973,7 +36859,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [4]
 			},
-		}, -- [66]
+		}, -- [93]
 		{
 			[257028] = {
 				{
@@ -9013,7 +36899,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [67]
+		}, -- [94]
 		{
 			[257777] = {
 				{
@@ -9104,7 +36990,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [68]
+		}, -- [95]
 		{
 			[259975] = {
 				{
@@ -9260,14 +37146,6 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-			[257608] = {
-				{
-					23.39899999997579, -- [1]
-					"The Sand Queen", -- [2]
-					257608, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-			},
 			[260016] = {
 				{
 					13.7839999999851, -- [1]
@@ -9366,7 +37244,15 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [16]
 			},
-		}, -- [69]
+			[257608] = {
+				{
+					23.39899999997579, -- [1]
+					"The Sand Queen", -- [2]
+					257608, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+		}, -- [96]
 		{
 			[157657] = {
 				{
@@ -9756,30 +37642,6 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [4]
 			},
-			[157289] = {
-				{
-					93.36000000004424, -- [1]
-					"Imperator Mar'gok", -- [2]
-					157289, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-			},
-			[163990] = {
-				{
-					166.3979999999865, -- [1]
-					"Imperator Mar'gok", -- [2]
-					163990, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-			},
-			[174057] = {
-				{
-					10.9210000000312, -- [1]
-					"Imperator Mar'gok", -- [2]
-					174057, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-			},
 			[157769] = {
 				{
 					18.08400000003167, -- [1]
@@ -9842,6 +37704,30 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [10]
 			},
+			[163990] = {
+				{
+					166.3979999999865, -- [1]
+					"Imperator Mar'gok", -- [2]
+					163990, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[174057] = {
+				{
+					10.9210000000312, -- [1]
+					"Imperator Mar'gok", -- [2]
+					174057, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[157289] = {
+				{
+					93.36000000004424, -- [1]
+					"Imperator Mar'gok", -- [2]
+					157289, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
 			[157801] = {
 				{
 					20.22299999999814, -- [1]
@@ -9862,11 +37748,11 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [3]
 			},
-			[181113] = {
+			[157278] = {
 				{
-					160.0580000000191, -- [1]
-					"Unknown", -- [2]
-					181113, -- [3]
+					13.33300000004238, -- [1]
+					"Imperator Mar'gok", -- [2]
+					157278, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
@@ -10082,15 +37968,15 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [35]
 			},
-			[157278] = {
+			[181113] = {
 				{
-					13.33300000004238, -- [1]
-					"Imperator Mar'gok", -- [2]
-					157278, -- [3]
+					160.0580000000191, -- [1]
+					"Unknown", -- [2]
+					181113, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [70]
+		}, -- [97]
 		{
 			[160734] = {
 				{
@@ -10100,7 +37986,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [71]
+		}, -- [98]
 		{
 			[160734] = {
 				{
@@ -10110,13 +37996,13 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [72]
+		}, -- [99]
 		{
-		}, -- [73]
+		}, -- [100]
 		{
-		}, -- [74]
+		}, -- [101]
 		{
-		}, -- [75]
+		}, -- [102]
 		{
 			[181089] = {
 				{
@@ -10394,7 +38280,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [76]
+		}, -- [103]
 		{
 			[156598] = {
 				{
@@ -10654,7 +38540,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [40]
 			},
-		}, -- [77]
+		}, -- [104]
 		{
 			[156135] = {
 				{
@@ -10672,7 +38558,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [78]
+		}, -- [105]
 		{
 			[156135] = {
 				{
@@ -10690,7 +38576,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [79]
+		}, -- [106]
 		{
 			[174564] = {
 				{
@@ -10944,7 +38830,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [3]
 			},
-		}, -- [80]
+		}, -- [107]
 		{
 			[204463] = {
 				{
@@ -10955,7 +38841,7 @@ DetailsTimeLineDB = {
 					"Ahriak", -- [5]
 				}, -- [1]
 			},
-		}, -- [81]
+		}, -- [108]
 		{
 			[204463] = {
 				{
@@ -10974,7 +38860,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [82]
+		}, -- [109]
 		{
 			[204463] = {
 				{
@@ -10993,7 +38879,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [83]
+		}, -- [110]
 		{
 			[179017] = {
 				{
@@ -11123,7 +39009,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [84]
+		}, -- [111]
 		{
 			[82890] = {
 				{
@@ -11158,7 +39044,7 @@ DetailsTimeLineDB = {
 					"Ahriak", -- [5]
 				}, -- [1]
 			},
-		}, -- [85]
+		}, -- [112]
 		{
 			[82890] = {
 				{
@@ -11193,21 +39079,11 @@ DetailsTimeLineDB = {
 					"Ahriak", -- [5]
 				}, -- [1]
 			},
-		}, -- [86]
+		}, -- [113]
 		{
-		}, -- [87]
+		}, -- [114]
 		{
-		}, -- [88]
-		{
-			[89798] = {
-				{
-					2.284000000043307, -- [1]
-					"Lord Victor Nefarius", -- [2]
-					89798, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-			},
-		}, -- [89]
+		}, -- [115]
 		{
 			[89798] = {
 				{
@@ -11217,7 +39093,17 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [90]
+		}, -- [116]
+		{
+			[89798] = {
+				{
+					2.284000000043307, -- [1]
+					"Lord Victor Nefarius", -- [2]
+					89798, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+		}, -- [117]
 		{
 			[78740] = {
 				{
@@ -11239,7 +39125,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [3]
 			},
-		}, -- [91]
+		}, -- [118]
 		{
 			[78740] = {
 				{
@@ -11261,7 +39147,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [3]
 			},
-		}, -- [92]
+		}, -- [119]
 		{
 			[80035] = {
 				{
@@ -11277,7 +39163,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [93]
+		}, -- [120]
 		{
 			[80035] = {
 				{
@@ -11293,7 +39179,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [94]
+		}, -- [121]
 		{
 			[38793] = {
 				{
@@ -11376,6 +39262,14 @@ DetailsTimeLineDB = {
 					36.3859999999986, -- [1]
 					"Unknown", -- [2]
 					79011, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[98951] = {
+				{
+					18.89100000000326, -- [1]
+					"Ragnaros", -- [2]
+					98951, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
@@ -11501,19 +39395,11 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [20]
 			},
-			[98951] = {
-				{
-					18.89100000000326, -- [1]
-					"Ragnaros", -- [2]
-					98951, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-			},
-		}, -- [95]
+		}, -- [122]
 		{
-		}, -- [96]
+		}, -- [123]
 		{
-		}, -- [97]
+		}, -- [124]
 		{
 			[99705] = {
 				{
@@ -11565,7 +39451,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [8]
 			},
-		}, -- [98]
+		}, -- [125]
 		{
 			[99705] = {
 				{
@@ -11617,19 +39503,9 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [8]
 			},
-		}, -- [99]
+		}, -- [126]
 		{
-		}, -- [100]
-		{
-			[99846] = {
-				{
-					2.205000000016298, -- [1]
-					"Lord Rhyolith", -- [2]
-					99846, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-			},
-		}, -- [101]
+		}, -- [127]
 		{
 			[99846] = {
 				{
@@ -11639,7 +39515,17 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [102]
+		}, -- [128]
+		{
+			[99846] = {
+				{
+					2.205000000016298, -- [1]
+					"Lord Rhyolith", -- [2]
+					99846, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+		}, -- [129]
 		{
 			[99333] = {
 				{
@@ -11753,7 +39639,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [16]
 			},
-		}, -- [103]
+		}, -- [130]
 		{
 			[100522] = {
 				{
@@ -11771,7 +39657,7 @@ DetailsTimeLineDB = {
 					"Shannox", -- [5]
 				}, -- [2]
 			},
-		}, -- [104]
+		}, -- [131]
 		{
 			[100522] = {
 				{
@@ -11789,7 +39675,7 @@ DetailsTimeLineDB = {
 					"Shannox", -- [5]
 				}, -- [2]
 			},
-		}, -- [105]
+		}, -- [132]
 		{
 			[295536] = {
 				{
@@ -11882,7 +39768,7 @@ DetailsTimeLineDB = {
 					"Kupunch-Zul'jin", -- [5]
 				}, -- [1]
 			},
-		}, -- [106]
+		}, -- [133]
 		{
 			[297834] = {
 				{
@@ -11936,6 +39822,30 @@ DetailsTimeLineDB = {
 					"Kupunch-Zul'jin", -- [5]
 				}, -- [6]
 			},
+			[298124] = {
+				{
+					7.508000000030734, -- [1]
+					"Gunker", -- [2]
+					298124, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Squirt Bot", -- [5]
+				}, -- [1]
+				{
+					33.45199999999022, -- [1]
+					"Gunker", -- [2]
+					298124, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Squirt Bot", -- [5]
+				}, -- [2]
+			},
+			[297835] = {
+				{
+					22.65000000002328, -- [1]
+					"Gunker", -- [2]
+					297835, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
 			[300777] = {
 				{
 					27.73600000003353, -- [1]
@@ -11962,30 +39872,6 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [4]
 			},
-			[297835] = {
-				{
-					22.65000000002328, -- [1]
-					"Gunker", -- [2]
-					297835, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-			},
-			[298124] = {
-				{
-					7.508000000030734, -- [1]
-					"Gunker", -- [2]
-					298124, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Squirt Bot", -- [5]
-				}, -- [1]
-				{
-					33.45199999999022, -- [1]
-					"Gunker", -- [2]
-					298124, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Squirt Bot", -- [5]
-				}, -- [2]
-			},
 			[297985] = {
 				{
 					7.508000000030734, -- [1]
@@ -12000,7 +39886,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [107]
+		}, -- [134]
 		{
 			[298473] = {
 				{
@@ -12217,7 +40103,7 @@ DetailsTimeLineDB = {
 					"Kupunch-Zul'jin", -- [5]
 				}, -- [1]
 			},
-		}, -- [108]
+		}, -- [135]
 		{
 			[298651] = {
 				{
@@ -12298,7 +40184,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [109]
+		}, -- [136]
 		{
 			[249919] = {
 				{
@@ -12378,7 +40264,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [110]
+		}, -- [137]
 		{
 			[255577] = {
 				{
@@ -12424,7 +40310,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [111]
+		}, -- [138]
 		{
 			[250258] = {
 				{
@@ -12512,7 +40398,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [112]
+		}, -- [139]
 		{
 			[257407] = {
 				{
@@ -12728,7 +40614,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [113]
+		}, -- [140]
 		{
 			[308278] = {
 				{
@@ -12961,7 +40847,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [114]
+		}, -- [141]
 		{
 			[309671] = {
 				{
@@ -12977,7 +40863,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [115]
+		}, -- [142]
 		{
 			[266266] = {
 				{
@@ -12993,6 +40879,23 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
+			[266181] = {
+				{
+					28.40499999996973, -- [1]
+					"Gorak Tul", -- [2]
+					266181, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[268202] = {
+				{
+					14.02999999996973, -- [1]
+					"Deathtouched Slaver", -- [2]
+					268202, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kanat-Illidan", -- [5]
+				}, -- [1]
+			},
 			[266258] = {
 				{
 					4.332999999984168, -- [1]
@@ -13006,23 +40909,6 @@ DetailsTimeLineDB = {
 					266258, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
-			},
-			[268202] = {
-				{
-					14.02999999996973, -- [1]
-					"Deathtouched Slaver", -- [2]
-					268202, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Kanat-Illidan", -- [5]
-				}, -- [1]
-			},
-			[266181] = {
-				{
-					28.40499999996973, -- [1]
-					"Gorak Tul", -- [2]
-					266181, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
 			},
 			[273657] = {
 				{
@@ -13040,7 +40926,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [116]
+		}, -- [143]
 		{
 			[261438] = {
 				{
@@ -13343,7 +41229,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [117]
+		}, -- [144]
 		{
 			[264694] = {
 				{
@@ -13374,29 +41260,6 @@ DetailsTimeLineDB = {
 					264693, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
-			},
-			[264923] = {
-				{
-					22.68900000001304, -- [1]
-					"Raal the Gluttonous", -- [2]
-					264923, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Urda-Jaedenar", -- [5]
-				}, -- [1]
-				{
-					26.3300000000163, -- [1]
-					"Raal the Gluttonous", -- [2]
-					264923, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Kanat-Illidan", -- [5]
-				}, -- [2]
-				{
-					29.96199999999953, -- [1]
-					"Raal the Gluttonous", -- [2]
-					264923, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Ahriak", -- [5]
-				}, -- [3]
 			},
 			[268234] = {
 				{
@@ -13448,6 +41311,29 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [8]
 			},
+			[264923] = {
+				{
+					22.68900000001304, -- [1]
+					"Raal the Gluttonous", -- [2]
+					264923, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Urda-Jaedenar", -- [5]
+				}, -- [1]
+				{
+					26.3300000000163, -- [1]
+					"Raal the Gluttonous", -- [2]
+					264923, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kanat-Illidan", -- [5]
+				}, -- [2]
+				{
+					29.96199999999953, -- [1]
+					"Raal the Gluttonous", -- [2]
+					264923, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [3]
+			},
 			[264931] = {
 				{
 					33.31400000001304, -- [1]
@@ -13456,7 +41342,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [118]
+		}, -- [145]
 		{
 			[260551] = {
 				{
@@ -13540,7 +41426,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [119]
+		}, -- [146]
 		{
 			[261266] = {
 				{
@@ -14086,16 +41972,8 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [120]
+		}, -- [147]
 		{
-			[261266] = {
-				{
-					281.6359999999986, -- [1]
-					"Sister Malady", -- [2]
-					261266, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-			},
 			[167381] = {
 				{
 					281.6359999999986, -- [1]
@@ -14103,6 +41981,14 @@ DetailsTimeLineDB = {
 					167381, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 					"Gámeover-Scilla", -- [5]
+				}, -- [1]
+			},
+			[261266] = {
+				{
+					281.6359999999986, -- [1]
+					"Sister Malady", -- [2]
+					261266, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
 			[276268] = {
@@ -14303,11 +42189,11 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-			[264110] = {
+			[306995] = {
 				{
-					281.6359999999986, -- [1]
-					"Marked Sister", -- [2]
-					264110, -- [3]
+					159.8989999999758, -- [1]
+					"Wrathion", -- [2]
+					306995, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
@@ -14445,15 +42331,15 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [8]
 			},
-			[306995] = {
+			[264110] = {
 				{
-					159.8989999999758, -- [1]
-					"Wrathion", -- [2]
-					306995, -- [3]
+					281.6359999999986, -- [1]
+					"Marked Sister", -- [2]
+					264110, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [121]
+		}, -- [148]
 		{
 			[291865] = {
 				{
@@ -14941,7 +42827,7 @@ DetailsTimeLineDB = {
 					"Kelithir", -- [5]
 				}, -- [4]
 			},
-		}, -- [122]
+		}, -- [149]
 		{
 			[285454] = {
 				{
@@ -15034,7 +42920,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [123]
+		}, -- [150]
 		{
 			[291973] = {
 				{
@@ -15268,7 +43154,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [5]
 			},
-		}, -- [124]
+		}, -- [151]
 		{
 			[285344] = {
 				{
@@ -15419,7 +43305,7 @@ DetailsTimeLineDB = {
 					"Netok-Quel'Thalas", -- [5]
 				}, -- [2]
 			},
-		}, -- [125]
+		}, -- [152]
 		{
 			[296080] = {
 				{
@@ -15686,7 +43572,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [126]
+		}, -- [153]
 		{
 			[297985] = {
 				{
@@ -15766,7 +43652,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [127]
+		}, -- [154]
 		{
 			[298473] = {
 				{
@@ -16387,7 +44273,7 @@ DetailsTimeLineDB = {
 					"Nyndul", -- [5]
 				}, -- [3]
 			},
-		}, -- [128]
+		}, -- [155]
 		{
 			[298897] = {
 				{
@@ -16569,7 +44455,7 @@ DetailsTimeLineDB = {
 					"Netok-Quel'Thalas", -- [5]
 				}, -- [6]
 			},
-		}, -- [129]
+		}, -- [156]
 		{
 			[249919] = {
 				{
@@ -16629,7 +44515,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [130]
+		}, -- [157]
 		{
 			[255577] = {
 				{
@@ -16682,7 +44568,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [131]
+		}, -- [158]
 		{
 			[250258] = {
 				{
@@ -16770,7 +44656,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [132]
+		}, -- [159]
 		{
 			[257407] = {
 				{
@@ -16861,7 +44747,7 @@ DetailsTimeLineDB = {
 					"Steelheal-EmeraldDream", -- [5]
 				}, -- [1]
 			},
-		}, -- [133]
+		}, -- [160]
 		{
 			[183969] = {
 				{
@@ -16973,7 +44859,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [134]
+		}, -- [161]
 		{
 			[181275] = {
 				{
@@ -16983,11 +44869,11 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [135]
+		}, -- [162]
 		{
-		}, -- [136]
+		}, -- [163]
 		{
-		}, -- [137]
+		}, -- [164]
 		{
 			[181718] = {
 				{
@@ -17005,7 +44891,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [138]
+		}, -- [165]
 		{
 			[183023] = {
 				{
@@ -17015,7 +44901,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [139]
+		}, -- [166]
 		{
 			[181873] = {
 				{
@@ -17081,7 +44967,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [140]
+		}, -- [167]
 		{
 			[182170] = {
 				{
@@ -17105,11 +44991,11 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [141]
+		}, -- [168]
 		{
-		}, -- [142]
+		}, -- [169]
 		{
-		}, -- [143]
+		}, -- [170]
 		{
 			[184449] = {
 				{
@@ -17135,9 +45021,9 @@ DetailsTimeLineDB = {
 					"Ahriak", -- [5]
 				}, -- [2]
 			},
-		}, -- [144]
+		}, -- [171]
 		{
-		}, -- [145]
+		}, -- [172]
 		{
 			[181999] = {
 				{
@@ -17147,7 +45033,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [146]
+		}, -- [173]
 		{
 			[187074] = {
 				{
@@ -18012,7 +45898,7 @@ DetailsTimeLineDB = {
 					"Hellfire Cannon", -- [5]
 				}, -- [7]
 			},
-		}, -- [147]
+		}, -- [174]
 		{
 			[306995] = {
 				{
@@ -18027,6 +45913,32 @@ DetailsTimeLineDB = {
 					306995, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
+			},
+			[306735] = {
+				{
+					67.47999999998137, -- [1]
+					"Wrathion", -- [2]
+					306735, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					145.2079999999842, -- [1]
+					"Wrathion", -- [2]
+					306735, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					284.9689999999828, -- [1]
+					"Wrathion", -- [2]
+					306735, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					360.3070000000007, -- [1]
+					"Wrathion", -- [2]
+					306735, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
 			},
 			[307974] = {
 				{
@@ -18066,81 +45978,31 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [6]
 			},
-			[306735] = {
+			[306289] = {
 				{
-					67.47999999998137, -- [1]
+					50.10800000000745, -- [1]
 					"Wrathion", -- [2]
-					306735, -- [3]
+					306289, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 				{
-					145.2079999999842, -- [1]
+					126.6049999999814, -- [1]
 					"Wrathion", -- [2]
-					306735, -- [3]
+					306289, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 				{
-					284.9689999999828, -- [1]
+					266.4070000000065, -- [1]
 					"Wrathion", -- [2]
-					306735, -- [3]
+					306289, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [3]
 				{
-					360.3070000000007, -- [1]
+					340.4890000000014, -- [1]
 					"Wrathion", -- [2]
-					306735, -- [3]
+					306289, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [4]
-			},
-			[307017] = {
-				{
-					206.1490000000049, -- [1]
-					"Crackling Shard", -- [2]
-					307017, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-				{
-					216.877999999997, -- [1]
-					"Crackling Shard", -- [2]
-					307017, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
-				{
-					404.2799999999988, -- [1]
-					"Crackling Shard", -- [2]
-					307017, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [3]
-				{
-					409.304999999993, -- [1]
-					"Crackling Shard", -- [2]
-					307017, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [4]
-				{
-					416.6319999999832, -- [1]
-					"Crackling Shard", -- [2]
-					307017, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [5]
-				{
-					425.8519999999844, -- [1]
-					"Crackling Shard", -- [2]
-					307017, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [6]
-				{
-					427.5650000000023, -- [1]
-					"Crackling Shard", -- [2]
-					307017, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [7]
-				{
-					432.6729999999807, -- [1]
-					"Crackling Shard", -- [2]
-					307017, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [8]
 			},
 			[305978] = {
 				{
@@ -18359,33 +46221,57 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [11]
 			},
-			[306289] = {
+			[307017] = {
 				{
-					50.10800000000745, -- [1]
-					"Wrathion", -- [2]
-					306289, -- [3]
+					206.1490000000049, -- [1]
+					"Crackling Shard", -- [2]
+					307017, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 				{
-					126.6049999999814, -- [1]
-					"Wrathion", -- [2]
-					306289, -- [3]
+					216.877999999997, -- [1]
+					"Crackling Shard", -- [2]
+					307017, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 				{
-					266.4070000000065, -- [1]
-					"Wrathion", -- [2]
-					306289, -- [3]
+					404.2799999999988, -- [1]
+					"Crackling Shard", -- [2]
+					307017, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [3]
 				{
-					340.4890000000014, -- [1]
-					"Wrathion", -- [2]
-					306289, -- [3]
+					409.304999999993, -- [1]
+					"Crackling Shard", -- [2]
+					307017, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [4]
+				{
+					416.6319999999832, -- [1]
+					"Crackling Shard", -- [2]
+					307017, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					425.8519999999844, -- [1]
+					"Crackling Shard", -- [2]
+					307017, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					427.5650000000023, -- [1]
+					"Crackling Shard", -- [2]
+					307017, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					432.6729999999807, -- [1]
+					"Crackling Shard", -- [2]
+					307017, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
 			},
-		}, -- [148]
+		}, -- [175]
 		{
 			[306735] = {
 				{
@@ -18402,6 +46288,32 @@ DetailsTimeLineDB = {
 					306289, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
+			},
+			[306111] = {
+				{
+					13.16099999999278, -- [1]
+					"Wrathion", -- [2]
+					306111, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					33.02499999999418, -- [1]
+					"Wrathion", -- [2]
+					306111, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					85.99299999998766, -- [1]
+					"Wrathion", -- [2]
+					306111, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					105.4219999999914, -- [1]
+					"Wrathion", -- [2]
+					306111, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
 			},
 			[305978] = {
 				{
@@ -18454,32 +46366,6 @@ DetailsTimeLineDB = {
 					"Elias-Terenas", -- [5]
 				}, -- [7]
 			},
-			[306111] = {
-				{
-					13.16099999999278, -- [1]
-					"Wrathion", -- [2]
-					306111, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-				{
-					33.02499999999418, -- [1]
-					"Wrathion", -- [2]
-					306111, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
-				{
-					85.99299999998766, -- [1]
-					"Wrathion", -- [2]
-					306111, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [3]
-				{
-					105.4219999999914, -- [1]
-					"Wrathion", -- [2]
-					306111, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [4]
-			},
 			[307974] = {
 				{
 					104.0620000000054, -- [1]
@@ -18488,7 +46374,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [149]
+		}, -- [176]
 		{
 			[306995] = {
 				{
@@ -18525,6 +46411,50 @@ DetailsTimeLineDB = {
 					306289, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
+			},
+			[306111] = {
+				{
+					14.30600000001141, -- [1]
+					"Wrathion", -- [2]
+					306111, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					33.80000000001746, -- [1]
+					"Wrathion", -- [2]
+					306111, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					87.44599999999627, -- [1]
+					"Wrathion", -- [2]
+					306111, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					107.1180000000168, -- [1]
+					"Wrathion", -- [2]
+					306111, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					128.9790000000212, -- [1]
+					"Wrathion", -- [2]
+					306111, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					228.4560000000056, -- [1]
+					"Wrathion", -- [2]
+					306111, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					252.7630000000063, -- [1]
+					"Wrathion", -- [2]
+					306111, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
 			},
 			[305978] = {
 				{
@@ -18619,50 +46549,6 @@ DetailsTimeLineDB = {
 					"Dlnks", -- [5]
 				}, -- [13]
 			},
-			[306111] = {
-				{
-					14.30600000001141, -- [1]
-					"Wrathion", -- [2]
-					306111, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-				{
-					33.80000000001746, -- [1]
-					"Wrathion", -- [2]
-					306111, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
-				{
-					87.44599999999627, -- [1]
-					"Wrathion", -- [2]
-					306111, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [3]
-				{
-					107.1180000000168, -- [1]
-					"Wrathion", -- [2]
-					306111, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [4]
-				{
-					128.9790000000212, -- [1]
-					"Wrathion", -- [2]
-					306111, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [5]
-				{
-					228.4560000000056, -- [1]
-					"Wrathion", -- [2]
-					306111, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [6]
-				{
-					252.7630000000063, -- [1]
-					"Wrathion", -- [2]
-					306111, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [7]
-			},
 			[307974] = {
 				{
 					91.14900000000489, -- [1]
@@ -18677,7 +46563,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [150]
+		}, -- [177]
 		{
 			[314107] = {
 				{
@@ -18695,6 +46581,64 @@ DetailsTimeLineDB = {
 					79849, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
+			},
+			[309819] = {
+				{
+					27.69000000000233, -- [1]
+					"Alleria Windrunner", -- [2]
+					309819, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					55.72299999999814, -- [1]
+					"Alleria Windrunner", -- [2]
+					309819, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+			[61353] = {
+				{
+					63.88999999998487, -- [1]
+					"Dagna Flintlock", -- [2]
+					61353, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					63.88999999998487, -- [1]
+					"Dagna Flintlock", -- [2]
+					61353, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+			[312680] = {
+				{
+					63.88999999998487, -- [1]
+					"Black Empire Conjurer", -- [2]
+					312680, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kammany-Sargeras", -- [5]
+				}, -- [1]
+				{
+					63.88999999998487, -- [1]
+					"Black Empire Conjurer", -- [2]
+					312680, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kammany-Sargeras", -- [5]
+				}, -- [2]
+				{
+					63.88999999998487, -- [1]
+					"Faceless Dominator", -- [2]
+					312680, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kammany-Sargeras", -- [5]
+				}, -- [3]
+				{
+					63.88999999998487, -- [1]
+					"Black Empire Conjurer", -- [2]
+					312680, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kammany-Sargeras", -- [5]
+				}, -- [4]
 			},
 			[312360] = {
 				{
@@ -18887,58 +46831,6 @@ DetailsTimeLineDB = {
 					"Ahriak", -- [5]
 				}, -- [27]
 			},
-			[79962] = {
-				{
-					63.88999999998487, -- [1]
-					"Nelur Lightsown", -- [2]
-					79962, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-			},
-			[312680] = {
-				{
-					63.88999999998487, -- [1]
-					"Black Empire Conjurer", -- [2]
-					312680, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Kammany-Sargeras", -- [5]
-				}, -- [1]
-				{
-					63.88999999998487, -- [1]
-					"Black Empire Conjurer", -- [2]
-					312680, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Kammany-Sargeras", -- [5]
-				}, -- [2]
-				{
-					63.88999999998487, -- [1]
-					"Faceless Dominator", -- [2]
-					312680, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Kammany-Sargeras", -- [5]
-				}, -- [3]
-				{
-					63.88999999998487, -- [1]
-					"Black Empire Conjurer", -- [2]
-					312680, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Kammany-Sargeras", -- [5]
-				}, -- [4]
-			},
-			[309819] = {
-				{
-					27.69000000000233, -- [1]
-					"Alleria Windrunner", -- [2]
-					309819, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-				{
-					55.72299999999814, -- [1]
-					"Alleria Windrunner", -- [2]
-					309819, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
-			},
 			[308278] = {
 				{
 					6.729999999981374, -- [1]
@@ -18976,21 +46868,15 @@ DetailsTimeLineDB = {
 					"Ahriak", -- [5]
 				}, -- [5]
 			},
-			[61353] = {
+			[79962] = {
 				{
 					63.88999999998487, -- [1]
-					"Dagna Flintlock", -- [2]
-					61353, -- [3]
+					"Nelur Lightsown", -- [2]
+					79962, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
-				{
-					63.88999999998487, -- [1]
-					"Dagna Flintlock", -- [2]
-					61353, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
 			},
-		}, -- [151]
+		}, -- [178]
 		{
 			[309671] = {
 				{
@@ -19006,7 +46892,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [152]
+		}, -- [179]
 		{
 			[177438] = {
 				{
@@ -19024,7 +46910,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [153]
+		}, -- [180]
 		{
 			[156669] = {
 				{
@@ -19083,7 +46969,7 @@ DetailsTimeLineDB = {
 					"Ahriak", -- [5]
 				}, -- [1]
 			},
-		}, -- [154]
+		}, -- [181]
 		{
 			[155921] = {
 				{
@@ -19102,7 +46988,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [155]
+		}, -- [182]
 		{
 			[175435] = {
 				{
@@ -19113,7 +46999,7 @@ DetailsTimeLineDB = {
 					"Ironworker", -- [5]
 				}, -- [1]
 			},
-		}, -- [156]
+		}, -- [183]
 		{
 			[156861] = {
 				{
@@ -19132,13 +47018,13 @@ DetailsTimeLineDB = {
 					"Ahriak", -- [5]
 				}, -- [1]
 			},
-		}, -- [157]
+		}, -- [184]
 		{
-		}, -- [158]
+		}, -- [185]
 		{
-		}, -- [159]
+		}, -- [186]
 		{
-		}, -- [160]
+		}, -- [187]
 		{
 			[177756] = {
 				{
@@ -19748,13 +47634,13 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [161]
+		}, -- [188]
 		{
-		}, -- [162]
+		}, -- [189]
 		{
-		}, -- [163]
+		}, -- [190]
 		{
-		}, -- [164]
+		}, -- [191]
 		{
 			[172524] = {
 				{
@@ -19834,7 +47720,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [165]
+		}, -- [192]
 		{
 			[307863] = {
 				{
@@ -19860,8 +47746,16 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [166]
+		}, -- [193]
 		{
+			[260190] = {
+				{
+					101.3120000000054, -- [1]
+					"Mogul Razdunk", -- [2]
+					260190, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
 			[260280] = {
 				{
 					17.34700000000885, -- [1]
@@ -19881,14 +47775,6 @@ DetailsTimeLineDB = {
 					260280, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [3]
-			},
-			[260190] = {
-				{
-					101.3120000000054, -- [1]
-					"Mogul Razdunk", -- [2]
-					260190, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
 			},
 			[260372] = {
 				{
@@ -20026,119 +47912,35 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [4]
 			},
-			[260318] = {
+			[260813] = {
 				{
-					2.653000000005704, -- [1]
+					6.370000000009895, -- [1]
 					"Mogul Razdunk", -- [2]
-					260318, -- [3]
+					260813, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Littlevistos-Tichondrius", -- [5]
+					"Verlynia-EarthenRing", -- [5]
 				}, -- [1]
 				{
-					7.511000000013155, -- [1]
+					27.38800000000629, -- [1]
 					"Mogul Razdunk", -- [2]
-					260318, -- [3]
+					260813, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Littlevistos-Tichondrius", -- [5]
+					"Verlynia-EarthenRing", -- [5]
 				}, -- [2]
 				{
-					9.942999999999302, -- [1]
+					110.4330000000045, -- [1]
 					"Mogul Razdunk", -- [2]
-					260318, -- [3]
+					260813, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Littlevistos-Tichondrius", -- [5]
+					"Verlynia-EarthenRing", -- [5]
 				}, -- [3]
 				{
-					12.35100000000966, -- [1]
+					131.4360000000015, -- [1]
 					"Mogul Razdunk", -- [2]
-					260318, -- [3]
+					260813, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Littlevistos-Tichondrius", -- [5]
+					"Verlynia-EarthenRing", -- [5]
 				}, -- [4]
-				{
-					28.1200000000099, -- [1]
-					"Mogul Razdunk", -- [2]
-					260318, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Littlevistos-Tichondrius", -- [5]
-				}, -- [5]
-				{
-					30.54899999999907, -- [1]
-					"Mogul Razdunk", -- [2]
-					260318, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Littlevistos-Tichondrius", -- [5]
-				}, -- [6]
-				{
-					32.96500000001106, -- [1]
-					"Mogul Razdunk", -- [2]
-					260318, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Littlevistos-Tichondrius", -- [5]
-				}, -- [7]
-				{
-					46.33800000000338, -- [1]
-					"Mogul Razdunk", -- [2]
-					260318, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Littlevistos-Tichondrius", -- [5]
-				}, -- [8]
-				{
-					107.4510000000009, -- [1]
-					"Mogul Razdunk", -- [2]
-					260318, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Littlevistos-Tichondrius", -- [5]
-				}, -- [9]
-				{
-					111.1000000000058, -- [1]
-					"Mogul Razdunk", -- [2]
-					260318, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Littlevistos-Tichondrius", -- [5]
-				}, -- [10]
-				{
-					113.5240000000049, -- [1]
-					"Mogul Razdunk", -- [2]
-					260318, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Littlevistos-Tichondrius", -- [5]
-				}, -- [11]
-				{
-					115.9540000000125, -- [1]
-					"Mogul Razdunk", -- [2]
-					260318, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Littlevistos-Tichondrius", -- [5]
-				}, -- [12]
-				{
-					117.9800000000105, -- [1]
-					"Mogul Razdunk", -- [2]
-					260318, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Littlevistos-Tichondrius", -- [5]
-				}, -- [13]
-				{
-					131.7610000000132, -- [1]
-					"Mogul Razdunk", -- [2]
-					260318, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Littlevistos-Tichondrius", -- [5]
-				}, -- [14]
-				{
-					133.7760000000126, -- [1]
-					"Mogul Razdunk", -- [2]
-					260318, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Littlevistos-Tichondrius", -- [5]
-				}, -- [15]
-				{
-					136.2020000000048, -- [1]
-					"Mogul Razdunk", -- [2]
-					260318, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Littlevistos-Tichondrius", -- [5]
-				}, -- [16]
 			},
 			[271456] = {
 				{
@@ -20260,37 +48062,121 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [5]
 			},
-			[260813] = {
+			[260318] = {
 				{
-					6.370000000009895, -- [1]
+					2.653000000005704, -- [1]
 					"Mogul Razdunk", -- [2]
-					260813, -- [3]
+					260318, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Verlynia-EarthenRing", -- [5]
+					"Littlevistos-Tichondrius", -- [5]
 				}, -- [1]
 				{
-					27.38800000000629, -- [1]
+					7.511000000013155, -- [1]
 					"Mogul Razdunk", -- [2]
-					260813, -- [3]
+					260318, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Verlynia-EarthenRing", -- [5]
+					"Littlevistos-Tichondrius", -- [5]
 				}, -- [2]
 				{
-					110.4330000000045, -- [1]
+					9.942999999999302, -- [1]
 					"Mogul Razdunk", -- [2]
-					260813, -- [3]
+					260318, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Verlynia-EarthenRing", -- [5]
+					"Littlevistos-Tichondrius", -- [5]
 				}, -- [3]
 				{
-					131.4360000000015, -- [1]
+					12.35100000000966, -- [1]
 					"Mogul Razdunk", -- [2]
-					260813, -- [3]
+					260318, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Verlynia-EarthenRing", -- [5]
+					"Littlevistos-Tichondrius", -- [5]
 				}, -- [4]
+				{
+					28.1200000000099, -- [1]
+					"Mogul Razdunk", -- [2]
+					260318, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Littlevistos-Tichondrius", -- [5]
+				}, -- [5]
+				{
+					30.54899999999907, -- [1]
+					"Mogul Razdunk", -- [2]
+					260318, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Littlevistos-Tichondrius", -- [5]
+				}, -- [6]
+				{
+					32.96500000001106, -- [1]
+					"Mogul Razdunk", -- [2]
+					260318, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Littlevistos-Tichondrius", -- [5]
+				}, -- [7]
+				{
+					46.33800000000338, -- [1]
+					"Mogul Razdunk", -- [2]
+					260318, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Littlevistos-Tichondrius", -- [5]
+				}, -- [8]
+				{
+					107.4510000000009, -- [1]
+					"Mogul Razdunk", -- [2]
+					260318, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Littlevistos-Tichondrius", -- [5]
+				}, -- [9]
+				{
+					111.1000000000058, -- [1]
+					"Mogul Razdunk", -- [2]
+					260318, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Littlevistos-Tichondrius", -- [5]
+				}, -- [10]
+				{
+					113.5240000000049, -- [1]
+					"Mogul Razdunk", -- [2]
+					260318, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Littlevistos-Tichondrius", -- [5]
+				}, -- [11]
+				{
+					115.9540000000125, -- [1]
+					"Mogul Razdunk", -- [2]
+					260318, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Littlevistos-Tichondrius", -- [5]
+				}, -- [12]
+				{
+					117.9800000000105, -- [1]
+					"Mogul Razdunk", -- [2]
+					260318, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Littlevistos-Tichondrius", -- [5]
+				}, -- [13]
+				{
+					131.7610000000132, -- [1]
+					"Mogul Razdunk", -- [2]
+					260318, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Littlevistos-Tichondrius", -- [5]
+				}, -- [14]
+				{
+					133.7760000000126, -- [1]
+					"Mogul Razdunk", -- [2]
+					260318, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Littlevistos-Tichondrius", -- [5]
+				}, -- [15]
+				{
+					136.2020000000048, -- [1]
+					"Mogul Razdunk", -- [2]
+					260318, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Littlevistos-Tichondrius", -- [5]
+				}, -- [16]
 			},
-		}, -- [167]
+		}, -- [194]
 		{
 			[259474] = {
 				{
@@ -20527,7 +48413,7 @@ DetailsTimeLineDB = {
 					"Ahriak", -- [5]
 				}, -- [3]
 			},
-		}, -- [168]
+		}, -- [195]
 		{
 			[258622] = {
 				{
@@ -20966,7 +48852,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [5]
 			},
-		}, -- [169]
+		}, -- [196]
 		{
 			[263275] = {
 				{
@@ -21701,7 +49587,7 @@ DetailsTimeLineDB = {
 					"Venture Co. Earthshaper", -- [5]
 				}, -- [18]
 			},
-		}, -- [170]
+		}, -- [197]
 		{
 			[263365] = {
 				{
@@ -21972,7 +49858,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [5]
 			},
-		}, -- [171]
+		}, -- [198]
 		{
 			[154055] = {
 				{
@@ -21982,7 +49868,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [172]
+		}, -- [199]
 		{
 			[153794] = {
 				{
@@ -22058,7 +49944,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [173]
+		}, -- [200]
 		{
 			[154135] = {
 				{
@@ -22108,7 +49994,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [174]
+		}, -- [201]
 		{
 			[153757] = {
 				{
@@ -22142,6 +50028,14 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [5]
 			},
+			[153544] = {
+				{
+					3.797999999995227, -- [1]
+					"Ranjit", -- [2]
+					153544, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
 			[165731] = {
 				{
 					14.92399999999907, -- [1]
@@ -22158,14 +50052,6 @@ DetailsTimeLineDB = {
 					"Keahi", -- [5]
 				}, -- [2]
 			},
-			[153544] = {
-				{
-					3.797999999995227, -- [1]
-					"Ranjit", -- [2]
-					153544, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-			},
 			[156793] = {
 				{
 					39.51299999999174, -- [1]
@@ -22173,6 +50059,20 @@ DetailsTimeLineDB = {
 					156793, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
+			},
+			[165733] = {
+				{
+					14.93499999999767, -- [1]
+					"Ranjit", -- [2]
+					165733, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					29.52099999999336, -- [1]
+					"Ranjit", -- [2]
+					165733, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
 			},
 			[153315] = {
 				{
@@ -22194,21 +50094,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [3]
 			},
-			[165733] = {
-				{
-					14.93499999999767, -- [1]
-					"Ranjit", -- [2]
-					165733, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-				{
-					29.52099999999336, -- [1]
-					"Ranjit", -- [2]
-					165733, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
-			},
-		}, -- [175]
+		}, -- [202]
 		{
 			[190313] = {
 				{
@@ -22312,7 +50198,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [176]
+		}, -- [203]
 		{
 			[181275] = {
 				{
@@ -22322,9 +50208,9 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [177]
+		}, -- [204]
 		{
-		}, -- [178]
+		}, -- [205]
 		{
 			[179583] = {
 				{
@@ -22374,7 +50260,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [179]
+		}, -- [206]
 		{
 			[179986] = {
 				{
@@ -22420,7 +50306,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [3]
 			},
-		}, -- [180]
+		}, -- [207]
 		{
 			[183023] = {
 				{
@@ -22430,7 +50316,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [181]
+		}, -- [208]
 		{
 			[181912] = {
 				{
@@ -22530,7 +50416,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [3]
 			},
-		}, -- [182]
+		}, -- [209]
 		{
 			[182170] = {
 				{
@@ -22548,9 +50434,9 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [183]
+		}, -- [210]
 		{
-		}, -- [184]
+		}, -- [211]
 		{
 			[184355] = {
 				{
@@ -22614,7 +50500,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [185]
+		}, -- [212]
 		{
 			[188148] = {
 				{
@@ -22625,7 +50511,7 @@ DetailsTimeLineDB = {
 					"Ahriak", -- [5]
 				}, -- [1]
 			},
-		}, -- [186]
+		}, -- [213]
 		{
 			[181999] = {
 				{
@@ -22635,7 +50521,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [187]
+		}, -- [214]
 		{
 			[187074] = {
 				{
@@ -24139,7 +52025,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [188]
+		}, -- [215]
 		{
 			[170032] = {
 				{
@@ -24560,21 +52446,21 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [189]
+		}, -- [216]
 		{
-			[168885] = {
-				{
-					64.6130000000012, -- [1]
-					"Archmage Sol", -- [2]
-					168885, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-			},
 			[169851] = {
 				{
 					10.17699999999968, -- [1]
 					"Addled Arcanomancer", -- [2]
 					169851, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[168885] = {
+				{
+					64.6130000000012, -- [1]
+					"Archmage Sol", -- [2]
+					168885, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
@@ -24636,49 +52522,37 @@ DetailsTimeLineDB = {
 					"Marlee-Anub'arak", -- [5]
 				}, -- [8]
 			},
-			[166465] = {
+			[169825] = {
 				{
-					35.07099999999991, -- [1]
-					"Archmage Sol", -- [2]
-					166465, -- [3]
+					30.62099999999919, -- [1]
+					"Spore Image", -- [2]
+					169825, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Marlee-Anub'arak", -- [5]
 				}, -- [1]
 				{
-					38.70500000000175, -- [1]
-					"Archmage Sol", -- [2]
-					166465, -- [3]
+					36.67900000000009, -- [1]
+					"Spore Image", -- [2]
+					169825, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Marlee-Anub'arak", -- [5]
 				}, -- [2]
 				{
-					42.32300000000032, -- [1]
-					"Archmage Sol", -- [2]
-					166465, -- [3]
+					42.72799999999916, -- [1]
+					"Spore Image", -- [2]
+					169825, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Marlee-Anub'arak", -- [5]
 				}, -- [3]
 				{
-					45.95800000000236, -- [1]
-					"Archmage Sol", -- [2]
-					166465, -- [3]
+					48.80400000000009, -- [1]
+					"Spore Image", -- [2]
+					169825, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Marlee-Anub'arak", -- [5]
 				}, -- [4]
 				{
-					49.60699999999997, -- [1]
-					"Archmage Sol", -- [2]
-					166465, -- [3]
+					54.88999999999942, -- [1]
+					"Spore Image", -- [2]
+					169825, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Marlee-Anub'arak", -- [5]
 				}, -- [5]
-				{
-					67.25800000000163, -- [1]
-					"Archmage Sol", -- [2]
-					166465, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Marlee-Anub'arak", -- [5]
-				}, -- [6]
 			},
 			[168894] = {
 				{
@@ -24736,6 +52610,14 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [9]
 			},
+			[169841] = {
+				{
+					3.913000000000466, -- [1]
+					"Addled Arcanomancer", -- [2]
+					169841, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
 			[166572] = {
 				{
 					9.377000000000407, -- [1]
@@ -24750,47 +52632,51 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-			[169841] = {
+			[166465] = {
 				{
-					3.913000000000466, -- [1]
-					"Addled Arcanomancer", -- [2]
-					169841, -- [3]
+					35.07099999999991, -- [1]
+					"Archmage Sol", -- [2]
+					166465, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-			},
-			[169825] = {
-				{
-					30.62099999999919, -- [1]
-					"Spore Image", -- [2]
-					169825, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
+					"Marlee-Anub'arak", -- [5]
 				}, -- [1]
 				{
-					36.67900000000009, -- [1]
-					"Spore Image", -- [2]
-					169825, -- [3]
+					38.70500000000175, -- [1]
+					"Archmage Sol", -- [2]
+					166465, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Marlee-Anub'arak", -- [5]
 				}, -- [2]
 				{
-					42.72799999999916, -- [1]
-					"Spore Image", -- [2]
-					169825, -- [3]
+					42.32300000000032, -- [1]
+					"Archmage Sol", -- [2]
+					166465, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Marlee-Anub'arak", -- [5]
 				}, -- [3]
 				{
-					48.80400000000009, -- [1]
-					"Spore Image", -- [2]
-					169825, -- [3]
+					45.95800000000236, -- [1]
+					"Archmage Sol", -- [2]
+					166465, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Marlee-Anub'arak", -- [5]
 				}, -- [4]
 				{
-					54.88999999999942, -- [1]
-					"Spore Image", -- [2]
-					169825, -- [3]
+					49.60699999999997, -- [1]
+					"Archmage Sol", -- [2]
+					166465, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Marlee-Anub'arak", -- [5]
 				}, -- [5]
+				{
+					67.25800000000163, -- [1]
+					"Archmage Sol", -- [2]
+					166465, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Marlee-Anub'arak", -- [5]
+				}, -- [6]
 			},
-		}, -- [190]
+		}, -- [217]
 		{
 			[168082] = {
 				{
@@ -25283,7 +53169,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [8]
 			},
-		}, -- [191]
+		}, -- [218]
 		{
 			[181113] = {
 				{
@@ -25489,22 +53375,8 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [6]
 			},
-		}, -- [192]
+		}, -- [219]
 		{
-			[150755] = {
-				{
-					20.04699999999866, -- [1]
-					"Gug'rokk", -- [2]
-					150755, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-				{
-					41.91600000000108, -- [1]
-					"Gug'rokk", -- [2]
-					150755, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
-			},
 			[150776] = {
 				{
 					9.403999999998632, -- [1]
@@ -25525,31 +53397,19 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [3]
 			},
-			[163802] = {
+			[150755] = {
 				{
-					5.48700000000099, -- [1]
+					20.04699999999866, -- [1]
 					"Gug'rokk", -- [2]
-					163802, -- [3]
+					150755, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 				{
-					17.61499999999796, -- [1]
+					41.91600000000108, -- [1]
 					"Gug'rokk", -- [2]
-					163802, -- [3]
+					150755, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
-				{
-					29.7599999999984, -- [1]
-					"Gug'rokk", -- [2]
-					163802, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [3]
-				{
-					51.64600000000064, -- [1]
-					"Gug'rokk", -- [2]
-					163802, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [4]
 			},
 			[150677] = {
 				{
@@ -25595,7 +53455,33 @@ DetailsTimeLineDB = {
 					"Gothboyclick", -- [5]
 				}, -- [6]
 			},
-		}, -- [193]
+			[163802] = {
+				{
+					5.48700000000099, -- [1]
+					"Gug'rokk", -- [2]
+					163802, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					17.61499999999796, -- [1]
+					"Gug'rokk", -- [2]
+					163802, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					29.7599999999984, -- [1]
+					"Gug'rokk", -- [2]
+					163802, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					51.64600000000064, -- [1]
+					"Gug'rokk", -- [2]
+					163802, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+			},
+		}, -- [220]
 		{
 			[153247] = {
 				{
@@ -25669,7 +53555,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [6]
 			},
-		}, -- [194]
+		}, -- [221]
 		{
 			[150324] = {
 				{
@@ -25679,19 +53565,25 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-			[150038] = {
+			[150023] = {
 				{
-					50.20899999999892, -- [1]
+					42.70399999999791, -- [1]
 					"Magmolatus", -- [2]
-					150038, -- [3]
+					150023, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 				{
-					72.04099999999744, -- [1]
+					60.91899999999805, -- [1]
 					"Magmolatus", -- [2]
-					150038, -- [3]
+					150023, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
+				{
+					80.3169999999991, -- [1]
+					"Magmolatus", -- [2]
+					150023, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
 			},
 			[149975] = {
 				{
@@ -25715,49 +53607,63 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-			[150004] = {
+			[77508] = {
 				{
-					3.754000000000815, -- [1]
-					"Forgemaster Gog'duh", -- [2]
-					150004, -- [3]
+					6.588999999999942, -- [1]
+					"Vengeful Magma Elemental", -- [2]
+					77508, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Bloodmaul Earthbreaker", -- [5]
 				}, -- [1]
 				{
-					9.825000000000728, -- [1]
-					"Forgemaster Gog'duh", -- [2]
-					150004, -- [3]
+					23.58399999999892, -- [1]
+					"Vengeful Magma Elemental", -- [2]
+					77508, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Bloodmaul Earthbreaker", -- [5]
 				}, -- [2]
 				{
-					15.88699999999881, -- [1]
-					"Forgemaster Gog'duh", -- [2]
-					150004, -- [3]
+					41.81099999999788, -- [1]
+					"Vengeful Magma Elemental", -- [2]
+					77508, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Bloodmaul Earthbreaker", -- [5]
 				}, -- [3]
 				{
-					21.95799999999872, -- [1]
-					"Forgemaster Gog'duh", -- [2]
-					150004, -- [3]
+					56.38699999999881, -- [1]
+					"Vengeful Magma Elemental", -- [2]
+					77508, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Bloodmaul Earthbreaker", -- [5]
 				}, -- [4]
 				{
-					58.40299999999843, -- [1]
-					"Molten Elemental", -- [2]
-					150004, -- [3]
+					69.72899999999936, -- [1]
+					"Vengeful Magma Elemental", -- [2]
+					77508, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Bloodmaul Earthbreaker", -- [5]
 				}, -- [5]
 				{
-					71.74799999999959, -- [1]
-					"Molten Elemental", -- [2]
-					150004, -- [3]
+					85.51299999999901, -- [1]
+					"Vengeful Magma Elemental", -- [2]
+					77508, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Bloodmaul Earthbreaker", -- [5]
 				}, -- [6]
 				{
-					85.11299999999756, -- [1]
-					"Molten Elemental", -- [2]
-					150004, -- [3]
+					89.0089999999982, -- [1]
+					"Vengeful Magma Elemental", -- [2]
+					77508, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Bloodmaul Earthbreaker", -- [5]
 				}, -- [7]
+				{
+					89.0089999999982, -- [1]
+					"Vengeful Magma Elemental", -- [2]
+					77508, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Bloodmaul Earthbreaker", -- [5]
+				}, -- [8]
 			},
 			[150048] = {
 				{
@@ -25779,25 +53685,19 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [3]
 			},
-			[150023] = {
+			[150038] = {
 				{
-					42.70399999999791, -- [1]
+					50.20899999999892, -- [1]
 					"Magmolatus", -- [2]
-					150023, -- [3]
+					150038, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 				{
-					60.91899999999805, -- [1]
+					72.04099999999744, -- [1]
 					"Magmolatus", -- [2]
-					150023, -- [3]
+					150038, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
-				{
-					80.3169999999991, -- [1]
-					"Magmolatus", -- [2]
-					150023, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [3]
 			},
 			[152170] = {
 				{
@@ -25860,66 +53760,80 @@ DetailsTimeLineDB = {
 					"Minerba-TheForgottenCoast", -- [5]
 				}, -- [1]
 			},
-			[77508] = {
+			[150004] = {
 				{
-					6.588999999999942, -- [1]
-					"Vengeful Magma Elemental", -- [2]
-					77508, -- [3]
+					3.754000000000815, -- [1]
+					"Forgemaster Gog'duh", -- [2]
+					150004, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Bloodmaul Earthbreaker", -- [5]
 				}, -- [1]
 				{
-					23.58399999999892, -- [1]
-					"Vengeful Magma Elemental", -- [2]
-					77508, -- [3]
+					9.825000000000728, -- [1]
+					"Forgemaster Gog'duh", -- [2]
+					150004, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Bloodmaul Earthbreaker", -- [5]
 				}, -- [2]
 				{
-					41.81099999999788, -- [1]
-					"Vengeful Magma Elemental", -- [2]
-					77508, -- [3]
+					15.88699999999881, -- [1]
+					"Forgemaster Gog'duh", -- [2]
+					150004, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Bloodmaul Earthbreaker", -- [5]
 				}, -- [3]
 				{
-					56.38699999999881, -- [1]
-					"Vengeful Magma Elemental", -- [2]
-					77508, -- [3]
+					21.95799999999872, -- [1]
+					"Forgemaster Gog'duh", -- [2]
+					150004, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Bloodmaul Earthbreaker", -- [5]
 				}, -- [4]
 				{
-					69.72899999999936, -- [1]
-					"Vengeful Magma Elemental", -- [2]
-					77508, -- [3]
+					58.40299999999843, -- [1]
+					"Molten Elemental", -- [2]
+					150004, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Bloodmaul Earthbreaker", -- [5]
 				}, -- [5]
 				{
-					85.51299999999901, -- [1]
-					"Vengeful Magma Elemental", -- [2]
-					77508, -- [3]
+					71.74799999999959, -- [1]
+					"Molten Elemental", -- [2]
+					150004, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Bloodmaul Earthbreaker", -- [5]
 				}, -- [6]
 				{
-					89.0089999999982, -- [1]
-					"Vengeful Magma Elemental", -- [2]
-					77508, -- [3]
+					85.11299999999756, -- [1]
+					"Molten Elemental", -- [2]
+					150004, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Bloodmaul Earthbreaker", -- [5]
 				}, -- [7]
-				{
-					89.0089999999982, -- [1]
-					"Vengeful Magma Elemental", -- [2]
-					77508, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Bloodmaul Earthbreaker", -- [5]
-				}, -- [8]
 			},
-		}, -- [195]
+		}, -- [222]
 		{
+			[150751] = {
+				{
+					24.62799999999879, -- [1]
+					"Slave Watcher Crushto", -- [2]
+					150751, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					48.28299999999945, -- [1]
+					"Slave Watcher Crushto", -- [2]
+					150751, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+			[150753] = {
+				{
+					23.07599999999911, -- [1]
+					"Slave Watcher Crushto", -- [2]
+					150753, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					46.11999999999898, -- [1]
+					"Slave Watcher Crushto", -- [2]
+					150753, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
 			[150807] = {
 				{
 					29.06899999999951, -- [1]
@@ -26006,71 +53920,6 @@ DetailsTimeLineDB = {
 					"Gothboyclick", -- [5]
 				}, -- [12]
 			},
-			[150753] = {
-				{
-					23.07599999999911, -- [1]
-					"Slave Watcher Crushto", -- [2]
-					150753, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-				{
-					46.11999999999898, -- [1]
-					"Slave Watcher Crushto", -- [2]
-					150753, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
-			},
-			[150751] = {
-				{
-					24.62799999999879, -- [1]
-					"Slave Watcher Crushto", -- [2]
-					150751, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-				{
-					48.28299999999945, -- [1]
-					"Slave Watcher Crushto", -- [2]
-					150751, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
-			},
-			[150759] = {
-				{
-					28.64999999999964, -- [1]
-					"Slave Watcher Crushto", -- [2]
-					150759, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-				{
-					51.69499999999971, -- [1]
-					"Slave Watcher Crushto", -- [2]
-					150759, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
-			},
-			[153679] = {
-				{
-					11.64799999999923, -- [1]
-					"Slave Watcher Crushto", -- [2]
-					153679, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Earth Crush Stalker", -- [5]
-				}, -- [1]
-				{
-					35.91899999999987, -- [1]
-					"Slave Watcher Crushto", -- [2]
-					153679, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Earth Crush Stalker", -- [5]
-				}, -- [2]
-				{
-					58.98199999999997, -- [1]
-					"Slave Watcher Crushto", -- [2]
-					153679, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Earth Crush Stalker", -- [5]
-				}, -- [3]
-			},
 			[150801] = {
 				{
 					16.72199999999975, -- [1]
@@ -26097,7 +53946,44 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [4]
 			},
-		}, -- [196]
+			[153679] = {
+				{
+					11.64799999999923, -- [1]
+					"Slave Watcher Crushto", -- [2]
+					153679, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Earth Crush Stalker", -- [5]
+				}, -- [1]
+				{
+					35.91899999999987, -- [1]
+					"Slave Watcher Crushto", -- [2]
+					153679, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Earth Crush Stalker", -- [5]
+				}, -- [2]
+				{
+					58.98199999999997, -- [1]
+					"Slave Watcher Crushto", -- [2]
+					153679, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Earth Crush Stalker", -- [5]
+				}, -- [3]
+			},
+			[150759] = {
+				{
+					28.64999999999964, -- [1]
+					"Slave Watcher Crushto", -- [2]
+					150759, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					51.69499999999971, -- [1]
+					"Slave Watcher Crushto", -- [2]
+					150759, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+		}, -- [223]
 		{
 			[154442] = {
 				{
@@ -26131,7 +54017,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [5]
 			},
-		}, -- [197]
+		}, -- [224]
 		{
 			[153681] = {
 				{
@@ -26227,7 +54113,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [198]
+		}, -- [225]
 		{
 			[152962] = {
 				{
@@ -26263,14 +54149,6 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [4]
 			},
-			[153623] = {
-				{
-					23.05899999999929, -- [1]
-					"Nhallish", -- [2]
-					153623, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-			},
 			[152792] = {
 				{
 					17.29999999999927, -- [1]
@@ -26279,7 +54157,15 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [199]
+			[153623] = {
+				{
+					23.05899999999929, -- [1]
+					"Nhallish", -- [2]
+					153623, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+		}, -- [226]
 		{
 			[153240] = {
 				{
@@ -26339,7 +54225,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [200]
+		}, -- [227]
 		{
 			[169129] = {
 				{
@@ -26399,7 +54285,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [201]
+		}, -- [228]
 		{
 			[178124] = {
 				{
@@ -26419,7 +54305,7 @@ DetailsTimeLineDB = {
 					"Sindrive", -- [5]
 				}, -- [1]
 			},
-		}, -- [202]
+		}, -- [229]
 		{
 			[163334] = {
 				{
@@ -26580,7 +54466,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [203]
+		}, -- [230]
 		{
 			[164426] = {
 				{
@@ -26661,12 +54547,13 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-			[166923] = {
+			[169413] = {
 				{
-					40.24399999999878, -- [1]
-					"Fleshrender Nok'gar", -- [2]
-					166923, -- [3]
+					49.16899999999987, -- [1]
+					"Grom'kar Footsoldier", -- [2]
+					169413, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Sindrive", -- [5]
 				}, -- [1]
 			},
 			[172703] = {
@@ -26678,16 +54565,15 @@ DetailsTimeLineDB = {
 					"Madhops-AlteracMountains", -- [5]
 				}, -- [1]
 			},
-			[169413] = {
+			[166923] = {
 				{
-					49.16899999999987, -- [1]
-					"Grom'kar Footsoldier", -- [2]
-					169413, -- [3]
+					40.24399999999878, -- [1]
+					"Fleshrender Nok'gar", -- [2]
+					166923, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Sindrive", -- [5]
 				}, -- [1]
 			},
-		}, -- [204]
+		}, -- [231]
 		{
 			[154396] = {
 				{
@@ -26707,7 +54593,7 @@ DetailsTimeLineDB = {
 					"Daruud-Ysera", -- [5]
 				}, -- [1]
 			},
-		}, -- [205]
+		}, -- [232]
 		{
 			[153828] = {
 				{
@@ -26807,7 +54693,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [206]
+		}, -- [233]
 		{
 			[154135] = {
 				{
@@ -26845,7 +54731,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [207]
+		}, -- [234]
 		{
 			[153757] = {
 				{
@@ -26861,14 +54747,6 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-			[153544] = {
-				{
-					4.689000000000306, -- [1]
-					"Ranjit", -- [2]
-					153544, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-			},
 			[165731] = {
 				{
 					15.79500000000007, -- [1]
@@ -26878,19 +54756,19 @@ DetailsTimeLineDB = {
 					"Navitas", -- [5]
 				}, -- [1]
 			},
+			[153544] = {
+				{
+					4.689000000000306, -- [1]
+					"Ranjit", -- [2]
+					153544, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
 			[156793] = {
 				{
 					31.871000000001, -- [1]
 					"Ranjit", -- [2]
 					156793, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-			},
-			[165733] = {
-				{
-					15.79500000000007, -- [1]
-					"Ranjit", -- [2]
-					165733, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
@@ -26908,7 +54786,15 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [208]
+			[165733] = {
+				{
+					15.79500000000007, -- [1]
+					"Ranjit", -- [2]
+					165733, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+		}, -- [235]
 		{
 			[256083] = {
 				{
@@ -27089,7 +54975,7 @@ DetailsTimeLineDB = {
 					"Mugïwara-Nemesis", -- [5]
 				}, -- [4]
 			},
-		}, -- [209]
+		}, -- [236]
 		{
 			[257028] = {
 				{
@@ -27155,7 +55041,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [3]
 			},
-		}, -- [210]
+		}, -- [237]
 		{
 			[257777] = {
 				{
@@ -27274,7 +55160,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [211]
+		}, -- [238]
 		{
 			[259975] = {
 				{
@@ -27719,7 +55605,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [212]
+		}, -- [239]
 		{
 			[273677] = {
 				{
@@ -27923,7 +55809,7 @@ DetailsTimeLineDB = {
 					"Kupunch-Zul'jin", -- [5]
 				}, -- [8]
 			},
-		}, -- [213]
+		}, -- [240]
 		{
 			[269116] = {
 				{
@@ -28039,7 +55925,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [214]
+		}, -- [241]
 		{
 			[264235] = {
 				{
@@ -28294,20 +56180,6 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [4]
 			},
-			[263912] = {
-				{
-					7.989999999990687, -- [1]
-					"Merektha", -- [2]
-					263912, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-				{
-					16.96199999994133, -- [1]
-					"Merektha", -- [2]
-					263912, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
-			},
 			[267047] = {
 				{
 					68.15700000000652, -- [1]
@@ -28333,6 +56205,20 @@ DetailsTimeLineDB = {
 					267047, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [4]
+			},
+			[263912] = {
+				{
+					7.989999999990687, -- [1]
+					"Merektha", -- [2]
+					263912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					16.96199999994133, -- [1]
+					"Merektha", -- [2]
+					263912, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
 			},
 			[268705] = {
 				{
@@ -28362,7 +56248,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [215]
+		}, -- [242]
 		{
 			[263365] = {
 				{
@@ -28563,7 +56449,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [5]
 			},
-		}, -- [216]
+		}, -- [243]
 		{
 			[263365] = {
 				{
@@ -28786,7 +56672,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [4]
 			},
-		}, -- [217]
+		}, -- [244]
 		{
 			[256083] = {
 				{
@@ -29050,7 +56936,7 @@ DetailsTimeLineDB = {
 					"Crazygrulz-Tichondrius", -- [5]
 				}, -- [6]
 			},
-		}, -- [218]
+		}, -- [245]
 		{
 			[257028] = {
 				{
@@ -29160,7 +57046,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [6]
 			},
-		}, -- [219]
+		}, -- [246]
 		{
 			[257791] = {
 				{
@@ -29312,7 +57198,7 @@ DetailsTimeLineDB = {
 					"Sahik-Ragnaros", -- [5]
 				}, -- [2]
 			},
-		}, -- [220]
+		}, -- [247]
 		{
 			[259975] = {
 				{
@@ -29661,144 +57547,6 @@ DetailsTimeLineDB = {
 					259711, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [10]
-			},
-			[257608] = {
-				{
-					22.45300000009593, -- [1]
-					"The Sand Queen", -- [2]
-					257608, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-				{
-					69.80900000000838, -- [1]
-					"The Sand Queen", -- [2]
-					257608, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
-				{
-					113.4520000000484, -- [1]
-					"The Sand Queen", -- [2]
-					257608, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [3]
-			},
-			[258075] = {
-				{
-					112.658000000054, -- [1]
-					"Stinging Parasite", -- [2]
-					258075, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-				{
-					114.0840000000317, -- [1]
-					"Stinging Parasite", -- [2]
-					258075, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
-				{
-					116.5090000000782, -- [1]
-					"Stinging Parasite", -- [2]
-					258075, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [3]
-				{
-					118.9330000000773, -- [1]
-					"Stinging Parasite", -- [2]
-					258075, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [4]
-				{
-					118.9330000000773, -- [1]
-					"Stinging Parasite", -- [2]
-					258075, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [5]
-				{
-					120.8760000000475, -- [1]
-					"Stinging Parasite", -- [2]
-					258075, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [6]
-				{
-					122.5530000000726, -- [1]
-					"Stinging Parasite", -- [2]
-					258075, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [7]
-				{
-					125.0990000000456, -- [1]
-					"Stinging Parasite", -- [2]
-					258075, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [8]
-				{
-					128.484000000055, -- [1]
-					"Stinging Parasite", -- [2]
-					258075, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [9]
-				{
-					128.484000000055, -- [1]
-					"Stinging Parasite", -- [2]
-					258075, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [10]
-				{
-					129.8360000000102, -- [1]
-					"Stinging Parasite", -- [2]
-					258075, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [11]
-				{
-					131.0560000000987, -- [1]
-					"Stinging Parasite", -- [2]
-					258075, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [12]
-				{
-					133.4740000000456, -- [1]
-					"Stinging Parasite", -- [2]
-					258075, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [13]
-				{
-					137.1030000000028, -- [1]
-					"Stinging Parasite", -- [2]
-					258075, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [14]
-				{
-					138.313000000082, -- [1]
-					"Stinging Parasite", -- [2]
-					258075, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [15]
-			},
-			[257495] = {
-				{
-					32.16500000003725, -- [1]
-					"The Sand Queen", -- [2]
-					257495, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-				{
-					66.15400000009686, -- [1]
-					"The Sand Queen", -- [2]
-					257495, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
-				{
-					100.1100000001025, -- [1]
-					"The Sand Queen", -- [2]
-					257495, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [3]
-				{
-					134.0540000000037, -- [1]
-					"The Sand Queen", -- [2]
-					257495, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [4]
 			},
 			[260016] = {
 				{
@@ -30318,6 +58066,144 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [86]
 			},
+			[258075] = {
+				{
+					112.658000000054, -- [1]
+					"Stinging Parasite", -- [2]
+					258075, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					114.0840000000317, -- [1]
+					"Stinging Parasite", -- [2]
+					258075, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					116.5090000000782, -- [1]
+					"Stinging Parasite", -- [2]
+					258075, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					118.9330000000773, -- [1]
+					"Stinging Parasite", -- [2]
+					258075, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					118.9330000000773, -- [1]
+					"Stinging Parasite", -- [2]
+					258075, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					120.8760000000475, -- [1]
+					"Stinging Parasite", -- [2]
+					258075, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					122.5530000000726, -- [1]
+					"Stinging Parasite", -- [2]
+					258075, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					125.0990000000456, -- [1]
+					"Stinging Parasite", -- [2]
+					258075, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+				{
+					128.484000000055, -- [1]
+					"Stinging Parasite", -- [2]
+					258075, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [9]
+				{
+					128.484000000055, -- [1]
+					"Stinging Parasite", -- [2]
+					258075, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [10]
+				{
+					129.8360000000102, -- [1]
+					"Stinging Parasite", -- [2]
+					258075, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [11]
+				{
+					131.0560000000987, -- [1]
+					"Stinging Parasite", -- [2]
+					258075, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [12]
+				{
+					133.4740000000456, -- [1]
+					"Stinging Parasite", -- [2]
+					258075, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [13]
+				{
+					137.1030000000028, -- [1]
+					"Stinging Parasite", -- [2]
+					258075, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [14]
+				{
+					138.313000000082, -- [1]
+					"Stinging Parasite", -- [2]
+					258075, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [15]
+			},
+			[257495] = {
+				{
+					32.16500000003725, -- [1]
+					"The Sand Queen", -- [2]
+					257495, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					66.15400000009686, -- [1]
+					"The Sand Queen", -- [2]
+					257495, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					100.1100000001025, -- [1]
+					"The Sand Queen", -- [2]
+					257495, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					134.0540000000037, -- [1]
+					"The Sand Queen", -- [2]
+					257495, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+			},
+			[257608] = {
+				{
+					22.45300000009593, -- [1]
+					"The Sand Queen", -- [2]
+					257608, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					69.80900000000838, -- [1]
+					"The Sand Queen", -- [2]
+					257608, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					113.4520000000484, -- [1]
+					"The Sand Queen", -- [2]
+					257608, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+			},
 			[257617] = {
 				{
 					26.85200000007171, -- [1]
@@ -30338,7 +58224,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [3]
 			},
-		}, -- [221]
+		}, -- [248]
 		{
 			[263365] = {
 				{
@@ -30722,7 +58608,7 @@ DetailsTimeLineDB = {
 					"Outshíne-Kil'jaeden", -- [5]
 				}, -- [5]
 			},
-		}, -- [222]
+		}, -- [249]
 		{
 			[297746] = {
 				{
@@ -30800,7 +58686,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [4]
 			},
-		}, -- [223]
+		}, -- [250]
 		{
 			[297574] = {
 				{
@@ -30816,7 +58702,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [224]
+		}, -- [251]
 		{
 			[269843] = {
 				{
@@ -30874,7 +58760,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [9]
 			},
-		}, -- [225]
+		}, -- [252]
 		{
 			[272457] = {
 				{
@@ -31198,7 +59084,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [226]
+		}, -- [253]
 		{
 			[260333] = {
 				{
@@ -31497,7 +59383,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [227]
+		}, -- [254]
 		{
 			[264757] = {
 				{
@@ -31604,7 +59490,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [4]
 			},
-		}, -- [228]
+		}, -- [255]
 		{
 			[165776] = {
 				{
@@ -31831,7 +59717,7 @@ DetailsTimeLineDB = {
 					"Muddy Riverbeast", -- [5]
 				}, -- [1]
 			},
-		}, -- [229]
+		}, -- [256]
 		{
 			[297574] = {
 				{
@@ -31847,7 +59733,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [230]
+		}, -- [257]
 		{
 			[256083] = {
 				{
@@ -32053,7 +59939,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [231]
+		}, -- [258]
 		{
 			[257028] = {
 				{
@@ -32131,7 +60017,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [4]
 			},
-		}, -- [232]
+		}, -- [259]
 		{
 			[257777] = {
 				{
@@ -32289,7 +60175,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [233]
+		}, -- [260]
 		{
 			[259975] = {
 				{
@@ -32526,20 +60412,6 @@ DetailsTimeLineDB = {
 					67.32400000002235, -- [1]
 					"The Sand Queen", -- [2]
 					257495, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
-			},
-			[257608] = {
-				{
-					23.62199999997392, -- [1]
-					"The Sand Queen", -- [2]
-					257608, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-				{
-					70.97400000004563, -- [1]
-					"The Sand Queen", -- [2]
-					257608, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
@@ -32893,7 +60765,21 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [58]
 			},
-		}, -- [234]
+			[257608] = {
+				{
+					23.62199999997392, -- [1]
+					"The Sand Queen", -- [2]
+					257608, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					70.97400000004563, -- [1]
+					"The Sand Queen", -- [2]
+					257608, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+		}, -- [261]
 		{
 			[306995] = {
 				{
@@ -33020,74 +60906,6 @@ DetailsTimeLineDB = {
 					306289, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [4]
-			},
-			[306111] = {
-				{
-					14.34199999994598, -- [1]
-					"Wrathion", -- [2]
-					306111, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-				{
-					38.66999999992549, -- [1]
-					"Wrathion", -- [2]
-					306111, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
-				{
-					84.93400000000838, -- [1]
-					"Wrathion", -- [2]
-					306111, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [3]
-				{
-					104.3909999999451, -- [1]
-					"Wrathion", -- [2]
-					306111, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [4]
-				{
-					126.2399999999907, -- [1]
-					"Wrathion", -- [2]
-					306111, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [5]
-				{
-					216.1929999999702, -- [1]
-					"Wrathion", -- [2]
-					306111, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [6]
-				{
-					235.6149999999907, -- [1]
-					"Wrathion", -- [2]
-					306111, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [7]
-				{
-					289.1599999999162, -- [1]
-					"Wrathion", -- [2]
-					306111, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [8]
-				{
-					308.60699999996, -- [1]
-					"Wrathion", -- [2]
-					306111, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [9]
-				{
-					328.0869999999413, -- [1]
-					"Wrathion", -- [2]
-					306111, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [10]
-				{
-					409.5039999999572, -- [1]
-					"Wrathion", -- [2]
-					306111, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [11]
 			},
 			[305978] = {
 				{
@@ -33245,6 +61063,74 @@ DetailsTimeLineDB = {
 					"Izazele-Illidan", -- [5]
 				}, -- [22]
 			},
+			[306111] = {
+				{
+					14.34199999994598, -- [1]
+					"Wrathion", -- [2]
+					306111, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					38.66999999992549, -- [1]
+					"Wrathion", -- [2]
+					306111, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					84.93400000000838, -- [1]
+					"Wrathion", -- [2]
+					306111, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					104.3909999999451, -- [1]
+					"Wrathion", -- [2]
+					306111, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					126.2399999999907, -- [1]
+					"Wrathion", -- [2]
+					306111, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					216.1929999999702, -- [1]
+					"Wrathion", -- [2]
+					306111, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					235.6149999999907, -- [1]
+					"Wrathion", -- [2]
+					306111, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					289.1599999999162, -- [1]
+					"Wrathion", -- [2]
+					306111, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+				{
+					308.60699999996, -- [1]
+					"Wrathion", -- [2]
+					306111, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [9]
+				{
+					328.0869999999413, -- [1]
+					"Wrathion", -- [2]
+					306111, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [10]
+				{
+					409.5039999999572, -- [1]
+					"Wrathion", -- [2]
+					306111, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [11]
+			},
 			[306735] = {
 				{
 					68.78899999998976, -- [1]
@@ -33271,7 +61157,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [4]
 			},
-		}, -- [235]
+		}, -- [262]
 		{
 			[297746] = {
 				{
@@ -33355,7 +61241,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [5]
 			},
-		}, -- [236]
+		}, -- [263]
 		{
 			[263275] = {
 				{
@@ -34347,1987 +62233,927 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [4]
 			},
-		}, -- [237]
+		}, -- [264]
 	},
 	["useicons"] = true,
+	["window_scale"] = 1,
 	["backdrop_color"] = {
 		0, -- [1]
 		0, -- [2]
 		0, -- [3]
 		0.4, -- [4]
 	},
-	["window_scale"] = 1,
 	["deaths_data"] = {
 		{
 		}, -- [1]
 		{
 		}, -- [2]
 		{
-			["Ahriak"] = {
-				{
-					["time"] = 87.53300000005402,
-					["events"] = {
-						{
-							true, -- [1]
-							294961, -- [2]
-							57144, -- [3]
-							1581279408.028, -- [4]
-							368696, -- [5]
-							"[*] Blazing Chomp", -- [6]
-							nil, -- [7]
-							4, -- [8]
-							false, -- [9]
-							-1, -- [10]
-						}, -- [1]
-						{
-							true, -- [1]
-							291949, -- [2]
-							222979, -- [3]
-							1581279412.265, -- [4]
-							145717, -- [5]
-							"K.U.-J.0.", -- [6]
-							nil, -- [7]
-							4, -- [8]
-							false, -- [9]
-							-1, -- [10]
-						}, -- [2]
-						{
-							true, -- [1]
-							291949, -- [2]
-							222042, -- [3]
-							1581279413.313, -- [4]
-							1, -- [5]
-							"K.U.-J.0.", -- [6]
-							nil, -- [7]
-							4, -- [8]
-							false, -- [9]
-							76325, -- [10]
-						}, -- [3]
-					},
-				}, -- [1]
-			},
-			["Vespp-Zul'jin"] = {
-				{
-					["time"] = 21.9440000000177,
-					["events"] = {
-						{
-							true, -- [1]
-							294961, -- [2]
-							57017, -- [3]
-							1581279342.149, -- [4]
-							361063, -- [5]
-							"[*] Blazing Chomp", -- [6]
-							nil, -- [7]
-							4, -- [8]
-							false, -- [9]
-							-1, -- [10]
-						}, -- [1]
-						{
-							true, -- [1]
-							291949, -- [2]
-							202731, -- [3]
-							1581279346.718, -- [4]
-							185802, -- [5]
-							"K.U.-J.0.", -- [6]
-							nil, -- [7]
-							4, -- [8]
-							false, -- [9]
-							-1, -- [10]
-						}, -- [2]
-						{
-							true, -- [1]
-							291949, -- [2]
-							220856, -- [3]
-							1581279347.746, -- [4]
-							1, -- [5]
-							"K.U.-J.0.", -- [6]
-							nil, -- [7]
-							4, -- [8]
-							false, -- [9]
-							34857, -- [10]
-						}, -- [3]
-					},
-				}, -- [1]
-			},
 		}, -- [3]
 		{
 		}, -- [4]
 	},
 	["debuff_timeline"] = {
 		{
-			["Dzblinkblink-Illidan"] = {
-				[291928] = {
-					11.24900000006892, -- [1]
-					23.26000000000931, -- [2]
-					["stacks"] = {
-					},
-					["source"] = "Aerial Unit R-21/X",
-					["active"] = false,
-				},
-				[240447] = {
-					54.86600000003818, -- [1]
-					57.37300000002142, -- [2]
-					74.9769999999553, -- [3]
-					77.4769999999553, -- [4]
-					115.1790000000037, -- [5]
-					117.6779999999562, -- [6]
-					155.3329999999842, -- [7]
-					157.8470000000671, -- [8]
-					175.4379999999655, -- [9]
-					177.9570000000531, -- [10]
-					195.5239999999758, -- [11]
-					198.0289999999804, -- [12]
-					["stacks"] = {
-					},
-					["source"] = "[*] Quake",
-					["active"] = false,
-				},
-				[292267] = {
-					107.5060000000522, -- [1]
-					119.5080000000307, -- [2]
-					["stacks"] = {
-					},
-					["source"] = "Omega Buster",
-					["active"] = false,
-				},
-				[291974] = {
-					74.30900000000838, -- [1]
-					82.31400000001304, -- [2]
-					["stacks"] = {
-					},
-					["source"] = "King Mechagon",
-					["active"] = false,
-				},
-			},
-			["Mazharfakhar"] = {
-				[291928] = {
-					27.01800000004005, -- [1]
-					39.02500000002328, -- [2]
-					45.14399999997113, -- [3]
-					57.15399999998044, -- [4]
-					["stacks"] = {
-					},
-					["source"] = "Aerial Unit R-21/X",
-					["active"] = false,
-				},
-				[240447] = {
-					54.86600000003818, -- [1]
-					57.37300000002142, -- [2]
-					74.9769999999553, -- [3]
-					77.4769999999553, -- [4]
-					115.1790000000037, -- [5]
-					117.6779999999562, -- [6]
-					155.3329999999842, -- [7]
-					157.8470000000671, -- [8]
-					175.4379999999655, -- [9]
-					177.9570000000531, -- [10]
-					195.5239999999758, -- [11]
-					198.0289999999804, -- [12]
-					["stacks"] = {
-					},
-					["source"] = "[*] Quake",
-					["active"] = false,
-				},
-				[292267] = {
-					141.1319999999832, -- [1]
-					153.1450000000186, -- [2]
-					164.5030000000261, -- [3]
-					176.5039999999572, -- [4]
-					["stacks"] = {
-					},
-					["source"] = "Omega Buster",
-					["active"] = false,
-				},
-				[291974] = {
-					74.30900000000838, -- [1]
-					82.31400000001304, -- [2]
-					["stacks"] = {
-					},
-					["source"] = "King Mechagon",
-					["active"] = false,
-				},
-			},
 			["Ahriak"] = {
-				[292267] = {
-					104.0100000000093, -- [1]
-					116.0110000000568, -- [2]
+				[72350] = {
+					11.57400000002235, -- [1]
+					13.57499999995343, -- [2]
 					["stacks"] = {
 					},
-					["source"] = "Omega Buster",
-					["active"] = false,
-				},
-				[291974] = {
-					74.30900000000838, -- [1]
-					82.31400000001304, -- [2]
-					["stacks"] = {
-					},
-					["source"] = "King Mechagon",
-					["active"] = false,
-				},
-				[240447] = {
-					54.86600000003818, -- [1]
-					57.37300000002142, -- [2]
-					74.9769999999553, -- [3]
-					77.48999999999069, -- [4]
-					115.1790000000037, -- [5]
-					117.6779999999562, -- [6]
-					155.3329999999842, -- [7]
-					157.8470000000671, -- [8]
-					175.4379999999655, -- [9]
-					177.9570000000531, -- [10]
-					195.5239999999758, -- [11]
-					198.0289999999804, -- [12]
-					["stacks"] = {
-					},
-					["source"] = "[*] Quake",
-					["active"] = false,
-				},
-			},
-			["Vespp-Zul'jin"] = {
-				[291928] = {
-					62.21299999998882, -- [1]
-					74.21900000004098, -- [2]
-					["stacks"] = {
-					},
-					["source"] = "Aerial Unit R-21/X",
-					["active"] = false,
-				},
-				[240447] = {
-					54.86600000003818, -- [1]
-					57.37300000002142, -- [2]
-					74.9769999999553, -- [3]
-					77.4769999999553, -- [4]
-					115.1790000000037, -- [5]
-					117.6779999999562, -- [6]
-					155.3329999999842, -- [7]
-					157.8470000000671, -- [8]
-					175.4379999999655, -- [9]
-					177.9570000000531, -- [10]
-					195.5239999999758, -- [11]
-					198.0289999999804, -- [12]
-					["stacks"] = {
-					},
-					["source"] = "[*] Quake",
-					["active"] = false,
-				},
-				[292267] = {
-					137.6310000000522, -- [1]
-					153.1450000000186, -- [2]
-					171.4860000000335, -- [3]
-					183.4990000000689, -- [4]
-					["stacks"] = {
-					},
-					["source"] = "Omega Buster",
-					["active"] = false,
-				},
-				[291974] = {
-					74.30900000000838, -- [1]
-					82.31400000001304, -- [2]
-					["stacks"] = {
-					},
-					["source"] = "King Mechagon",
-					["active"] = false,
-				},
-			},
-			["Kudab-Zul'jin"] = {
-				[292267] = {
-					100.5110000000568, -- [1]
-					112.5259999999544, -- [2]
-					134.1350000000093, -- [3]
-					146.1350000000093, -- [4]
-					168.0030000000261, -- [5]
-					180.0139999999665, -- [6]
-					["stacks"] = {
-					},
-					["source"] = "Omega Buster",
-					["active"] = false,
-				},
-				[291914] = {
-					72.24100000003818, -- [1]
-					72.65700000000652, -- [2]
-					["stacks"] = {
-					},
-					["source"] = "[*] Cutting Beam",
-					["active"] = false,
-				},
-				[291974] = {
-					74.30900000000838, -- [1]
-					82.31400000001304, -- [2]
-					["stacks"] = {
-					},
-					["source"] = "King Mechagon",
-					["active"] = false,
-				},
-				[240447] = {
-					54.86600000003818, -- [1]
-					57.37300000002142, -- [2]
-					74.9769999999553, -- [3]
-					77.4769999999553, -- [4]
-					115.1790000000037, -- [5]
-					117.6779999999562, -- [6]
-					155.3329999999842, -- [7]
-					157.8470000000671, -- [8]
-					175.4379999999655, -- [9]
-					177.9570000000531, -- [10]
-					195.5239999999758, -- [11]
-					198.0289999999804, -- [12]
-					["stacks"] = {
-					},
-					["source"] = "[*] Quake",
+					["source"] = "The Lich King",
 					["active"] = false,
 				},
 			},
 		}, -- [1]
 		{
-			["Dzblinkblink-Illidan"] = {
-				[240447] = {
-					18.9759999999078, -- [1]
-					21.48699999996461, -- [2]
-					39.06199999991804, -- [3]
-					41.56999999994878, -- [4]
-					59.16499999992084, -- [5]
-					61.66299999994226, -- [6]
-					79.26399999996647, -- [7]
-					81.76999999990221, -- [8]
-					99.35899999993853, -- [9]
-					101.8639999999432, -- [10]
-					117.8549999999814, -- [11]
-					117.8549999999814, -- [12]
-					["stacks"] = {
-					},
-					["source"] = "[*] Quake",
-					["active"] = false,
-				},
-				[294855] = {
-					49.76799999992363, -- [1]
-					55.76199999998789, -- [2]
-					["stacks"] = {
-					},
-					["source"] = "Inconspicuous Plant",
-					["active"] = false,
-				},
-				[285443] = {
-					115.405999999959, -- [1]
-					117.8549999999814, -- [2]
-					["stacks"] = {
-					},
-					["source"] = "[*] \"Hidden\" Flame Cannon",
-					["active"] = false,
-				},
-			},
-			["Vespp-Zul'jin"] = {
-				[240447] = {
-					18.9759999999078, -- [1]
-					21.48699999996461, -- [2]
-					39.06199999991804, -- [3]
-					41.56999999994878, -- [4]
-					59.16499999992084, -- [5]
-					61.66299999994226, -- [6]
-					79.28099999995902, -- [7]
-					81.76999999990221, -- [8]
-					99.35899999993853, -- [9]
-					101.8639999999432, -- [10]
-					117.8549999999814, -- [11]
-					117.8549999999814, -- [12]
-					["stacks"] = {
-					},
-					["source"] = "[*] Quake",
-					["active"] = false,
-				},
-				[294855] = {
-					55.82499999995343, -- [1]
-					60.48800000001211, -- [2]
-					["stacks"] = {
-					},
-					["source"] = "Inconspicuous Plant",
-					["active"] = false,
-				},
-			},
 			["Ahriak"] = {
-				[285460] = {
-					9.309999999939464, -- [1]
-					12.68299999996088, -- [2]
+				[70859] = {
+					4.030999999959022, -- [1]
+					4.030999999959022, -- [2]
 					["stacks"] = {
 					},
-					["source"] = "Head Machinist Sparkflux",
-					["active"] = false,
-				},
-				[240447] = {
-					18.9759999999078, -- [1]
-					21.48699999996461, -- [2]
-					39.06199999991804, -- [3]
-					41.56999999994878, -- [4]
-					59.16499999992084, -- [5]
-					61.66299999994226, -- [6]
-					79.28099999995902, -- [7]
-					81.76999999990221, -- [8]
-					99.35899999993853, -- [9]
-					101.8639999999432, -- [10]
-					117.8549999999814, -- [11]
-					117.8549999999814, -- [12]
-					["stacks"] = {
-					},
-					["source"] = "[*] Quake",
-					["active"] = false,
-				},
-				[294855] = {
-					4.378999999957159, -- [1]
-					10.39099999994505, -- [2]
-					["stacks"] = {
-					},
-					["source"] = "Inconspicuous Plant",
-					["active"] = false,
-				},
-			},
-			["Mazharfakhar"] = {
-				[240447] = {
-					18.9759999999078, -- [1]
-					21.48699999996461, -- [2]
-					39.06199999991804, -- [3]
-					41.56999999994878, -- [4]
-					59.16499999992084, -- [5]
-					61.66299999994226, -- [6]
-					79.28099999995902, -- [7]
-					81.76999999990221, -- [8]
-					99.35899999993853, -- [9]
-					101.8639999999432, -- [10]
-					117.8549999999814, -- [11]
-					117.8549999999814, -- [12]
-					["stacks"] = {
-					},
-					["source"] = "[*] Quake",
-					["active"] = false,
-				},
-				[294855] = {
-					95.54399999999441, -- [1]
-					101.5359999999637, -- [2]
-					101.5739999999059, -- [3]
-					107.5320000000065, -- [4]
-					["stacks"] = {
-					},
-					["source"] = "Inconspicuous Plant",
-					["active"] = false,
-				},
-			},
-			["Kudab-Zul'jin"] = {
-				[294855] = {
-					10.47399999992922, -- [1]
-					14.58799999998882, -- [2]
-					["stacks"] = {
-					},
-					["source"] = "Inconspicuous Plant",
-					["active"] = false,
-				},
-				[240447] = {
-					18.9759999999078, -- [1]
-					21.48699999996461, -- [2]
-					39.06199999991804, -- [3]
-					41.56999999994878, -- [4]
-					59.16499999992084, -- [5]
-					61.66299999994226, -- [6]
-					79.28099999995902, -- [7]
-					81.76999999990221, -- [8]
-					99.35899999993853, -- [9]
-					101.8639999999432, -- [10]
-					117.8549999999814, -- [11]
-					117.8549999999814, -- [12]
-					["stacks"] = {
-					},
-					["source"] = "[*] Quake",
+					["source"] = "[*] Upper Spire Teleport",
 					["active"] = false,
 				},
 			},
 		}, -- [2]
 		{
-			["Dzblinkblink-Illidan"] = {
-				[240447] = {
-					8.195000000065193, -- [1]
-					10.70100000000093, -- [2]
-					28.29100000008475, -- [3]
-					30.79500000004191, -- [4]
-					68.50600000005215, -- [5]
-					71.01199999998789, -- [6]
-					108.6850000000559, -- [7]
-					111.1780000000726, -- [8]
-					128.765000000014, -- [9]
-					131.2760000000708, -- [10]
-					143.8930000000401, -- [11]
-					143.8930000000401, -- [12]
-					143.8930000000401, -- [13]
-					143.8930000000401, -- [14]
-					143.8930000000401, -- [15]
-					143.8930000000401, -- [16]
-					["stacks"] = {
-					},
-					["source"] = "[*] Quake",
-					["active"] = false,
-				},
-				[291972] = {
-					37.57500000006985, -- [1]
-					40.56800000008661, -- [2]
-					70.36900000006426, -- [3]
-					73.35000000009313, -- [4]
-					103.1840000000084, -- [5]
-					106.1770000000252, -- [6]
-					137.188000000082, -- [7]
-					140.1900000000605, -- [8]
-					["stacks"] = {
-					},
-					["source"] = "K.U.-J.0.",
-					["active"] = false,
-				},
-			},
-			["Vespp-Zul'jin"] = {
-				[240447] = {
-					8.195000000065193, -- [1]
-					10.70100000000093, -- [2]
-					68.50600000005215, -- [3]
-					71.01199999998789, -- [4]
-					108.6850000000559, -- [5]
-					111.1780000000726, -- [6]
-					128.765000000014, -- [7]
-					131.2760000000708, -- [8]
-					143.8930000000401, -- [9]
-					143.8930000000401, -- [10]
-					143.8930000000401, -- [11]
-					143.8930000000401, -- [12]
-					143.8930000000401, -- [13]
-					143.8930000000401, -- [14]
-					["stacks"] = {
-					},
-					["source"] = "[*] Quake",
-					["active"] = false,
-				},
-				[291972] = {
-					37.57500000006985, -- [1]
-					41.13600000005681, -- [2]
-					70.36900000006426, -- [3]
-					74.80100000009406, -- [4]
-					103.1840000000084, -- [5]
-					106.798000000068, -- [6]
-					137.188000000082, -- [7]
-					141.6840000000084, -- [8]
-					["stacks"] = {
-					},
-					["source"] = "K.U.-J.0.",
-					["active"] = false,
-				},
-			},
 			["Ahriak"] = {
-				[240447] = {
-					8.209000000031665, -- [1]
-					10.70100000000093, -- [2]
-					28.29100000008475, -- [3]
-					30.79500000004191, -- [4]
-					68.50600000005215, -- [5]
-					71.01199999998789, -- [6]
-					143.8930000000401, -- [7]
-					143.8930000000401, -- [8]
-					143.8930000000401, -- [9]
-					143.8930000000401, -- [10]
+				[70859] = {
+					4.030999999959022, -- [1]
+					4.030999999959022, -- [2]
 					["stacks"] = {
 					},
-					["source"] = "[*] Quake",
-					["active"] = false,
-				},
-			},
-			["Mazharfakhar"] = {
-				[240447] = {
-					8.209000000031665, -- [1]
-					10.70100000000093, -- [2]
-					28.29100000008475, -- [3]
-					30.79500000004191, -- [4]
-					68.50600000005215, -- [5]
-					71.01199999998789, -- [6]
-					108.6850000000559, -- [7]
-					111.1780000000726, -- [8]
-					128.765000000014, -- [9]
-					131.2760000000708, -- [10]
-					143.8930000000401, -- [11]
-					143.8930000000401, -- [12]
-					143.8930000000401, -- [13]
-					143.8930000000401, -- [14]
-					143.8930000000401, -- [15]
-					143.8930000000401, -- [16]
-					["stacks"] = {
-					},
-					["source"] = "[*] Quake",
-					["active"] = false,
-				},
-				[291972] = {
-					70.36900000006426, -- [1]
-					73.93000000005122, -- [2]
-					103.1840000000084, -- [3]
-					107.6610000000801, -- [4]
-					137.188000000082, -- [5]
-					140.8120000000345, -- [6]
-					["stacks"] = {
-					},
-					["source"] = "K.U.-J.0.",
-					["active"] = false,
-				},
-			},
-			["Kudab-Zul'jin"] = {
-				[294929] = {
-					10.04500000004191, -- [1]
-					16.33400000003167, -- [2]
-					29.06800000008661, -- [3]
-					32.57500000006985, -- [4]
-					46.48000000009779, -- [5]
-					48.38900000008289, -- [6]
-					62.24400000006426, -- [7]
-					63.79800000006799, -- [8]
-					78.83100000000559, -- [9]
-					82.22600000002421, -- [10]
-					93.83200000005309, -- [11]
-					95.41600000008475, -- [12]
-					111.6959999999963, -- [13]
-					114.4470000000438, -- [14]
-					127.4580000001006, -- [15]
-					130.2540000000736, -- [16]
-					["stacks"] = {
-					},
-					["source"] = "K.U.-J.0.",
-					["active"] = false,
-				},
-				[301299] = {
-					143.8930000000401, -- [1]
-					143.8930000000401, -- [2]
-					143.8930000000401, -- [3]
-					143.8930000000401, -- [4]
-					143.8930000000401, -- [5]
-					143.8930000000401, -- [6]
-					["stacks"] = {
-					},
-					["source"] = "[*] Furnace Flames",
-					["active"] = false,
-				},
-				[240447] = {
-					8.195000000065193, -- [1]
-					10.70100000000093, -- [2]
-					28.29100000008475, -- [3]
-					30.79500000004191, -- [4]
-					68.50600000005215, -- [5]
-					71.01199999998789, -- [6]
-					108.6850000000559, -- [7]
-					111.1780000000726, -- [8]
-					128.765000000014, -- [9]
-					131.2760000000708, -- [10]
-					143.8930000000401, -- [11]
-					143.8930000000401, -- [12]
-					143.8930000000401, -- [13]
-					143.8930000000401, -- [14]
-					143.8930000000401, -- [15]
-					143.8930000000401, -- [16]
-					["stacks"] = {
-					},
-					["source"] = "[*] Quake",
+					["source"] = "[*] Upper Spire Teleport",
 					["active"] = false,
 				},
 			},
 		}, -- [3]
 		{
-			["Dzblinkblink-Illidan"] = {
-				[240447] = {
-					30.74400000006426, -- [1]
-					33.24800000002142, -- [2]
-					50.82400000002235, -- [3]
-					53.32900000002701, -- [4]
-					90.99300000001676, -- [5]
-					93.50400000007357, -- [6]
-					["stacks"] = {
-					},
-					["source"] = "[*] Quake",
-					["active"] = false,
-				},
-			},
-			["Vespp-Zul'jin"] = {
-				[240447] = {
-					30.74400000006426, -- [1]
-					33.24800000002142, -- [2]
-					50.82400000002235, -- [3]
-					53.32900000002701, -- [4]
-					90.99300000001676, -- [5]
-					93.50400000007357, -- [6]
-					["stacks"] = {
-					},
-					["source"] = "[*] Quake",
-					["active"] = false,
-				},
-			},
-			["Ahriak"] = {
-				[240447] = {
-					30.74400000006426, -- [1]
-					33.26400000008289, -- [2]
-					50.82400000002235, -- [3]
-					53.32900000002701, -- [4]
-					90.99300000001676, -- [5]
-					93.50400000007357, -- [6]
-					["stacks"] = {
-					},
-					["source"] = "[*] Quake",
-					["active"] = false,
-				},
-			},
-			["Mazharfakhar"] = {
-				[240447] = {
-					30.74400000006426, -- [1]
-					33.24800000002142, -- [2]
-					50.82400000002235, -- [3]
-					53.32900000002701, -- [4]
-					90.99300000001676, -- [5]
-					93.50400000007357, -- [6]
-					["stacks"] = {
-					},
-					["source"] = "[*] Quake",
-					["active"] = false,
-				},
-			},
-			["Kudab-Zul'jin"] = {
-				[282943] = {
-					7.643000000040047, -- [1]
-					10.69800000009127, -- [2]
-					["stacks"] = {
-					},
-					["source"] = "Piston Smasher",
-					["active"] = false,
-				},
-				[240447] = {
-					30.74400000006426, -- [1]
-					33.24800000002142, -- [2]
-					50.82400000002235, -- [3]
-					53.32900000002701, -- [4]
-					90.99300000001676, -- [5]
-					93.50400000007357, -- [6]
-					["stacks"] = {
-					},
-					["source"] = "[*] Quake",
-					["active"] = false,
-				},
-			},
 		}, -- [4]
 	},
 	["cooldowns_timeline"] = {
 		{
-			["Mazharfakhar"] = {
-				{
-					175.375, -- [1]
-					"[*] raid wide cooldown", -- [2]
-					196718, -- [3]
-				}, -- [1]
-			},
-			["Vespp-Zul'jin"] = {
-				{
-					72.00500000000466, -- [1]
-					"Vespp-Zul'jin", -- [2]
-					498, -- [3]
-				}, -- [1]
-				{
-					113.8699999999953, -- [1]
-					"[*] raid wide cooldown", -- [2]
-					31821, -- [3]
-				}, -- [2]
-				{
-					123.7120000000577, -- [1]
-					"Vespp-Zul'jin", -- [2]
-					105809, -- [3]
-				}, -- [3]
-				{
-					170.7070000000531, -- [1]
-					"Vespp-Zul'jin", -- [2]
-					498, -- [3]
-				}, -- [4]
-				{
-					186.4949999999953, -- [1]
-					"Dzblinkblink-Illidan", -- [2]
-					633, -- [3]
-				}, -- [5]
-			},
-			["Kudab-Zul'jin"] = {
-				{
-					1.896999999997206, -- [1]
-					"Kudab-Zul'jin", -- [2]
-					187827, -- [3]
-				}, -- [1]
-				{
-					142.4640000000363, -- [1]
-					"Kudab-Zul'jin", -- [2]
-					187827, -- [3]
-				}, -- [2]
-			},
 		}, -- [1]
 		{
-			["Kudab-Zul'jin"] = {
-				{
-					80.45299999997951, -- [1]
-					"Kudab-Zul'jin", -- [2]
-					187827, -- [3]
-				}, -- [1]
-			},
-			["Vespp-Zul'jin"] = {
-				{
-					7.177999999956228, -- [1]
-					"Vespp-Zul'jin", -- [2]
-					105809, -- [3]
-				}, -- [1]
-				{
-					67.81599999999162, -- [1]
-					"[*] raid wide cooldown", -- [2]
-					31821, -- [3]
-				}, -- [2]
-			},
 		}, -- [2]
 		{
-			["Vespp-Zul'jin"] = {
-				{
-					39.39699999999721, -- [1]
-					"Vespp-Zul'jin", -- [2]
-					498, -- [3]
-				}, -- [1]
-				{
-					101.9150000000373, -- [1]
-					"Vespp-Zul'jin", -- [2]
-					105809, -- [3]
-				}, -- [2]
-			},
 		}, -- [3]
 		{
-			["Kudab-Zul'jin"] = {
-				{
-					77.32300000009127, -- [1]
-					"Kudab-Zul'jin", -- [2]
-					187827, -- [3]
-				}, -- [1]
-			},
-			["Vespp-Zul'jin"] = {
-				{
-					64.70100000000093, -- [1]
-					"[*] raid wide cooldown", -- [2]
-					31821, -- [3]
-				}, -- [1]
-				{
-					68.5920000000624, -- [1]
-					"Vespp-Zul'jin", -- [2]
-					498, -- [3]
-				}, -- [2]
-				{
-					69.06700000003912, -- [1]
-					"Vespp-Zul'jin", -- [2]
-					642, -- [3]
-				}, -- [3]
-			},
 		}, -- [4]
 	},
 	["BossSpellCast"] = {
 		{
-			["Omega Buster"] = {
+			["The Lich King"] = {
 				{
-					100.5110000000568, -- [1]
-					"Omega Buster", -- [2]
-					292264, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Kudab-Zul'jin", -- [5]
-				}, -- [1]
-				{
-					104.0100000000093, -- [1]
-					"Omega Buster", -- [2]
-					292264, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Ahriak", -- [5]
-				}, -- [2]
-				{
-					107.5060000000522, -- [1]
-					"Omega Buster", -- [2]
-					292264, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Dzblinkblink-Illidan", -- [5]
-				}, -- [3]
-				{
-					117.7730000000447, -- [1]
-					"Omega Buster", -- [2]
-					283551, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [4]
-				{
-					134.1350000000093, -- [1]
-					"Omega Buster", -- [2]
-					292264, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Kudab-Zul'jin", -- [5]
-				}, -- [5]
-				{
-					137.6310000000522, -- [1]
-					"Omega Buster", -- [2]
-					292264, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Vespp-Zul'jin", -- [5]
-				}, -- [6]
-				{
-					141.1319999999832, -- [1]
-					"Omega Buster", -- [2]
-					292264, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Mazharfakhar", -- [5]
-				}, -- [7]
-				{
-					164.5030000000261, -- [1]
-					"Omega Buster", -- [2]
-					292264, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Mazharfakhar", -- [5]
-				}, -- [8]
-				{
-					168.0030000000261, -- [1]
-					"Omega Buster", -- [2]
-					292264, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Kudab-Zul'jin", -- [5]
-				}, -- [9]
-				{
-					171.4860000000335, -- [1]
-					"Omega Buster", -- [2]
-					292264, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Vespp-Zul'jin", -- [5]
-				}, -- [10]
-				{
-					179.7480000000214, -- [1]
-					"Omega Buster", -- [2]
-					283551, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [11]
-			},
-			["King Mechagon"] = {
-				{
-					74.29899999999907, -- [1]
-					"King Mechagon", -- [2]
-					291974, -- [3]
+					7.829000000027008, -- [1]
+					"The Lich King", -- [2]
+					68981, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
-			},
-			["Aerial Unit R-21/X"] = {
 				{
-					2.440999999991618, -- [1]
-					"Aerial Unit R-21/X", -- [2]
-					291878, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Kudab-Zul'jin", -- [5]
-				}, -- [1]
-				{
-					5.374000000068918, -- [1]
-					"Aerial Unit R-21/X", -- [2]
-					291865, -- [3]
+					11.57400000002235, -- [1]
+					"The Lich King", -- [2]
+					72350, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 				{
-					7.300999999977648, -- [1]
-					"Aerial Unit R-21/X", -- [2]
-					291878, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Kudab-Zul'jin", -- [5]
-				}, -- [3]
-				{
-					11.24900000006892, -- [1]
-					"Aerial Unit R-21/X", -- [2]
-					291928, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Dzblinkblink-Illidan", -- [5]
-				}, -- [4]
-				{
-					14.28000000002794, -- [1]
-					"Aerial Unit R-21/X", -- [2]
-					291878, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Kudab-Zul'jin", -- [5]
-				}, -- [5]
-				{
-					15.79800000006799, -- [1]
-					"Aerial Unit R-21/X", -- [2]
-					291878, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Kudab-Zul'jin", -- [5]
-				}, -- [6]
-				{
-					18.72600000002421, -- [1]
-					"Aerial Unit R-21/X", -- [2]
-					291865, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [7]
-				{
-					20.65300000004936, -- [1]
-					"Aerial Unit R-21/X", -- [2]
-					291878, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Kudab-Zul'jin", -- [5]
-				}, -- [8]
-				{
-					23.08400000003167, -- [1]
-					"Aerial Unit R-21/X", -- [2]
-					291878, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Kudab-Zul'jin", -- [5]
-				}, -- [9]
-				{
-					27.00699999998324, -- [1]
-					"Aerial Unit R-21/X", -- [2]
-					291928, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Mazharfakhar", -- [5]
-				}, -- [10]
-				{
-					30.03800000005867, -- [1]
-					"Aerial Unit R-21/X", -- [2]
-					291878, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Kudab-Zul'jin", -- [5]
-				}, -- [11]
-				{
-					32.58499999996275, -- [1]
-					"Aerial Unit R-21/X", -- [2]
-					291613, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [12]
-				{
-					34.84600000001956, -- [1]
-					"Aerial Unit R-21/X", -- [2]
-					291626, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [13]
-				{
-					45.14399999997113, -- [1]
-					"Aerial Unit R-21/X", -- [2]
-					291928, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Mazharfakhar", -- [5]
-				}, -- [14]
-				{
-					48.67799999995623, -- [1]
-					"Aerial Unit R-21/X", -- [2]
-					291865, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [15]
-				{
-					51.02599999995437, -- [1]
-					"Aerial Unit R-21/X", -- [2]
-					291878, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Kudab-Zul'jin", -- [5]
-				}, -- [16]
-				{
-					53.44500000006519, -- [1]
-					"Aerial Unit R-21/X", -- [2]
-					291878, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Kudab-Zul'jin", -- [5]
-				}, -- [17]
-				{
-					55.86800000001676, -- [1]
-					"Aerial Unit R-21/X", -- [2]
-					291878, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Kudab-Zul'jin", -- [5]
-				}, -- [18]
-				{
-					58.29200000001583, -- [1]
-					"Aerial Unit R-21/X", -- [2]
-					291878, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Kudab-Zul'jin", -- [5]
-				}, -- [19]
-				{
-					62.21299999998882, -- [1]
-					"Aerial Unit R-21/X", -- [2]
-					291928, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Vespp-Zul'jin", -- [5]
-				}, -- [20]
-				{
-					65.7280000000028, -- [1]
-					"Aerial Unit R-21/X", -- [2]
-					291865, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [21]
-				{
-					69.00800000003073, -- [1]
-					"Aerial Unit R-21/X", -- [2]
-					291613, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [22]
-				{
-					71.27000000001863, -- [1]
-					"Aerial Unit R-21/X", -- [2]
-					291626, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [23]
-			},
-			["Magneto-Arm"] = {
-				{
-					120.2060000000056, -- [1]
-					"Magneto-Arm", -- [2]
-					283143, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-				{
-					182.1480000000447, -- [1]
-					"Magneto-Arm", -- [2]
-					283143, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
-			},
-			["Plasma Orb"] = {
-				{
-					5.695000000065193, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-				{
-					5.798999999999069, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
-				{
-					5.900999999954365, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
+					81.36300000001211, -- [1]
+					"The Lich King", -- [2]
+					71769, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [3]
-				{
-					5.900999999954365, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [4]
-				{
-					18.91700000001583, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [5]
-				{
-					19.01399999996647, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [6]
-				{
-					19.01399999996647, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [7]
-				{
-					19.13300000003073, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [8]
-				{
-					48.99199999996927, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [9]
-				{
-					49.09499999997206, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [10]
-				{
-					49.09499999997206, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [11]
-				{
-					49.20400000002701, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [12]
-				{
-					65.88000000000466, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [13]
-				{
-					66.08600000001024, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [14]
-				{
-					66.08600000001024, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [15]
-				{
-					66.3969999999972, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [16]
-				{
-					92.56299999996554, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [17]
-				{
-					92.56299999996554, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [18]
-				{
-					92.66800000006333, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [19]
-				{
-					93.19099999999162, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [20]
-				{
-					100.5010000000475, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [21]
-				{
-					100.6049999999814, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [22]
-				{
-					100.8179999999702, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [23]
-				{
-					101.0239999999758, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [24]
-				{
-					108.4899999999907, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [25]
-				{
-					108.704000000027, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [26]
-				{
-					108.908000000054, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [27]
-				{
-					109.0080000000307, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [28]
-				{
-					116.6460000000661, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [29]
-				{
-					116.9499999999534, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [30]
-				{
-					116.9499999999534, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [31]
-				{
-					117.0400000000373, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [32]
-				{
-					132.7589999999618, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [33]
-				{
-					132.9810000000289, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [34]
-				{
-					132.9810000000289, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [35]
-				{
-					133.4150000000373, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [36]
-				{
-					140.4490000000224, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [37]
-				{
-					140.8719999999739, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [38]
-				{
-					141.0700000000652, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [39]
-				{
-					141.2889999999898, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [40]
-				{
-					148.5810000000056, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [41]
-				{
-					148.8930000000401, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [42]
-				{
-					149.2140000000363, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [43]
-				{
-					149.2140000000363, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [44]
-				{
-					156.548000000068, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [45]
-				{
-					156.7519999999786, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [46]
-				{
-					156.7519999999786, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [47]
-				{
-					156.9699999999721, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [48]
-				{
-					164.5359999999637, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [49]
-				{
-					164.5359999999637, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [50]
-				{
-					164.7519999999786, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [51]
-				{
-					164.9510000000009, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [52]
-				{
-					172.4760000000242, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [53]
-				{
-					172.7970000000205, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [54]
-				{
-					172.9130000000587, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [55]
-				{
-					173.0280000000494, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [56]
-				{
-					180.5200000000186, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [57]
-				{
-					180.7430000000168, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [58]
-				{
-					181.1630000000587, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [59]
-				{
-					181.3710000000428, -- [1]
-					"Plasma Orb", -- [2]
-					291856, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [60]
 			},
 		}, -- [1]
 		{
-			["Inconspicuous Plant"] = {
+			["Frost Freeze Trap"] = {
 				{
-					4.378999999957159, -- [1]
-					"Inconspicuous Plant", -- [2]
-					294855, -- [3]
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [9]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [10]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [11]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [12]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [13]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [14]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [15]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [16]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [17]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [18]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [19]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [20]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [21]
+			},
+			["The Lich King"] = {
+				{
+					4.030999999959022, -- [1]
+					"The Lich King", -- [2]
+					71614, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+		}, -- [2]
+		{
+			["Frost Freeze Trap"] = {
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [9]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [10]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [11]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [12]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [13]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [14]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [15]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [16]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [17]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [18]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [19]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [20]
+				{
+					4.030999999959022, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [21]
+			},
+			["The Lich King"] = {
+				{
+					4.030999999959022, -- [1]
+					"The Lich King", -- [2]
+					71614, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+		}, -- [3]
+		{
+			["Captain Grondel"] = {
+				{
+					2.506000000052154, -- [1]
+					"Captain Grondel", -- [2]
+					71552, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Captain Brandon", -- [5]
+				}, -- [1]
+			},
+			["Nerub'ar Champion"] = {
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Champion", -- [2]
+					71801, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 					"Ahriak", -- [5]
 				}, -- [1]
 				{
-					10.45799999998417, -- [1]
-					"Inconspicuous Plant", -- [2]
-					294855, -- [3]
+					6.250999999931082, -- [1]
+					"Nerub'ar Champion", -- [2]
+					71801, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Kudab-Zul'jin", -- [5]
+					"Ahriak", -- [5]
 				}, -- [2]
 				{
-					15.89499999990221, -- [1]
-					"Inconspicuous Plant", -- [2]
-					294863, -- [3]
+					6.250999999931082, -- [1]
+					"Nerub'ar Champion", -- [2]
+					71801, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
 				}, -- [3]
 				{
-					49.75399999995716, -- [1]
-					"Inconspicuous Plant", -- [2]
-					294855, -- [3]
+					6.250999999931082, -- [1]
+					"Nerub'ar Champion", -- [2]
+					71801, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Dzblinkblink-Illidan", -- [5]
+					"Ahriak", -- [5]
 				}, -- [4]
-				{
-					55.82499999995343, -- [1]
-					"Inconspicuous Plant", -- [2]
-					294855, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Vespp-Zul'jin", -- [5]
-				}, -- [5]
-				{
-					62.68400000000838, -- [1]
-					"Inconspicuous Plant", -- [2]
-					294863, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [6]
-				{
-					95.51299999991897, -- [1]
-					"Inconspicuous Plant", -- [2]
-					294855, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Mazharfakhar", -- [5]
-				}, -- [7]
-				{
-					101.561999999918, -- [1]
-					"Inconspicuous Plant", -- [2]
-					294855, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Mazharfakhar", -- [5]
-				}, -- [8]
-				{
-					107.7709999999497, -- [1]
-					"Inconspicuous Plant", -- [2]
-					294863, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [9]
 			},
-			["Head Machinist Sparkflux"] = {
+			["Captain Rupert"] = {
 				{
-					6.788999999989756, -- [1]
-					"Head Machinist Sparkflux", -- [2]
-					285454, -- [3]
+					6.250999999931082, -- [1]
+					"Captain Rupert", -- [2]
+					71592, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 				{
-					13.64799999992829, -- [1]
-					"Head Machinist Sparkflux", -- [2]
-					285440, -- [3]
+					6.250999999931082, -- [1]
+					"Captain Rupert", -- [2]
+					71590, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Captain Brandon", -- [5]
 				}, -- [2]
 				{
-					25.44599999999628, -- [1]
-					"Head Machinist Sparkflux", -- [2]
-					285454, -- [3]
+					6.250999999931082, -- [1]
+					"Captain Rupert", -- [2]
+					71592, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [3]
-				{
-					44.4759999999078, -- [1]
-					"Head Machinist Sparkflux", -- [2]
-					285454, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [4]
-				{
-					61.4759999999078, -- [1]
-					"Head Machinist Sparkflux", -- [2]
-					285440, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [5]
-				{
-					62.69599999999628, -- [1]
-					"Head Machinist Sparkflux", -- [2]
-					285454, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [6]
-				{
-					81.34499999997206, -- [1]
-					"Head Machinist Sparkflux", -- [2]
-					285454, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [7]
-				{
-					100.3800000000047, -- [1]
-					"Head Machinist Sparkflux", -- [2]
-					285454, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [8]
-				{
-					108.4379999999655, -- [1]
-					"Head Machinist Sparkflux", -- [2]
-					285440, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [9]
 			},
-		}, -- [2]
-		{
-			["Flying Claw"] = {
+			["Captain Arnath"] = {
 				{
-					5.18100000009872, -- [1]
-					"Flying Claw", -- [2]
-					291874, -- [3]
+					0.3740000000689179, -- [1]
+					"Captain Arnath", -- [2]
+					71546, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Captain Brandon", -- [5]
 				}, -- [1]
 				{
-					6.284000000101514, -- [1]
-					"Flying Claw", -- [2]
-					291918, -- [3]
+					2.795999999972992, -- [1]
+					"Captain Arnath", -- [2]
+					71546, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Captain Brandon", -- [5]
 				}, -- [2]
 				{
-					31.90100000007078, -- [1]
-					"Flying Claw", -- [2]
-					291874, -- [3]
+					6.250999999931082, -- [1]
+					"Captain Arnath", -- [2]
+					71595, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Captain Grondel", -- [5]
 				}, -- [3]
 				{
-					32.95100000000093, -- [1]
-					"Flying Claw", -- [2]
-					291918, -- [3]
+					6.250999999931082, -- [1]
+					"Captain Arnath", -- [2]
+					71546, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Captain Brandon", -- [5]
 				}, -- [4]
 				{
-					64.6940000000177, -- [1]
-					"Flying Claw", -- [2]
-					291874, -- [3]
+					6.250999999931082, -- [1]
+					"Captain Arnath", -- [2]
+					71546, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Captain Brandon", -- [5]
 				}, -- [5]
 				{
-					65.7740000000922, -- [1]
-					"Flying Claw", -- [2]
-					291918, -- [3]
+					6.250999999931082, -- [1]
+					"Captain Arnath", -- [2]
+					71595, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Captain Arnath", -- [5]
 				}, -- [6]
 				{
-					97.08300000010058, -- [1]
-					"Flying Claw", -- [2]
-					291874, -- [3]
+					6.250999999931082, -- [1]
+					"Captain Arnath", -- [2]
+					71595, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Captain Arnath", -- [5]
 				}, -- [7]
 				{
-					98.12400000006892, -- [1]
-					"Flying Claw", -- [2]
-					291918, -- [3]
+					6.250999999931082, -- [1]
+					"Captain Arnath", -- [2]
+					71546, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Captain Brandon", -- [5]
 				}, -- [8]
 				{
-					131.1050000000978, -- [1]
-					"Flying Claw", -- [2]
-					291874, -- [3]
+					6.250999999931082, -- [1]
+					"Captain Arnath", -- [2]
+					71595, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Captain Arnath", -- [5]
 				}, -- [9]
 				{
-					132.1610000000801, -- [1]
-					"Flying Claw", -- [2]
-					291918, -- [3]
+					6.250999999931082, -- [1]
+					"Captain Arnath", -- [2]
+					71595, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Captain Arnath", -- [5]
 				}, -- [10]
-			},
-			["Cubed Clutter"] = {
 				{
-					8.366000000038184, -- [1]
-					"Cubed Clutter", -- [2]
-					291930, -- [3]
+					6.250999999931082, -- [1]
+					"Captain Arnath", -- [2]
+					71595, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Captain Arnath", -- [5]
+				}, -- [11]
+			},
+			["Frost Freeze Trap"] = {
+				{
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 				{
-					34.98400000005495, -- [1]
-					"Cubed Clutter", -- [2]
-					291930, -- [3]
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 				{
-					67.82500000006985, -- [1]
-					"Cubed Clutter", -- [2]
-					291930, -- [3]
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [3]
 				{
-					100.2300000000978, -- [1]
-					"Cubed Clutter", -- [2]
-					291930, -- [3]
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [4]
 				{
-					134.2760000000708, -- [1]
-					"Cubed Clutter", -- [2]
-					291930, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [5]
-			},
-			["K.U.-J.0."] = {
-				{
-					5.18100000009872, -- [1]
-					"K.U.-J.0.", -- [2]
-					291922, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-				{
-					10.04500000004191, -- [1]
-					"K.U.-J.0.", -- [2]
-					294929, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Kudab-Zul'jin", -- [5]
-				}, -- [2]
-				{
-					20.91600000008475, -- [1]
-					"K.U.-J.0.", -- [2]
-					291946, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [3]
-				{
-					29.06800000008661, -- [1]
-					"K.U.-J.0.", -- [2]
-					294929, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Kudab-Zul'jin", -- [5]
-				}, -- [4]
-				{
-					31.88900000008289, -- [1]
-					"K.U.-J.0.", -- [2]
-					291922, -- [3]
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [5]
 				{
-					40.56800000008661, -- [1]
-					"K.U.-J.0.", -- [2]
-					291973, -- [3]
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [6]
 				{
-					46.46799999999348, -- [1]
-					"K.U.-J.0.", -- [2]
-					294929, -- [3]
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Kudab-Zul'jin", -- [5]
 				}, -- [7]
 				{
-					53.69200000003912, -- [1]
-					"K.U.-J.0.", -- [2]
-					291946, -- [3]
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [8]
 				{
-					62.24400000006426, -- [1]
-					"K.U.-J.0.", -- [2]
-					294929, -- [3]
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Kudab-Zul'jin", -- [5]
 				}, -- [9]
 				{
-					64.67700000002515, -- [1]
-					"K.U.-J.0.", -- [2]
-					291922, -- [3]
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [10]
 				{
-					73.35000000009313, -- [1]
-					"K.U.-J.0.", -- [2]
-					291973, -- [3]
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [11]
 				{
-					78.83100000000559, -- [1]
-					"K.U.-J.0.", -- [2]
-					294929, -- [3]
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Kudab-Zul'jin", -- [5]
 				}, -- [12]
 				{
-					86.46299999998882, -- [1]
-					"K.U.-J.0.", -- [2]
-					291946, -- [3]
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [13]
 				{
-					93.83200000005309, -- [1]
-					"K.U.-J.0.", -- [2]
-					294929, -- [3]
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Kudab-Zul'jin", -- [5]
 				}, -- [14]
 				{
-					97.08300000010058, -- [1]
-					"K.U.-J.0.", -- [2]
-					291922, -- [3]
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [15]
 				{
-					106.1770000000252, -- [1]
-					"K.U.-J.0.", -- [2]
-					291973, -- [3]
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [16]
 				{
-					111.6959999999963, -- [1]
-					"K.U.-J.0.", -- [2]
-					294929, -- [3]
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Kudab-Zul'jin", -- [5]
 				}, -- [17]
 				{
-					120.1310000000522, -- [1]
-					"K.U.-J.0.", -- [2]
-					291946, -- [3]
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [18]
 				{
-					127.4580000001006, -- [1]
-					"K.U.-J.0.", -- [2]
-					294929, -- [3]
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Kudab-Zul'jin", -- [5]
 				}, -- [19]
 				{
-					131.0929999999935, -- [1]
-					"K.U.-J.0.", -- [2]
-					291922, -- [3]
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [20]
 				{
-					140.1790000000037, -- [1]
-					"K.U.-J.0.", -- [2]
-					291973, -- [3]
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [21]
-			},
-		}, -- [3]
-		{
-			["Gnomercy 4.U."] = {
 				{
-					2.984000000054948, -- [1]
-					"Gnomercy 4.U.", -- [2]
-					283422, -- [3]
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [22]
+				{
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [23]
+				{
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [24]
+				{
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [25]
+				{
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [26]
+				{
+					6.250999999931082, -- [1]
+					"Frost Freeze Trap", -- [2]
+					70460, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [27]
+			},
+			["Nerub'ar Webweaver"] = {
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
 				}, -- [1]
 				{
-					16.76700000010897, -- [1]
-					"Gnomercy 4.U.", -- [2]
-					285152, -- [3]
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Vespp-Zul'jin", -- [5]
+					"Ahriak", -- [5]
 				}, -- [2]
 				{
-					22.84400000004098, -- [1]
-					"Gnomercy 4.U.", -- [2]
-					318587, -- [3]
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Mazharfakhar", -- [5]
+					"Ahriak", -- [5]
 				}, -- [3]
 				{
-					25.83600000001025, -- [1]
-					"Gnomercy 4.U.", -- [2]
-					285388, -- [3]
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
 				}, -- [4]
 				{
-					43.93900000001304, -- [1]
-					"Gnomercy 4.U.", -- [2]
-					283421, -- [3]
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
 				}, -- [5]
 				{
-					46.94700000004377, -- [1]
-					"Gnomercy 4.U.", -- [2]
-					283422, -- [3]
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
 				}, -- [6]
 				{
-					62.94500000006519, -- [1]
-					"Gnomercy 4.U.", -- [2]
-					318587, -- [3]
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Dzblinkblink-Illidan", -- [5]
+					"Ahriak", -- [5]
 				}, -- [7]
 				{
-					65.94700000004377, -- [1]
-					"Gnomercy 4.U.", -- [2]
-					285388, -- [3]
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
 				}, -- [8]
 				{
-					83.95900000003166, -- [1]
-					"Gnomercy 4.U.", -- [2]
-					283421, -- [3]
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [9]
-			},
-			["The Platinum Pummeler"] = {
-				{
-					10.23300000000745, -- [1]
-					"The Platinum Pummeler", -- [2]
-					285020, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-				{
-					15.54800000006799, -- [1]
-					"The Platinum Pummeler", -- [2]
-					285344, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
-				{
-					27.69600000011269, -- [1]
-					"The Platinum Pummeler", -- [2]
-					285344, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [3]
-				{
-					39.86800000001676, -- [1]
-					"The Platinum Pummeler", -- [2]
-					285344, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [4]
-				{
-					43.08700000005774, -- [1]
-					"The Platinum Pummeler", -- [2]
-					285020, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [5]
-				{
-					52.01900000008754, -- [1]
-					"The Platinum Pummeler", -- [2]
-					285344, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [6]
-				{
-					64.15700000000652, -- [1]
-					"The Platinum Pummeler", -- [2]
-					285344, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [7]
-				{
-					75.88600000005681, -- [1]
-					"The Platinum Pummeler", -- [2]
-					285020, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [8]
-				{
-					76.30200000002515, -- [1]
-					"The Platinum Pummeler", -- [2]
-					285344, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
 				}, -- [9]
 				{
-					88.47100000001956, -- [1]
-					"The Platinum Pummeler", -- [2]
-					285344, -- [3]
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
 				}, -- [10]
 				{
-					100.6040000000503, -- [1]
-					"The Platinum Pummeler", -- [2]
-					285344, -- [3]
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
 				}, -- [11]
 				{
-					108.7070000000531, -- [1]
-					"The Platinum Pummeler", -- [2]
-					285020, -- [3]
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
 				}, -- [12]
 				{
-					112.7780000000494, -- [1]
-					"The Platinum Pummeler", -- [2]
-					285344, -- [3]
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
 				}, -- [13]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [14]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [15]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [16]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71327, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [17]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71327, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [18]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71327, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [19]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [20]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71327, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [21]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [22]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [23]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [24]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [25]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [26]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [27]
+				{
+					6.250999999931082, -- [1]
+					"Nerub'ar Webweaver", -- [2]
+					71326, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ahriak", -- [5]
+				}, -- [28]
+			},
+			["Captain Brandon"] = {
+				{
+					0.1, -- [1]
+					"Captain Brandon", -- [2]
+					71549, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Captain Grondel", -- [5]
+				}, -- [1]
+				{
+					6.250999999931082, -- [1]
+					"Captain Brandon", -- [2]
+					71551, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Captain Arnath", -- [5]
+				}, -- [2]
+				{
+					6.250999999931082, -- [1]
+					"Captain Brandon", -- [2]
+					71549, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Captain Arnath", -- [5]
+				}, -- [3]
+				{
+					6.250999999931082, -- [1]
+					"Captain Brandon", -- [2]
+					71551, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Captain Arnath", -- [5]
+				}, -- [4]
+				{
+					6.250999999931082, -- [1]
+					"Captain Brandon", -- [2]
+					71549, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Captain Rupert", -- [5]
+				}, -- [5]
+				{
+					6.250999999931082, -- [1]
+					"Captain Brandon", -- [2]
+					71551, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Captain Rupert", -- [5]
+				}, -- [6]
+				{
+					6.250999999931082, -- [1]
+					"Captain Brandon", -- [2]
+					71549, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Captain Arnath", -- [5]
+				}, -- [7]
 			},
 		}, -- [4]
 	},

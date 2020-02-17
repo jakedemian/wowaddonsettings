@@ -11,7 +11,13 @@ CliqueDB3 = {
 			["spec2_profileKey"] = "Primepriest - Area 52",
 		},
 		["Rotrin - Area 52"] = {
+			["spec1_profileKey"] = "Rotrin - Area 52",
+			["spec3_profileKey"] = "Rotrin - Area 52",
+			["downclick"] = false,
+			["fastooc"] = false,
 			["alerthidden"] = true,
+			["specswap"] = false,
+			["spec2_profileKey"] = "Rotrin - Area 52",
 		},
 		["Uwutuskdaddy - Area 52"] = {
 			["spec1_profileKey"] = "Uwutuskdaddy - Area 52",
@@ -54,6 +60,15 @@ CliqueDB3 = {
 			["fastooc"] = false,
 			["specswap"] = false,
 		},
+		["Fhaykum - Area 52"] = {
+			["spec1_profileKey"] = "Fhaykum - Area 52",
+			["alerthidden"] = true,
+			["downclick"] = false,
+			["fastooc"] = false,
+			["spec3_profileKey"] = "Fhaykum - Area 52",
+			["spec2_profileKey"] = "Fhaykum - Area 52",
+			["specswap"] = false,
+		},
 		["Primelocker - Kel'Thuzad"] = {
 			["spec1_profileKey"] = "Primelocker - Kel'Thuzad",
 			["spec3_profileKey"] = "Primelocker - Kel'Thuzad",
@@ -71,7 +86,13 @@ CliqueDB3 = {
 			["spec3_profileKey"] = "Fhayge - Area 52",
 		},
 		["Thartuk - Area 52"] = {
+			["spec1_profileKey"] = "Thartuk - Area 52",
+			["fastooc"] = false,
 			["alerthidden"] = true,
+			["downclick"] = false,
+			["specswap"] = false,
+			["spec2_profileKey"] = "Thartuk - Area 52",
+			["spec3_profileKey"] = "Thartuk - Area 52",
 		},
 		["Fhayslam - Area 52"] = {
 			["spec1_profileKey"] = "Fhayslam - Area 52",
@@ -98,6 +119,7 @@ CliqueDB3 = {
 		["Fhayslam - Area 52"] = "Fhayslam - Area 52",
 		["Primeboi - Area 52"] = "Primeboi - Area 52",
 		["Dulgan - Kilrogg"] = "Dulgan - Kilrogg",
+		["Fhaykum - Area 52"] = "Fhaykum - Area 52",
 		["Primerlock - Kel'Thuzad"] = "Primerlock - Kel'Thuzad",
 		["Primepriest - Area 52"] = "Primepriest - Area 52",
 		["Rotrin - Area 52"] = "Rotrin - Area 52",
@@ -165,12 +187,12 @@ CliqueDB3 = {
 				}, -- [1]
 				{
 					["type"] = "spell",
-					["key"] = "SHIFT-1",
+					["key"] = "SHIFT-Q",
 					["sets"] = {
 						["default"] = true,
 					},
-					["icon"] = 236247,
-					["spell"] = "Beacon of Light",
+					["icon"] = 135966,
+					["spell"] = "Blessing of Sacrifice",
 				}, -- [2]
 				{
 					["type"] = "menu",
@@ -199,13 +221,76 @@ CliqueDB3 = {
 				}, -- [5]
 				{
 					["type"] = "spell",
+					["key"] = "BUTTON3",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 135928,
+					["spell"] = "Lay on Hands",
+				}, -- [6]
+				{
+					["type"] = "spell",
+					["key"] = "CTRL-1",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 236247,
+					["spell"] = "Beacon of Light",
+				}, -- [7]
+				{
+					["type"] = "spell",
 					["key"] = "E",
 					["sets"] = {
 						["default"] = true,
 					},
 					["icon"] = 135981,
 					["spell"] = "Holy Light",
-				}, -- [6]
+				}, -- [8]
+				{
+					["type"] = "spell",
+					["key"] = "SHIFT-E",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 135964,
+					["spell"] = "Blessing of Protection",
+				}, -- [9]
+				{
+					["type"] = "spell",
+					["key"] = "R",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 461859,
+					["spell"] = "Light of Dawn",
+				}, -- [10]
+				{
+					["type"] = "spell",
+					["key"] = "SHIFT-F",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 135968,
+					["spell"] = "Blessing of Freedom",
+				}, -- [11]
+				{
+					["type"] = "spell",
+					["key"] = "C",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 135949,
+					["spell"] = "Cleanse",
+				}, -- [12]
+				{
+					["type"] = "spell",
+					["key"] = "2",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 1360762,
+					["spell"] = "Light of the Martyr",
+				}, -- [13]
 			},
 		},
 		["Fhayslam - Area 52"] = {
@@ -263,6 +348,79 @@ CliqueDB3 = {
 						["default"] = true,
 					},
 				}, -- [2]
+			},
+		},
+		["Fhaykum - Area 52"] = {
+			["bindings"] = {
+				{
+					["type"] = "target",
+					["sets"] = {
+						["default"] = true,
+					},
+					["key"] = "BUTTON1",
+					["unit"] = "mouseover",
+				}, -- [1]
+				{
+					["type"] = "spell",
+					["key"] = "E",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 136043,
+					["spell"] = "Healing Wave",
+				}, -- [2]
+				{
+					["type"] = "menu",
+					["key"] = "BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [3]
+				{
+					["type"] = "spell",
+					["key"] = "1",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 252995,
+					["spell"] = "Riptide",
+				}, -- [4]
+				{
+					["type"] = "spell",
+					["key"] = "Q",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 136044,
+					["spell"] = "Healing Surge",
+				}, -- [5]
+				{
+					["type"] = "spell",
+					["key"] = "2",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 136089,
+					["spell"] = "Earth Shield",
+				}, -- [6]
+				{
+					["type"] = "spell",
+					["key"] = "R",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 136042,
+					["spell"] = "Chain Heal",
+				}, -- [7]
+				{
+					["type"] = "spell",
+					["key"] = "C",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 236288,
+					["spell"] = "Purify Spirit",
+				}, -- [8]
 			},
 		},
 		["Primerlock - Kel'Thuzad"] = {

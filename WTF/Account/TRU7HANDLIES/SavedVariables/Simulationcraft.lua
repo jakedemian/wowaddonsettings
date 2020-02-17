@@ -7,6 +7,7 @@ SimulationCraftDB = {
 		["Fhayslam - Area 52"] = "Fhayslam - Area 52",
 		["Primeboi - Area 52"] = "Primeboi - Area 52",
 		["Dulgan - Kilrogg"] = "Dulgan - Kilrogg",
+		["Fhaykum - Area 52"] = "Fhaykum - Area 52",
 		["Primerlock - Kel'Thuzad"] = "Primerlock - Kel'Thuzad",
 		["Primepriest - Area 52"] = "Primepriest - Area 52",
 		["Rotrin - Area 52"] = "Rotrin - Area 52",
@@ -29,6 +30,9 @@ SimulationCraftDB = {
 		["Fhayup - Area 52"] = {
 		},
 		["Thartuk - Area 52"] = {
+			["minimap"] = {
+				["hide"] = true,
+			},
 		},
 		["Fhayslam - Area 52"] = {
 			["minimap"] = {
@@ -38,6 +42,11 @@ SimulationCraftDB = {
 		["Primeboi - Area 52"] = {
 		},
 		["Dulgan - Kilrogg"] = {
+			["minimap"] = {
+				["hide"] = true,
+			},
+		},
+		["Fhaykum - Area 52"] = {
 			["minimap"] = {
 				["hide"] = true,
 			},

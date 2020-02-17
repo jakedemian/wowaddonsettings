@@ -49,21 +49,22 @@ Bagnon_Sets = {
 			},
 			["point"] = "BOTTOMRIGHT",
 			["hiddenBags"] = {
+				[0] = false,
 			},
 			["scale"] = 1,
 			["actPanel"] = false,
 			["bagToggle"] = true,
 			["reverseBags"] = true,
 			["columns"] = 13,
+			["color"] = {
+			},
 			["hiddenRules"] = {
 			},
 			["spacing"] = 0,
 			["bagBreak"] = false,
 			["x"] = -139.168212890625,
 			["itemScale"] = 1,
-			["color"] = {
-			},
-			["reverseSlots"] = true,
+			["reverseSlots"] = false,
 			["alpha"] = 1,
 			["y"] = 246.5166778564453,
 			["borderColor"] = {
@@ -171,9 +172,9 @@ Bagnon_Sets = {
 			},
 			["point"] = "TOPLEFT",
 			["hiddenBags"] = {
+				[9] = false,
 				[-1] = false,
 				[-3] = false,
-				[9] = false,
 			},
 			["color"] = {
 			},

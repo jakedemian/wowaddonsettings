@@ -3,7 +3,7 @@ Bartender4DB = {
 	["namespaces"] = {
 		["StatusTrackingBar"] = {
 			["profiles"] = {
-				["Ahriak - Area 52"] = {
+				["Rotrin - Area 52"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -11,39 +11,9 @@ Bartender4DB = {
 						["x"] = -515,
 						["point"] = "BOTTOM",
 						["scale"] = 1.264999985694885,
-					},
-				},
-				["Dulgan - Kilrogg"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["scale"] = 1.264999985694885,
-						["x"] = -515,
-						["point"] = "BOTTOM",
-						["y"] = 65,
 					},
 				},
 				["Uwutuskdaddy - Area 52"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 65,
-						["x"] = -515,
-						["point"] = "BOTTOM",
-						["scale"] = 1.264999985694885,
-					},
-				},
-				["Rotrin - Area 52"] = {
-					["enabled"] = true,
-					["position"] = {
-						["y"] = 65,
-						["x"] = -515,
-						["point"] = "BOTTOM",
-						["scale"] = 1.264999985694885,
-					},
-					["version"] = 3,
-				},
-				["Thartuk - Area 52"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -73,6 +43,36 @@ Bartender4DB = {
 						["scale"] = 1.264999985694885,
 					},
 				},
+				["Ahriak - Area 52"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 65,
+						["x"] = -515,
+						["point"] = "BOTTOM",
+						["scale"] = 1.264999985694885,
+					},
+				},
+				["Dulgan - Kilrogg"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["scale"] = 1.264999985694885,
+						["x"] = -515,
+						["point"] = "BOTTOM",
+						["y"] = 65,
+					},
+				},
+				["Fhaykum - Area 52"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 65,
+						["x"] = -515,
+						["point"] = "BOTTOM",
+						["scale"] = 1.264999985694885,
+					},
+				},
 				["Fhayge - Area 52"] = {
 					["enabled"] = true,
 					["version"] = 3,
@@ -82,6 +82,16 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 						["scale"] = 1.264999985694885,
 					},
+				},
+				["Thartuk - Area 52"] = {
+					["enabled"] = true,
+					["position"] = {
+						["y"] = 65,
+						["x"] = -515,
+						["point"] = "BOTTOM",
+						["scale"] = 1.264999985694885,
+					},
+					["version"] = 3,
 				},
 			},
 		},
@@ -223,25 +233,24 @@ Bartender4DB = {
 				["Thartuk - Area 52"] = {
 					["actionbars"] = {
 						{
-							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 41.75,
 								["x"] = -510,
 								["point"] = "BOTTOM",
 							},
+							["padding"] = 6,
 						}, -- [1]
 						{
-							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 150,
 								["x"] = -510,
 								["point"] = "BOTTOM",
 							},
+							["padding"] = 6,
 						}, -- [2]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
@@ -249,9 +258,9 @@ Bartender4DB = {
 								["x"] = -85,
 								["point"] = "RIGHT",
 							},
+							["padding"] = 5,
 						}, -- [3]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
@@ -259,44 +268,45 @@ Bartender4DB = {
 								["x"] = -43.500244140625,
 								["point"] = "RIGHT",
 							},
+							["padding"] = 5,
 						}, -- [4]
 						{
-							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 110,
 								["x"] = 3,
 								["point"] = "BOTTOM",
 							},
+							["padding"] = 6,
 						}, -- [5]
 						{
-							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 110,
 								["x"] = -510,
 								["point"] = "BOTTOM",
 							},
+							["padding"] = 6,
 						}, -- [6]
 						{
 							["enabled"] = true,
-							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 150,
 								["x"] = 3,
 								["point"] = "BOTTOM",
 							},
+							["padding"] = 6,
 						}, -- [7]
 						{
 							["enabled"] = true,
-							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 41,
 								["x"] = 3,
 								["point"] = "BOTTOM",
 							},
+							["padding"] = 6,
 						}, -- [8]
 						nil, -- [9]
 						{
@@ -521,6 +531,89 @@ Bartender4DB = {
 						},
 					},
 				},
+				["Fhaykum - Area 52"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 150,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [2]
+						{
+							["padding"] = 5,
+							["rows"] = 12,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 187.7667236328125,
+								["x"] = -85,
+								["point"] = "RIGHT",
+							},
+						}, -- [3]
+						{
+							["padding"] = 5,
+							["rows"] = 12,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 187.2333374023438,
+								["x"] = -43.500244140625,
+								["point"] = "RIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+							["enabled"] = true,
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 150,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [7]
+						{
+							["enabled"] = true,
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [8]
+						nil, -- [9]
+						{
+						}, -- [10]
+					},
+				},
 				["Primerlock - Kel'Thuzad"] = {
 					["actionbars"] = {
 						{
@@ -659,80 +752,80 @@ Bartender4DB = {
 				["Rotrin - Area 52"] = {
 					["actionbars"] = {
 						{
+							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 41.75,
 								["x"] = -510,
 								["point"] = "BOTTOM",
 							},
-							["padding"] = 6,
 						}, -- [1]
 						{
+							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 150,
 								["x"] = -510,
 								["point"] = "BOTTOM",
 							},
-							["padding"] = 6,
 						}, -- [2]
 						{
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 187.7667236328125,
 								["x"] = -85,
 								["point"] = "RIGHT",
 							},
-							["padding"] = 5,
 						}, -- [3]
 						{
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 187.2333374023438,
 								["x"] = -43.500244140625,
 								["point"] = "RIGHT",
 							},
-							["padding"] = 5,
 						}, -- [4]
 						{
+							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 110,
 								["x"] = 3,
 								["point"] = "BOTTOM",
 							},
-							["padding"] = 6,
 						}, -- [5]
 						{
+							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 110,
 								["x"] = -510,
 								["point"] = "BOTTOM",
 							},
-							["padding"] = 6,
 						}, -- [6]
 						{
 							["enabled"] = true,
+							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 150,
 								["x"] = 3,
 								["point"] = "BOTTOM",
 							},
-							["padding"] = 6,
 						}, -- [7]
 						{
 							["enabled"] = true,
+							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 41,
 								["x"] = 3,
 								["point"] = "BOTTOM",
 							},
-							["padding"] = 6,
 						}, -- [8]
 						nil, -- [9]
 						{
@@ -1060,8 +1153,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 187.7667236328125,
@@ -1070,8 +1163,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 187.2333374023438,
@@ -1649,12 +1742,12 @@ Bartender4DB = {
 					},
 				},
 				["Thartuk - Area 52"] = {
-					["version"] = 3,
 					["position"] = {
 						["y"] = 223.0000305175781,
 						["x"] = -31.5001220703125,
 						["point"] = "BOTTOM",
 					},
+					["version"] = 3,
 				},
 				["Fhayslam - Area 52"] = {
 					["version"] = 3,
@@ -1680,6 +1773,14 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
+				["Fhaykum - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 223.0000305175781,
+						["x"] = -31.5001220703125,
+						["point"] = "BOTTOM",
+					},
+				},
 				["Primerlock - Kel'Thuzad"] = {
 					["version"] = 3,
 					["position"] = {
@@ -1697,12 +1798,12 @@ Bartender4DB = {
 					},
 				},
 				["Rotrin - Area 52"] = {
+					["version"] = 3,
 					["position"] = {
 						["y"] = 223.0000305175781,
 						["x"] = -31.5001220703125,
 						["point"] = "BOTTOM",
 					},
-					["version"] = 3,
 				},
 				["Uwutuskdaddy - Area 52"] = {
 					["version"] = 3,
@@ -1825,14 +1926,14 @@ Bartender4DB = {
 					},
 				},
 				["Thartuk - Area 52"] = {
-					["padding"] = -2,
-					["version"] = 3,
 					["position"] = {
 						["y"] = 40,
 						["x"] = 154.6971130371094,
 						["point"] = "BOTTOMLEFT",
 						["scale"] = 1,
 					},
+					["version"] = 3,
+					["padding"] = -2,
 				},
 				["Fhayslam - Area 52"] = {
 					["padding"] = -2,
@@ -1864,6 +1965,16 @@ Bartender4DB = {
 						["y"] = 40,
 					},
 				},
+				["Fhaykum - Area 52"] = {
+					["padding"] = -2,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 40,
+						["x"] = 154.6971130371094,
+						["point"] = "BOTTOMLEFT",
+						["scale"] = 1,
+					},
+				},
 				["Primerlock - Kel'Thuzad"] = {
 					["padding"] = -2,
 					["version"] = 3,
@@ -1885,14 +1996,14 @@ Bartender4DB = {
 					},
 				},
 				["Rotrin - Area 52"] = {
+					["padding"] = -2,
+					["version"] = 3,
 					["position"] = {
 						["y"] = 40,
 						["x"] = 154.6971130371094,
 						["point"] = "BOTTOMLEFT",
 						["scale"] = 1,
 					},
-					["version"] = 3,
-					["padding"] = -2,
 				},
 				["Uwutuskdaddy - Area 52"] = {
 					["padding"] = -2,
@@ -2068,6 +2179,15 @@ Bartender4DB = {
 						["y"] = 32.40000600814801,
 					},
 				},
+				["Fhaykum - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 32.40000600814801,
+						["x"] = -2.700001430511435,
+						["point"] = "BOTTOMLEFT",
+						["scale"] = 0.8999999761581421,
+					},
+				},
 				["Primerlock - Kel'Thuzad"] = {
 					["version"] = 3,
 					["position"] = {
@@ -2217,13 +2337,13 @@ Bartender4DB = {
 				},
 				["Thartuk - Area 52"] = {
 					["enabled"] = true,
+					["artLayout"] = "TWOBAR",
 					["position"] = {
 						["y"] = 47,
 						["x"] = -511.5000610351563,
 						["point"] = "BOTTOM",
 					},
 					["version"] = 3,
-					["artLayout"] = "TWOBAR",
 				},
 				["Fhayslam - Area 52"] = {
 					["enabled"] = true,
@@ -2244,6 +2364,16 @@ Bartender4DB = {
 					},
 				},
 				["Dulgan - Kilrogg"] = {
+					["enabled"] = true,
+					["position"] = {
+						["y"] = 47,
+						["x"] = -511.5000610351563,
+						["point"] = "BOTTOM",
+					},
+					["version"] = 3,
+					["artLayout"] = "TWOBAR",
+				},
+				["Fhaykum - Area 52"] = {
 					["enabled"] = true,
 					["position"] = {
 						["y"] = 47,
@@ -2274,12 +2404,12 @@ Bartender4DB = {
 				["Rotrin - Area 52"] = {
 					["enabled"] = true,
 					["artLayout"] = "TWOBAR",
+					["version"] = 3,
 					["position"] = {
 						["y"] = 47,
 						["x"] = -511.5000610351563,
 						["point"] = "BOTTOM",
 					},
-					["version"] = 3,
 				},
 				["Uwutuskdaddy - Area 52"] = {
 					["enabled"] = true,
@@ -2320,13 +2450,13 @@ Bartender4DB = {
 				},
 				["Ahriak - Area 52"] = {
 					["enabled"] = true,
+					["artLayout"] = "TWOBAR",
+					["version"] = 3,
 					["position"] = {
 						["y"] = 47,
 						["x"] = -511.5000610351563,
 						["point"] = "BOTTOM",
 					},
-					["version"] = 3,
-					["artLayout"] = "TWOBAR",
 				},
 				["Plskillme - Kilrogg"] = {
 					["enabled"] = true,
@@ -2415,12 +2545,12 @@ Bartender4DB = {
 					},
 				},
 				["Thartuk - Area 52"] = {
-					["version"] = 3,
 					["position"] = {
 						["y"] = 223.0000457763672,
 						["x"] = -31.500244140625,
 						["point"] = "BOTTOM",
 					},
+					["version"] = 3,
 				},
 				["Fhayslam - Area 52"] = {
 					["version"] = 3,
@@ -2446,6 +2576,14 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
+				["Fhaykum - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 223.0000457763672,
+						["x"] = -31.500244140625,
+						["point"] = "BOTTOM",
+					},
+				},
 				["Primerlock - Kel'Thuzad"] = {
 					["version"] = 3,
 					["position"] = {
@@ -2463,12 +2601,12 @@ Bartender4DB = {
 					},
 				},
 				["Rotrin - Area 52"] = {
+					["version"] = 3,
 					["position"] = {
 						["y"] = 223.0000457763672,
 						["x"] = -31.500244140625,
 						["point"] = "BOTTOM",
 					},
-					["version"] = 3,
 				},
 				["Uwutuskdaddy - Area 52"] = {
 					["version"] = 3,
@@ -2587,12 +2725,12 @@ Bartender4DB = {
 					},
 				},
 				["Thartuk - Area 52"] = {
-					["version"] = 3,
 					["position"] = {
 						["y"] = 42.50015258789063,
 						["x"] = 104.4999389648438,
 						["point"] = "CENTER",
 					},
+					["version"] = 3,
 				},
 				["Fhayslam - Area 52"] = {
 					["version"] = 3,
@@ -2618,6 +2756,14 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
+				["Fhaykum - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42.50015258789063,
+						["x"] = 104.4999389648438,
+						["point"] = "CENTER",
+					},
+				},
 				["Primerlock - Kel'Thuzad"] = {
 					["version"] = 3,
 					["position"] = {
@@ -2635,12 +2781,12 @@ Bartender4DB = {
 					},
 				},
 				["Rotrin - Area 52"] = {
+					["version"] = 3,
 					["position"] = {
 						["y"] = 42.50015258789063,
 						["x"] = 104.4999389648438,
 						["point"] = "CENTER",
 					},
-					["version"] = 3,
 				},
 				["Uwutuskdaddy - Area 52"] = {
 					["version"] = 3,
@@ -2759,12 +2905,12 @@ Bartender4DB = {
 					},
 				},
 				["Thartuk - Area 52"] = {
-					["version"] = 3,
 					["position"] = {
 						["y"] = -14.99997711181641,
 						["x"] = -82.50003051757812,
 						["point"] = "CENTER",
 					},
+					["version"] = 3,
 				},
 				["Fhayslam - Area 52"] = {
 					["version"] = 3,
@@ -2790,6 +2936,14 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
+				["Fhaykum - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.99997711181641,
+						["x"] = -82.50003051757812,
+						["point"] = "CENTER",
+					},
+				},
 				["Primerlock - Kel'Thuzad"] = {
 					["version"] = 3,
 					["position"] = {
@@ -2807,12 +2961,12 @@ Bartender4DB = {
 					},
 				},
 				["Rotrin - Area 52"] = {
+					["version"] = 3,
 					["position"] = {
 						["y"] = -14.99997711181641,
 						["x"] = -82.50003051757812,
 						["point"] = "CENTER",
 					},
-					["version"] = 3,
 				},
 				["Uwutuskdaddy - Area 52"] = {
 					["version"] = 3,
@@ -2962,6 +3116,14 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
+				["Fhaykum - Area 52"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 217,
+						["x"] = -444.1002197265625,
+						["point"] = "BOTTOM",
+					},
+				},
 				["Primerlock - Kel'Thuzad"] = {
 					["version"] = 3,
 					["position"] = {
@@ -3104,6 +3266,9 @@ Bartender4DB = {
 				["Dulgan - Kilrogg"] = {
 					["version"] = 4,
 				},
+				["Fhaykum - Area 52"] = {
+					["version"] = 4,
+				},
 				["Primerlock - Kel'Thuzad"] = {
 					["version"] = 4,
 				},
@@ -3153,6 +3318,7 @@ Bartender4DB = {
 		["Fhayslam - Area 52"] = "Ahriak - Area 52",
 		["Primeboi - Area 52"] = "Primeboi - Area 52",
 		["Dulgan - Kilrogg"] = "Dulgan - Kilrogg",
+		["Fhaykum - Area 52"] = "Fhaykum - Area 52",
 		["Primerlock - Kel'Thuzad"] = "Primerlock - Kel'Thuzad",
 		["Primepriest - Area 52"] = "Primepriest - Area 52",
 		["Rotrin - Area 52"] = "Rotrin - Area 52",
@@ -3185,12 +3351,12 @@ Bartender4DB = {
 			["outofrange"] = "hotkey",
 		},
 		["Thartuk - Area 52"] = {
+			["blizzardVehicle"] = true,
 			["focuscastmodifier"] = false,
+			["buttonlock"] = true,
 			["minimapIcon"] = {
 				["hide"] = true,
 			},
-			["buttonlock"] = true,
-			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
 		["Fhayslam - Area 52"] = {
@@ -3220,6 +3386,15 @@ Bartender4DB = {
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
+		["Fhaykum - Area 52"] = {
+			["focuscastmodifier"] = false,
+			["minimapIcon"] = {
+				["hide"] = true,
+			},
+			["buttonlock"] = true,
+			["blizzardVehicle"] = true,
+			["outofrange"] = "hotkey",
+		},
 		["Primerlock - Kel'Thuzad"] = {
 			["focuscastmodifier"] = false,
 			["minimapIcon"] = {
@@ -3241,12 +3416,12 @@ Bartender4DB = {
 			["outofrange"] = "hotkey",
 		},
 		["Rotrin - Area 52"] = {
-			["blizzardVehicle"] = true,
 			["focuscastmodifier"] = false,
-			["buttonlock"] = true,
 			["minimapIcon"] = {
 				["hide"] = true,
 			},
+			["buttonlock"] = true,
+			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
 		["Uwutuskdaddy - Area 52"] = {

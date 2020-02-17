@@ -67,7 +67,7 @@ Bagnon_Sets = {
 			["x"] = -139.168212890625,
 			["y"] = 246.5166778564453,
 			["alpha"] = 1,
-			["reverseSlots"] = true,
+			["reverseSlots"] = false,
 			["color"] = {
 			},
 			["itemScale"] = 1,
@@ -171,9 +171,9 @@ Bagnon_Sets = {
 			},
 			["point"] = "TOPLEFT",
 			["hiddenBags"] = {
+				[-1] = false,
 				[-3] = false,
 				[9] = false,
-				[-1] = false,
 			},
 			["color"] = {
 			},

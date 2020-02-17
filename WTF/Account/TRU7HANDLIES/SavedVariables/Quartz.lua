@@ -74,6 +74,7 @@ Quartz3DB = {
 		["Primehunter - Area 52"] = "Default",
 		["Ahriak - Area 52"] = "Default",
 		["Plskillme - Kilrogg"] = "Default",
+		["Fhaykum - Area 52"] = "Default",
 		["Dulgan - Kilrogg"] = "Default",
 		["Fhayge - Area 52"] = "Default",
 		["Fhayrin - Area 52"] = "Default",

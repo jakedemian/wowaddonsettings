@@ -37,3 +37,5 @@ WeakAuras: enabled
 !InspectFix: enabled
 LockItems: disabled
 Mouse_Tooltip: enabled
+BigWigs_Countdown_HeroesOfTheStorm: enabled
+LittleWigs: enabled

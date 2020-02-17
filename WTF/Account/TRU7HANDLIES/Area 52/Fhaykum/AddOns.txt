@@ -37,3 +37,10 @@ Simulationcraft: enabled
 TalkingHeadFrame_Settings: enabled
 VuhDo: enabled
 WeakAuras: enabled
+BigWigs_Core: enabled
+BigWigs_Options: enabled
+BigWigs_Plugins: enabled
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
+BigWigs_Countdown_HeroesOfTheStorm: enabled
+LittleWigs: enabled

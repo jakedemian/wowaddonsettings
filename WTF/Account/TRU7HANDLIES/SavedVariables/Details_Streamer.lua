@@ -7,6 +7,7 @@ Details_StreamerDB = {
 		["Fhayslam - Area 52"] = "Fhayslam - Area 52",
 		["Primeboi - Area 52"] = "Fhayslam - Area 52",
 		["Dulgan - Kilrogg"] = "Fhayslam - Area 52",
+		["Fhaykum - Area 52"] = "Fhayslam - Area 52",
 		["Primerlock - Kel'Thuzad"] = "Fhayslam - Area 52",
 		["Primepriest - Area 52"] = "Fhayslam - Area 52",
 		["Rotrin - Area 52"] = "Fhayslam - Area 52",
@@ -51,7 +52,12 @@ Details_StreamerDB = {
 			["row_texture"] = "Details Serenity",
 			["arrow_anchor_y"] = 0,
 			["main_frame_locked"] = false,
-			["author"] = "Details! Team",
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
 			["enabled"] = false,
 			["arrow_size"] = 10,
 			["y"] = 9.999984741210938,
@@ -62,12 +68,7 @@ Details_StreamerDB = {
 				0, -- [3]
 				0.2, -- [4]
 			},
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
-			},
+			["main_frame_strata"] = "LOW",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
 			["per_second"] = {
 				["enabled"] = false,
@@ -84,7 +85,7 @@ Details_StreamerDB = {
 			["x"] = -444.1664581298828,
 			["font_face"] = "Friz Quadrata TT",
 			["use_spark"] = true,
-			["main_frame_strata"] = "LOW",
+			["author"] = "Details! Team",
 			["point"] = "CENTER",
 			["row_height"] = 20,
 			["scale"] = 1,

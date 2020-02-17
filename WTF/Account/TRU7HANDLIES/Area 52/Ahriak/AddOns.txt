@@ -44,3 +44,4 @@ TalkingHeadFrame_Settings: enabled
 VuhDo: enabled
 WeakAuras: enabled
 !InspectFix: enabled
+BigWigs_WrathOfTheLichKing: enabled

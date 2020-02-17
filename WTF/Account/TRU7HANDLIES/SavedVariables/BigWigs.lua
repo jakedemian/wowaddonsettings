@@ -19,15 +19,14 @@ BigWigs3DB = {
 	["namespaces"] = {
 		["BigWigs_Plugins_Victory"] = {
 		},
-		["BigWigs_Plugins_Alt Power"] = {
+		["BigWigs_Bosses_Adderis and Aspix"] = {
 			["profiles"] = {
 				["Default"] = {
-					["posx"] = 817.0666223621374,
-					["posy"] = 736.5333429121965,
+					[263309] = 3130103,
 				},
 			},
 		},
-		["BigWigs_Plugins_BossBlock"] = {
+		["LibDualSpec-1.0"] = {
 		},
 		["BigWigs_Bosses_K.U.-J.0."] = {
 			["profiles"] = {
@@ -53,86 +52,17 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Statistics"] = {
-		},
-		["LibDualSpec-1.0"] = {
-		},
-		["BigWigs_Plugins_Colors"] = {
-		},
-		["BigWigs_Plugins_Raid Icons"] = {
-		},
-		["BigWigs_Plugins_InfoBox"] = {
-		},
-		["BigWigs_Plugins_Bars"] = {
-			["profiles"] = {
-				["Default"] = {
-					["BigWigsEmphasizeAnchor_y"] = 585.9200259661666,
-					["BigWigsAnchor_x"] = 242.1335688066429,
-					["BigWigsEmphasizeAnchor_height"] = 21.99997520446777,
-					["BigWigsEmphasizeAnchor_width"] = 320.0000610351563,
-					["BigWigsAnchor_y"] = 669.6532662820828,
-					["BigWigsEmphasizeAnchor_x"] = 580.7999870181084,
-					["BigWigsAnchor_height"] = 15.99998760223389,
-				},
-			},
-		},
-		["BigWigs_Plugins_Wipe"] = {
-			["profiles"] = {
-				["Default"] = {
-					["wipeSound"] = "Burp",
-				},
-			},
-		},
-		["BigWigs_Bosses_Thrall"] = {
-			["profiles"] = {
-				["Default"] = {
-					[297746] = 3130103,
-				},
-			},
-		},
-		["BigWigs_Bosses_Za'qul, Herald of Ny'alotha"] = {
-			["profiles"] = {
-				["Default"] = {
-					[301141] = 1032951,
-				},
-			},
-		},
-		["BigWigs_Plugins_Super Emphasize"] = {
-			["profiles"] = {
-				["Default"] = {
-					["Countdown"] = {
-						["BigWigs_Bosses_Za'qul, Herald of Ny'alotha"] = {
-							[301141] = "English: Heroes of the Storm",
-						},
-					},
-					["fontSize"] = 72,
-					["voice"] = "English: Heroes of the Storm: Diablo",
-				},
-			},
-		},
 		["BigWigs_Plugins_Proximity"] = {
 			["profiles"] = {
 				["Default"] = {
-					["height"] = 119.9999771118164,
-					["posy"] = 438.3999511384973,
-					["posx"] = 1049.599898414614,
 					["width"] = 140.0001678466797,
+					["posy"] = 438.3999511384973,
+					["height"] = 119.9999771118164,
+					["posx"] = 1049.599898414614,
 				},
 			},
 		},
-		["BigWigs_Plugins_HeroesVoices"] = {
-		},
-		["BigWigs_Plugins_Messages"] = {
-			["profiles"] = {
-				["Default"] = {
-					["outline"] = "NONE",
-					["fontSize"] = 22,
-					["BWMessageAnchor_y"] = 418.6666312670714,
-					["BWMessageAnchor_x"] = 617.0666658949849,
-					["displaytime"] = 2,
-					["fadetime"] = 1,
-				},
-			},
+		["BigWigs_Bosses_The Black Stalker"] = {
 		},
 		["BigWigs_Plugins_AutoReply"] = {
 			["profiles"] = {
@@ -145,34 +75,114 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Pull"] = {
+		["BigWigs_Bosses_Ghaz'an"] = {
+		},
+		["BigWigs_Plugins_Super Emphasize"] = {
 			["profiles"] = {
 				["Default"] = {
+					["fontSize"] = 72,
 					["voice"] = "English: Heroes of the Storm: Diablo",
-					["combatLog"] = true,
+					["Countdown"] = {
+						["BigWigs_Bosses_Za'qul, Herald of Ny'alotha"] = {
+							[301141] = "English: Heroes of the Storm",
+						},
+					},
 				},
 			},
 		},
-		["BigWigs_Bosses_Adderis and Aspix"] = {
+		["BigWigs_Plugins_Alt Power"] = {
 			["profiles"] = {
 				["Default"] = {
-					[263309] = 3130103,
+					["posx"] = 817.0666223621374,
+					["posy"] = 736.5333429121965,
+				},
+			},
+		},
+		["BigWigs_Plugins_BossBlock"] = {
+		},
+		["BigWigs_Plugins_Wipe"] = {
+			["profiles"] = {
+				["Default"] = {
+					["wipeSound"] = "Burp",
+				},
+			},
+		},
+		["BigWigs_Bosses_Swamplord Musel'ek"] = {
+		},
+		["BigWigs_Plugins_Colors"] = {
+		},
+		["BigWigs_Plugins_InfoBox"] = {
+		},
+		["BigWigs_Plugins_Bars"] = {
+			["profiles"] = {
+				["Default"] = {
+					["BigWigsAnchor_x"] = 242.1335688066429,
+					["BigWigsEmphasizeAnchor_height"] = 21.99997520446777,
+					["BigWigsAnchor_height"] = 15.99998760223389,
+					["BigWigsAnchor_y"] = 669.6532662820828,
+					["BigWigsEmphasizeAnchor_width"] = 320.0000610351563,
+					["BigWigsEmphasizeAnchor_x"] = 580.7999870181084,
+					["BigWigsEmphasizeAnchor_y"] = 585.9200259661666,
+				},
+			},
+		},
+		["BigWigs_Plugins_Raid Icons"] = {
+		},
+		["BigWigs_Plugins_HeroesVoices"] = {
+		},
+		["BigWigs_Bosses_Za'qul, Herald of Ny'alotha"] = {
+			["profiles"] = {
+				["Default"] = {
+					[301141] = 1032951,
+				},
+			},
+		},
+		["BigWigs_Bosses_Hungarfen"] = {
+		},
+		["BigWigs_Plugins_Statistics"] = {
+		},
+		["BigWigs_Bosses_Thrall"] = {
+			["profiles"] = {
+				["Default"] = {
+					[297746] = 3130103,
+				},
+			},
+		},
+		["BigWigs_Plugins_Messages"] = {
+			["profiles"] = {
+				["Default"] = {
+					["outline"] = "NONE",
+					["fontSize"] = 22,
+					["BWMessageAnchor_x"] = 617.0666658949849,
+					["displaytime"] = 2,
+					["BWMessageAnchor_y"] = 418.6666312670714,
+					["fadetime"] = 1,
+				},
+			},
+		},
+		["BigWigs_Plugins_Pull"] = {
+			["profiles"] = {
+				["Default"] = {
+					["combatLog"] = true,
+					["voice"] = "English: Heroes of the Storm: Diablo",
 				},
 			},
 		},
 	},
 	["wipe80"] = true,
 	["profileKeys"] = {
-		["Fhayup - Area 52"] = "Default",
 		["Uwutuskdaddy - Area 52"] = "Default",
+		["Fhayup - Area 52"] = "Default",
+		["Thartuk - Area 52"] = "Default",
+		["Rotrin - Area 52"] = "Default",
 		["Fhayrin - Area 52"] = "Default",
 		["Iamprime - Area 52"] = "Default",
 		["Ahriak - Area 52"] = "Default",
 		["Plskillme - Kilrogg"] = "Default",
-		["Thartuk - Area 52"] = "Default",
-		["Fhayslam - Area 52"] = "Default",
-		["Fhayge - Area 52"] = "Default",
+		["Fhaykum - Area 52"] = "Default",
 		["Primehunter - Area 52"] = "Default",
+		["Fhayge - Area 52"] = "Default",
+		["Fhayslam - Area 52"] = "Default",
 		["Paintprimer - Kel'Thuzad"] = "Default",
 		["Primerlock - Kel'Thuzad"] = "Default",
 	},
