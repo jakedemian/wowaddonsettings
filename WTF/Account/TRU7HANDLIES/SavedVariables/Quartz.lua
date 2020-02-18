@@ -17,6 +17,8 @@ Quartz3DB = {
 				},
 			},
 		},
+		["EnemyCasts"] = {
+		},
 		["Player"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -27,8 +29,6 @@ Quartz3DB = {
 					["texture"] = "Charcoal",
 				},
 			},
-		},
-		["EnemyCasts"] = {
 		},
 		["GCD"] = {
 		},
@@ -60,9 +60,9 @@ Quartz3DB = {
 				},
 			},
 		},
-		["Mirror"] = {
-		},
 		["Range"] = {
+		},
+		["Mirror"] = {
 		},
 		["Latency"] = {
 		},
@@ -75,11 +75,11 @@ Quartz3DB = {
 		["Ahriak - Area 52"] = "Default",
 		["Plskillme - Kilrogg"] = "Default",
 		["Fhaykum - Area 52"] = "Default",
-		["Dulgan - Kilrogg"] = "Default",
-		["Fhayge - Area 52"] = "Default",
-		["Fhayrin - Area 52"] = "Default",
-		["Fhayslam - Area 52"] = "Default",
 		["Thartuk - Area 52"] = "Default",
+		["Fhayge - Area 52"] = "Default",
+		["Fhayslam - Area 52"] = "Default",
+		["Fhayrin - Area 52"] = "Default",
+		["Dulgan - Kilrogg"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

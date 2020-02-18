@@ -1,6 +1,5 @@
 
 BigWigs3DB = {
-	["discord"] = 15,
 	["global"] = {
 		["watchedMovies"] = {
 			[73] = true,
@@ -16,24 +15,25 @@ BigWigs3DB = {
 			[-323] = true,
 		},
 	},
+	["discord"] = 15,
 	["namespaces"] = {
 		["BigWigs_Plugins_Victory"] = {
 		},
-		["BigWigs_Bosses_Adderis and Aspix"] = {
+		["BigWigs_Bosses_Skadi the Ruthless"] = {
+		},
+		["BigWigs_Plugins_Alt Power"] = {
 			["profiles"] = {
 				["Default"] = {
-					[263309] = 3130103,
+					["posx"] = 817.0666223621374,
+					["posy"] = 736.5333429121965,
 				},
 			},
 		},
-		["LibDualSpec-1.0"] = {
+		["BigWigs_Plugins_BossBlock"] = {
 		},
-		["BigWigs_Bosses_K.U.-J.0."] = {
-			["profiles"] = {
-				["Default"] = {
-					[291946] = 3130103,
-				},
-			},
+		["BigWigs_Bosses_King Ymiron"] = {
+		},
+		["BigWigs_Bosses_Tribunal of Ages"] = {
 		},
 		["BigWigs_Plugins_Sounds"] = {
 			["profiles"] = {
@@ -52,64 +52,42 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Proximity"] = {
+		["BigWigs_Bosses_Thrall"] = {
 			["profiles"] = {
 				["Default"] = {
-					["width"] = 140.0001678466797,
-					["posy"] = 438.3999511384973,
-					["height"] = 119.9999771118164,
-					["posx"] = 1049.599898414614,
+					[297746] = 3130103,
 				},
 			},
 		},
-		["BigWigs_Bosses_The Black Stalker"] = {
+		["BigWigs_Bosses_Gortok Palehoof"] = {
 		},
-		["BigWigs_Plugins_AutoReply"] = {
+		["BigWigs_Plugins_Statistics"] = {
+		},
+		["BigWigs_Bosses_Adderis and Aspix"] = {
 			["profiles"] = {
 				["Default"] = {
-					["exitCombatOther"] = 1,
-					["disabled"] = false,
-					["exitCombat"] = 1,
-					["mode"] = 4,
-					["modeOther"] = 4,
+					[263309] = 3130103,
 				},
 			},
 		},
-		["BigWigs_Bosses_Ghaz'an"] = {
+		["LibDualSpec-1.0"] = {
 		},
-		["BigWigs_Plugins_Super Emphasize"] = {
+		["BigWigs_Bosses_Maiden of Grief"] = {
+		},
+		["BigWigs_Bosses_Svala Sorrowgrave"] = {
+		},
+		["BigWigs_Bosses_Utgarde Pinnacle Trash"] = {
+		},
+		["BigWigs_Bosses_K.U.-J.0."] = {
 			["profiles"] = {
 				["Default"] = {
-					["fontSize"] = 72,
-					["voice"] = "English: Heroes of the Storm: Diablo",
-					["Countdown"] = {
-						["BigWigs_Bosses_Za'qul, Herald of Ny'alotha"] = {
-							[301141] = "English: Heroes of the Storm",
-						},
-					},
+					[291946] = 3130103,
 				},
 			},
-		},
-		["BigWigs_Plugins_Alt Power"] = {
-			["profiles"] = {
-				["Default"] = {
-					["posx"] = 817.0666223621374,
-					["posy"] = 736.5333429121965,
-				},
-			},
-		},
-		["BigWigs_Plugins_BossBlock"] = {
-		},
-		["BigWigs_Plugins_Wipe"] = {
-			["profiles"] = {
-				["Default"] = {
-					["wipeSound"] = "Burp",
-				},
-			},
-		},
-		["BigWigs_Bosses_Swamplord Musel'ek"] = {
 		},
 		["BigWigs_Plugins_Colors"] = {
+		},
+		["BigWigs_Plugins_Raid Icons"] = {
 		},
 		["BigWigs_Plugins_InfoBox"] = {
 		},
@@ -126,9 +104,20 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Raid Icons"] = {
-		},
 		["BigWigs_Plugins_HeroesVoices"] = {
+		},
+		["BigWigs_Plugins_Super Emphasize"] = {
+			["profiles"] = {
+				["Default"] = {
+					["fontSize"] = 72,
+					["voice"] = "English: Heroes of the Storm: Diablo",
+					["Countdown"] = {
+						["BigWigs_Bosses_Za'qul, Herald of Ny'alotha"] = {
+							[301141] = "English: Heroes of the Storm",
+						},
+					},
+				},
+			},
 		},
 		["BigWigs_Bosses_Za'qul, Herald of Ny'alotha"] = {
 			["profiles"] = {
@@ -137,14 +126,28 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Hungarfen"] = {
-		},
-		["BigWigs_Plugins_Statistics"] = {
-		},
-		["BigWigs_Bosses_Thrall"] = {
+		["BigWigs_Plugins_AutoReply"] = {
 			["profiles"] = {
 				["Default"] = {
-					[297746] = 3130103,
+					["exitCombatOther"] = 1,
+					["disabled"] = false,
+					["exitCombat"] = 1,
+					["mode"] = 4,
+					["modeOther"] = 4,
+				},
+			},
+		},
+		["BigWigs_Bosses_Krystallus"] = {
+		},
+		["BigWigs_Bosses_Sjonnir The Ironshaper"] = {
+		},
+		["BigWigs_Plugins_Proximity"] = {
+			["profiles"] = {
+				["Default"] = {
+					["width"] = 140.0001678466797,
+					["posy"] = 438.3999511384973,
+					["height"] = 119.9999771118164,
+					["posx"] = 1049.599898414614,
 				},
 			},
 		},
@@ -168,21 +171,28 @@ BigWigs3DB = {
 				},
 			},
 		},
+		["BigWigs_Plugins_Wipe"] = {
+			["profiles"] = {
+				["Default"] = {
+					["wipeSound"] = "Burp",
+				},
+			},
+		},
 	},
 	["wipe80"] = true,
 	["profileKeys"] = {
-		["Uwutuskdaddy - Area 52"] = "Default",
-		["Fhayup - Area 52"] = "Default",
 		["Thartuk - Area 52"] = "Default",
+		["Fhayup - Area 52"] = "Default",
+		["Uwutuskdaddy - Area 52"] = "Default",
 		["Rotrin - Area 52"] = "Default",
 		["Fhayrin - Area 52"] = "Default",
 		["Iamprime - Area 52"] = "Default",
 		["Ahriak - Area 52"] = "Default",
 		["Plskillme - Kilrogg"] = "Default",
 		["Fhaykum - Area 52"] = "Default",
-		["Primehunter - Area 52"] = "Default",
-		["Fhayge - Area 52"] = "Default",
 		["Fhayslam - Area 52"] = "Default",
+		["Fhayge - Area 52"] = "Default",
+		["Primehunter - Area 52"] = "Default",
 		["Paintprimer - Kel'Thuzad"] = "Default",
 		["Primerlock - Kel'Thuzad"] = "Default",
 	},
@@ -242,9 +252,14 @@ BigWigsStatsDB = {
 				["kills"] = 1,
 			},
 		},
-		[2359] = {
+		[2347] = {
 			["normal"] = {
-				["wipes"] = 1,
+				["best"] = 287.8740000000689,
+				["kills"] = 1,
+			},
+			["LFR"] = {
+				["best"] = 318.1939999999013,
+				["kills"] = 1,
 			},
 		},
 		[2349] = {
@@ -254,14 +269,9 @@ BigWigsStatsDB = {
 				["best"] = 455.0159999999742,
 			},
 		},
-		[2347] = {
+		[2359] = {
 			["normal"] = {
-				["best"] = 287.8740000000689,
-				["kills"] = 1,
-			},
-			["LFR"] = {
-				["best"] = 318.1939999999013,
-				["kills"] = 1,
+				["wipes"] = 1,
 			},
 		},
 	},

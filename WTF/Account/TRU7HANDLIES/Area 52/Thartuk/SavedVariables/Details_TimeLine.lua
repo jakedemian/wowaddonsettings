@@ -3,32 +3,583 @@ DetailsTimeLineDB = {
 	["max_segments"] = 4,
 	["combat_data"] = {
 		{
-			["date_end"] = "23:45:54",
-			["date_start"] = "23:45:05",
-			["name"] = "The Black Stalker",
-			["total_time"] = 50.48300000000745,
+			["date_end"] = "23:36:37",
+			["date_start"] = "23:35:23",
+			["name"] = "King Ymiron",
+			["total_time"] = 76.16200000001118,
 		}, -- [1]
 		{
-			["date_end"] = "23:43:47",
-			["date_start"] = "23:42:50",
-			["name"] = "Swamplord Musel'ek",
-			["total_time"] = 58.19200000003912,
+			["date_end"] = "23:31:38",
+			["date_start"] = "23:30:53",
+			["name"] = "Skadi the Ruthless",
+			["total_time"] = 44.76699999999255,
 		}, -- [2]
 		{
-			["date_end"] = "23:39:31",
-			["date_start"] = "23:39:03",
-			["name"] = "Ghaz'an",
-			["total_time"] = 28.39299999992363,
+			["date_end"] = "23:29:06",
+			["date_start"] = "23:28:41",
+			["name"] = "Gortok Palehoof",
+			["total_time"] = 25.35100000002421,
 		}, -- [3]
 		{
-			["date_end"] = "23:33:33",
-			["date_start"] = "23:32:49",
-			["name"] = "Hungarfen",
-			["total_time"] = 45.06499999994412,
+			["date_end"] = "23:24:11",
+			["date_start"] = "23:23:30",
+			["name"] = "Svala Sorrowgrave",
+			["total_time"] = 41.86899999994785,
 		}, -- [4]
 	},
 	["hide_on_combat"] = false,
 	["IndividualSpells"] = {
+		{
+			[51750] = {
+				{
+					12.16100000008009, -- [1]
+					"King Ymiron", -- [2]
+					51750, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					44.94500000006519, -- [1]
+					"King Ymiron", -- [2]
+					51750, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+			[48294] = {
+				{
+					42.10300000011921, -- [1]
+					"King Ymiron", -- [2]
+					48294, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					71.68000000016764, -- [1]
+					"King Ymiron", -- [2]
+					48294, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+			[48380] = {
+				{
+					60.74800000013784, -- [1]
+					"Spirit Fount", -- [2]
+					48380, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[48291] = {
+				{
+					8.528000000165775, -- [1]
+					"King Ymiron", -- [2]
+					48291, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Büttèrs-Ragnaros", -- [5]
+				}, -- [1]
+				{
+					34.0230000000447, -- [1]
+					"King Ymiron", -- [2]
+					48291, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Büttèrs-Ragnaros", -- [5]
+				}, -- [2]
+				{
+					64.40300000016578, -- [1]
+					"King Ymiron", -- [2]
+					48291, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Büttèrs-Ragnaros", -- [5]
+				}, -- [3]
+			},
+			[48529] = {
+				{
+					28.45999999996275, -- [1]
+					"King Ymiron", -- [2]
+					48529, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					39.37000000011176, -- [1]
+					"King Ymiron", -- [2]
+					48529, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+			[48292] = {
+				{
+					9.748000000137836, -- [1]
+					"King Ymiron", -- [2]
+					48292, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Büttèrs-Ragnaros", -- [5]
+				}, -- [1]
+				{
+					32.80400000000373, -- [1]
+					"King Ymiron", -- [2]
+					48292, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Büttèrs-Ragnaros", -- [5]
+				}, -- [2]
+				{
+					43.73100000014529, -- [1]
+					"King Ymiron", -- [2]
+					48292, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Büttèrs-Ragnaros", -- [5]
+				}, -- [3]
+				{
+					66.84600000013597, -- [1]
+					"King Ymiron", -- [2]
+					48292, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Büttèrs-Ragnaros", -- [5]
+				}, -- [4]
+			},
+		}, -- [1]
+		{
+			[49092] = {
+				{
+					13.36000000010245, -- [1]
+					"Ymirjar Harpooner", -- [2]
+					49092, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Orecchini-Tichondrius", -- [5]
+				}, -- [1]
+				{
+					25.52100000018254, -- [1]
+					"Ymirjar Harpooner", -- [2]
+					49092, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Orecchini-Tichondrius", -- [5]
+				}, -- [2]
+			},
+			[48639] = {
+				{
+					10.94700000016019, -- [1]
+					"Ymirjar Warrior", -- [2]
+					48639, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Orecchini-Tichondrius", -- [5]
+				}, -- [1]
+			},
+			[50234] = {
+				{
+					36.43300000019372, -- [1]
+					"Skadi the Ruthless", -- [2]
+					50234, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Büttèrs-Ragnaros", -- [5]
+				}, -- [1]
+			},
+			[49091] = {
+				{
+					15.79000000003725, -- [1]
+					"Ymirjar Harpooner", -- [2]
+					49091, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Orecchini-Tichondrius", -- [5]
+				}, -- [1]
+				{
+					19.43700000015087, -- [1]
+					"Ymirjar Harpooner", -- [2]
+					49091, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Orecchini-Tichondrius", -- [5]
+				}, -- [2]
+				{
+					25.52100000018254, -- [1]
+					"Ymirjar Harpooner", -- [2]
+					49091, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Orecchini-Tichondrius", -- [5]
+				}, -- [3]
+			},
+			[50255] = {
+				{
+					10.73400000017136, -- [1]
+					"Skadi the Ruthless", -- [2]
+					50255, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Nighkeo-Arathor", -- [5]
+				}, -- [1]
+				{
+					31.35300000011921, -- [1]
+					"Skadi the Ruthless", -- [2]
+					50255, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Thartuk", -- [5]
+				}, -- [2]
+			},
+			[48640] = {
+				{
+					9.884000000078231, -- [1]
+					"Ymirjar Warrior", -- [2]
+					48640, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Orecchini-Tichondrius", -- [5]
+				}, -- [1]
+			},
+			[50228] = {
+				{
+					14.57099999999628, -- [1]
+					"Skadi the Ruthless", -- [2]
+					50228, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+		}, -- [2]
+		{
+			[48260] = {
+				{
+					8.007999999914318, -- [1]
+					"Gortok Palehoof", -- [2]
+					48260, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Büttèrs-Ragnaros", -- [5]
+				}, -- [1]
+				{
+					14.90099999983795, -- [1]
+					"Gortok Palehoof", -- [2]
+					48260, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Büttèrs-Ragnaros", -- [5]
+				}, -- [2]
+				{
+					22.92799999983981, -- [1]
+					"Gortok Palehoof", -- [2]
+					48260, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Büttèrs-Ragnaros", -- [5]
+				}, -- [3]
+			},
+			[48256] = {
+				{
+					10.45999999996275, -- [1]
+					"Gortok Palehoof", -- [2]
+					48256, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					21.37399999983609, -- [1]
+					"Gortok Palehoof", -- [2]
+					48256, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+			[48261] = {
+				{
+					12.89699999988079, -- [1]
+					"Gortok Palehoof", -- [2]
+					48261, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Büttèrs-Ragnaros", -- [5]
+				}, -- [1]
+			},
+		}, -- [3]
+		{
+			[48278] = {
+				{
+					19.00500000012107, -- [1]
+					"Ritual Channeler", -- [2]
+					48278, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					19.0250000001397, -- [1]
+					"Ritual Channeler", -- [2]
+					48278, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					19.0250000001397, -- [1]
+					"Ritual Channeler", -- [2]
+					48278, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+			},
+			[48276] = {
+				{
+					18.56300000008196, -- [1]
+					"Svala Sorrowgrave", -- [2]
+					48276, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[15667] = {
+				{
+					9.32300000009127, -- [1]
+					"Svala Sorrowgrave", -- [2]
+					15667, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Büttèrs-Ragnaros", -- [5]
+				}, -- [1]
+			},
+			[48258] = {
+				{
+					8.621999999973923, -- [1]
+					"Svala Sorrowgrave", -- [2]
+					48258, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					17.12400000006892, -- [1]
+					"Svala Sorrowgrave", -- [2]
+					48258, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					26.83700000005774, -- [1]
+					"Svala Sorrowgrave", -- [2]
+					48258, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					36.54399999999441, -- [1]
+					"Svala Sorrowgrave", -- [2]
+					48258, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+			},
+		}, -- [4]
+		{
+			[50840] = {
+				{
+					30.17599999997765, -- [1]
+					"Sjonnir The Ironshaper", -- [2]
+					50840, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[51849] = {
+				{
+					41.125, -- [1]
+					"Sjonnir The Ironshaper", -- [2]
+					51849, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[50830] = {
+				{
+					13.19699999992736, -- [1]
+					"Sjonnir The Ironshaper", -- [2]
+					50830, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Thartuk", -- [5]
+				}, -- [1]
+				{
+					27.74500000011176, -- [1]
+					"Sjonnir The Ironshaper", -- [2]
+					50830, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Thartuk", -- [5]
+				}, -- [2]
+				{
+					49.61400000005961, -- [1]
+					"Sjonnir The Ironshaper", -- [2]
+					50830, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Thartuk", -- [5]
+				}, -- [3]
+			},
+			[50895] = {
+				{
+					9.56000000005588, -- [1]
+					"Forged Iron Dwarf", -- [2]
+					50895, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Thartuk", -- [5]
+				}, -- [1]
+				{
+					15.62100000004284, -- [1]
+					"Forged Iron Dwarf", -- [2]
+					50895, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Thartuk", -- [5]
+				}, -- [2]
+			},
+			[50834] = {
+				{
+					18.06300000008196, -- [1]
+					"Sjonnir The Ironshaper", -- [2]
+					50834, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Rajukah-Illidan", -- [5]
+				}, -- [1]
+			},
+			[28747] = {
+				{
+					41.125, -- [1]
+					"Sjonnir The Ironshaper", -- [2]
+					28747, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[50831] = {
+				{
+					21.69100000010803, -- [1]
+					"Sjonnir The Ironshaper", -- [2]
+					50831, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					48.39299999992363, -- [1]
+					"Sjonnir The Ironshaper", -- [2]
+					50831, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+			[50900] = {
+				{
+					27.33499999996275, -- [1]
+					"Forged Iron Trogg", -- [2]
+					50900, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Thartuk", -- [5]
+				}, -- [1]
+				{
+					29.75600000005215, -- [1]
+					"Forged Iron Trogg", -- [2]
+					50900, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Thartuk", -- [5]
+				}, -- [2]
+			},
+		}, -- [5]
+		{
+			[15801] = {
+				{
+					51.28899999987334, -- [1]
+					"Dark Rune Theurgist", -- [2]
+					15801, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Cooler-Dawnbringer", -- [5]
+				}, -- [1]
+			},
+			[50760] = {
+				{
+					32.66899999999441, -- [1]
+					"Maiden of Grief", -- [2]
+					50760, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[32693] = {
+				{
+					51.28899999987334, -- [1]
+					"Dark Rune Elementalist", -- [2]
+					32693, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dark Rune Elementalist", -- [5]
+				}, -- [1]
+			},
+			[50831] = {
+				{
+					51.28899999987334, -- [1]
+					"Sjonnir The Ironshaper", -- [2]
+					50831, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[50752] = {
+				{
+					9.237999999895692, -- [1]
+					"Maiden of Grief", -- [2]
+					50752, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					25.02000000001863, -- [1]
+					"Maiden of Grief", -- [2]
+					50752, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					43.23799999989569, -- [1]
+					"Maiden of Grief", -- [2]
+					50752, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+			},
+			[50761] = {
+				{
+					7.816999999806285, -- [1]
+					"Maiden of Grief", -- [2]
+					50761, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Thartuk", -- [5]
+				}, -- [1]
+				{
+					24.80999999982305, -- [1]
+					"Maiden of Grief", -- [2]
+					50761, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Darkdanash-Quel'Thalas", -- [5]
+				}, -- [2]
+				{
+					44.23999999999069, -- [1]
+					"Maiden of Grief", -- [2]
+					50761, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Darkdanash-Quel'Thalas", -- [5]
+				}, -- [3]
+			},
+			[51776] = {
+				{
+					51.28899999987334, -- [1]
+					"Dark Rune Elementalist", -- [2]
+					51776, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dark Rune Elementalist", -- [5]
+				}, -- [1]
+				{
+					51.28899999987334, -- [1]
+					"Dark Rune Elementalist", -- [2]
+					51776, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dark Rune Elementalist", -- [5]
+				}, -- [2]
+			},
+		}, -- [6]
+		{
+		}, -- [7]
+		{
+			[50810] = {
+				{
+					22.54199999989942, -- [1]
+					"Krystallus", -- [2]
+					50810, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					44.40799999982119, -- [1]
+					"Krystallus", -- [2]
+					50810, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+			[50868] = {
+				{
+					31.27199999988079, -- [1]
+					"Krystallus", -- [2]
+					50868, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[50843] = {
+				{
+					10.39999999990687, -- [1]
+					"Krystallus", -- [2]
+					50843, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Thartuk", -- [5]
+				}, -- [1]
+				{
+					24.97999999998137, -- [1]
+					"Krystallus", -- [2]
+					50843, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Thartuk", -- [5]
+				}, -- [2]
+			},
+		}, -- [8]
 		{
 			[31715] = {
 				{
@@ -83,7 +634,7 @@ DetailsTimeLineDB = {
 					"Tikigu", -- [5]
 				}, -- [4]
 			},
-		}, -- [1]
+		}, -- [9]
 		{
 			[31946] = {
 				{
@@ -197,11 +748,11 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-			[31567] = {
+			[31615] = {
 				{
-					52.2269999999553, -- [1]
+					38.86899999994785, -- [1]
 					"Swamplord Musel'ek", -- [2]
-					31567, -- [3]
+					31615, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
@@ -221,6 +772,14 @@ DetailsTimeLineDB = {
 					"Tikigu", -- [5]
 				}, -- [2]
 			},
+			[31567] = {
+				{
+					52.2269999999553, -- [1]
+					"Swamplord Musel'ek", -- [2]
+					31567, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
 			[34971] = {
 				{
 					8.513999999966472, -- [1]
@@ -235,15 +794,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-			[31615] = {
-				{
-					38.86899999994785, -- [1]
-					"Swamplord Musel'ek", -- [2]
-					31615, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-			},
-		}, -- [2]
+		}, -- [10]
 		{
 			[34268] = {
 				{
@@ -319,7 +870,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [3]
+		}, -- [11]
 		{
 			[31673] = {
 				{
@@ -343,14 +894,6 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-			[34874] = {
-				{
-					44.30499999993481, -- [1]
-					"Hungarfen", -- [2]
-					34874, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-			},
 			[31689] = {
 				{
 					31.23499999986962, -- [1]
@@ -365,7 +908,15 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [4]
+			[34874] = {
+				{
+					44.30499999993481, -- [1]
+					"Hungarfen", -- [2]
+					34874, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+		}, -- [12]
 		{
 			[42708] = {
 				{
@@ -415,7 +966,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [5]
+		}, -- [13]
 		{
 			[43649] = {
 				{
@@ -495,7 +1046,7 @@ DetailsTimeLineDB = {
 					"Gissëlle-Quel'Thalas", -- [5]
 				}, -- [1]
 			},
-		}, -- [6]
+		}, -- [14]
 		{
 			[43667] = {
 				{
@@ -564,7 +1115,7 @@ DetailsTimeLineDB = {
 					"Gissëlle-Quel'Thalas", -- [5]
 				}, -- [1]
 			},
-		}, -- [7]
+		}, -- [15]
 		{
 			[30926] = {
 				{
@@ -600,7 +1151,7 @@ DetailsTimeLineDB = {
 					"Tahnok-Thunderhorn", -- [5]
 				}, -- [2]
 			},
-		}, -- [8]
+		}, -- [16]
 		{
 			[35748] = {
 				{
@@ -628,6 +1179,14 @@ DetailsTimeLineDB = {
 					"Tahnok-Thunderhorn", -- [5]
 				}, -- [1]
 			},
+			[30707] = {
+				{
+					21.83799999998882, -- [1]
+					"Omor the Unscarred", -- [2]
+					30707, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
 			[30695] = {
 				{
 					26.46599999978207, -- [1]
@@ -637,15 +1196,7 @@ DetailsTimeLineDB = {
 					"Define-ScarletCrusade", -- [5]
 				}, -- [1]
 			},
-			[30707] = {
-				{
-					21.83799999998882, -- [1]
-					"Omor the Unscarred", -- [2]
-					30707, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-			},
-		}, -- [9]
+		}, -- [17]
 		{
 			[34645] = {
 				{
@@ -656,7 +1207,7 @@ DetailsTimeLineDB = {
 					"Tahnok-Thunderhorn", -- [5]
 				}, -- [1]
 			},
-		}, -- [10]
+		}, -- [18]
 		{
 			[15619] = {
 				{
@@ -681,13 +1232,50 @@ DetailsTimeLineDB = {
 					"Huztle-KhazModan", -- [5]
 				}, -- [3]
 			},
-			[15346] = {
+			[13953] = {
 				{
-					24.47500000009313, -- [1]
+					17.47600000002421, -- [1]
 					"Fineous Darkvire", -- [2]
-					15346, -- [3]
+					13953, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Fineous Darkvire", -- [5]
+					"Thartuk", -- [5]
+				}, -- [1]
+				{
+					27.51500000013039, -- [1]
+					"Fineous Darkvire", -- [2]
+					13953, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Thartuk", -- [5]
+				}, -- [2]
+				{
+					52.375, -- [1]
+					"Fineous Darkvire", -- [2]
+					13953, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Thartuk", -- [5]
+				}, -- [3]
+			},
+			[9143] = {
+				{
+					9.475000000093132, -- [1]
+					"Doomforge Craftsman", -- [2]
+					9143, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					10.70299999997951, -- [1]
+					"Doomforge Craftsman", -- [2]
+					9143, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+			[6268] = {
+				{
+					57.47600000002421, -- [1]
+					"Ashmane Boar", -- [2]
+					6268, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Thartuk", -- [5]
 				}, -- [1]
 			},
 			[11978] = {
@@ -713,29 +1301,6 @@ DetailsTimeLineDB = {
 					"Thartuk", -- [5]
 				}, -- [3]
 			},
-			[6268] = {
-				{
-					57.47600000002421, -- [1]
-					"Ashmane Boar", -- [2]
-					6268, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Thartuk", -- [5]
-				}, -- [1]
-			},
-			[9143] = {
-				{
-					9.475000000093132, -- [1]
-					"Doomforge Craftsman", -- [2]
-					9143, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-				{
-					10.70299999997951, -- [1]
-					"Doomforge Craftsman", -- [2]
-					9143, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
-			},
 			[8258] = {
 				{
 					5.053000000072643, -- [1]
@@ -744,30 +1309,16 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-			[13953] = {
+			[15346] = {
 				{
-					17.47600000002421, -- [1]
+					24.47500000009313, -- [1]
 					"Fineous Darkvire", -- [2]
-					13953, -- [3]
+					15346, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Thartuk", -- [5]
+					"Fineous Darkvire", -- [5]
 				}, -- [1]
-				{
-					27.51500000013039, -- [1]
-					"Fineous Darkvire", -- [2]
-					13953, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Thartuk", -- [5]
-				}, -- [2]
-				{
-					52.375, -- [1]
-					"Fineous Darkvire", -- [2]
-					13953, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Thartuk", -- [5]
-				}, -- [3]
 			},
-		}, -- [11]
+		}, -- [19]
 		{
 			[13899] = {
 				{
@@ -863,7 +1414,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [12]
+		}, -- [20]
 		{
 			[15619] = {
 				{
@@ -1618,25 +2169,19 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [10]
 			},
-			[13899] = {
+			[9128] = {
 				{
-					5.38800000003539, -- [1]
-					"Lord Incendius", -- [2]
-					13899, -- [3]
+					18.36800000001676, -- [1]
+					"Anvilrage Officer", -- [2]
+					9128, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 				{
-					21.16200000001118, -- [1]
-					"Lord Incendius", -- [2]
-					13899, -- [3]
+					34.11699999985285, -- [1]
+					"Anvilrage Officer", -- [2]
+					9128, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
-				{
-					35.69999999995343, -- [1]
-					"Lord Incendius", -- [2]
-					13899, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [3]
 			},
 			[14099] = {
 				{
@@ -1775,54 +2320,25 @@ DetailsTimeLineDB = {
 					"Kirasha-Blackrock", -- [5]
 				}, -- [9]
 			},
-			[13584] = {
+			[13899] = {
 				{
-					11.1569999998901, -- [1]
-					"Shadowforge Peasant", -- [2]
-					13584, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Thartuk", -- [5]
-				}, -- [1]
-				{
-					11.52899999986403, -- [1]
-					"Shadowforge Peasant", -- [2]
-					13584, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Thartuk", -- [5]
-				}, -- [2]
-				{
-					23.1820000000298, -- [1]
-					"Shadowforge Peasant", -- [2]
-					13584, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Greater Earth Elemental", -- [5]
-				}, -- [3]
-			},
-			[26977] = {
-				{
-					5.807999999960885, -- [1]
+					5.38800000003539, -- [1]
 					"Lord Incendius", -- [2]
-					26977, -- [3]
+					13899, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 				{
-					15.51899999985471, -- [1]
+					21.16200000001118, -- [1]
 					"Lord Incendius", -- [2]
-					26977, -- [3]
+					13899, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 				{
-					25.20999999996275, -- [1]
+					35.69999999995343, -- [1]
 					"Lord Incendius", -- [2]
-					26977, -- [3]
+					13899, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [3]
-				{
-					38.55000000004657, -- [1]
-					"Lord Incendius", -- [2]
-					26977, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [4]
 			},
 			[15043] = {
 				{
@@ -1861,21 +2377,56 @@ DetailsTimeLineDB = {
 					"Hollyfox", -- [5]
 				}, -- [5]
 			},
-			[9128] = {
+			[26977] = {
 				{
-					18.36800000001676, -- [1]
-					"Anvilrage Officer", -- [2]
-					9128, -- [3]
+					5.807999999960885, -- [1]
+					"Lord Incendius", -- [2]
+					26977, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 				{
-					34.11699999985285, -- [1]
-					"Anvilrage Officer", -- [2]
-					9128, -- [3]
+					15.51899999985471, -- [1]
+					"Lord Incendius", -- [2]
+					26977, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
+				{
+					25.20999999996275, -- [1]
+					"Lord Incendius", -- [2]
+					26977, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					38.55000000004657, -- [1]
+					"Lord Incendius", -- [2]
+					26977, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
 			},
-		}, -- [13]
+			[13584] = {
+				{
+					11.1569999998901, -- [1]
+					"Shadowforge Peasant", -- [2]
+					13584, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Thartuk", -- [5]
+				}, -- [1]
+				{
+					11.52899999986403, -- [1]
+					"Shadowforge Peasant", -- [2]
+					13584, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Thartuk", -- [5]
+				}, -- [2]
+				{
+					23.1820000000298, -- [1]
+					"Shadowforge Peasant", -- [2]
+					13584, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Greater Earth Elemental", -- [5]
+				}, -- [3]
+			},
+		}, -- [21]
 		{
 			[40505] = {
 				{
@@ -2601,13 +3152,31 @@ DetailsTimeLineDB = {
 					"Okril'lon Defender", -- [5]
 				}, -- [6]
 			},
-			[84333] = {
+			[16429] = {
 				{
 					72.46100000012666, -- [1]
-					"Dreadmaul Ambusher", -- [2]
-					84333, -- [3]
+					"Thuzadin Shadowcaster", -- [2]
+					16429, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Okril'lon Defender", -- [5]
+					"Argent Crusader", -- [5]
+				}, -- [1]
+			},
+			[11443] = {
+				{
+					72.46100000012666, -- [1]
+					"Thuzadin Shadowcaster", -- [2]
+					11443, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Argent Crusader", -- [5]
+				}, -- [1]
+			},
+			[15496] = {
+				{
+					50.11200000019744, -- [1]
+					"Lord Aurius Rivendare", -- [2]
+					15496, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Thartuk", -- [5]
 				}, -- [1]
 			},
 			[16856] = {
@@ -2625,24 +3194,6 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 					"Thartuk", -- [5]
 				}, -- [2]
-			},
-			[15496] = {
-				{
-					50.11200000019744, -- [1]
-					"Lord Aurius Rivendare", -- [2]
-					15496, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Thartuk", -- [5]
-				}, -- [1]
-			},
-			[6268] = {
-				{
-					72.46100000012666, -- [1]
-					"Ashmane Boar", -- [2]
-					6268, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Okril'lon Defender", -- [5]
-				}, -- [1]
 			},
 			[81140] = {
 				{
@@ -2670,25 +3221,25 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [4]
 			},
-			[11443] = {
+			[6268] = {
 				{
 					72.46100000012666, -- [1]
-					"Thuzadin Shadowcaster", -- [2]
-					11443, -- [3]
+					"Ashmane Boar", -- [2]
+					6268, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Argent Crusader", -- [5]
+					"Okril'lon Defender", -- [5]
 				}, -- [1]
 			},
-			[16429] = {
+			[84333] = {
 				{
 					72.46100000012666, -- [1]
-					"Thuzadin Shadowcaster", -- [2]
-					16429, -- [3]
+					"Dreadmaul Ambusher", -- [2]
+					84333, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Argent Crusader", -- [5]
+					"Okril'lon Defender", -- [5]
 				}, -- [1]
 			},
-		}, -- [14]
+		}, -- [22]
 		{
 			[5568] = {
 				{
@@ -2739,7 +3290,7 @@ DetailsTimeLineDB = {
 					"Thartuk", -- [5]
 				}, -- [3]
 			},
-		}, -- [15]
+		}, -- [23]
 		{
 			[16793] = {
 				{
@@ -2837,14 +3388,6 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [6]
 			},
-			[10887] = {
-				{
-					36.30499999993481, -- [1]
-					"Magistrate Barthilas", -- [2]
-					10887, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-			},
 			[14099] = {
 				{
 					25.37999999988824, -- [1]
@@ -2868,7 +3411,15 @@ DetailsTimeLineDB = {
 					"Thartuk", -- [5]
 				}, -- [3]
 			},
-		}, -- [16]
+			[10887] = {
+				{
+					36.30499999993481, -- [1]
+					"Magistrate Barthilas", -- [2]
+					10887, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+		}, -- [24]
 		{
 			[12739] = {
 				{
@@ -3085,6 +3636,24 @@ DetailsTimeLineDB = {
 					"Razzakin", -- [5]
 				}, -- [3]
 			},
+			[16429] = {
+				{
+					14.77199999988079, -- [1]
+					"Thuzadin Shadowcaster", -- [2]
+					16429, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Thartuk", -- [5]
+				}, -- [1]
+			},
+			[11443] = {
+				{
+					18.21699999994598, -- [1]
+					"Thuzadin Shadowcaster", -- [2]
+					11443, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Thartuk", -- [5]
+				}, -- [1]
+			},
 			[13444] = {
 				{
 					54.78099999995902, -- [1]
@@ -3136,25 +3705,7 @@ DetailsTimeLineDB = {
 					"Razzakin", -- [5]
 				}, -- [7]
 			},
-			[11443] = {
-				{
-					18.21699999994598, -- [1]
-					"Thuzadin Shadowcaster", -- [2]
-					11443, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Thartuk", -- [5]
-				}, -- [1]
-			},
-			[16429] = {
-				{
-					14.77199999988079, -- [1]
-					"Thuzadin Shadowcaster", -- [2]
-					16429, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Thartuk", -- [5]
-				}, -- [1]
-			},
-		}, -- [17]
+		}, -- [25]
 		{
 			[6016] = {
 				{
@@ -3399,7 +3950,7 @@ DetailsTimeLineDB = {
 					"Thartuk", -- [5]
 				}, -- [20]
 			},
-		}, -- [18]
+		}, -- [26]
 		{
 			[115078] = {
 				{
@@ -3736,13 +4287,61 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-			[122] = {
+			[18327] = {
 				{
-					105.4799999999814, -- [1]
-					"Darkssol-Proudmoore", -- [2]
-					122, -- [3]
+					32.16100000008009, -- [1]
+					"Baroness Anastari", -- [2]
+					18327, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
+				{
+					47.94100000010803, -- [1]
+					"Baroness Anastari", -- [2]
+					18327, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					72.68999999994412, -- [1]
+					"Baroness Anastari", -- [2]
+					18327, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					88.00900000007823, -- [1]
+					"Baroness Anastari", -- [2]
+					18327, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					120.3530000001192, -- [1]
+					"Baroness Anastari", -- [2]
+					18327, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					142.5749999999534, -- [1]
+					"Baroness Anastari", -- [2]
+					18327, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					167.469000000041, -- [1]
+					"Baroness Anastari", -- [2]
+					18327, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					187.4930000000168, -- [1]
+					"Baroness Anastari", -- [2]
+					18327, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+				{
+					221.841999999946, -- [1]
+					"Baroness Anastari", -- [2]
+					18327, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [9]
 			},
 			[44425] = {
 				{
@@ -3780,6 +4379,26 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 					"Thartuk", -- [5]
 				}, -- [5]
+			},
+			[235450] = {
+				{
+					69.50799999991432, -- [1]
+					"Darkssol-Proudmoore", -- [2]
+					235450, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					109.122999999905, -- [1]
+					"Darkssol-Proudmoore", -- [2]
+					235450, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					111.564000000013, -- [1]
+					"Darkssol-Proudmoore", -- [2]
+					235450, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
 			},
 			[264211] = {
 				{
@@ -3837,58 +4456,6 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [9]
 			},
-			[235450] = {
-				{
-					69.50799999991432, -- [1]
-					"Darkssol-Proudmoore", -- [2]
-					235450, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-				{
-					109.122999999905, -- [1]
-					"Darkssol-Proudmoore", -- [2]
-					235450, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
-				{
-					111.564000000013, -- [1]
-					"Darkssol-Proudmoore", -- [2]
-					235450, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [3]
-			},
-			[30451] = {
-				{
-					62.08499999996275, -- [1]
-					"Darkssol-Proudmoore", -- [2]
-					30451, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Quijang-Illidan", -- [5]
-				}, -- [1]
-			},
-			[107079] = {
-				{
-					13.65299999993295, -- [1]
-					"Quijang-Illidan", -- [2]
-					107079, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Chicoritita-Quel'Thalas", -- [5]
-				}, -- [1]
-			},
-			[125439] = {
-				{
-					22.13400000007823, -- [1]
-					"Quijang-Illidan", -- [2]
-					125439, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-				{
-					58.58300000010058, -- [1]
-					"Darkssol-Proudmoore", -- [2]
-					125439, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
-			},
 			[2139] = {
 				{
 					57.36199999996461, -- [1]
@@ -3904,6 +4471,38 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 					"Quijang-Illidan", -- [5]
 				}, -- [2]
+			},
+			[125439] = {
+				{
+					22.13400000007823, -- [1]
+					"Quijang-Illidan", -- [2]
+					125439, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					58.58300000010058, -- [1]
+					"Darkssol-Proudmoore", -- [2]
+					125439, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+			[107079] = {
+				{
+					13.65299999993295, -- [1]
+					"Quijang-Illidan", -- [2]
+					107079, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Chicoritita-Quel'Thalas", -- [5]
+				}, -- [1]
+			},
+			[30451] = {
+				{
+					62.08499999996275, -- [1]
+					"Darkssol-Proudmoore", -- [2]
+					30451, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Quijang-Illidan", -- [5]
+				}, -- [1]
 			},
 			[16867] = {
 				{
@@ -3961,63 +4560,15 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [9]
 			},
-			[18327] = {
+			[122] = {
 				{
-					32.16100000008009, -- [1]
-					"Baroness Anastari", -- [2]
-					18327, -- [3]
+					105.4799999999814, -- [1]
+					"Darkssol-Proudmoore", -- [2]
+					122, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
-				{
-					47.94100000010803, -- [1]
-					"Baroness Anastari", -- [2]
-					18327, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
-				{
-					72.68999999994412, -- [1]
-					"Baroness Anastari", -- [2]
-					18327, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [3]
-				{
-					88.00900000007823, -- [1]
-					"Baroness Anastari", -- [2]
-					18327, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [4]
-				{
-					120.3530000001192, -- [1]
-					"Baroness Anastari", -- [2]
-					18327, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [5]
-				{
-					142.5749999999534, -- [1]
-					"Baroness Anastari", -- [2]
-					18327, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [6]
-				{
-					167.469000000041, -- [1]
-					"Baroness Anastari", -- [2]
-					18327, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [7]
-				{
-					187.4930000000168, -- [1]
-					"Baroness Anastari", -- [2]
-					18327, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [8]
-				{
-					221.841999999946, -- [1]
-					"Baroness Anastari", -- [2]
-					18327, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [9]
 			},
-		}, -- [19]
+		}, -- [27]
 		{
 			[150601] = {
 				{
@@ -4220,7 +4771,7 @@ DetailsTimeLineDB = {
 					"Thartuk", -- [5]
 				}, -- [10]
 			},
-		}, -- [20]
+		}, -- [28]
 		{
 			[149851] = {
 				{
@@ -4295,7 +4846,7 @@ DetailsTimeLineDB = {
 					"Thartuk", -- [5]
 				}, -- [1]
 			},
-		}, -- [21]
+		}, -- [29]
 		{
 			[150067] = {
 				{
@@ -4511,7 +5062,7 @@ DetailsTimeLineDB = {
 					"Thartuk", -- [5]
 				}, -- [8]
 			},
-		}, -- [22]
+		}, -- [30]
 		{
 			[150072] = {
 				{
@@ -4564,7 +5115,7 @@ DetailsTimeLineDB = {
 					"Teizzie-WyrmrestAccord", -- [5]
 				}, -- [7]
 			},
-		}, -- [23]
+		}, -- [31]
 		{
 			[21869] = {
 				{
@@ -4579,6 +5130,29 @@ DetailsTimeLineDB = {
 					21869, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
+			},
+			[21832] = {
+				{
+					8.64199999999255, -- [1]
+					"Princess Theradras", -- [2]
+					21832, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kazorra-Tichondrius", -- [5]
+				}, -- [1]
+				{
+					20.75199999997858, -- [1]
+					"Princess Theradras", -- [2]
+					21832, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Thartuk", -- [5]
+				}, -- [2]
+				{
+					68.0580000000773, -- [1]
+					"Princess Theradras", -- [2]
+					21832, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kazorra-Tichondrius", -- [5]
+				}, -- [3]
 			},
 			[3391] = {
 				{
@@ -4624,15 +5198,6 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [7]
 			},
-			[36500] = {
-				{
-					88.55300000007264, -- [1]
-					"Stonetalon Warder", -- [2]
-					36500, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Krom'gar Berserker", -- [5]
-				}, -- [1]
-			},
 			[21909] = {
 				{
 					15.11199999996461, -- [1]
@@ -4653,30 +5218,16 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [3]
 			},
-			[21832] = {
+			[36500] = {
 				{
-					8.64199999999255, -- [1]
-					"Princess Theradras", -- [2]
-					21832, -- [3]
+					88.55300000007264, -- [1]
+					"Stonetalon Warder", -- [2]
+					36500, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Kazorra-Tichondrius", -- [5]
+					"Krom'gar Berserker", -- [5]
 				}, -- [1]
-				{
-					20.75199999997858, -- [1]
-					"Princess Theradras", -- [2]
-					21832, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Thartuk", -- [5]
-				}, -- [2]
-				{
-					68.0580000000773, -- [1]
-					"Princess Theradras", -- [2]
-					21832, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Kazorra-Tichondrius", -- [5]
-				}, -- [3]
 			},
-		}, -- [24]
+		}, -- [32]
 		{
 			[21337] = {
 				{
@@ -4749,6 +5300,29 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [5]
 			},
+			[21808] = {
+				{
+					16.79099999996834, -- [1]
+					"Landslide", -- [2]
+					21808, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					51.97800000000279, -- [1]
+					"Landslide", -- [2]
+					21808, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+			[224729] = {
+				{
+					43.15800000005402, -- [1]
+					"Theradrim Shardling", -- [2]
+					224729, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kaahanii-Dalaran", -- [5]
+				}, -- [1]
+			},
 			[13584] = {
 				{
 					29.02600000007078, -- [1]
@@ -4793,30 +5367,7 @@ DetailsTimeLineDB = {
 					"Thartuk", -- [5]
 				}, -- [6]
 			},
-			[224729] = {
-				{
-					43.15800000005402, -- [1]
-					"Theradrim Shardling", -- [2]
-					224729, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Kaahanii-Dalaran", -- [5]
-				}, -- [1]
-			},
-			[21808] = {
-				{
-					16.79099999996834, -- [1]
-					"Landslide", -- [2]
-					21808, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-				{
-					51.97800000000279, -- [1]
-					"Landslide", -- [2]
-					21808, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
-			},
-		}, -- [25]
+		}, -- [33]
 		{
 			[12747] = {
 				{
@@ -4905,7 +5456,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [3]
 			},
-		}, -- [26]
+		}, -- [34]
 		{
 			[15087] = {
 				{
@@ -5027,6 +5578,15 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [5]
 			},
+			[21390] = {
+				{
+					20.15200000000186, -- [1]
+					"Lord Vyletongue", -- [2]
+					21390, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Thartuk", -- [5]
+				}, -- [1]
+			},
 			[9080] = {
 				{
 					5.602000000071712, -- [1]
@@ -5064,16 +5624,7 @@ DetailsTimeLineDB = {
 					"Thartuk", -- [5]
 				}, -- [5]
 			},
-			[21390] = {
-				{
-					20.15200000000186, -- [1]
-					"Lord Vyletongue", -- [2]
-					21390, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Thartuk", -- [5]
-				}, -- [1]
-			},
-		}, -- [27]
+		}, -- [35]
 		{
 			[21833] = {
 				{
@@ -5145,6 +5696,26 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [8]
 			},
+			[11876] = {
+				{
+					34.02899999998044, -- [1]
+					"Deeprot Stomper", -- [2]
+					11876, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					51.0690000000177, -- [1]
+					"Deeprot Stomper", -- [2]
+					11876, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					65.56299999996554, -- [1]
+					"Deeprot Stomper", -- [2]
+					11876, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+			},
 			[13446] = {
 				{
 					18.62100000004284, -- [1]
@@ -5175,27 +5746,7 @@ DetailsTimeLineDB = {
 					"Thartuk", -- [5]
 				}, -- [4]
 			},
-			[11876] = {
-				{
-					34.02899999998044, -- [1]
-					"Deeprot Stomper", -- [2]
-					11876, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-				{
-					51.0690000000177, -- [1]
-					"Deeprot Stomper", -- [2]
-					11876, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
-				{
-					65.56299999996554, -- [1]
-					"Deeprot Stomper", -- [2]
-					11876, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [3]
-			},
-		}, -- [28]
+		}, -- [36]
 		{
 			[86604] = {
 				{
@@ -5243,8 +5794,22 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [29]
+		}, -- [37]
 		{
+			[86636] = {
+				{
+					12.88400000007823, -- [1]
+					"Lord Overheat", -- [2]
+					86636, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					31.08500000007916, -- [1]
+					"Lord Overheat", -- [2]
+					86636, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
 			[86633] = {
 				{
 					11.46300000010524, -- [1]
@@ -5312,21 +5877,7 @@ DetailsTimeLineDB = {
 					"Millovich-Bonechewer", -- [5]
 				}, -- [7]
 			},
-			[86636] = {
-				{
-					12.88400000007823, -- [1]
-					"Lord Overheat", -- [2]
-					86636, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-				{
-					31.08500000007916, -- [1]
-					"Lord Overheat", -- [2]
-					86636, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
-			},
-		}, -- [30]
+		}, -- [38]
 		{
 			[86740] = {
 				{
@@ -5344,19 +5895,42 @@ DetailsTimeLineDB = {
 					"Millovich-Bonechewer", -- [5]
 				}, -- [2]
 			},
-			[55964] = {
+			[86726] = {
 				{
-					26.67100000008941, -- [1]
+					8.430999999982305, -- [1]
 					"Randolph Moloch", -- [2]
-					55964, -- [3]
+					86726, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Bqr-Tichondrius", -- [5]
 				}, -- [1]
 				{
-					42.4660000000149, -- [1]
+					22.62100000004284, -- [1]
 					"Randolph Moloch", -- [2]
-					55964, -- [3]
+					86726, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Millovich-Bonechewer", -- [5]
 				}, -- [2]
+				{
+					34.7850000000326, -- [1]
+					"Randolph Moloch", -- [2]
+					86726, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Mona-Sargeras", -- [5]
+				}, -- [3]
+				{
+					48.50600000005215, -- [1]
+					"Randolph Moloch", -- [2]
+					86726, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Millovich-Bonechewer", -- [5]
+				}, -- [4]
+				{
+					59.43599999998696, -- [1]
+					"Randolph Moloch", -- [2]
+					86726, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Millovich-Bonechewer", -- [5]
+				}, -- [5]
 			},
 			[86738] = {
 				{
@@ -5377,66 +5951,6 @@ DetailsTimeLineDB = {
 					25.46100000001025, -- [1]
 					"Vicious Thug", -- [2]
 					86738, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Millovich-Bonechewer", -- [5]
-				}, -- [3]
-			},
-			[14873] = {
-				{
-					1.970000000088476, -- [1]
-					"Shifty Thief", -- [2]
-					14873, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Millovich-Bonechewer", -- [5]
-				}, -- [1]
-				{
-					7.231000000028871, -- [1]
-					"Shifty Thief", -- [2]
-					14873, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Millovich-Bonechewer", -- [5]
-				}, -- [2]
-				{
-					12.90300000004936, -- [1]
-					"Shifty Thief", -- [2]
-					14873, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Millovich-Bonechewer", -- [5]
-				}, -- [3]
-				{
-					18.97600000002421, -- [1]
-					"Shifty Thief", -- [2]
-					14873, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Millovich-Bonechewer", -- [5]
-				}, -- [4]
-				{
-					24.24100000003818, -- [1]
-					"Shifty Thief", -- [2]
-					14873, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Millovich-Bonechewer", -- [5]
-				}, -- [5]
-			},
-			[9080] = {
-				{
-					8.430999999982305, -- [1]
-					"Vicious Thug", -- [2]
-					9080, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Millovich-Bonechewer", -- [5]
-				}, -- [1]
-				{
-					10.47200000006706, -- [1]
-					"Vicious Thug", -- [2]
-					9080, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Millovich-Bonechewer", -- [5]
-				}, -- [2]
-				{
-					24.24100000003818, -- [1]
-					"Vicious Thug", -- [2]
-					9080, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 					"Millovich-Bonechewer", -- [5]
 				}, -- [3]
@@ -5478,44 +5992,81 @@ DetailsTimeLineDB = {
 					"Millovich-Bonechewer", -- [5]
 				}, -- [5]
 			},
-			[86726] = {
+			[9080] = {
 				{
 					8.430999999982305, -- [1]
-					"Randolph Moloch", -- [2]
-					86726, -- [3]
+					"Vicious Thug", -- [2]
+					9080, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Bqr-Tichondrius", -- [5]
+					"Millovich-Bonechewer", -- [5]
 				}, -- [1]
 				{
-					22.62100000004284, -- [1]
-					"Randolph Moloch", -- [2]
-					86726, -- [3]
+					10.47200000006706, -- [1]
+					"Vicious Thug", -- [2]
+					9080, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 					"Millovich-Bonechewer", -- [5]
 				}, -- [2]
 				{
-					34.7850000000326, -- [1]
-					"Randolph Moloch", -- [2]
-					86726, -- [3]
+					24.24100000003818, -- [1]
+					"Vicious Thug", -- [2]
+					9080, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Mona-Sargeras", -- [5]
+					"Millovich-Bonechewer", -- [5]
+				}, -- [3]
+			},
+			[14873] = {
+				{
+					1.970000000088476, -- [1]
+					"Shifty Thief", -- [2]
+					14873, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Millovich-Bonechewer", -- [5]
+				}, -- [1]
+				{
+					7.231000000028871, -- [1]
+					"Shifty Thief", -- [2]
+					14873, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Millovich-Bonechewer", -- [5]
+				}, -- [2]
+				{
+					12.90300000004936, -- [1]
+					"Shifty Thief", -- [2]
+					14873, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Millovich-Bonechewer", -- [5]
 				}, -- [3]
 				{
-					48.50600000005215, -- [1]
-					"Randolph Moloch", -- [2]
-					86726, -- [3]
+					18.97600000002421, -- [1]
+					"Shifty Thief", -- [2]
+					14873, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 					"Millovich-Bonechewer", -- [5]
 				}, -- [4]
 				{
-					59.43599999998696, -- [1]
-					"Randolph Moloch", -- [2]
-					86726, -- [3]
+					24.24100000003818, -- [1]
+					"Shifty Thief", -- [2]
+					14873, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 					"Millovich-Bonechewer", -- [5]
 				}, -- [5]
 			},
-		}, -- [31]
+			[55964] = {
+				{
+					26.67100000008941, -- [1]
+					"Randolph Moloch", -- [2]
+					55964, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					42.4660000000149, -- [1]
+					"Randolph Moloch", -- [2]
+					55964, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+		}, -- [39]
 		{
 			[8040] = {
 				{
@@ -5633,38 +6184,6 @@ DetailsTimeLineDB = {
 					"Iearu-Sargeras", -- [5]
 				}, -- [11]
 			},
-			[23381] = {
-				{
-					58.88000000000466, -- [1]
-					"Druid of the Fang", -- [2]
-					23381, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Druid of the Fang", -- [5]
-				}, -- [1]
-				{
-					62.51000000000931, -- [1]
-					"Lady Anacondra", -- [2]
-					23381, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Lady Anacondra", -- [5]
-				}, -- [2]
-			},
-			[8041] = {
-				{
-					27.93299999996088, -- [1]
-					"Druid of the Fang", -- [2]
-					8041, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-			},
-			[8148] = {
-				{
-					3.641999999992549, -- [1]
-					"Lady Anacondra", -- [2]
-					8148, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-			},
 			[9532] = {
 				{
 					3.021999999997206, -- [1]
@@ -5723,7 +6242,39 @@ DetailsTimeLineDB = {
 					"Iearu-Sargeras", -- [5]
 				}, -- [8]
 			},
-		}, -- [32]
+			[8041] = {
+				{
+					27.93299999996088, -- [1]
+					"Druid of the Fang", -- [2]
+					8041, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[8148] = {
+				{
+					3.641999999992549, -- [1]
+					"Lady Anacondra", -- [2]
+					8148, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[23381] = {
+				{
+					58.88000000000466, -- [1]
+					"Druid of the Fang", -- [2]
+					23381, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Druid of the Fang", -- [5]
+				}, -- [1]
+				{
+					62.51000000000931, -- [1]
+					"Lady Anacondra", -- [2]
+					23381, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Lady Anacondra", -- [5]
+				}, -- [2]
+			},
+		}, -- [40]
 		{
 			[120024] = {
 				{
@@ -5764,7 +6315,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [33]
+		}, -- [41]
 		{
 			[119434] = {
 				{
@@ -5822,7 +6373,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [9]
 			},
-		}, -- [34]
+		}, -- [42]
 		{
 			[119300] = {
 				{
@@ -5848,7 +6399,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [35]
+		}, -- [43]
 		{
 			[119405] = {
 				{
@@ -5873,20 +6424,91 @@ DetailsTimeLineDB = {
 					"Thartuk", -- [5]
 				}, -- [1]
 			},
-		}, -- [36]
+		}, -- [44]
 	},
 	["useicons"] = true,
+	["cooldowns_timeline"] = {
+		{
+			["Thartuk"] = {
+				{
+					27.36700000008568, -- [1]
+					"Büttèrs-Ragnaros", -- [2]
+					6940, -- [3]
+				}, -- [1]
+				{
+					53.74300000001676, -- [1]
+					"Thartuk", -- [2]
+					633, -- [3]
+				}, -- [2]
+			},
+		}, -- [1]
+		{
+			["Orecchini-Tichondrius"] = {
+				{
+					16.46100000012666, -- [1]
+					"Orecchini-Tichondrius", -- [2]
+					118038, -- [3]
+				}, -- [1]
+			},
+		}, -- [2]
+		{
+		}, -- [3]
+		{
+		}, -- [4]
+	},
 	["backdrop_color"] = {
 		0, -- [1]
 		0, -- [2]
 		0, -- [3]
 		0.4, -- [4]
 	},
-	["window_scale"] = 1,
 	["deaths_data"] = {
 		{
 		}, -- [1]
 		{
+			["Loano-Ravencrest"] = {
+				{
+					["time"] = 19.60700000007637,
+					["events"] = {
+						{
+							true, -- [1]
+							50229, -- [2]
+							1656, -- [3]
+							1582000270.403, -- [4]
+							2071, -- [5]
+							"Skadi the Ruthless", -- [6]
+							nil, -- [7]
+							1, -- [8]
+							false, -- [9]
+							-1, -- [10]
+						}, -- [1]
+						{
+							true, -- [1]
+							50229, -- [2]
+							1556, -- [3]
+							1582000271.393, -- [4]
+							282, -- [5]
+							"Skadi the Ruthless", -- [6]
+							nil, -- [7]
+							1, -- [8]
+							false, -- [9]
+							-1, -- [10]
+						}, -- [2]
+						{
+							true, -- [1]
+							50229, -- [2]
+							1535, -- [3]
+							1582000272.408, -- [4]
+							1, -- [5]
+							"Skadi the Ruthless", -- [6]
+							nil, -- [7]
+							1, -- [8]
+							false, -- [9]
+							1129, -- [10]
+						}, -- [3]
+					},
+				}, -- [1]
+			},
 		}, -- [2]
 		{
 		}, -- [3]
@@ -5895,463 +6517,506 @@ DetailsTimeLineDB = {
 	},
 	["debuff_timeline"] = {
 		{
-			["Christsaves-Lightbringer"] = {
-				[31715] = {
-					43.82799999997951, -- [1]
-					50.48300000000745, -- [2]
+			["Thartuk"] = {
+				[51750] = {
+					12.16100000008009, -- [1]
+					20.16599999996834, -- [2]
+					44.95500000007451, -- [3]
+					52.95299999997951, -- [4]
 					["stacks"] = {
 					},
-					["source"] = "The Black Stalker",
+					["source"] = "King Ymiron",
 					["active"] = false,
 				},
 			},
-			["Thartuk"] = {
-				[31704] = {
-					9.847999999998137, -- [1]
-					15.85900000017136, -- [2]
-					31.67299999995157, -- [3]
-					37.68500000005588, -- [4]
+			["Orecchini-Tichondrius"] = {
+				[51750] = {
+					12.16100000008009, -- [1]
+					20.15599999995902, -- [2]
+					44.95500000007451, -- [3]
+					52.95299999997951, -- [4]
 					["stacks"] = {
 					},
-					["source"] = "The Black Stalker",
+					["source"] = "King Ymiron",
+					["active"] = false,
+				},
+			},
+			["Büttèrs-Ragnaros"] = {
+				[48291] = {
+					8.528000000165775, -- [1]
+					10.48999999999069, -- [2]
+					34.0230000000447, -- [3]
+					39.42000000015833, -- [4]
+					64.41299999994226, -- [5]
+					65.94400000013411, -- [6]
+					["stacks"] = {
+					},
+					["source"] = "King Ymiron",
+					["active"] = false,
+				},
+				[51750] = {
+					12.16100000008009, -- [1]
+					20.16599999996834, -- [2]
+					44.95500000007451, -- [3]
+					52.95299999997951, -- [4]
+					["stacks"] = {
+					},
+					["source"] = "King Ymiron",
+					["active"] = false,
+				},
+			},
+			["Nighkeo-Arathor"] = {
+				[51750] = {
+					12.16100000008009, -- [1]
+					20.16599999996834, -- [2]
+					44.95500000007451, -- [3]
+					52.95299999997951, -- [4]
+					["stacks"] = {
+					},
+					["source"] = "King Ymiron",
+					["active"] = false,
+				},
+			},
+			["Loano-Ravencrest"] = {
+				[51750] = {
+					12.16100000008009, -- [1]
+					20.16599999996834, -- [2]
+					44.95500000007451, -- [3]
+					52.95299999997951, -- [4]
+					["stacks"] = {
+					},
+					["source"] = "King Ymiron",
 					["active"] = false,
 				},
 			},
 		}, -- [1]
 		{
-			["Christsaves-Lightbringer"] = {
-				[31615] = {
-					38.9089999999851, -- [1]
-					58.19200000003912, -- [2]
+			["Orecchini-Tichondrius"] = {
+				[49092] = {
+					13.46000000019558, -- [1]
+					16.47100000013597, -- [2]
+					25.94100000010803, -- [3]
+					28.94500000006519, -- [4]
 					["stacks"] = {
 					},
-					["source"] = "Swamplord Musel'ek",
+					["source"] = "Ymirjar Harpooner",
 					["active"] = false,
 				},
-				[31932] = {
-					42.10599999991246, -- [1]
-					47.10599999991246, -- [2]
+				[48639] = {
+					10.94700000016019, -- [1]
+					15.95000000018627, -- [2]
 					["stacks"] = {
 					},
-					["source"] = "Swamplord Musel'ek",
+					["source"] = "Ymirjar Warrior",
+					["active"] = false,
+				},
+				[1604] = {
+					2.008000000147149, -- [1]
+					4.410000000149012, -- [2]
+					["stacks"] = {
+					},
+					["source"] = "Ymirjar Warrior",
 					["active"] = false,
 				},
 			},
 			["Thartuk"] = {
-				[31429] = {
-					6.08199999993667, -- [1]
-					51.59299999987707, -- [2]
+				[50258] = {
+					31.55300000007264, -- [1]
+					35.3179999999702, -- [2]
 					["stacks"] = {
 					},
-					["source"] = "Claw",
-					["active"] = false,
-				},
-				[31932] = {
-					42.10599999991246, -- [1]
-					45.02600000007078, -- [2]
-					["stacks"] = {
-					},
-					["source"] = "Swamplord Musel'ek",
+					["source"] = "[*] Poisoned Spear",
 					["active"] = false,
 				},
 			},
-			["Tikigu"] = {
-				[31429] = {
-					6.08199999993667, -- [1]
-					51.59299999987707, -- [2]
+			["Nighkeo-Arathor"] = {
+				[50258] = {
+					11.19700000016019, -- [1]
+					23.20100000011735, -- [2]
 					["stacks"] = {
 					},
-					["source"] = "Claw",
-					["active"] = false,
-				},
-				[31932] = {
-					42.10599999991246, -- [1]
-					45.18599999998696, -- [2]
-					["stacks"] = {
-					},
-					["source"] = "Swamplord Musel'ek",
+					["source"] = "[*] Poisoned Spear",
 					["active"] = false,
 				},
 			},
-			["Georgebüsh-Turalyon"] = {
-				[31932] = {
-					42.10599999991246, -- [1]
-					47.10599999991246, -- [2]
+			["Büttèrs-Ragnaros"] = {
+				[50234] = {
+					36.43300000019372, -- [1]
+					38.43800000008196, -- [2]
 					["stacks"] = {
 					},
-					["source"] = "Swamplord Musel'ek",
-					["active"] = false,
-				},
-			},
-			["Nizan-Baelgun"] = {
-				[31932] = {
-					42.10599999991246, -- [1]
-					47.10599999991246, -- [2]
-					["stacks"] = {
-					},
-					["source"] = "Swamplord Musel'ek",
+					["source"] = "Skadi the Ruthless",
 					["active"] = false,
 				},
 			},
 		}, -- [2]
 		{
-			["Tikigu"] = {
-				[34268] = {
-					3.010000000009313, -- [1]
-					28.39299999992363, -- [2]
-					["stacks"] = {
-					},
-					["source"] = "Ghaz'an",
-					["active"] = false,
-				},
-			},
-		}, -- [3]
-		{
-			["Christsaves-Lightbringer"] = {
-				[34168] = {
-					40.55099999997765, -- [1]
-					42.99399999994785, -- [2]
-					["stacks"] = {
-					},
-					["source"] = "Underbog Mushroom",
-					["active"] = false,
-				},
-				[31689] = {
-					41.95299999997951, -- [1]
-					45.06499999994412, -- [2]
-					["stacks"] = {
-					},
-					["source"] = "Underbog Mushroom",
-					["active"] = false,
-				},
-			},
-		}, -- [4]
-	},
-	["cooldowns_timeline"] = {
-		{
-		}, -- [1]
-		{
 			["Thartuk"] = {
-				{
-					22.37199999997392, -- [1]
-					"Tikigu", -- [2]
-					6940, -- [3]
-				}, -- [1]
+				[48256] = {
+					10.45999999996275, -- [1]
+					25.35100000002421, -- [2]
+					["stacks"] = {
+					},
+					["source"] = "Gortok Palehoof",
+					["active"] = false,
+				},
 			},
-		}, -- [2]
-		{
+			["Loano-Ravencrest"] = {
+				[48256] = {
+					10.45999999996275, -- [1]
+					25.35100000002421, -- [2]
+					["stacks"] = {
+					},
+					["source"] = "Gortok Palehoof",
+					["active"] = false,
+				},
+			},
+			["Büttèrs-Ragnaros"] = {
+				[48256] = {
+					10.45999999996275, -- [1]
+					25.35100000002421, -- [2]
+					["stacks"] = {
+					},
+					["source"] = "Gortok Palehoof",
+					["active"] = false,
+				},
+				[48261] = {
+					13.10699999984354, -- [1]
+					22.10800000000745, -- [2]
+					["stacks"] = {
+					},
+					["source"] = "Gortok Palehoof",
+					["active"] = false,
+				},
+			},
+			["Nighkeo-Arathor"] = {
+				[48256] = {
+					10.45999999996275, -- [1]
+					25.35100000002421, -- [2]
+					["stacks"] = {
+					},
+					["source"] = "Gortok Palehoof",
+					["active"] = false,
+				},
+			},
+			["Orecchini-Tichondrius"] = {
+				[48256] = {
+					10.45999999996275, -- [1]
+					25.35100000002421, -- [2]
+					["stacks"] = {
+					},
+					["source"] = "Gortok Palehoof",
+					["active"] = false,
+				},
+			},
 		}, -- [3]
 		{
+			["Nighkeo-Arathor"] = {
+				[48267] = {
+					17.81400000001304, -- [1]
+					20.81700000003912, -- [2]
+					["stacks"] = {
+					},
+					["source"] = "Svala Sorrowgrave",
+					["active"] = false,
+				},
+				[48278] = {
+					19.0250000001397, -- [1]
+					23.06000000005588, -- [2]
+					["stacks"] = {
+					},
+					["source"] = "Ritual Channeler",
+					["active"] = false,
+				},
+			},
 		}, -- [4]
 	},
+	["window_scale"] = 1,
 	["BossSpellCast"] = {
 		{
-			["The Black Stalker"] = {
+			["Spirit Fount"] = {
 				{
-					1.901000000070781, -- [1]
-					"The Black Stalker", -- [2]
-					31717, -- [3]
+					60.74800000013784, -- [1]
+					"Spirit Fount", -- [2]
+					48380, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Tikigu", -- [5]
+				}, -- [1]
+			},
+			["King Ymiron"] = {
+				{
+					8.528000000165775, -- [1]
+					"King Ymiron", -- [2]
+					48291, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Büttèrs-Ragnaros", -- [5]
 				}, -- [1]
 				{
-					9.847999999998137, -- [1]
-					"The Black Stalker", -- [2]
-					31704, -- [3]
+					9.748000000137836, -- [1]
+					"King Ymiron", -- [2]
+					48292, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Büttèrs-Ragnaros", -- [5]
 				}, -- [2]
 				{
-					21.36199999996461, -- [1]
-					"The Black Stalker", -- [2]
-					31717, -- [3]
+					12.16100000008009, -- [1]
+					"King Ymiron", -- [2]
+					51750, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Tikigu", -- [5]
 				}, -- [3]
 				{
-					28.62600000016391, -- [1]
-					"The Black Stalker", -- [2]
-					31717, -- [3]
+					28.45999999996275, -- [1]
+					"King Ymiron", -- [2]
+					48529, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Tikigu", -- [5]
 				}, -- [4]
 				{
-					31.67299999995157, -- [1]
-					"The Black Stalker", -- [2]
-					31704, -- [3]
+					32.80400000000373, -- [1]
+					"King Ymiron", -- [2]
+					48292, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Büttèrs-Ragnaros", -- [5]
 				}, -- [5]
 				{
-					43.18800000008196, -- [1]
-					"The Black Stalker", -- [2]
-					31717, -- [3]
+					34.0230000000447, -- [1]
+					"King Ymiron", -- [2]
+					48291, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Tikigu", -- [5]
+					"Büttèrs-Ragnaros", -- [5]
 				}, -- [6]
 				{
-					43.8179999999702, -- [1]
-					"The Black Stalker", -- [2]
-					31715, -- [3]
+					39.37000000011176, -- [1]
+					"King Ymiron", -- [2]
+					48529, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Christsaves-Lightbringer", -- [5]
 				}, -- [7]
+				{
+					42.10300000011921, -- [1]
+					"King Ymiron", -- [2]
+					48294, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+				{
+					43.73100000014529, -- [1]
+					"King Ymiron", -- [2]
+					48292, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Büttèrs-Ragnaros", -- [5]
+				}, -- [9]
+				{
+					44.94500000006519, -- [1]
+					"King Ymiron", -- [2]
+					51750, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [10]
+				{
+					64.40300000016578, -- [1]
+					"King Ymiron", -- [2]
+					48291, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Büttèrs-Ragnaros", -- [5]
+				}, -- [11]
+				{
+					66.84600000013597, -- [1]
+					"King Ymiron", -- [2]
+					48292, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Büttèrs-Ragnaros", -- [5]
+				}, -- [12]
+				{
+					71.68000000016764, -- [1]
+					"King Ymiron", -- [2]
+					48294, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [13]
 			},
 		}, -- [1]
 		{
-			["Claw"] = {
+			["Ymirjar Harpooner"] = {
 				{
-					4.008999999845401, -- [1]
-					"Claw", -- [2]
-					34298, -- [3]
+					13.36000000010245, -- [1]
+					"Ymirjar Harpooner", -- [2]
+					49092, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"DíckCheney", -- [5]
+					"Orecchini-Tichondrius", -- [5]
 				}, -- [1]
 				{
-					6.08199999993667, -- [1]
-					"Claw", -- [2]
-					31429, -- [3]
+					15.79000000003725, -- [1]
+					"Ymirjar Harpooner", -- [2]
+					49091, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Orecchini-Tichondrius", -- [5]
+				}, -- [2]
+				{
+					19.43700000015087, -- [1]
+					"Ymirjar Harpooner", -- [2]
+					49091, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Orecchini-Tichondrius", -- [5]
+				}, -- [3]
+				{
+					25.52100000018254, -- [1]
+					"Ymirjar Harpooner", -- [2]
+					49092, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Orecchini-Tichondrius", -- [5]
+				}, -- [4]
+				{
+					25.52100000018254, -- [1]
+					"Ymirjar Harpooner", -- [2]
+					49091, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Orecchini-Tichondrius", -- [5]
+				}, -- [5]
+			},
+			["Skadi the Ruthless"] = {
+				{
+					10.73400000017136, -- [1]
+					"Skadi the Ruthless", -- [2]
+					50255, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Nighkeo-Arathor", -- [5]
+				}, -- [1]
+				{
+					14.57099999999628, -- [1]
+					"Skadi the Ruthless", -- [2]
+					50228, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 				{
-					8.513999999966472, -- [1]
-					"Claw", -- [2]
-					34971, -- [3]
+					31.35300000011921, -- [1]
+					"Skadi the Ruthless", -- [2]
+					50255, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Thartuk", -- [5]
 				}, -- [3]
 				{
-					15.71699999994598, -- [1]
-					"Claw", -- [2]
-					34298, -- [3]
+					36.43300000019372, -- [1]
+					"Skadi the Ruthless", -- [2]
+					50234, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"DíckCheney", -- [5]
+					"Büttèrs-Ragnaros", -- [5]
 				}, -- [4]
-				{
-					21.8410000000149, -- [1]
-					"Claw", -- [2]
-					31429, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [5]
-				{
-					25.75099999993108, -- [1]
-					"Claw", -- [2]
-					34298, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"DíckCheney", -- [5]
-				}, -- [6]
-				{
-					31.58100000000559, -- [1]
-					"Claw", -- [2]
-					31429, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [7]
 			},
-			["Unknown"] = {
+			["Ymirjar Warrior"] = {
 				{
-					34.00799999991432, -- [1]
-					"Unknown", -- [2]
-					34971, -- [3]
+					9.884000000078231, -- [1]
+					"Ymirjar Warrior", -- [2]
+					48640, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-			},
-			["Swamplord Musel'ek"] = {
-				{
-					4.831000000005588, -- [1]
-					"Swamplord Musel'ek", -- [2]
-					31566, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Tikigu", -- [5]
+					"Orecchini-Tichondrius", -- [5]
 				}, -- [1]
 				{
-					8.513999999966472, -- [1]
-					"Swamplord Musel'ek", -- [2]
-					34662, -- [3]
+					10.94700000016019, -- [1]
+					"Ymirjar Warrior", -- [2]
+					48639, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Orecchini-Tichondrius", -- [5]
 				}, -- [2]
-				{
-					15.67699999990873, -- [1]
-					"Swamplord Musel'ek", -- [2]
-					31566, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Tikigu", -- [5]
-				}, -- [3]
-				{
-					24.87100000004284, -- [1]
-					"Swamplord Musel'ek", -- [2]
-					31566, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Tikigu", -- [5]
-				}, -- [4]
-				{
-					26.71200000005774, -- [1]
-					"Swamplord Musel'ek", -- [2]
-					18813, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Tikigu", -- [5]
-				}, -- [5]
-				{
-					30.28700000001118, -- [1]
-					"Swamplord Musel'ek", -- [2]
-					31566, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Tikigu", -- [5]
-				}, -- [6]
-				{
-					34.00799999991432, -- [1]
-					"Swamplord Musel'ek", -- [2]
-					34662, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [7]
-				{
-					38.86899999994785, -- [1]
-					"Swamplord Musel'ek", -- [2]
-					31615, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [8]
-				{
-					38.86899999994785, -- [1]
-					"Swamplord Musel'ek", -- [2]
-					31946, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Dreadstalker", -- [5]
-				}, -- [9]
-				{
-					44.91599999996834, -- [1]
-					"Swamplord Musel'ek", -- [2]
-					34974, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Tikigu", -- [5]
-				}, -- [10]
-				{
-					47.36599999992177, -- [1]
-					"Swamplord Musel'ek", -- [2]
-					18813, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Tikigu", -- [5]
-				}, -- [11]
-				{
-					52.2269999999553, -- [1]
-					"Swamplord Musel'ek", -- [2]
-					31567, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [12]
-				{
-					56.24900000006892, -- [1]
-					"Swamplord Musel'ek", -- [2]
-					31566, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Tikigu", -- [5]
-				}, -- [13]
 			},
 		}, -- [2]
 		{
-			["Ghaz'an"] = {
+			["Gortok Palehoof"] = {
 				{
-					3.010000000009313, -- [1]
-					"Ghaz'an", -- [2]
-					34268, -- [3]
+					8.007999999914318, -- [1]
+					"Gortok Palehoof", -- [2]
+					48260, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Büttèrs-Ragnaros", -- [5]
 				}, -- [1]
 				{
-					5.428000000072643, -- [1]
-					"Ghaz'an", -- [2]
-					34267, -- [3]
+					10.45999999996275, -- [1]
+					"Gortok Palehoof", -- [2]
+					48256, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 				{
-					7.858000000007451, -- [1]
-					"Ghaz'an", -- [2]
-					34290, -- [3]
+					12.89699999988079, -- [1]
+					"Gortok Palehoof", -- [2]
+					48261, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Büttèrs-Ragnaros", -- [5]
 				}, -- [3]
 				{
-					11.50399999995716, -- [1]
-					"Ghaz'an", -- [2]
-					34268, -- [3]
+					14.90099999983795, -- [1]
+					"Gortok Palehoof", -- [2]
+					48260, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Büttèrs-Ragnaros", -- [5]
 				}, -- [4]
 				{
-					16.34799999999814, -- [1]
-					"Ghaz'an", -- [2]
-					34267, -- [3]
+					21.37399999983609, -- [1]
+					"Gortok Palehoof", -- [2]
+					48256, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [5]
 				{
-					17.56700000003912, -- [1]
-					"Ghaz'an", -- [2]
-					34268, -- [3]
+					22.92799999983981, -- [1]
+					"Gortok Palehoof", -- [2]
+					48260, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Büttèrs-Ragnaros", -- [5]
 				}, -- [6]
-				{
-					17.56700000003912, -- [1]
-					"Ghaz'an", -- [2]
-					34290, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [7]
-				{
-					22.43999999994412, -- [1]
-					"Ghaz'an", -- [2]
-					15716, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [8]
-				{
-					22.43999999994412, -- [1]
-					"Ghaz'an", -- [2]
-					34268, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [9]
-				{
-					26.07400000002235, -- [1]
-					"Ghaz'an", -- [2]
-					34290, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [10]
-				{
-					27.29499999992549, -- [1]
-					"Ghaz'an", -- [2]
-					34267, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [11]
 			},
 		}, -- [3]
 		{
-			["Underbog Mushroom"] = {
+			["Ritual Channeler"] = {
 				{
-					31.23499999986962, -- [1]
-					"Underbog Mushroom", -- [2]
-					34168, -- [3]
+					19.00500000012107, -- [1]
+					"Ritual Channeler", -- [2]
+					48278, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 				{
-					31.23499999986962, -- [1]
-					"Underbog Mushroom", -- [2]
-					31689, -- [3]
+					19.0250000001397, -- [1]
+					"Ritual Channeler", -- [2]
+					48278, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 				{
-					34.89599999994971, -- [1]
-					"Underbog Mushroom", -- [2]
-					34168, -- [3]
+					19.0250000001397, -- [1]
+					"Ritual Channeler", -- [2]
+					48278, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+			},
+			["Svala Sorrowgrave"] = {
+				{
+					8.621999999973923, -- [1]
+					"Svala Sorrowgrave", -- [2]
+					48258, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					9.32300000009127, -- [1]
+					"Svala Sorrowgrave", -- [2]
+					15667, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Büttèrs-Ragnaros", -- [5]
+				}, -- [2]
+				{
+					17.12400000006892, -- [1]
+					"Svala Sorrowgrave", -- [2]
+					48258, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [3]
 				{
-					34.89599999994971, -- [1]
-					"Underbog Mushroom", -- [2]
-					31689, -- [3]
+					18.56300000008196, -- [1]
+					"Svala Sorrowgrave", -- [2]
+					48276, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [4]
-			},
-			["Hungarfen"] = {
 				{
-					24.73399999993853, -- [1]
-					"Hungarfen", -- [2]
-					31673, -- [3]
+					26.83700000005774, -- [1]
+					"Svala Sorrowgrave", -- [2]
+					48258, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
+				}, -- [5]
 				{
-					44.30499999993481, -- [1]
-					"Hungarfen", -- [2]
-					34874, -- [3]
+					36.54399999999441, -- [1]
+					"Svala Sorrowgrave", -- [2]
+					48258, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
+				}, -- [6]
 			},
 		}, -- [4]
 	},

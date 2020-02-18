@@ -29,46 +29,46 @@ TipTac_Config = {
 	["healthBarClassColor"] = true,
 	["classification_minus"] = "-%s ",
 	["barFontFlags"] = "OUTLINE",
-	["preFadeTime"] = 0.1,
-	["if_showItemId"] = true,
+	["healthBarText"] = "value",
 	["anchorWorldTipType"] = "mouse",
+	["if_showItemId"] = true,
 	["powerBar"] = false,
-	["classification_rare"] = "%s|r (Rare) ",
-	["hideAllTipsInCombat"] = true,
+	["hideWorldTips"] = true,
+	["optionsBottom"] = 659.3334350585938,
 	["left"] = 1921.332397460938,
-	["barFontFace"] = "Fonts\\ARIALN.TTF",
-	["backdropInsets"] = 2.5,
+	["gradientTip"] = true,
+	["classColoredBorder"] = false,
 	["reactColoredBackdrop"] = false,
-	["anchorFrameTipType"] = "mouse",
+	["hideAllTipsInCombat"] = true,
 	["classification_trivial"] = "~%s ",
-	["classification_worldboss"] = "%s|r (Boss) ",
-	["colorNameByClass"] = false,
-	["hideUFTipsInCombat"] = true,
-	["classification_rareelite"] = "+%s|r (Rare) ",
-	["fadeTime"] = 0.1,
+	["backdropInsets"] = 2.5,
 	["manaBar"] = false,
-	["gradientColor"] = {
-		0.8, -- [1]
-		0.8, -- [2]
-		0.8, -- [3]
-		0.2, -- [4]
-	},
+	["if_showItemLevel"] = false,
 	["colSameGuild"] = "|cffff32ff",
-	["anchorWorldUnitType"] = "normal",
 	["healthBarColor"] = {
 		0.3, -- [1]
 		0.9, -- [2]
 		0.3, -- [3]
 		1, -- [4]
 	},
+	["colorNameByClass"] = false,
+	["gradientColor"] = {
+		0.8, -- [1]
+		0.8, -- [2]
+		0.8, -- [3]
+		0.2, -- [4]
+	},
+	["classification_rareelite"] = "+%s|r (Rare) ",
+	["anchorWorldUnitType"] = "normal",
+	["fadeTime"] = 0.1,
 	["targetYouText"] = "<<YOU>>",
-	["if_showItemLevel"] = false,
+	["hideUFTipsInCombat"] = true,
 	["top"] = 239.5008087158203,
-	["classColoredBorder"] = false,
-	["gradientTip"] = true,
-	["optionsBottom"] = 659.3334350585938,
-	["hideWorldTips"] = true,
+	["classification_worldboss"] = "%s|r (Boss) ",
+	["barFontFace"] = "Fonts\\ARIALN.TTF",
+	["anchorFrameTipType"] = "mouse",
+	["classification_rare"] = "%s|r (Rare) ",
 	["barFontSize"] = 10,
 	["anchorFrameUnitType"] = "mouse",
-	["healthBarText"] = "value",
+	["preFadeTime"] = 0.1,
 }
