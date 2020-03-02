@@ -1,8 +1,6 @@
 # BigWigs
 
-## [v181.1](https://github.com/BigWigsMods/BigWigs/tree/v181.1) (2020-02-03)
-[Full Changelog](https://github.com/BigWigsMods/BigWigs/compare/v181...v181.1)
+## [v184.1](https://github.com/BigWigsMods/BigWigs/tree/v184.1) (2020-02-29)
+[Full Changelog](https://github.com/BigWigsMods/BigWigs/compare/v184...v184.1)
 
-- Nyalotha/Maut: Fix sound not playing for Black Wings  
-- Nyalotha/Maut: Fix the say countdown not cancelling when Devour Magic is removed  
-- Nyalotha/Shadhar: Fix Lua error  
+- Update zhCN (#776)  

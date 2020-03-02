@@ -8,7 +8,7 @@ LittleWigs: enabled
 BigWigs_Cataclysm: enabled
 BigWigs_Azeroth: enabled
 WeakAurasArchive: enabled
-HandyNotes: disabled
+HandyNotes: enabled
 LockItems: disabled
 Mouse_Tooltip: enabled
 ReputationBars: disabled
@@ -27,7 +27,7 @@ Clique: enabled
 Details_RaidPowerBars: enabled
 Details_TargetCaller: enabled
 Details: enabled
-HandyNotes_DraenorTreasures: disabled
+HandyNotes_DraenorTreasures: enabled
 InspectItemLevel: enabled
 MethodDungeonTools: enabled
 NameplateCooldowns: enabled
@@ -41,7 +41,17 @@ ShadowedUF_SmoothBars: enabled
 ShadowedUnitFrames: enabled
 Simulationcraft: enabled
 TalkingHeadFrame_Settings: enabled
-VuhDo: enabled
+VuhDo: disabled
 WeakAuras: enabled
 !InspectFix: enabled
 BigWigs_WrathOfTheLichKing: enabled
+AAP-Core: disabled
+AAP-Vanilla: disabled
+AAP-TBC-WotLK: disabled
+AAP-Cata-MoP: disabled
+AAP-WoD: disabled
+AAP-Legion: enabled
+Grid2: disabled
+HealBot: disabled
+HealBot_Data: disabled
+HealBot_en: disabled

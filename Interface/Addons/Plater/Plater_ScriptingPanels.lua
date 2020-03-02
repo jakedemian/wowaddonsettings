@@ -777,7 +777,7 @@ Plater.TriggerDefaultMembers = {
 	end
 	
 	local create_code_editor = function (parent, mainFrame)
-		local code_editor = DF:NewSpecialLuaEditorEntry (parent, edit_script_size[1], edit_script_size[2], "CodeEditor", "$parentCodeEditor")
+		local code_editor = DF:NewSpecialLuaEditorEntry (parent, edit_script_size[1], edit_script_size[2], "CodeEditor", "$parentCodeEditor", false, true)
 		
 		code_editor.scroll:SetBackdrop (nil)
 		code_editor.editbox:SetBackdrop (nil)
@@ -1386,14 +1386,14 @@ function Plater.CreateHookingPanel()
 	end)
 	
 	hookFrame.DefaultScript = [=[
-		function (self, unitId, unitFrame, envTable)
+		function (self, unitId, unitFrame, envTable, modTable)
 			--insert code here
 			
 		end
 	]=]
 	
 	hookFrame.DefaultScriptNoNameplate = [=[
-		function()
+		function (modTable)
 			--insert code here
 			
 		end
@@ -1418,6 +1418,8 @@ function Plater.CreateHookingPanel()
 			HooksTemp = {},
 			LastHookEdited = "",
 			LoadConditions = DF:UpdateLoadConditionsTable ({}),
+			--ModEnvStart = "", --run once when the mod starts
+			--ModEnvTable = {}, --store data that is shared among all nameplates running this script
 		}
 		
 		--add it to the database
@@ -1466,7 +1468,7 @@ function Plater.CreateHookingPanel()
 		--add the hook to the script object
 		if (not scriptObject.Hooks [hookName]) then
 			local defaultScript
-			if (hookName == "Load Screen" or hookName == "Player Logon") then
+			if (hookName == "Load Screen" or hookName == "Player Logon" or hookName == "Initialization") then
 				defaultScript = hookFrame.DefaultScriptNoNameplate
 			else
 				defaultScript = hookFrame.DefaultScript
@@ -2037,6 +2039,7 @@ function Plater.CreateScriptingPanel()
 		{Name = "On Show", Desc = "Executed when the trigger match!\n\nUse to show your custom frames, textures, play animations, etc.", Value = 4},
 		{Name = "On Update", Desc = "Executed after Plater updates the nameplate (does not run every frame).\n\nUse this to update your custom stuff or override values that Plater might have set during the nameplate update, e.g. the nameplate color due to aggro checks.", Value = 1},
 		{Name = "On Hide", Desc = "Executed when the widget is Hide() or trigger doesn't match anymore.\n\nUse to hide your custom frames, textures, stop animations, etc.", Value = 3},
+		{Name = "Initialization", Desc = "Executed once for the script when it is compiled. Used to initialize the global script environment 'scriptTable'.", Value = 5},
 	}
 	
 	--store all spells from the game in a hash table and also on the index table
@@ -2084,11 +2087,18 @@ function Plater.CreateScriptingPanel()
 	-- scriptingFrame.CodeTypeDropdown --dropdown for the type of code being edited (runtime or constructor)
 	
 	scriptingFrame.DefaultScript = [=[
-		function (self, unitId, unitFrame, envTable)
+		function (self, unitId, unitFrame, envTable, scriptTable)
 			--insert code here
 			
 		end
 	]=]
+	
+	scriptingFrame.DefaultScriptNoNameplate = [=[
+		function (scriptTable)
+			--insert code here
+			
+		end
+	]=]	
 	
 	--a new script has been created
 	function scriptingFrame.CreateNewScript()
@@ -2111,8 +2121,15 @@ function Plater.CreateScriptingPanel()
 		--scripts
 		for i = 1, #Plater.CodeTypeNames do
 			local memberName = Plater.CodeTypeNames [i]
-			newScriptObject [memberName] = scriptingFrame.DefaultScript
-			newScriptObject ["Temp_" .. memberName] = scriptingFrame.DefaultScript
+			if i == 5 then
+				-- init function
+				newScriptObject [memberName] = scriptingFrame.DefaultScriptNoNameplate
+				newScriptObject ["Temp_" .. memberName] = scriptingFrame.DefaultScriptNoNameplate
+			else
+				-- default function
+				newScriptObject [memberName] = scriptingFrame.DefaultScript
+				newScriptObject ["Temp_" .. memberName] = scriptingFrame.DefaultScript
+			end
 		end
 
 		local playerName = UnitName ("player")
@@ -3421,6 +3438,11 @@ function Plater.CreateScriptingPanel()
 				
 				--save the current code
 				scriptObject ["Temp_" .. Plater.CodeTypeNames [scriptingFrame.CodeTypeDropdown.CodeType]] = scriptingFrame.CodeEditorLuaEntry:GetText()
+				
+				--ensure consistency (!=nil) TODO: mod migration on login/import would make this redundant
+				if value_selected == 5 and scriptObject ["Temp_" .. Plater.CodeTypeNames [value_selected]] == nil then
+					scriptObject ["Temp_" .. Plater.CodeTypeNames [value_selected]] = scriptingFrame.DefaultScriptNoNameplate
+				end
 				
 				--load the code
 				scriptingFrame.CodeEditorLuaEntry:SetText (scriptObject ["Temp_" .. Plater.CodeTypeNames [value_selected]])

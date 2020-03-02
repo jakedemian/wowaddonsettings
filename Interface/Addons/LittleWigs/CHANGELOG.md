@@ -1,11 +1,12 @@
 # LittleWigs
 
-## [v8.3.5](https://github.com/BigWigsMods/LittleWigs/tree/v8.3.5) (2020-02-02)
-[Full Changelog](https://github.com/BigWigsMods/LittleWigs/compare/v8.3.4...v8.3.5)
+## [v8.3.10](https://github.com/BigWigsMods/LittleWigs/tree/v8.3.10) (2020-02-28)
+[Full Changelog](https://github.com/BigWigsMods/LittleWigs/compare/v8.3.9...v8.3.10)
 
-- TBC: add modules for The Escape from Durnholde (#502)  
-- BfA/HorrificVisionOfOrgrimmar: Use :SetAllowWin() closes #499  
-- ruRU update (#500)  
-- BfA/HorrificVisionOfOrgrimmar/Trash: Add Madness: Entomophobia (#498)  
-- BfA: Add NAMEPLATEBAR option flag (#493)  
-- deDE update (#501)  
+- update zhCN (#513)  
+- Update deDE (#512)  
+- Update ruRU (#511)  
+- BfA/Mechagon/TussleTonks: Add warmup timer  
+- BfA/Freehold/Sweete: Fix add timer  
+- BfA/HorrificVisionOfStormwind: Add Madness: Entomophobia  
+- BfA/HorrificVisionOfOrgrimmar: Add Leaden Foot  

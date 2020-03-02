@@ -58,20 +58,21 @@ Bagnon_Sets = {
 			["columns"] = 13,
 			["color"] = {
 			},
-			["hiddenRules"] = {
-			},
+			["alpha"] = 1,
 			["spacing"] = 0,
 			["bagBreak"] = false,
-			["x"] = -139.168212890625,
+			["x"] = -75.834716796875,
 			["itemScale"] = 1,
+			["showBags"] = true,
 			["reverseSlots"] = false,
-			["alpha"] = 1,
-			["y"] = 246.5166778564453,
+			["y"] = 224.85009765625,
 			["borderColor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				0.3205121159553528, -- [4]
+			},
+			["hiddenRules"] = {
 			},
 		},
 		["vault"] = {
@@ -182,9 +183,9 @@ Bagnon_Sets = {
 			},
 			["y"] = -58.5,
 			["x"] = 30.83348846435547,
+			["showBags"] = true,
 			["borderColor"] = {
 			},
-			["showBags"] = true,
 			["alpha"] = 1,
 			["scale"] = 1,
 			["itemScale"] = 1,
@@ -200,7 +201,7 @@ Bagnon_Sets = {
 	},
 	["mineColor"] = {
 	},
-	["version"] = "8.3.4",
+	["version"] = "8.3.5",
 	["enchantColor"] = {
 	},
 	["refrigeColor"] = {

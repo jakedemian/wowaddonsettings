@@ -58,6 +58,7 @@ Bagnon_Sets = {
 			["columns"] = 13,
 			["hiddenRules"] = {
 			},
+			["alpha"] = 1,
 			["borderColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -65,9 +66,9 @@ Bagnon_Sets = {
 				0.3205121159553528, -- [4]
 			},
 			["bagBreak"] = false,
-			["x"] = -139.168212890625,
-			["y"] = 246.5166778564453,
-			["alpha"] = 1,
+			["x"] = -75.834716796875,
+			["y"] = 224.85009765625,
+			["showBags"] = true,
 			["reverseSlots"] = false,
 			["itemScale"] = 1,
 			["spacing"] = 0,
@@ -183,12 +184,12 @@ Bagnon_Sets = {
 			["y"] = -58.5,
 			["x"] = 30.83348846435547,
 			["columns"] = 20,
-			["borderColor"] = {
-			},
+			["showBags"] = true,
 			["itemScale"] = 1,
 			["scale"] = 1,
 			["alpha"] = 1,
-			["showBags"] = true,
+			["borderColor"] = {
+			},
 		},
 	},
 	["glowAlpha"] = 0.5,
@@ -200,7 +201,7 @@ Bagnon_Sets = {
 	},
 	["mineColor"] = {
 	},
-	["version"] = "8.3.4",
+	["version"] = "8.3.5",
 	["fridgeColor"] = {
 	},
 	["refrigeColor"] = {

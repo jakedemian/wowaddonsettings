@@ -11,7 +11,7 @@ local mod, CL = BigWigs:NewBoss("Drest'agath", 2217, 2373)
 if not mod then return end
 mod:RegisterEnableMob(157602) -- Drest'agath
 mod.engageId = 2343
---mod.respawnTime = 30
+mod.respawnTime = 30
 
 --------------------------------------------------------------------------------
 -- Locals
@@ -21,6 +21,7 @@ local throesCount = 1
 local crashCount = 1
 local muttersCount = 1
 local glareCount = 1
+local seedCounter = 1
 
 --------------------------------------------------------------------------------
 -- Localization
@@ -50,7 +51,7 @@ function mod:GetOptions()
 		310329, -- Entropic Crash
 		{310358, "SAY", "SAY_COUNTDOWN"}, -- Mutterings of Insanity
 		310390, -- Void Glare
-		308377, -- Void Infused Ichor
+		{308377, "EMPHASIZE"}, -- Void Infused Ichor
 		{310580, "SAY"}, -- Acid Splash
 	}
 end
@@ -67,6 +68,7 @@ function mod:OnBossEnable()
 	self:Log("SPELL_AURA_APPLIED", "MutteringsofInsanityApplied", 310358)
 	self:Log("SPELL_AURA_REMOVED", "MutteringsofInsanityRemoved", 310358)
 	self:Log("SPELL_AURA_APPLIED", "VoidInfusedIchor", 308377)
+	self:Log("SPELL_AURA_REMOVED", "VoidInfusedIchorRemoved", 308377)
 
 	self:Log("SPELL_CAST_START", "AcidSplash", 310580)
 	self:Death("EyeDeath", 157612) -- Eye of Drest'agath
@@ -79,6 +81,7 @@ function mod:OnEngage()
 	crashCount = 1
 	muttersCount = 1
 	glareCount = 1
+	seedCounter = 1
 
 	self:Bar(310329, 15, CL.count:format(self:SpellName(310329), crashCount)) -- Entropic Crash
 	self:Bar(310358, 30, CL.count:format(self:SpellName(310358), muttersCount)) -- Mutterings of Insanity
@@ -128,9 +131,10 @@ function mod:VoidGrip(args)
 end
 
 function mod:VolatileSeed(args)
-	self:TargetMessage2(args.spellId, "purple", args.destName)
+	self:TargetMessage2(args.spellId, "purple", args.destName, CL.count:format(args.spellName, seedCounter))
 	self:PlaySound(args.spellId, "alarm")
-	self:Bar(args.spellId, 17)
+	seedCounter = seedCounter + 1
+	self:Bar(args.spellId, 17, CL.count:format(args.spellName, seedCounter))
 	self:TargetBar(args.spellId, 10, args.destName)
 	if self:Me(args.destGUID) then
 		self:SayCountdown(args.spellId, 10)
@@ -173,7 +177,14 @@ end
 function mod:VoidInfusedIchor(args)
 	if self:Me(args.destGUID) then
 		self:Message2(args.spellId, "green", CL.you:format(args.spellName))
-		self:PlaySound(args.spellId, "long")
+		self:PlaySound(args.spellId, "warning")
+	end
+end
+
+function mod:VoidInfusedIchorRemoved(args)
+	if self:Me(args.destGUID) then
+		self:Message2(args.spellId, "green", CL.over:format(args.spellName))
+		self:PlaySound(args.spellId, "warning")
 	end
 end
 

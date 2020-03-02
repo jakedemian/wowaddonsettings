@@ -3,8 +3,8 @@ DetailsTimeLineDB = {
 	["max_segments"] = 4,
 	["combat_data"] = {
 		{
-			["date_start"] = "23:37:40",
 			["date_end"] = "23:38:37",
+			["date_start"] = "23:37:40",
 			["name"] = "Thrall the Corrupted",
 			["total_time"] = 57.12199999997392,
 		}, -- [1]
@@ -61,10 +61,7 @@ DetailsTimeLineDB = {
 		}, -- [1]
 	},
 	["useicons"] = true,
-	["cooldowns_timeline"] = {
-		{
-		}, -- [1]
-	},
+	["window_scale"] = 1,
 	["backdrop_color"] = {
 		0, -- [1]
 		0, -- [2]
@@ -79,7 +76,10 @@ DetailsTimeLineDB = {
 		{
 		}, -- [1]
 	},
-	["window_scale"] = 1,
+	["cooldowns_timeline"] = {
+		{
+		}, -- [1]
+	},
 	["BossSpellCast"] = {
 		{
 			["Thrall"] = {

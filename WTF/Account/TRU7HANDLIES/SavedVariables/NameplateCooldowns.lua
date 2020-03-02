@@ -10,22 +10,23 @@ NameplateCooldownsAceDB = {
 		["Fhaykum - Area 52"] = "Fhaykum - Area 52",
 		["Primerlock - Kel'Thuzad"] = "Primerlock - Kel'Thuzad",
 		["Primepriest - Area 52"] = "Primepriest - Area 52",
-		["Fhayrin - Area 52"] = "Fhayrin - Area 52",
+		["Rotrin - Area 52"] = "Rotrin - Area 52",
 		["Uwutuskdaddy - Area 52"] = "Uwutuskdaddy - Area 52",
 		["Pewpybholes - Area 52"] = "Pewpybholes - Area 52",
 		["Warodner - Moon Guard"] = "Warodner - Moon Guard",
 		["Iamprime - Area 52"] = "Iamprime - Area 52",
 		["Ahriak - Area 52"] = "Ahriak - Area 52",
 		["Plskillme - Kilrogg"] = "Plskillme - Kilrogg",
-		["Primepriest - Kel'Thuzad"] = "Primepriest - Kel'Thuzad",
+		["Primehunter - Area 52"] = "Primehunter - Area 52",
 		["Primelocker - Kel'Thuzad"] = "Primelocker - Kel'Thuzad",
 		["Fhayge - Area 52"] = "Fhayge - Area 52",
-		["Primehunter - Area 52"] = "Primehunter - Area 52",
+		["Primepriest - Kel'Thuzad"] = "Primepriest - Kel'Thuzad",
 		["Paintprimer - Kel'Thuzad"] = "Paintprimer - Kel'Thuzad",
-		["Rotrin - Area 52"] = "Rotrin - Area 52",
+		["Fhayrin - Area 52"] = "Fhayrin - Area 52",
 	},
 	["profiles"] = {
 		["Thepride - Area 52"] = {
+			["DBVersion"] = 8,
 			["SpellCDs"] = {
 				["Life Cocoon"] = {
 					["enabled"] = true,
@@ -1638,14 +1639,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 136214,
 				},
-				["Force of Nature"] = {
+				["Sigil of Silence"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205636,
+					["refSpellID"] = 202137,
 					["spellIDs"] = {
-						[205636] = true,
+						[202137] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 132129,
+					["cooldown"] = 36,
+					["texture"] = 1418288,
 				},
 				["Master's Call"] = {
 					["enabled"] = true,
@@ -1665,14 +1666,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 25,
 					["texture"] = 1033909,
 				},
-				["Spirit of Redemption"] = {
+				["Kick"] = {
 					["enabled"] = true,
-					["refSpellID"] = 215769,
+					["refSpellID"] = 1766,
 					["spellIDs"] = {
-						[215769] = true,
+						[1766] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 132864,
+					["cooldown"] = 15,
+					["texture"] = 132219,
 				},
 				["Invoke Xuen, the White Tiger"] = {
 					["enabled"] = true,
@@ -1692,14 +1693,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 300,
 					["texture"] = 135865,
 				},
-				["Barkskin"] = {
+				["Reverse Magic"] = {
 					["enabled"] = true,
-					["refSpellID"] = 22812,
+					["refSpellID"] = 205604,
 					["spellIDs"] = {
-						[22812] = true,
+						[205604] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 136097,
+					["texture"] = 1380372,
 				},
 				["Ironbark"] = {
 					["enabled"] = true,
@@ -1737,23 +1738,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 651728,
 				},
-				["Intercept"] = {
+				["Bloodlust"] = {
 					["enabled"] = true,
-					["refSpellID"] = 198304,
+					["refSpellID"] = 2825,
 					["spellIDs"] = {
-						[198304] = true,
+						[2825] = true,
 					},
-					["cooldown"] = 17,
-					["texture"] = 132365,
+					["cooldown"] = 60,
+					["texture"] = 136012,
 				},
-				["Essence of G'Hanir"] = {
+				["Shadowstep"] = {
 					["enabled"] = true,
-					["refSpellID"] = 208253,
+					["refSpellID"] = 36554,
 					["spellIDs"] = {
-						[208253] = true,
+						[36554] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 1115592,
+					["cooldown"] = 30,
+					["texture"] = 132303,
 				},
 				["Kidney Shot"] = {
 					["enabled"] = true,
@@ -1773,23 +1774,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 1029585,
 				},
-				["Evocation"] = {
+				["Parley"] = {
 					["enabled"] = true,
-					["refSpellID"] = 12051,
+					["refSpellID"] = 199743,
 					["spellIDs"] = {
-						[12051] = true,
+						[199743] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 136075,
+					["cooldown"] = 20,
+					["texture"] = 236448,
 				},
-				["Blur"] = {
+				["Dampen Harm"] = {
 					["enabled"] = true,
-					["refSpellID"] = 198589,
+					["refSpellID"] = 122278,
 					["spellIDs"] = {
-						[198589] = true,
+						[122278] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 1305150,
+					["cooldown"] = 120,
+					["texture"] = 620827,
 				},
 				["Dire Beast: Basilisk"] = {
 					["enabled"] = true,
@@ -1800,14 +1801,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 1412204,
 				},
-				["Diffuse Magic"] = {
+				["Power Word: Barrier"] = {
 					["enabled"] = true,
-					["refSpellID"] = 122783,
+					["refSpellID"] = 62618,
 					["spellIDs"] = {
-						[122783] = true,
+						[62618] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 775460,
+					["cooldown"] = 120,
+					["texture"] = 253400,
 				},
 				["Tombstone"] = {
 					["enabled"] = true,
@@ -1818,23 +1819,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 132151,
 				},
-				["Demonic Trample"] = {
+				["Blessing of Sacrifice"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205629,
+					["refSpellID"] = 6940,
 					["spellIDs"] = {
-						[205629] = true,
+						[6940] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 134294,
+					["cooldown"] = 75,
+					["texture"] = 135966,
 				},
-				["Guardian of Ancient Kings"] = {
+				["Revival"] = {
 					["enabled"] = true,
-					["refSpellID"] = 86659,
+					["refSpellID"] = 115310,
 					["spellIDs"] = {
-						[86659] = true,
+						[115310] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 135919,
+					["cooldown"] = 180,
+					["texture"] = 1020466,
 				},
 				["Nether Bond"] = {
 					["enabled"] = true,
@@ -1863,14 +1864,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 25,
 					["texture"] = 135968,
 				},
-				["Ice Block"] = {
+				["Blood Mirror"] = {
 					["enabled"] = true,
-					["refSpellID"] = 45438,
+					["refSpellID"] = 206977,
 					["spellIDs"] = {
-						[45438] = true,
+						[206977] = true,
 					},
-					["cooldown"] = 240,
-					["texture"] = 135841,
+					["cooldown"] = 120,
+					["texture"] = 134084,
 				},
 				["Invisibility"] = {
 					["enabled"] = true,
@@ -1908,32 +1909,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 20,
 					["texture"] = 134153,
 				},
-				["Shadowmeld"] = {
+				["Counterspell"] = {
 					["enabled"] = true,
-					["refSpellID"] = 58984,
+					["refSpellID"] = 2139,
 					["spellIDs"] = {
-						[58984] = true,
+						[2139] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 132089,
+					["cooldown"] = 24,
+					["texture"] = 135856,
 				},
-				["Greater Fade"] = {
+				["Earthgrab Totem"] = {
 					["enabled"] = true,
-					["refSpellID"] = 213602,
+					["refSpellID"] = 51485,
 					["spellIDs"] = {
-						[213602] = true,
+						[51485] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 135994,
+					["texture"] = 136100,
 				},
-				["Pain Suppression"] = {
+				["Holy Avenger"] = {
 					["enabled"] = true,
-					["refSpellID"] = 33206,
+					["refSpellID"] = 105809,
 					["spellIDs"] = {
-						[33206] = true,
+						[105809] = true,
 					},
-					["cooldown"] = 210,
-					["texture"] = 135936,
+					["cooldown"] = 90,
+					["texture"] = 571555,
 				},
 				["Illidan's Grasp"] = {
 					["enabled"] = true,
@@ -1962,23 +1963,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 1376045,
 				},
-				["Wyvern Sting"] = {
+				["Power Infusion"] = {
 					["enabled"] = true,
-					["refSpellID"] = 19386,
+					["refSpellID"] = 10060,
 					["spellIDs"] = {
-						[19386] = true,
+						[10060] = true,
 					},
-					["cooldown"] = 45,
-					["texture"] = 135125,
+					["cooldown"] = 120,
+					["texture"] = 135939,
 				},
-				["Duel"] = {
+				["Feral Lunge"] = {
 					["enabled"] = true,
-					["refSpellID"] = 236273,
+					["refSpellID"] = 196884,
 					["spellIDs"] = {
-						[236273] = true,
+						[196884] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 1455893,
+					["cooldown"] = 30,
+					["texture"] = 1027879,
 				},
 				["Unending Resolve"] = {
 					["enabled"] = true,
@@ -1989,32 +1990,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 150,
 					["texture"] = 136150,
 				},
-				["Netherwalk"] = {
+				["Aspect of the Turtle"] = {
 					["enabled"] = true,
-					["refSpellID"] = 196555,
+					["refSpellID"] = 186265,
 					["spellIDs"] = {
-						[196555] = true,
+						[186265] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 132199,
+				},
+				["Dark Regeneration"] = {
+					["enabled"] = true,
+					["refSpellID"] = 108359,
+					["spellIDs"] = {
+						[108359] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 463284,
+					["texture"] = 537516,
 				},
-				["Chaos Nova"] = {
+				["Shadowy Duel"] = {
 					["enabled"] = true,
-					["refSpellID"] = 179057,
+					["refSpellID"] = 207736,
 					["spellIDs"] = {
-						[179057] = true,
+						[207736] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 135795,
-				},
-				["Cheat Death"] = {
-					["enabled"] = true,
-					["refSpellID"] = 31230,
-					["spellIDs"] = {
-						[31230] = true,
-					},
-					["cooldown"] = 360,
-					["texture"] = 132285,
+					["cooldown"] = 120,
+					["texture"] = 1020341,
 				},
 				["Vendetta"] = {
 					["enabled"] = true,
@@ -2025,23 +2026,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 458726,
 				},
-				["Bladestorm"] = {
+				["Storm Bolt"] = {
 					["enabled"] = true,
-					["refSpellID"] = 227847,
+					["refSpellID"] = 107570,
 					["spellIDs"] = {
-						[227847] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 236303,
-				},
-				["Shambling Rush"] = {
-					["enabled"] = true,
-					["refSpellID"] = 91802,
-					["spellIDs"] = {
-						[91802] = true,
+						[107570] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 237569,
+					["texture"] = 613535,
+				},
+				["Rebuke"] = {
+					["enabled"] = true,
+					["refSpellID"] = 96231,
+					["spellIDs"] = {
+						[96231] = true,
+					},
+					["cooldown"] = 15,
+					["texture"] = 523893,
 				},
 				["Dark Transformation"] = {
 					["enabled"] = true,
@@ -2052,14 +2053,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 342913,
 				},
-				["Shadowfury"] = {
+				["Adrenaline Rush"] = {
 					["enabled"] = true,
-					["refSpellID"] = 30283,
+					["refSpellID"] = 13750,
 					["spellIDs"] = {
-						[30283] = true,
+						[13750] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 607865,
+					["cooldown"] = 150,
+					["texture"] = 136206,
 				},
 				["Blessing of Protection"] = {
 					["enabled"] = true,
@@ -2079,77 +2080,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135824,
 				},
-				["Trueshot"] = {
+				["Strangulate"] = {
 					["enabled"] = true,
-					["refSpellID"] = 193526,
+					["refSpellID"] = 47476,
 					["spellIDs"] = {
-						[193526] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 132329,
-				},
-				["Avenging Wrath"] = {
-					["enabled"] = true,
-					["refSpellID"] = 31884,
-					["spellIDs"] = {
-						[31884] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 135875,
-				},
-				["Freezing Trap"] = {
-					["enabled"] = true,
-					["refSpellID"] = 187650,
-					["spellIDs"] = {
-						[187650] = true,
-					},
-					["cooldown"] = 25,
-					["texture"] = 135834,
-				},
-				["Shockwave"] = {
-					["enabled"] = true,
-					["refSpellID"] = 46968,
-					["spellIDs"] = {
-						[46968] = true,
-					},
-					["cooldown"] = 40,
-					["texture"] = 236312,
-				},
-				["Death Pact"] = {
-					["enabled"] = true,
-					["refSpellID"] = 48743,
-					["spellIDs"] = {
-						[48743] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 136146,
-				},
-				["Gladiator's Medallion"] = {
-					["enabled"] = true,
-					["refSpellID"] = 208683,
-					["spellIDs"] = {
-						[208683] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 1322720,
-				},
-				["Dancing Rune Weapon"] = {
-					["enabled"] = true,
-					["refSpellID"] = 49028,
-					["spellIDs"] = {
-						[49028] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 135277,
-				},
-				["Guardian Spirit"] = {
-					["enabled"] = true,
-					["refSpellID"] = 47788,
-					["spellIDs"] = {
-						[47788] = true,
+						[47476] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 237542,
+					["texture"] = 136214,
 				},
 				["Healing Tide Totem"] = {
 					["enabled"] = true,
@@ -2160,86 +2098,149 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 180,
 					["texture"] = 538569,
 				},
-				["Strangulate"] = {
+				["Guardian Spirit"] = {
 					["enabled"] = true,
-					["refSpellID"] = 47476,
+					["refSpellID"] = 47788,
 					["spellIDs"] = {
-						[47476] = true,
+						[47788] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 136214,
+					["texture"] = 237542,
 				},
-				["Adrenaline Rush"] = {
+				["Dancing Rune Weapon"] = {
 					["enabled"] = true,
-					["refSpellID"] = 13750,
+					["refSpellID"] = 49028,
 					["spellIDs"] = {
-						[13750] = true,
-					},
-					["cooldown"] = 150,
-					["texture"] = 136206,
-				},
-				["Rebuke"] = {
-					["enabled"] = true,
-					["refSpellID"] = 96231,
-					["spellIDs"] = {
-						[96231] = true,
-					},
-					["cooldown"] = 15,
-					["texture"] = 523893,
-				},
-				["Storm Bolt"] = {
-					["enabled"] = true,
-					["refSpellID"] = 107570,
-					["spellIDs"] = {
-						[107570] = true,
-					},
-					["cooldown"] = 30,
-					["texture"] = 613535,
-				},
-				["Shadowy Duel"] = {
-					["enabled"] = true,
-					["refSpellID"] = 207736,
-					["spellIDs"] = {
-						[207736] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 1020341,
-				},
-				["Dark Regeneration"] = {
-					["enabled"] = true,
-					["refSpellID"] = 108359,
-					["spellIDs"] = {
-						[108359] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 537516,
-				},
-				["Aspect of the Turtle"] = {
-					["enabled"] = true,
-					["refSpellID"] = 186265,
-					["spellIDs"] = {
-						[186265] = true,
+						[49028] = true,
 					},
 					["cooldown"] = 180,
-					["texture"] = 132199,
+					["texture"] = 135277,
 				},
-				["Feral Lunge"] = {
+				["Gladiator's Medallion"] = {
 					["enabled"] = true,
-					["refSpellID"] = 196884,
+					["refSpellID"] = 208683,
 					["spellIDs"] = {
-						[196884] = true,
-					},
-					["cooldown"] = 30,
-					["texture"] = 1027879,
-				},
-				["Power Infusion"] = {
-					["enabled"] = true,
-					["refSpellID"] = 10060,
-					["spellIDs"] = {
-						[10060] = true,
+						[208683] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 135939,
+					["texture"] = 1322720,
+				},
+				["Death Pact"] = {
+					["enabled"] = true,
+					["refSpellID"] = 48743,
+					["spellIDs"] = {
+						[48743] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 136146,
+				},
+				["Shockwave"] = {
+					["enabled"] = true,
+					["refSpellID"] = 46968,
+					["spellIDs"] = {
+						[46968] = true,
+					},
+					["cooldown"] = 40,
+					["texture"] = 236312,
+				},
+				["Freezing Trap"] = {
+					["enabled"] = true,
+					["refSpellID"] = 187650,
+					["spellIDs"] = {
+						[187650] = true,
+					},
+					["cooldown"] = 25,
+					["texture"] = 135834,
+				},
+				["Avenging Wrath"] = {
+					["enabled"] = true,
+					["refSpellID"] = 31884,
+					["spellIDs"] = {
+						[31884] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 135875,
+				},
+				["Trueshot"] = {
+					["enabled"] = true,
+					["refSpellID"] = 193526,
+					["spellIDs"] = {
+						[193526] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 132329,
+				},
+				["Shadowfury"] = {
+					["enabled"] = true,
+					["refSpellID"] = 30283,
+					["spellIDs"] = {
+						[30283] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 607865,
+				},
+				["Shambling Rush"] = {
+					["enabled"] = true,
+					["refSpellID"] = 91802,
+					["spellIDs"] = {
+						[91802] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 237569,
+				},
+				["Bladestorm"] = {
+					["enabled"] = true,
+					["refSpellID"] = 227847,
+					["spellIDs"] = {
+						[227847] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 236303,
+				},
+				["Cheat Death"] = {
+					["enabled"] = true,
+					["refSpellID"] = 31230,
+					["spellIDs"] = {
+						[31230] = true,
+					},
+					["cooldown"] = 360,
+					["texture"] = 132285,
+				},
+				["Chaos Nova"] = {
+					["enabled"] = true,
+					["refSpellID"] = 179057,
+					["spellIDs"] = {
+						[179057] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 135795,
+				},
+				["Netherwalk"] = {
+					["enabled"] = true,
+					["refSpellID"] = 196555,
+					["spellIDs"] = {
+						[196555] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 463284,
+				},
+				["Duel"] = {
+					["enabled"] = true,
+					["refSpellID"] = 236273,
+					["spellIDs"] = {
+						[236273] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 1455893,
+				},
+				["Wyvern Sting"] = {
+					["enabled"] = true,
+					["refSpellID"] = 19386,
+					["spellIDs"] = {
+						[19386] = true,
+					},
+					["cooldown"] = 45,
+					["texture"] = 135125,
 				},
 				["Dismantle"] = {
 					["enabled"] = true,
@@ -2259,32 +2260,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 54,
 					["texture"] = 1418286,
 				},
-				["Holy Avenger"] = {
+				["Pain Suppression"] = {
 					["enabled"] = true,
-					["refSpellID"] = 105809,
+					["refSpellID"] = 33206,
 					["spellIDs"] = {
-						[105809] = true,
+						[33206] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 571555,
+					["cooldown"] = 210,
+					["texture"] = 135936,
 				},
-				["Earthgrab Totem"] = {
+				["Greater Fade"] = {
 					["enabled"] = true,
-					["refSpellID"] = 51485,
+					["refSpellID"] = 213602,
 					["spellIDs"] = {
-						[51485] = true,
+						[213602] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 136100,
+					["texture"] = 135994,
 				},
-				["Counterspell"] = {
+				["Shadowmeld"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2139,
+					["refSpellID"] = 58984,
 					["spellIDs"] = {
-						[2139] = true,
+						[58984] = true,
 					},
-					["cooldown"] = 24,
-					["texture"] = 135856,
+					["cooldown"] = 120,
+					["texture"] = 132089,
 				},
 				["Ursol's Vortex"] = {
 					["enabled"] = true,
@@ -2295,14 +2296,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 571588,
 				},
-				["Blood Mirror"] = {
+				["Ice Block"] = {
 					["enabled"] = true,
-					["refSpellID"] = 206977,
+					["refSpellID"] = 45438,
 					["spellIDs"] = {
-						[206977] = true,
+						[45438] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 134084,
+					["cooldown"] = 240,
+					["texture"] = 135841,
 				},
 				["Dispersion"] = {
 					["enabled"] = true,
@@ -2313,50 +2314,50 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 237563,
 				},
-				["Revival"] = {
+				["Guardian of Ancient Kings"] = {
 					["enabled"] = true,
-					["refSpellID"] = 115310,
+					["refSpellID"] = 86659,
 					["spellIDs"] = {
-						[115310] = true,
+						[86659] = true,
 					},
-					["cooldown"] = 180,
-					["texture"] = 1020466,
+					["cooldown"] = 300,
+					["texture"] = 135919,
 				},
-				["Blessing of Sacrifice"] = {
+				["Demonic Trample"] = {
 					["enabled"] = true,
-					["refSpellID"] = 6940,
+					["refSpellID"] = 205629,
 					["spellIDs"] = {
-						[6940] = true,
+						[205629] = true,
 					},
-					["cooldown"] = 75,
-					["texture"] = 135966,
+					["cooldown"] = 30,
+					["texture"] = 134294,
 				},
-				["Power Word: Barrier"] = {
+				["Diffuse Magic"] = {
 					["enabled"] = true,
-					["refSpellID"] = 62618,
+					["refSpellID"] = 122783,
 					["spellIDs"] = {
-						[62618] = true,
+						[122783] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 253400,
+					["cooldown"] = 90,
+					["texture"] = 775460,
 				},
-				["Dampen Harm"] = {
+				["Blur"] = {
 					["enabled"] = true,
-					["refSpellID"] = 122278,
+					["refSpellID"] = 198589,
 					["spellIDs"] = {
-						[122278] = true,
+						[198589] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 620827,
+					["cooldown"] = 60,
+					["texture"] = 1305150,
 				},
-				["Parley"] = {
+				["Evocation"] = {
 					["enabled"] = true,
-					["refSpellID"] = 199743,
+					["refSpellID"] = 12051,
 					["spellIDs"] = {
-						[199743] = true,
+						[12051] = true,
 					},
-					["cooldown"] = 20,
-					["texture"] = 236448,
+					["cooldown"] = 90,
+					["texture"] = 136075,
 				},
 				["Dragon Charge"] = {
 					["enabled"] = true,
@@ -2367,23 +2368,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 20,
 					["texture"] = 1380676,
 				},
-				["Shadowstep"] = {
+				["Essence of G'Hanir"] = {
 					["enabled"] = true,
-					["refSpellID"] = 36554,
+					["refSpellID"] = 208253,
 					["spellIDs"] = {
-						[36554] = true,
+						[208253] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 132303,
+					["cooldown"] = 90,
+					["texture"] = 1115592,
 				},
-				["Bloodlust"] = {
+				["Intercept"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2825,
+					["refSpellID"] = 198304,
 					["spellIDs"] = {
-						[2825] = true,
+						[198304] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 136012,
+					["cooldown"] = 17,
+					["texture"] = 132365,
 				},
 				["Typhoon"] = {
 					["enabled"] = true,
@@ -2421,23 +2422,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 180,
 					["texture"] = 135872,
 				},
-				["Reverse Magic"] = {
+				["Barkskin"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205604,
+					["refSpellID"] = 22812,
 					["spellIDs"] = {
-						[205604] = true,
+						[22812] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 1380372,
+					["texture"] = 136097,
 				},
-				["Kick"] = {
+				["Spirit of Redemption"] = {
 					["enabled"] = true,
-					["refSpellID"] = 1766,
+					["refSpellID"] = 215769,
 					["spellIDs"] = {
-						[1766] = true,
+						[215769] = true,
 					},
-					["cooldown"] = 15,
-					["texture"] = 132219,
+					["cooldown"] = 300,
+					["texture"] = 132864,
 				},
 				["Spell Lock"] = {
 					["enabled"] = true,
@@ -2448,20 +2449,18 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 24,
 					["texture"] = 136174,
 				},
-				["Sigil of Silence"] = {
+				["Force of Nature"] = {
 					["enabled"] = true,
-					["refSpellID"] = 202137,
+					["refSpellID"] = 205636,
 					["spellIDs"] = {
-						[202137] = true,
+						[205636] = true,
 					},
-					["cooldown"] = 36,
-					["texture"] = 1418288,
+					["cooldown"] = 60,
+					["texture"] = 132129,
 				},
 			},
-			["DBVersion"] = 8,
 		},
 		["Fhayup - Area 52"] = {
-			["DBVersion"] = 8,
 			["SpellCDs"] = {
 				["Life Cocoon"] = {
 					["enabled"] = true,
@@ -4074,14 +4073,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 136214,
 				},
-				["Force of Nature"] = {
+				["Sigil of Silence"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205636,
+					["refSpellID"] = 202137,
 					["spellIDs"] = {
-						[205636] = true,
+						[202137] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 132129,
+					["cooldown"] = 36,
+					["texture"] = 1418288,
 				},
 				["Master's Call"] = {
 					["enabled"] = true,
@@ -4101,14 +4100,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 25,
 					["texture"] = 1033909,
 				},
-				["Spirit of Redemption"] = {
+				["Kick"] = {
 					["enabled"] = true,
-					["refSpellID"] = 215769,
+					["refSpellID"] = 1766,
 					["spellIDs"] = {
-						[215769] = true,
+						[1766] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 132864,
+					["cooldown"] = 15,
+					["texture"] = 132219,
 				},
 				["Invoke Xuen, the White Tiger"] = {
 					["enabled"] = true,
@@ -4128,14 +4127,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 300,
 					["texture"] = 135865,
 				},
-				["Barkskin"] = {
+				["Reverse Magic"] = {
 					["enabled"] = true,
-					["refSpellID"] = 22812,
+					["refSpellID"] = 205604,
 					["spellIDs"] = {
-						[22812] = true,
+						[205604] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 136097,
+					["texture"] = 1380372,
 				},
 				["Ironbark"] = {
 					["enabled"] = true,
@@ -4173,23 +4172,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 651728,
 				},
-				["Intercept"] = {
+				["Bloodlust"] = {
 					["enabled"] = true,
-					["refSpellID"] = 198304,
+					["refSpellID"] = 2825,
 					["spellIDs"] = {
-						[198304] = true,
+						[2825] = true,
 					},
-					["cooldown"] = 17,
-					["texture"] = 132365,
+					["cooldown"] = 60,
+					["texture"] = 136012,
 				},
-				["Essence of G'Hanir"] = {
+				["Shadowstep"] = {
 					["enabled"] = true,
-					["refSpellID"] = 208253,
+					["refSpellID"] = 36554,
 					["spellIDs"] = {
-						[208253] = true,
+						[36554] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 1115592,
+					["cooldown"] = 30,
+					["texture"] = 132303,
 				},
 				["Kidney Shot"] = {
 					["enabled"] = true,
@@ -4209,23 +4208,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 1029585,
 				},
-				["Evocation"] = {
+				["Parley"] = {
 					["enabled"] = true,
-					["refSpellID"] = 12051,
+					["refSpellID"] = 199743,
 					["spellIDs"] = {
-						[12051] = true,
+						[199743] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 136075,
+					["cooldown"] = 20,
+					["texture"] = 236448,
 				},
-				["Blur"] = {
+				["Dampen Harm"] = {
 					["enabled"] = true,
-					["refSpellID"] = 198589,
+					["refSpellID"] = 122278,
 					["spellIDs"] = {
-						[198589] = true,
+						[122278] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 1305150,
+					["cooldown"] = 120,
+					["texture"] = 620827,
 				},
 				["Dire Beast: Basilisk"] = {
 					["enabled"] = true,
@@ -4236,14 +4235,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 1412204,
 				},
-				["Diffuse Magic"] = {
+				["Power Word: Barrier"] = {
 					["enabled"] = true,
-					["refSpellID"] = 122783,
+					["refSpellID"] = 62618,
 					["spellIDs"] = {
-						[122783] = true,
+						[62618] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 775460,
+					["cooldown"] = 120,
+					["texture"] = 253400,
 				},
 				["Tombstone"] = {
 					["enabled"] = true,
@@ -4254,23 +4253,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 132151,
 				},
-				["Demonic Trample"] = {
+				["Blessing of Sacrifice"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205629,
+					["refSpellID"] = 6940,
 					["spellIDs"] = {
-						[205629] = true,
+						[6940] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 134294,
+					["cooldown"] = 75,
+					["texture"] = 135966,
 				},
-				["Guardian of Ancient Kings"] = {
+				["Revival"] = {
 					["enabled"] = true,
-					["refSpellID"] = 86659,
+					["refSpellID"] = 115310,
 					["spellIDs"] = {
-						[86659] = true,
+						[115310] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 135919,
+					["cooldown"] = 180,
+					["texture"] = 1020466,
 				},
 				["Nether Bond"] = {
 					["enabled"] = true,
@@ -4299,14 +4298,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 25,
 					["texture"] = 135968,
 				},
-				["Ice Block"] = {
+				["Blood Mirror"] = {
 					["enabled"] = true,
-					["refSpellID"] = 45438,
+					["refSpellID"] = 206977,
 					["spellIDs"] = {
-						[45438] = true,
+						[206977] = true,
 					},
-					["cooldown"] = 240,
-					["texture"] = 135841,
+					["cooldown"] = 120,
+					["texture"] = 134084,
 				},
 				["Invisibility"] = {
 					["enabled"] = true,
@@ -4344,32 +4343,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 20,
 					["texture"] = 134153,
 				},
-				["Shadowmeld"] = {
+				["Counterspell"] = {
 					["enabled"] = true,
-					["refSpellID"] = 58984,
+					["refSpellID"] = 2139,
 					["spellIDs"] = {
-						[58984] = true,
+						[2139] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 132089,
+					["cooldown"] = 24,
+					["texture"] = 135856,
 				},
-				["Greater Fade"] = {
+				["Earthgrab Totem"] = {
 					["enabled"] = true,
-					["refSpellID"] = 213602,
+					["refSpellID"] = 51485,
 					["spellIDs"] = {
-						[213602] = true,
+						[51485] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 135994,
+					["texture"] = 136100,
 				},
-				["Pain Suppression"] = {
+				["Holy Avenger"] = {
 					["enabled"] = true,
-					["refSpellID"] = 33206,
+					["refSpellID"] = 105809,
 					["spellIDs"] = {
-						[33206] = true,
+						[105809] = true,
 					},
-					["cooldown"] = 210,
-					["texture"] = 135936,
+					["cooldown"] = 90,
+					["texture"] = 571555,
 				},
 				["Illidan's Grasp"] = {
 					["enabled"] = true,
@@ -4398,23 +4397,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 1376045,
 				},
-				["Wyvern Sting"] = {
+				["Power Infusion"] = {
 					["enabled"] = true,
-					["refSpellID"] = 19386,
+					["refSpellID"] = 10060,
 					["spellIDs"] = {
-						[19386] = true,
+						[10060] = true,
 					},
-					["cooldown"] = 45,
-					["texture"] = 135125,
+					["cooldown"] = 120,
+					["texture"] = 135939,
 				},
-				["Duel"] = {
+				["Feral Lunge"] = {
 					["enabled"] = true,
-					["refSpellID"] = 236273,
+					["refSpellID"] = 196884,
 					["spellIDs"] = {
-						[236273] = true,
+						[196884] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 1455893,
+					["cooldown"] = 30,
+					["texture"] = 1027879,
 				},
 				["Unending Resolve"] = {
 					["enabled"] = true,
@@ -4425,32 +4424,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 150,
 					["texture"] = 136150,
 				},
-				["Netherwalk"] = {
+				["Aspect of the Turtle"] = {
 					["enabled"] = true,
-					["refSpellID"] = 196555,
+					["refSpellID"] = 186265,
 					["spellIDs"] = {
-						[196555] = true,
+						[186265] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 132199,
+				},
+				["Dark Regeneration"] = {
+					["enabled"] = true,
+					["refSpellID"] = 108359,
+					["spellIDs"] = {
+						[108359] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 463284,
+					["texture"] = 537516,
 				},
-				["Chaos Nova"] = {
+				["Shadowy Duel"] = {
 					["enabled"] = true,
-					["refSpellID"] = 179057,
+					["refSpellID"] = 207736,
 					["spellIDs"] = {
-						[179057] = true,
+						[207736] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 135795,
-				},
-				["Cheat Death"] = {
-					["enabled"] = true,
-					["refSpellID"] = 31230,
-					["spellIDs"] = {
-						[31230] = true,
-					},
-					["cooldown"] = 360,
-					["texture"] = 132285,
+					["cooldown"] = 120,
+					["texture"] = 1020341,
 				},
 				["Vendetta"] = {
 					["enabled"] = true,
@@ -4461,23 +4460,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 458726,
 				},
-				["Bladestorm"] = {
+				["Storm Bolt"] = {
 					["enabled"] = true,
-					["refSpellID"] = 227847,
+					["refSpellID"] = 107570,
 					["spellIDs"] = {
-						[227847] = true,
+						[107570] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 236303,
+					["cooldown"] = 30,
+					["texture"] = 613535,
 				},
-				["Dark Transformation"] = {
+				["Rebuke"] = {
 					["enabled"] = true,
-					["refSpellID"] = 63560,
+					["refSpellID"] = 96231,
 					["spellIDs"] = {
-						[63560] = true,
+						[96231] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 342913,
+					["cooldown"] = 15,
+					["texture"] = 523893,
 				},
 				["Shambling Rush"] = {
 					["enabled"] = true,
@@ -4488,14 +4487,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 30,
 					["texture"] = 237569,
 				},
-				["Shadowfury"] = {
+				["Adrenaline Rush"] = {
 					["enabled"] = true,
-					["refSpellID"] = 30283,
+					["refSpellID"] = 13750,
 					["spellIDs"] = {
-						[30283] = true,
+						[13750] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 607865,
+					["cooldown"] = 150,
+					["texture"] = 136206,
 				},
 				["Blessing of Protection"] = {
 					["enabled"] = true,
@@ -4515,77 +4514,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135824,
 				},
-				["Trueshot"] = {
+				["Strangulate"] = {
 					["enabled"] = true,
-					["refSpellID"] = 193526,
+					["refSpellID"] = 47476,
 					["spellIDs"] = {
-						[193526] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 132329,
-				},
-				["Avenging Wrath"] = {
-					["enabled"] = true,
-					["refSpellID"] = 31884,
-					["spellIDs"] = {
-						[31884] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 135875,
-				},
-				["Freezing Trap"] = {
-					["enabled"] = true,
-					["refSpellID"] = 187650,
-					["spellIDs"] = {
-						[187650] = true,
-					},
-					["cooldown"] = 25,
-					["texture"] = 135834,
-				},
-				["Shockwave"] = {
-					["enabled"] = true,
-					["refSpellID"] = 46968,
-					["spellIDs"] = {
-						[46968] = true,
-					},
-					["cooldown"] = 40,
-					["texture"] = 236312,
-				},
-				["Death Pact"] = {
-					["enabled"] = true,
-					["refSpellID"] = 48743,
-					["spellIDs"] = {
-						[48743] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 136146,
-				},
-				["Gladiator's Medallion"] = {
-					["enabled"] = true,
-					["refSpellID"] = 208683,
-					["spellIDs"] = {
-						[208683] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 1322720,
-				},
-				["Dancing Rune Weapon"] = {
-					["enabled"] = true,
-					["refSpellID"] = 49028,
-					["spellIDs"] = {
-						[49028] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 135277,
-				},
-				["Guardian Spirit"] = {
-					["enabled"] = true,
-					["refSpellID"] = 47788,
-					["spellIDs"] = {
-						[47788] = true,
+						[47476] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 237542,
+					["texture"] = 136214,
 				},
 				["Healing Tide Totem"] = {
 					["enabled"] = true,
@@ -4596,86 +4532,149 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 180,
 					["texture"] = 538569,
 				},
-				["Strangulate"] = {
+				["Guardian Spirit"] = {
 					["enabled"] = true,
-					["refSpellID"] = 47476,
+					["refSpellID"] = 47788,
 					["spellIDs"] = {
-						[47476] = true,
+						[47788] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 136214,
+					["texture"] = 237542,
 				},
-				["Adrenaline Rush"] = {
+				["Dancing Rune Weapon"] = {
 					["enabled"] = true,
-					["refSpellID"] = 13750,
+					["refSpellID"] = 49028,
 					["spellIDs"] = {
-						[13750] = true,
-					},
-					["cooldown"] = 150,
-					["texture"] = 136206,
-				},
-				["Rebuke"] = {
-					["enabled"] = true,
-					["refSpellID"] = 96231,
-					["spellIDs"] = {
-						[96231] = true,
-					},
-					["cooldown"] = 15,
-					["texture"] = 523893,
-				},
-				["Storm Bolt"] = {
-					["enabled"] = true,
-					["refSpellID"] = 107570,
-					["spellIDs"] = {
-						[107570] = true,
-					},
-					["cooldown"] = 30,
-					["texture"] = 613535,
-				},
-				["Shadowy Duel"] = {
-					["enabled"] = true,
-					["refSpellID"] = 207736,
-					["spellIDs"] = {
-						[207736] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 1020341,
-				},
-				["Dark Regeneration"] = {
-					["enabled"] = true,
-					["refSpellID"] = 108359,
-					["spellIDs"] = {
-						[108359] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 537516,
-				},
-				["Aspect of the Turtle"] = {
-					["enabled"] = true,
-					["refSpellID"] = 186265,
-					["spellIDs"] = {
-						[186265] = true,
+						[49028] = true,
 					},
 					["cooldown"] = 180,
-					["texture"] = 132199,
+					["texture"] = 135277,
 				},
-				["Feral Lunge"] = {
+				["Gladiator's Medallion"] = {
 					["enabled"] = true,
-					["refSpellID"] = 196884,
+					["refSpellID"] = 208683,
 					["spellIDs"] = {
-						[196884] = true,
-					},
-					["cooldown"] = 30,
-					["texture"] = 1027879,
-				},
-				["Power Infusion"] = {
-					["enabled"] = true,
-					["refSpellID"] = 10060,
-					["spellIDs"] = {
-						[10060] = true,
+						[208683] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 135939,
+					["texture"] = 1322720,
+				},
+				["Death Pact"] = {
+					["enabled"] = true,
+					["refSpellID"] = 48743,
+					["spellIDs"] = {
+						[48743] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 136146,
+				},
+				["Shockwave"] = {
+					["enabled"] = true,
+					["refSpellID"] = 46968,
+					["spellIDs"] = {
+						[46968] = true,
+					},
+					["cooldown"] = 40,
+					["texture"] = 236312,
+				},
+				["Freezing Trap"] = {
+					["enabled"] = true,
+					["refSpellID"] = 187650,
+					["spellIDs"] = {
+						[187650] = true,
+					},
+					["cooldown"] = 25,
+					["texture"] = 135834,
+				},
+				["Avenging Wrath"] = {
+					["enabled"] = true,
+					["refSpellID"] = 31884,
+					["spellIDs"] = {
+						[31884] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 135875,
+				},
+				["Trueshot"] = {
+					["enabled"] = true,
+					["refSpellID"] = 193526,
+					["spellIDs"] = {
+						[193526] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 132329,
+				},
+				["Shadowfury"] = {
+					["enabled"] = true,
+					["refSpellID"] = 30283,
+					["spellIDs"] = {
+						[30283] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 607865,
+				},
+				["Dark Transformation"] = {
+					["enabled"] = true,
+					["refSpellID"] = 63560,
+					["spellIDs"] = {
+						[63560] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 342913,
+				},
+				["Bladestorm"] = {
+					["enabled"] = true,
+					["refSpellID"] = 227847,
+					["spellIDs"] = {
+						[227847] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 236303,
+				},
+				["Cheat Death"] = {
+					["enabled"] = true,
+					["refSpellID"] = 31230,
+					["spellIDs"] = {
+						[31230] = true,
+					},
+					["cooldown"] = 360,
+					["texture"] = 132285,
+				},
+				["Chaos Nova"] = {
+					["enabled"] = true,
+					["refSpellID"] = 179057,
+					["spellIDs"] = {
+						[179057] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 135795,
+				},
+				["Netherwalk"] = {
+					["enabled"] = true,
+					["refSpellID"] = 196555,
+					["spellIDs"] = {
+						[196555] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 463284,
+				},
+				["Duel"] = {
+					["enabled"] = true,
+					["refSpellID"] = 236273,
+					["spellIDs"] = {
+						[236273] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 1455893,
+				},
+				["Wyvern Sting"] = {
+					["enabled"] = true,
+					["refSpellID"] = 19386,
+					["spellIDs"] = {
+						[19386] = true,
+					},
+					["cooldown"] = 45,
+					["texture"] = 135125,
 				},
 				["Dismantle"] = {
 					["enabled"] = true,
@@ -4695,32 +4694,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 54,
 					["texture"] = 1418286,
 				},
-				["Holy Avenger"] = {
+				["Pain Suppression"] = {
 					["enabled"] = true,
-					["refSpellID"] = 105809,
+					["refSpellID"] = 33206,
 					["spellIDs"] = {
-						[105809] = true,
+						[33206] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 571555,
+					["cooldown"] = 210,
+					["texture"] = 135936,
 				},
-				["Earthgrab Totem"] = {
+				["Greater Fade"] = {
 					["enabled"] = true,
-					["refSpellID"] = 51485,
+					["refSpellID"] = 213602,
 					["spellIDs"] = {
-						[51485] = true,
+						[213602] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 136100,
+					["texture"] = 135994,
 				},
-				["Counterspell"] = {
+				["Shadowmeld"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2139,
+					["refSpellID"] = 58984,
 					["spellIDs"] = {
-						[2139] = true,
+						[58984] = true,
 					},
-					["cooldown"] = 24,
-					["texture"] = 135856,
+					["cooldown"] = 120,
+					["texture"] = 132089,
 				},
 				["Ursol's Vortex"] = {
 					["enabled"] = true,
@@ -4731,14 +4730,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 571588,
 				},
-				["Blood Mirror"] = {
+				["Ice Block"] = {
 					["enabled"] = true,
-					["refSpellID"] = 206977,
+					["refSpellID"] = 45438,
 					["spellIDs"] = {
-						[206977] = true,
+						[45438] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 134084,
+					["cooldown"] = 240,
+					["texture"] = 135841,
 				},
 				["Dispersion"] = {
 					["enabled"] = true,
@@ -4749,50 +4748,50 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 237563,
 				},
-				["Revival"] = {
+				["Guardian of Ancient Kings"] = {
 					["enabled"] = true,
-					["refSpellID"] = 115310,
+					["refSpellID"] = 86659,
 					["spellIDs"] = {
-						[115310] = true,
+						[86659] = true,
 					},
-					["cooldown"] = 180,
-					["texture"] = 1020466,
+					["cooldown"] = 300,
+					["texture"] = 135919,
 				},
-				["Blessing of Sacrifice"] = {
+				["Demonic Trample"] = {
 					["enabled"] = true,
-					["refSpellID"] = 6940,
+					["refSpellID"] = 205629,
 					["spellIDs"] = {
-						[6940] = true,
+						[205629] = true,
 					},
-					["cooldown"] = 75,
-					["texture"] = 135966,
+					["cooldown"] = 30,
+					["texture"] = 134294,
 				},
-				["Power Word: Barrier"] = {
+				["Diffuse Magic"] = {
 					["enabled"] = true,
-					["refSpellID"] = 62618,
+					["refSpellID"] = 122783,
 					["spellIDs"] = {
-						[62618] = true,
+						[122783] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 253400,
+					["cooldown"] = 90,
+					["texture"] = 775460,
 				},
-				["Dampen Harm"] = {
+				["Blur"] = {
 					["enabled"] = true,
-					["refSpellID"] = 122278,
+					["refSpellID"] = 198589,
 					["spellIDs"] = {
-						[122278] = true,
+						[198589] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 620827,
+					["cooldown"] = 60,
+					["texture"] = 1305150,
 				},
-				["Parley"] = {
+				["Evocation"] = {
 					["enabled"] = true,
-					["refSpellID"] = 199743,
+					["refSpellID"] = 12051,
 					["spellIDs"] = {
-						[199743] = true,
+						[12051] = true,
 					},
-					["cooldown"] = 20,
-					["texture"] = 236448,
+					["cooldown"] = 90,
+					["texture"] = 136075,
 				},
 				["Dragon Charge"] = {
 					["enabled"] = true,
@@ -4803,23 +4802,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 20,
 					["texture"] = 1380676,
 				},
-				["Shadowstep"] = {
+				["Essence of G'Hanir"] = {
 					["enabled"] = true,
-					["refSpellID"] = 36554,
+					["refSpellID"] = 208253,
 					["spellIDs"] = {
-						[36554] = true,
+						[208253] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 132303,
+					["cooldown"] = 90,
+					["texture"] = 1115592,
 				},
-				["Bloodlust"] = {
+				["Intercept"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2825,
+					["refSpellID"] = 198304,
 					["spellIDs"] = {
-						[2825] = true,
+						[198304] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 136012,
+					["cooldown"] = 17,
+					["texture"] = 132365,
 				},
 				["Typhoon"] = {
 					["enabled"] = true,
@@ -4857,23 +4856,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 180,
 					["texture"] = 135872,
 				},
-				["Reverse Magic"] = {
+				["Barkskin"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205604,
+					["refSpellID"] = 22812,
 					["spellIDs"] = {
-						[205604] = true,
+						[22812] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 1380372,
+					["texture"] = 136097,
 				},
-				["Kick"] = {
+				["Spirit of Redemption"] = {
 					["enabled"] = true,
-					["refSpellID"] = 1766,
+					["refSpellID"] = 215769,
 					["spellIDs"] = {
-						[1766] = true,
+						[215769] = true,
 					},
-					["cooldown"] = 15,
-					["texture"] = 132219,
+					["cooldown"] = 300,
+					["texture"] = 132864,
 				},
 				["Spell Lock"] = {
 					["enabled"] = true,
@@ -4884,16 +4883,17 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 24,
 					["texture"] = 136174,
 				},
-				["Sigil of Silence"] = {
+				["Force of Nature"] = {
 					["enabled"] = true,
-					["refSpellID"] = 202137,
+					["refSpellID"] = 205636,
 					["spellIDs"] = {
-						[202137] = true,
+						[205636] = true,
 					},
-					["cooldown"] = 36,
-					["texture"] = 1418288,
+					["cooldown"] = 60,
+					["texture"] = 132129,
 				},
 			},
+			["DBVersion"] = 8,
 		},
 		["Thartuk - Area 52"] = {
 			["SpellCDs"] = {
@@ -6508,14 +6508,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 136214,
 				},
-				["Sigil of Silence"] = {
+				["Force of Nature"] = {
 					["enabled"] = true,
-					["refSpellID"] = 202137,
+					["refSpellID"] = 205636,
 					["spellIDs"] = {
-						[202137] = true,
+						[205636] = true,
 					},
-					["cooldown"] = 36,
-					["texture"] = 1418288,
+					["cooldown"] = 60,
+					["texture"] = 132129,
 				},
 				["Master's Call"] = {
 					["enabled"] = true,
@@ -6535,14 +6535,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 25,
 					["texture"] = 1033909,
 				},
-				["Kick"] = {
+				["Spirit of Redemption"] = {
 					["enabled"] = true,
-					["refSpellID"] = 1766,
+					["refSpellID"] = 215769,
 					["spellIDs"] = {
-						[1766] = true,
+						[215769] = true,
 					},
-					["cooldown"] = 15,
-					["texture"] = 132219,
+					["cooldown"] = 300,
+					["texture"] = 132864,
 				},
 				["Invoke Xuen, the White Tiger"] = {
 					["enabled"] = true,
@@ -6562,14 +6562,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 300,
 					["texture"] = 135865,
 				},
-				["Reverse Magic"] = {
+				["Barkskin"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205604,
+					["refSpellID"] = 22812,
 					["spellIDs"] = {
-						[205604] = true,
+						[22812] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 1380372,
+					["texture"] = 136097,
 				},
 				["Ironbark"] = {
 					["enabled"] = true,
@@ -6607,23 +6607,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 651728,
 				},
-				["Bloodlust"] = {
+				["Intercept"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2825,
+					["refSpellID"] = 198304,
 					["spellIDs"] = {
-						[2825] = true,
+						[198304] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 136012,
+					["cooldown"] = 17,
+					["texture"] = 132365,
 				},
-				["Shadowstep"] = {
+				["Essence of G'Hanir"] = {
 					["enabled"] = true,
-					["refSpellID"] = 36554,
+					["refSpellID"] = 208253,
 					["spellIDs"] = {
-						[36554] = true,
+						[208253] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 132303,
+					["cooldown"] = 90,
+					["texture"] = 1115592,
 				},
 				["Kidney Shot"] = {
 					["enabled"] = true,
@@ -6643,23 +6643,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 1029585,
 				},
-				["Parley"] = {
+				["Evocation"] = {
 					["enabled"] = true,
-					["refSpellID"] = 199743,
+					["refSpellID"] = 12051,
 					["spellIDs"] = {
-						[199743] = true,
+						[12051] = true,
 					},
-					["cooldown"] = 20,
-					["texture"] = 236448,
+					["cooldown"] = 90,
+					["texture"] = 136075,
 				},
-				["Dampen Harm"] = {
+				["Blur"] = {
 					["enabled"] = true,
-					["refSpellID"] = 122278,
+					["refSpellID"] = 198589,
 					["spellIDs"] = {
-						[122278] = true,
+						[198589] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 620827,
+					["cooldown"] = 60,
+					["texture"] = 1305150,
 				},
 				["Dire Beast: Basilisk"] = {
 					["enabled"] = true,
@@ -6670,14 +6670,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 1412204,
 				},
-				["Power Word: Barrier"] = {
+				["Diffuse Magic"] = {
 					["enabled"] = true,
-					["refSpellID"] = 62618,
+					["refSpellID"] = 122783,
 					["spellIDs"] = {
-						[62618] = true,
+						[122783] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 253400,
+					["cooldown"] = 90,
+					["texture"] = 775460,
 				},
 				["Tombstone"] = {
 					["enabled"] = true,
@@ -6688,23 +6688,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 132151,
 				},
-				["Blessing of Sacrifice"] = {
+				["Demonic Trample"] = {
 					["enabled"] = true,
-					["refSpellID"] = 6940,
+					["refSpellID"] = 205629,
 					["spellIDs"] = {
-						[6940] = true,
+						[205629] = true,
 					},
-					["cooldown"] = 75,
-					["texture"] = 135966,
+					["cooldown"] = 30,
+					["texture"] = 134294,
 				},
-				["Revival"] = {
+				["Guardian of Ancient Kings"] = {
 					["enabled"] = true,
-					["refSpellID"] = 115310,
+					["refSpellID"] = 86659,
 					["spellIDs"] = {
-						[115310] = true,
+						[86659] = true,
 					},
-					["cooldown"] = 180,
-					["texture"] = 1020466,
+					["cooldown"] = 300,
+					["texture"] = 135919,
 				},
 				["Nether Bond"] = {
 					["enabled"] = true,
@@ -6733,14 +6733,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 25,
 					["texture"] = 135968,
 				},
-				["Blood Mirror"] = {
+				["Ice Block"] = {
 					["enabled"] = true,
-					["refSpellID"] = 206977,
+					["refSpellID"] = 45438,
 					["spellIDs"] = {
-						[206977] = true,
+						[45438] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 134084,
+					["cooldown"] = 240,
+					["texture"] = 135841,
 				},
 				["Invisibility"] = {
 					["enabled"] = true,
@@ -6778,32 +6778,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 20,
 					["texture"] = 134153,
 				},
-				["Counterspell"] = {
+				["Shadowmeld"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2139,
+					["refSpellID"] = 58984,
 					["spellIDs"] = {
-						[2139] = true,
+						[58984] = true,
 					},
-					["cooldown"] = 24,
-					["texture"] = 135856,
+					["cooldown"] = 120,
+					["texture"] = 132089,
 				},
-				["Earthgrab Totem"] = {
+				["Greater Fade"] = {
 					["enabled"] = true,
-					["refSpellID"] = 51485,
+					["refSpellID"] = 213602,
 					["spellIDs"] = {
-						[51485] = true,
+						[213602] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 136100,
+					["texture"] = 135994,
 				},
-				["Holy Avenger"] = {
+				["Pain Suppression"] = {
 					["enabled"] = true,
-					["refSpellID"] = 105809,
+					["refSpellID"] = 33206,
 					["spellIDs"] = {
-						[105809] = true,
+						[33206] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 571555,
+					["cooldown"] = 210,
+					["texture"] = 135936,
 				},
 				["Illidan's Grasp"] = {
 					["enabled"] = true,
@@ -6832,23 +6832,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 1376045,
 				},
-				["Power Infusion"] = {
+				["Wyvern Sting"] = {
 					["enabled"] = true,
-					["refSpellID"] = 10060,
+					["refSpellID"] = 19386,
 					["spellIDs"] = {
-						[10060] = true,
+						[19386] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 135939,
+					["cooldown"] = 45,
+					["texture"] = 135125,
 				},
-				["Feral Lunge"] = {
+				["Duel"] = {
 					["enabled"] = true,
-					["refSpellID"] = 196884,
+					["refSpellID"] = 236273,
 					["spellIDs"] = {
-						[196884] = true,
+						[236273] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 1027879,
+					["cooldown"] = 60,
+					["texture"] = 1455893,
 				},
 				["Unending Resolve"] = {
 					["enabled"] = true,
@@ -6859,32 +6859,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 150,
 					["texture"] = 136150,
 				},
-				["Aspect of the Turtle"] = {
+				["Netherwalk"] = {
 					["enabled"] = true,
-					["refSpellID"] = 186265,
+					["refSpellID"] = 196555,
 					["spellIDs"] = {
-						[186265] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 132199,
-				},
-				["Dark Regeneration"] = {
-					["enabled"] = true,
-					["refSpellID"] = 108359,
-					["spellIDs"] = {
-						[108359] = true,
+						[196555] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 537516,
+					["texture"] = 463284,
 				},
-				["Shadowy Duel"] = {
+				["Chaos Nova"] = {
 					["enabled"] = true,
-					["refSpellID"] = 207736,
+					["refSpellID"] = 179057,
 					["spellIDs"] = {
-						[207736] = true,
+						[179057] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 1020341,
+					["cooldown"] = 60,
+					["texture"] = 135795,
+				},
+				["Cheat Death"] = {
+					["enabled"] = true,
+					["refSpellID"] = 31230,
+					["spellIDs"] = {
+						[31230] = true,
+					},
+					["cooldown"] = 360,
+					["texture"] = 132285,
 				},
 				["Vendetta"] = {
 					["enabled"] = true,
@@ -6895,23 +6895,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 458726,
 				},
-				["Storm Bolt"] = {
+				["Bladestorm"] = {
 					["enabled"] = true,
-					["refSpellID"] = 107570,
+					["refSpellID"] = 227847,
 					["spellIDs"] = {
-						[107570] = true,
+						[227847] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 613535,
-				},
-				["Rebuke"] = {
-					["enabled"] = true,
-					["refSpellID"] = 96231,
-					["spellIDs"] = {
-						[96231] = true,
-					},
-					["cooldown"] = 15,
-					["texture"] = 523893,
+					["cooldown"] = 60,
+					["texture"] = 236303,
 				},
 				["Shambling Rush"] = {
 					["enabled"] = true,
@@ -6922,14 +6913,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 30,
 					["texture"] = 237569,
 				},
-				["Adrenaline Rush"] = {
+				["Dark Transformation"] = {
 					["enabled"] = true,
-					["refSpellID"] = 13750,
+					["refSpellID"] = 63560,
 					["spellIDs"] = {
-						[13750] = true,
+						[63560] = true,
 					},
-					["cooldown"] = 150,
-					["texture"] = 136206,
+					["cooldown"] = 60,
+					["texture"] = 342913,
+				},
+				["Shadowfury"] = {
+					["enabled"] = true,
+					["refSpellID"] = 30283,
+					["spellIDs"] = {
+						[30283] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 607865,
 				},
 				["Blessing of Protection"] = {
 					["enabled"] = true,
@@ -6949,77 +6949,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135824,
 				},
-				["Strangulate"] = {
+				["Trueshot"] = {
 					["enabled"] = true,
-					["refSpellID"] = 47476,
+					["refSpellID"] = 193526,
 					["spellIDs"] = {
-						[47476] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 136214,
-				},
-				["Healing Tide Totem"] = {
-					["enabled"] = true,
-					["refSpellID"] = 108280,
-					["spellIDs"] = {
-						[108280] = true,
+						[193526] = true,
 					},
 					["cooldown"] = 180,
-					["texture"] = 538569,
-				},
-				["Guardian Spirit"] = {
-					["enabled"] = true,
-					["refSpellID"] = 47788,
-					["spellIDs"] = {
-						[47788] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 237542,
-				},
-				["Dancing Rune Weapon"] = {
-					["enabled"] = true,
-					["refSpellID"] = 49028,
-					["spellIDs"] = {
-						[49028] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 135277,
-				},
-				["Gladiator's Medallion"] = {
-					["enabled"] = true,
-					["refSpellID"] = 208683,
-					["spellIDs"] = {
-						[208683] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 1322720,
-				},
-				["Death Pact"] = {
-					["enabled"] = true,
-					["refSpellID"] = 48743,
-					["spellIDs"] = {
-						[48743] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 136146,
-				},
-				["Shockwave"] = {
-					["enabled"] = true,
-					["refSpellID"] = 46968,
-					["spellIDs"] = {
-						[46968] = true,
-					},
-					["cooldown"] = 40,
-					["texture"] = 236312,
-				},
-				["Freezing Trap"] = {
-					["enabled"] = true,
-					["refSpellID"] = 187650,
-					["spellIDs"] = {
-						[187650] = true,
-					},
-					["cooldown"] = 25,
-					["texture"] = 135834,
+					["texture"] = 132329,
 				},
 				["Avenging Wrath"] = {
 					["enabled"] = true,
@@ -7030,86 +6967,149 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135875,
 				},
-				["Trueshot"] = {
+				["Freezing Trap"] = {
 					["enabled"] = true,
-					["refSpellID"] = 193526,
+					["refSpellID"] = 187650,
 					["spellIDs"] = {
-						[193526] = true,
+						[187650] = true,
 					},
-					["cooldown"] = 180,
-					["texture"] = 132329,
+					["cooldown"] = 25,
+					["texture"] = 135834,
 				},
-				["Shadowfury"] = {
+				["Shockwave"] = {
 					["enabled"] = true,
-					["refSpellID"] = 30283,
+					["refSpellID"] = 46968,
 					["spellIDs"] = {
-						[30283] = true,
+						[46968] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 607865,
+					["cooldown"] = 40,
+					["texture"] = 236312,
 				},
-				["Dark Transformation"] = {
+				["Death Pact"] = {
 					["enabled"] = true,
-					["refSpellID"] = 63560,
+					["refSpellID"] = 48743,
 					["spellIDs"] = {
-						[63560] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 342913,
-				},
-				["Bladestorm"] = {
-					["enabled"] = true,
-					["refSpellID"] = 227847,
-					["spellIDs"] = {
-						[227847] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 236303,
-				},
-				["Cheat Death"] = {
-					["enabled"] = true,
-					["refSpellID"] = 31230,
-					["spellIDs"] = {
-						[31230] = true,
-					},
-					["cooldown"] = 360,
-					["texture"] = 132285,
-				},
-				["Chaos Nova"] = {
-					["enabled"] = true,
-					["refSpellID"] = 179057,
-					["spellIDs"] = {
-						[179057] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 135795,
-				},
-				["Netherwalk"] = {
-					["enabled"] = true,
-					["refSpellID"] = 196555,
-					["spellIDs"] = {
-						[196555] = true,
+						[48743] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 463284,
+					["texture"] = 136146,
 				},
-				["Duel"] = {
+				["Gladiator's Medallion"] = {
 					["enabled"] = true,
-					["refSpellID"] = 236273,
+					["refSpellID"] = 208683,
 					["spellIDs"] = {
-						[236273] = true,
+						[208683] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 1322720,
+				},
+				["Dancing Rune Weapon"] = {
+					["enabled"] = true,
+					["refSpellID"] = 49028,
+					["spellIDs"] = {
+						[49028] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 135277,
+				},
+				["Guardian Spirit"] = {
+					["enabled"] = true,
+					["refSpellID"] = 47788,
+					["spellIDs"] = {
+						[47788] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 1455893,
+					["texture"] = 237542,
 				},
-				["Wyvern Sting"] = {
+				["Healing Tide Totem"] = {
 					["enabled"] = true,
-					["refSpellID"] = 19386,
+					["refSpellID"] = 108280,
 					["spellIDs"] = {
-						[19386] = true,
+						[108280] = true,
 					},
-					["cooldown"] = 45,
-					["texture"] = 135125,
+					["cooldown"] = 180,
+					["texture"] = 538569,
+				},
+				["Strangulate"] = {
+					["enabled"] = true,
+					["refSpellID"] = 47476,
+					["spellIDs"] = {
+						[47476] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 136214,
+				},
+				["Adrenaline Rush"] = {
+					["enabled"] = true,
+					["refSpellID"] = 13750,
+					["spellIDs"] = {
+						[13750] = true,
+					},
+					["cooldown"] = 150,
+					["texture"] = 136206,
+				},
+				["Rebuke"] = {
+					["enabled"] = true,
+					["refSpellID"] = 96231,
+					["spellIDs"] = {
+						[96231] = true,
+					},
+					["cooldown"] = 15,
+					["texture"] = 523893,
+				},
+				["Storm Bolt"] = {
+					["enabled"] = true,
+					["refSpellID"] = 107570,
+					["spellIDs"] = {
+						[107570] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 613535,
+				},
+				["Shadowy Duel"] = {
+					["enabled"] = true,
+					["refSpellID"] = 207736,
+					["spellIDs"] = {
+						[207736] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 1020341,
+				},
+				["Dark Regeneration"] = {
+					["enabled"] = true,
+					["refSpellID"] = 108359,
+					["spellIDs"] = {
+						[108359] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 537516,
+				},
+				["Aspect of the Turtle"] = {
+					["enabled"] = true,
+					["refSpellID"] = 186265,
+					["spellIDs"] = {
+						[186265] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 132199,
+				},
+				["Feral Lunge"] = {
+					["enabled"] = true,
+					["refSpellID"] = 196884,
+					["spellIDs"] = {
+						[196884] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 1027879,
+				},
+				["Power Infusion"] = {
+					["enabled"] = true,
+					["refSpellID"] = 10060,
+					["spellIDs"] = {
+						[10060] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 135939,
 				},
 				["Dismantle"] = {
 					["enabled"] = true,
@@ -7129,32 +7129,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 54,
 					["texture"] = 1418286,
 				},
-				["Pain Suppression"] = {
+				["Holy Avenger"] = {
 					["enabled"] = true,
-					["refSpellID"] = 33206,
+					["refSpellID"] = 105809,
 					["spellIDs"] = {
-						[33206] = true,
+						[105809] = true,
 					},
-					["cooldown"] = 210,
-					["texture"] = 135936,
+					["cooldown"] = 90,
+					["texture"] = 571555,
 				},
-				["Greater Fade"] = {
+				["Earthgrab Totem"] = {
 					["enabled"] = true,
-					["refSpellID"] = 213602,
+					["refSpellID"] = 51485,
 					["spellIDs"] = {
-						[213602] = true,
+						[51485] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 135994,
+					["texture"] = 136100,
 				},
-				["Shadowmeld"] = {
+				["Counterspell"] = {
 					["enabled"] = true,
-					["refSpellID"] = 58984,
+					["refSpellID"] = 2139,
 					["spellIDs"] = {
-						[58984] = true,
+						[2139] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 132089,
+					["cooldown"] = 24,
+					["texture"] = 135856,
 				},
 				["Ursol's Vortex"] = {
 					["enabled"] = true,
@@ -7165,14 +7165,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 571588,
 				},
-				["Ice Block"] = {
+				["Blood Mirror"] = {
 					["enabled"] = true,
-					["refSpellID"] = 45438,
+					["refSpellID"] = 206977,
 					["spellIDs"] = {
-						[45438] = true,
+						[206977] = true,
 					},
-					["cooldown"] = 240,
-					["texture"] = 135841,
+					["cooldown"] = 120,
+					["texture"] = 134084,
 				},
 				["Dispersion"] = {
 					["enabled"] = true,
@@ -7183,50 +7183,50 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 237563,
 				},
-				["Guardian of Ancient Kings"] = {
+				["Revival"] = {
 					["enabled"] = true,
-					["refSpellID"] = 86659,
+					["refSpellID"] = 115310,
 					["spellIDs"] = {
-						[86659] = true,
+						[115310] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 135919,
+					["cooldown"] = 180,
+					["texture"] = 1020466,
 				},
-				["Demonic Trample"] = {
+				["Blessing of Sacrifice"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205629,
+					["refSpellID"] = 6940,
 					["spellIDs"] = {
-						[205629] = true,
+						[6940] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 134294,
+					["cooldown"] = 75,
+					["texture"] = 135966,
 				},
-				["Diffuse Magic"] = {
+				["Power Word: Barrier"] = {
 					["enabled"] = true,
-					["refSpellID"] = 122783,
+					["refSpellID"] = 62618,
 					["spellIDs"] = {
-						[122783] = true,
+						[62618] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 775460,
+					["cooldown"] = 120,
+					["texture"] = 253400,
 				},
-				["Blur"] = {
+				["Dampen Harm"] = {
 					["enabled"] = true,
-					["refSpellID"] = 198589,
+					["refSpellID"] = 122278,
 					["spellIDs"] = {
-						[198589] = true,
+						[122278] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 1305150,
+					["cooldown"] = 120,
+					["texture"] = 620827,
 				},
-				["Evocation"] = {
+				["Parley"] = {
 					["enabled"] = true,
-					["refSpellID"] = 12051,
+					["refSpellID"] = 199743,
 					["spellIDs"] = {
-						[12051] = true,
+						[199743] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 136075,
+					["cooldown"] = 20,
+					["texture"] = 236448,
 				},
 				["Dragon Charge"] = {
 					["enabled"] = true,
@@ -7237,23 +7237,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 20,
 					["texture"] = 1380676,
 				},
-				["Essence of G'Hanir"] = {
+				["Shadowstep"] = {
 					["enabled"] = true,
-					["refSpellID"] = 208253,
+					["refSpellID"] = 36554,
 					["spellIDs"] = {
-						[208253] = true,
+						[36554] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 1115592,
+					["cooldown"] = 30,
+					["texture"] = 132303,
 				},
-				["Intercept"] = {
+				["Bloodlust"] = {
 					["enabled"] = true,
-					["refSpellID"] = 198304,
+					["refSpellID"] = 2825,
 					["spellIDs"] = {
-						[198304] = true,
+						[2825] = true,
 					},
-					["cooldown"] = 17,
-					["texture"] = 132365,
+					["cooldown"] = 60,
+					["texture"] = 136012,
 				},
 				["Typhoon"] = {
 					["enabled"] = true,
@@ -7291,23 +7291,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 180,
 					["texture"] = 135872,
 				},
-				["Barkskin"] = {
+				["Reverse Magic"] = {
 					["enabled"] = true,
-					["refSpellID"] = 22812,
+					["refSpellID"] = 205604,
 					["spellIDs"] = {
-						[22812] = true,
+						[205604] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 136097,
+					["texture"] = 1380372,
 				},
-				["Spirit of Redemption"] = {
+				["Kick"] = {
 					["enabled"] = true,
-					["refSpellID"] = 215769,
+					["refSpellID"] = 1766,
 					["spellIDs"] = {
-						[215769] = true,
+						[1766] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 132864,
+					["cooldown"] = 15,
+					["texture"] = 132219,
 				},
 				["Spell Lock"] = {
 					["enabled"] = true,
@@ -7318,20 +7318,19 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 24,
 					["texture"] = 136174,
 				},
-				["Force of Nature"] = {
+				["Sigil of Silence"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205636,
+					["refSpellID"] = 202137,
 					["spellIDs"] = {
-						[205636] = true,
+						[202137] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 132129,
+					["cooldown"] = 36,
+					["texture"] = 1418288,
 				},
 			},
 			["DBVersion"] = 8,
 		},
 		["Fhayslam - Area 52"] = {
-			["DBVersion"] = 8,
 			["SpellCDs"] = {
 				["Life Cocoon"] = {
 					["enabled"] = true,
@@ -8944,14 +8943,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 136214,
 				},
-				["Sigil of Silence"] = {
+				["Force of Nature"] = {
 					["enabled"] = true,
-					["refSpellID"] = 202137,
+					["refSpellID"] = 205636,
 					["spellIDs"] = {
-						[202137] = true,
+						[205636] = true,
 					},
-					["cooldown"] = 36,
-					["texture"] = 1418288,
+					["cooldown"] = 60,
+					["texture"] = 132129,
 				},
 				["Master's Call"] = {
 					["enabled"] = true,
@@ -8971,14 +8970,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 25,
 					["texture"] = 1033909,
 				},
-				["Kick"] = {
+				["Spirit of Redemption"] = {
 					["enabled"] = true,
-					["refSpellID"] = 1766,
+					["refSpellID"] = 215769,
 					["spellIDs"] = {
-						[1766] = true,
+						[215769] = true,
 					},
-					["cooldown"] = 15,
-					["texture"] = 132219,
+					["cooldown"] = 300,
+					["texture"] = 132864,
 				},
 				["Invoke Xuen, the White Tiger"] = {
 					["enabled"] = true,
@@ -8998,14 +8997,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 300,
 					["texture"] = 135865,
 				},
-				["Reverse Magic"] = {
+				["Barkskin"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205604,
+					["refSpellID"] = 22812,
 					["spellIDs"] = {
-						[205604] = true,
+						[22812] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 1380372,
+					["texture"] = 136097,
 				},
 				["Ironbark"] = {
 					["enabled"] = true,
@@ -9043,23 +9042,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 651728,
 				},
-				["Bloodlust"] = {
+				["Intercept"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2825,
+					["refSpellID"] = 198304,
 					["spellIDs"] = {
-						[2825] = true,
+						[198304] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 136012,
+					["cooldown"] = 17,
+					["texture"] = 132365,
 				},
-				["Shadowstep"] = {
+				["Essence of G'Hanir"] = {
 					["enabled"] = true,
-					["refSpellID"] = 36554,
+					["refSpellID"] = 208253,
 					["spellIDs"] = {
-						[36554] = true,
+						[208253] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 132303,
+					["cooldown"] = 90,
+					["texture"] = 1115592,
 				},
 				["Kidney Shot"] = {
 					["enabled"] = true,
@@ -9079,23 +9078,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 1029585,
 				},
-				["Parley"] = {
+				["Evocation"] = {
 					["enabled"] = true,
-					["refSpellID"] = 199743,
+					["refSpellID"] = 12051,
 					["spellIDs"] = {
-						[199743] = true,
+						[12051] = true,
 					},
-					["cooldown"] = 20,
-					["texture"] = 236448,
+					["cooldown"] = 90,
+					["texture"] = 136075,
 				},
-				["Dampen Harm"] = {
+				["Blur"] = {
 					["enabled"] = true,
-					["refSpellID"] = 122278,
+					["refSpellID"] = 198589,
 					["spellIDs"] = {
-						[122278] = true,
+						[198589] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 620827,
+					["cooldown"] = 60,
+					["texture"] = 1305150,
 				},
 				["Dire Beast: Basilisk"] = {
 					["enabled"] = true,
@@ -9106,14 +9105,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 1412204,
 				},
-				["Power Word: Barrier"] = {
+				["Diffuse Magic"] = {
 					["enabled"] = true,
-					["refSpellID"] = 62618,
+					["refSpellID"] = 122783,
 					["spellIDs"] = {
-						[62618] = true,
+						[122783] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 253400,
+					["cooldown"] = 90,
+					["texture"] = 775460,
 				},
 				["Tombstone"] = {
 					["enabled"] = true,
@@ -9124,23 +9123,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 132151,
 				},
-				["Blessing of Sacrifice"] = {
+				["Demonic Trample"] = {
 					["enabled"] = true,
-					["refSpellID"] = 6940,
+					["refSpellID"] = 205629,
 					["spellIDs"] = {
-						[6940] = true,
+						[205629] = true,
 					},
-					["cooldown"] = 75,
-					["texture"] = 135966,
+					["cooldown"] = 30,
+					["texture"] = 134294,
 				},
-				["Revival"] = {
+				["Guardian of Ancient Kings"] = {
 					["enabled"] = true,
-					["refSpellID"] = 115310,
+					["refSpellID"] = 86659,
 					["spellIDs"] = {
-						[115310] = true,
+						[86659] = true,
 					},
-					["cooldown"] = 180,
-					["texture"] = 1020466,
+					["cooldown"] = 300,
+					["texture"] = 135919,
 				},
 				["Nether Bond"] = {
 					["enabled"] = true,
@@ -9169,14 +9168,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 25,
 					["texture"] = 135968,
 				},
-				["Blood Mirror"] = {
+				["Ice Block"] = {
 					["enabled"] = true,
-					["refSpellID"] = 206977,
+					["refSpellID"] = 45438,
 					["spellIDs"] = {
-						[206977] = true,
+						[45438] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 134084,
+					["cooldown"] = 240,
+					["texture"] = 135841,
 				},
 				["Invisibility"] = {
 					["enabled"] = true,
@@ -9214,32 +9213,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 20,
 					["texture"] = 134153,
 				},
-				["Counterspell"] = {
+				["Shadowmeld"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2139,
+					["refSpellID"] = 58984,
 					["spellIDs"] = {
-						[2139] = true,
+						[58984] = true,
 					},
-					["cooldown"] = 24,
-					["texture"] = 135856,
+					["cooldown"] = 120,
+					["texture"] = 132089,
 				},
-				["Earthgrab Totem"] = {
+				["Greater Fade"] = {
 					["enabled"] = true,
-					["refSpellID"] = 51485,
+					["refSpellID"] = 213602,
 					["spellIDs"] = {
-						[51485] = true,
+						[213602] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 136100,
+					["texture"] = 135994,
 				},
-				["Holy Avenger"] = {
+				["Pain Suppression"] = {
 					["enabled"] = true,
-					["refSpellID"] = 105809,
+					["refSpellID"] = 33206,
 					["spellIDs"] = {
-						[105809] = true,
+						[33206] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 571555,
+					["cooldown"] = 210,
+					["texture"] = 135936,
 				},
 				["Illidan's Grasp"] = {
 					["enabled"] = true,
@@ -9268,23 +9267,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 1376045,
 				},
-				["Power Infusion"] = {
+				["Wyvern Sting"] = {
 					["enabled"] = true,
-					["refSpellID"] = 10060,
+					["refSpellID"] = 19386,
 					["spellIDs"] = {
-						[10060] = true,
+						[19386] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 135939,
+					["cooldown"] = 45,
+					["texture"] = 135125,
 				},
-				["Feral Lunge"] = {
+				["Duel"] = {
 					["enabled"] = true,
-					["refSpellID"] = 196884,
+					["refSpellID"] = 236273,
 					["spellIDs"] = {
-						[196884] = true,
+						[236273] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 1027879,
+					["cooldown"] = 60,
+					["texture"] = 1455893,
 				},
 				["Unending Resolve"] = {
 					["enabled"] = true,
@@ -9295,32 +9294,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 150,
 					["texture"] = 136150,
 				},
-				["Aspect of the Turtle"] = {
+				["Netherwalk"] = {
 					["enabled"] = true,
-					["refSpellID"] = 186265,
+					["refSpellID"] = 196555,
 					["spellIDs"] = {
-						[186265] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 132199,
-				},
-				["Dark Regeneration"] = {
-					["enabled"] = true,
-					["refSpellID"] = 108359,
-					["spellIDs"] = {
-						[108359] = true,
+						[196555] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 537516,
+					["texture"] = 463284,
 				},
-				["Shadowy Duel"] = {
+				["Chaos Nova"] = {
 					["enabled"] = true,
-					["refSpellID"] = 207736,
+					["refSpellID"] = 179057,
 					["spellIDs"] = {
-						[207736] = true,
+						[179057] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 1020341,
+					["cooldown"] = 60,
+					["texture"] = 135795,
+				},
+				["Cheat Death"] = {
+					["enabled"] = true,
+					["refSpellID"] = 31230,
+					["spellIDs"] = {
+						[31230] = true,
+					},
+					["cooldown"] = 360,
+					["texture"] = 132285,
 				},
 				["Vendetta"] = {
 					["enabled"] = true,
@@ -9331,23 +9330,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 458726,
 				},
-				["Storm Bolt"] = {
+				["Bladestorm"] = {
 					["enabled"] = true,
-					["refSpellID"] = 107570,
+					["refSpellID"] = 227847,
 					["spellIDs"] = {
-						[107570] = true,
+						[227847] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 613535,
-				},
-				["Rebuke"] = {
-					["enabled"] = true,
-					["refSpellID"] = 96231,
-					["spellIDs"] = {
-						[96231] = true,
-					},
-					["cooldown"] = 15,
-					["texture"] = 523893,
+					["cooldown"] = 60,
+					["texture"] = 236303,
 				},
 				["Shambling Rush"] = {
 					["enabled"] = true,
@@ -9358,14 +9348,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 30,
 					["texture"] = 237569,
 				},
-				["Adrenaline Rush"] = {
+				["Dark Transformation"] = {
 					["enabled"] = true,
-					["refSpellID"] = 13750,
+					["refSpellID"] = 63560,
 					["spellIDs"] = {
-						[13750] = true,
+						[63560] = true,
 					},
-					["cooldown"] = 150,
-					["texture"] = 136206,
+					["cooldown"] = 60,
+					["texture"] = 342913,
+				},
+				["Shadowfury"] = {
+					["enabled"] = true,
+					["refSpellID"] = 30283,
+					["spellIDs"] = {
+						[30283] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 607865,
 				},
 				["Blessing of Protection"] = {
 					["enabled"] = true,
@@ -9385,77 +9384,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135824,
 				},
-				["Strangulate"] = {
+				["Trueshot"] = {
 					["enabled"] = true,
-					["refSpellID"] = 47476,
+					["refSpellID"] = 193526,
 					["spellIDs"] = {
-						[47476] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 136214,
-				},
-				["Healing Tide Totem"] = {
-					["enabled"] = true,
-					["refSpellID"] = 108280,
-					["spellIDs"] = {
-						[108280] = true,
+						[193526] = true,
 					},
 					["cooldown"] = 180,
-					["texture"] = 538569,
-				},
-				["Guardian Spirit"] = {
-					["enabled"] = true,
-					["refSpellID"] = 47788,
-					["spellIDs"] = {
-						[47788] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 237542,
-				},
-				["Dancing Rune Weapon"] = {
-					["enabled"] = true,
-					["refSpellID"] = 49028,
-					["spellIDs"] = {
-						[49028] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 135277,
-				},
-				["Gladiator's Medallion"] = {
-					["enabled"] = true,
-					["refSpellID"] = 208683,
-					["spellIDs"] = {
-						[208683] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 1322720,
-				},
-				["Death Pact"] = {
-					["enabled"] = true,
-					["refSpellID"] = 48743,
-					["spellIDs"] = {
-						[48743] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 136146,
-				},
-				["Shockwave"] = {
-					["enabled"] = true,
-					["refSpellID"] = 46968,
-					["spellIDs"] = {
-						[46968] = true,
-					},
-					["cooldown"] = 40,
-					["texture"] = 236312,
-				},
-				["Freezing Trap"] = {
-					["enabled"] = true,
-					["refSpellID"] = 187650,
-					["spellIDs"] = {
-						[187650] = true,
-					},
-					["cooldown"] = 25,
-					["texture"] = 135834,
+					["texture"] = 132329,
 				},
 				["Avenging Wrath"] = {
 					["enabled"] = true,
@@ -9466,86 +9402,149 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135875,
 				},
-				["Trueshot"] = {
+				["Freezing Trap"] = {
 					["enabled"] = true,
-					["refSpellID"] = 193526,
+					["refSpellID"] = 187650,
 					["spellIDs"] = {
-						[193526] = true,
+						[187650] = true,
 					},
-					["cooldown"] = 180,
-					["texture"] = 132329,
+					["cooldown"] = 25,
+					["texture"] = 135834,
 				},
-				["Shadowfury"] = {
+				["Shockwave"] = {
 					["enabled"] = true,
-					["refSpellID"] = 30283,
+					["refSpellID"] = 46968,
 					["spellIDs"] = {
-						[30283] = true,
+						[46968] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 607865,
+					["cooldown"] = 40,
+					["texture"] = 236312,
 				},
-				["Dark Transformation"] = {
+				["Death Pact"] = {
 					["enabled"] = true,
-					["refSpellID"] = 63560,
+					["refSpellID"] = 48743,
 					["spellIDs"] = {
-						[63560] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 342913,
-				},
-				["Bladestorm"] = {
-					["enabled"] = true,
-					["refSpellID"] = 227847,
-					["spellIDs"] = {
-						[227847] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 236303,
-				},
-				["Cheat Death"] = {
-					["enabled"] = true,
-					["refSpellID"] = 31230,
-					["spellIDs"] = {
-						[31230] = true,
-					},
-					["cooldown"] = 360,
-					["texture"] = 132285,
-				},
-				["Chaos Nova"] = {
-					["enabled"] = true,
-					["refSpellID"] = 179057,
-					["spellIDs"] = {
-						[179057] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 135795,
-				},
-				["Netherwalk"] = {
-					["enabled"] = true,
-					["refSpellID"] = 196555,
-					["spellIDs"] = {
-						[196555] = true,
+						[48743] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 463284,
+					["texture"] = 136146,
 				},
-				["Duel"] = {
+				["Gladiator's Medallion"] = {
 					["enabled"] = true,
-					["refSpellID"] = 236273,
+					["refSpellID"] = 208683,
 					["spellIDs"] = {
-						[236273] = true,
+						[208683] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 1322720,
+				},
+				["Dancing Rune Weapon"] = {
+					["enabled"] = true,
+					["refSpellID"] = 49028,
+					["spellIDs"] = {
+						[49028] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 135277,
+				},
+				["Guardian Spirit"] = {
+					["enabled"] = true,
+					["refSpellID"] = 47788,
+					["spellIDs"] = {
+						[47788] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 1455893,
+					["texture"] = 237542,
 				},
-				["Wyvern Sting"] = {
+				["Healing Tide Totem"] = {
 					["enabled"] = true,
-					["refSpellID"] = 19386,
+					["refSpellID"] = 108280,
 					["spellIDs"] = {
-						[19386] = true,
+						[108280] = true,
 					},
-					["cooldown"] = 45,
-					["texture"] = 135125,
+					["cooldown"] = 180,
+					["texture"] = 538569,
+				},
+				["Strangulate"] = {
+					["enabled"] = true,
+					["refSpellID"] = 47476,
+					["spellIDs"] = {
+						[47476] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 136214,
+				},
+				["Adrenaline Rush"] = {
+					["enabled"] = true,
+					["refSpellID"] = 13750,
+					["spellIDs"] = {
+						[13750] = true,
+					},
+					["cooldown"] = 150,
+					["texture"] = 136206,
+				},
+				["Rebuke"] = {
+					["enabled"] = true,
+					["refSpellID"] = 96231,
+					["spellIDs"] = {
+						[96231] = true,
+					},
+					["cooldown"] = 15,
+					["texture"] = 523893,
+				},
+				["Storm Bolt"] = {
+					["enabled"] = true,
+					["refSpellID"] = 107570,
+					["spellIDs"] = {
+						[107570] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 613535,
+				},
+				["Shadowy Duel"] = {
+					["enabled"] = true,
+					["refSpellID"] = 207736,
+					["spellIDs"] = {
+						[207736] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 1020341,
+				},
+				["Dark Regeneration"] = {
+					["enabled"] = true,
+					["refSpellID"] = 108359,
+					["spellIDs"] = {
+						[108359] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 537516,
+				},
+				["Aspect of the Turtle"] = {
+					["enabled"] = true,
+					["refSpellID"] = 186265,
+					["spellIDs"] = {
+						[186265] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 132199,
+				},
+				["Feral Lunge"] = {
+					["enabled"] = true,
+					["refSpellID"] = 196884,
+					["spellIDs"] = {
+						[196884] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 1027879,
+				},
+				["Power Infusion"] = {
+					["enabled"] = true,
+					["refSpellID"] = 10060,
+					["spellIDs"] = {
+						[10060] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 135939,
 				},
 				["Dismantle"] = {
 					["enabled"] = true,
@@ -9565,32 +9564,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 54,
 					["texture"] = 1418286,
 				},
-				["Pain Suppression"] = {
+				["Holy Avenger"] = {
 					["enabled"] = true,
-					["refSpellID"] = 33206,
+					["refSpellID"] = 105809,
 					["spellIDs"] = {
-						[33206] = true,
+						[105809] = true,
 					},
-					["cooldown"] = 210,
-					["texture"] = 135936,
+					["cooldown"] = 90,
+					["texture"] = 571555,
 				},
-				["Greater Fade"] = {
+				["Earthgrab Totem"] = {
 					["enabled"] = true,
-					["refSpellID"] = 213602,
+					["refSpellID"] = 51485,
 					["spellIDs"] = {
-						[213602] = true,
+						[51485] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 135994,
+					["texture"] = 136100,
 				},
-				["Shadowmeld"] = {
+				["Counterspell"] = {
 					["enabled"] = true,
-					["refSpellID"] = 58984,
+					["refSpellID"] = 2139,
 					["spellIDs"] = {
-						[58984] = true,
+						[2139] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 132089,
+					["cooldown"] = 24,
+					["texture"] = 135856,
 				},
 				["Ursol's Vortex"] = {
 					["enabled"] = true,
@@ -9601,14 +9600,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 571588,
 				},
-				["Ice Block"] = {
+				["Blood Mirror"] = {
 					["enabled"] = true,
-					["refSpellID"] = 45438,
+					["refSpellID"] = 206977,
 					["spellIDs"] = {
-						[45438] = true,
+						[206977] = true,
 					},
-					["cooldown"] = 240,
-					["texture"] = 135841,
+					["cooldown"] = 120,
+					["texture"] = 134084,
 				},
 				["Dispersion"] = {
 					["enabled"] = true,
@@ -9619,50 +9618,50 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 237563,
 				},
-				["Guardian of Ancient Kings"] = {
+				["Revival"] = {
 					["enabled"] = true,
-					["refSpellID"] = 86659,
+					["refSpellID"] = 115310,
 					["spellIDs"] = {
-						[86659] = true,
+						[115310] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 135919,
+					["cooldown"] = 180,
+					["texture"] = 1020466,
 				},
-				["Demonic Trample"] = {
+				["Blessing of Sacrifice"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205629,
+					["refSpellID"] = 6940,
 					["spellIDs"] = {
-						[205629] = true,
+						[6940] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 134294,
+					["cooldown"] = 75,
+					["texture"] = 135966,
 				},
-				["Diffuse Magic"] = {
+				["Power Word: Barrier"] = {
 					["enabled"] = true,
-					["refSpellID"] = 122783,
+					["refSpellID"] = 62618,
 					["spellIDs"] = {
-						[122783] = true,
+						[62618] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 775460,
+					["cooldown"] = 120,
+					["texture"] = 253400,
 				},
-				["Blur"] = {
+				["Dampen Harm"] = {
 					["enabled"] = true,
-					["refSpellID"] = 198589,
+					["refSpellID"] = 122278,
 					["spellIDs"] = {
-						[198589] = true,
+						[122278] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 1305150,
+					["cooldown"] = 120,
+					["texture"] = 620827,
 				},
-				["Evocation"] = {
+				["Parley"] = {
 					["enabled"] = true,
-					["refSpellID"] = 12051,
+					["refSpellID"] = 199743,
 					["spellIDs"] = {
-						[12051] = true,
+						[199743] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 136075,
+					["cooldown"] = 20,
+					["texture"] = 236448,
 				},
 				["Dragon Charge"] = {
 					["enabled"] = true,
@@ -9673,23 +9672,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 20,
 					["texture"] = 1380676,
 				},
-				["Essence of G'Hanir"] = {
+				["Shadowstep"] = {
 					["enabled"] = true,
-					["refSpellID"] = 208253,
+					["refSpellID"] = 36554,
 					["spellIDs"] = {
-						[208253] = true,
+						[36554] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 1115592,
+					["cooldown"] = 30,
+					["texture"] = 132303,
 				},
-				["Intercept"] = {
+				["Bloodlust"] = {
 					["enabled"] = true,
-					["refSpellID"] = 198304,
+					["refSpellID"] = 2825,
 					["spellIDs"] = {
-						[198304] = true,
+						[2825] = true,
 					},
-					["cooldown"] = 17,
-					["texture"] = 132365,
+					["cooldown"] = 60,
+					["texture"] = 136012,
 				},
 				["Typhoon"] = {
 					["enabled"] = true,
@@ -9727,23 +9726,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 180,
 					["texture"] = 135872,
 				},
-				["Barkskin"] = {
+				["Reverse Magic"] = {
 					["enabled"] = true,
-					["refSpellID"] = 22812,
+					["refSpellID"] = 205604,
 					["spellIDs"] = {
-						[22812] = true,
+						[205604] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 136097,
+					["texture"] = 1380372,
 				},
-				["Spirit of Redemption"] = {
+				["Kick"] = {
 					["enabled"] = true,
-					["refSpellID"] = 215769,
+					["refSpellID"] = 1766,
 					["spellIDs"] = {
-						[215769] = true,
+						[1766] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 132864,
+					["cooldown"] = 15,
+					["texture"] = 132219,
 				},
 				["Spell Lock"] = {
 					["enabled"] = true,
@@ -9754,18 +9753,20 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 24,
 					["texture"] = 136174,
 				},
-				["Force of Nature"] = {
+				["Sigil of Silence"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205636,
+					["refSpellID"] = 202137,
 					["spellIDs"] = {
-						[205636] = true,
+						[202137] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 132129,
+					["cooldown"] = 36,
+					["texture"] = 1418288,
 				},
 			},
+			["DBVersion"] = 8,
 		},
 		["Primeboi - Area 52"] = {
+			["DBVersion"] = 8,
 			["SpellCDs"] = {
 				["Life Cocoon"] = {
 					["enabled"] = true,
@@ -11378,14 +11379,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 136214,
 				},
-				["Force of Nature"] = {
+				["Sigil of Silence"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205636,
+					["refSpellID"] = 202137,
 					["spellIDs"] = {
-						[205636] = true,
+						[202137] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 132129,
+					["cooldown"] = 36,
+					["texture"] = 1418288,
 				},
 				["Master's Call"] = {
 					["enabled"] = true,
@@ -11405,14 +11406,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 25,
 					["texture"] = 1033909,
 				},
-				["Spirit of Redemption"] = {
+				["Kick"] = {
 					["enabled"] = true,
-					["refSpellID"] = 215769,
+					["refSpellID"] = 1766,
 					["spellIDs"] = {
-						[215769] = true,
+						[1766] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 132864,
+					["cooldown"] = 15,
+					["texture"] = 132219,
 				},
 				["Invoke Xuen, the White Tiger"] = {
 					["enabled"] = true,
@@ -11432,14 +11433,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 300,
 					["texture"] = 135865,
 				},
-				["Barkskin"] = {
+				["Reverse Magic"] = {
 					["enabled"] = true,
-					["refSpellID"] = 22812,
+					["refSpellID"] = 205604,
 					["spellIDs"] = {
-						[22812] = true,
+						[205604] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 136097,
+					["texture"] = 1380372,
 				},
 				["Ironbark"] = {
 					["enabled"] = true,
@@ -11477,23 +11478,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 651728,
 				},
-				["Intercept"] = {
+				["Bloodlust"] = {
 					["enabled"] = true,
-					["refSpellID"] = 198304,
+					["refSpellID"] = 2825,
 					["spellIDs"] = {
-						[198304] = true,
+						[2825] = true,
 					},
-					["cooldown"] = 17,
-					["texture"] = 132365,
+					["cooldown"] = 60,
+					["texture"] = 136012,
 				},
-				["Essence of G'Hanir"] = {
+				["Shadowstep"] = {
 					["enabled"] = true,
-					["refSpellID"] = 208253,
+					["refSpellID"] = 36554,
 					["spellIDs"] = {
-						[208253] = true,
+						[36554] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 1115592,
+					["cooldown"] = 30,
+					["texture"] = 132303,
 				},
 				["Kidney Shot"] = {
 					["enabled"] = true,
@@ -11513,23 +11514,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 1029585,
 				},
-				["Evocation"] = {
+				["Parley"] = {
 					["enabled"] = true,
-					["refSpellID"] = 12051,
+					["refSpellID"] = 199743,
 					["spellIDs"] = {
-						[12051] = true,
+						[199743] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 136075,
+					["cooldown"] = 20,
+					["texture"] = 236448,
 				},
-				["Blur"] = {
+				["Dampen Harm"] = {
 					["enabled"] = true,
-					["refSpellID"] = 198589,
+					["refSpellID"] = 122278,
 					["spellIDs"] = {
-						[198589] = true,
+						[122278] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 1305150,
+					["cooldown"] = 120,
+					["texture"] = 620827,
 				},
 				["Dire Beast: Basilisk"] = {
 					["enabled"] = true,
@@ -11540,14 +11541,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 1412204,
 				},
-				["Diffuse Magic"] = {
+				["Power Word: Barrier"] = {
 					["enabled"] = true,
-					["refSpellID"] = 122783,
+					["refSpellID"] = 62618,
 					["spellIDs"] = {
-						[122783] = true,
+						[62618] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 775460,
+					["cooldown"] = 120,
+					["texture"] = 253400,
 				},
 				["Tombstone"] = {
 					["enabled"] = true,
@@ -11558,23 +11559,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 132151,
 				},
-				["Demonic Trample"] = {
+				["Blessing of Sacrifice"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205629,
+					["refSpellID"] = 6940,
 					["spellIDs"] = {
-						[205629] = true,
+						[6940] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 134294,
+					["cooldown"] = 75,
+					["texture"] = 135966,
 				},
-				["Guardian of Ancient Kings"] = {
+				["Revival"] = {
 					["enabled"] = true,
-					["refSpellID"] = 86659,
+					["refSpellID"] = 115310,
 					["spellIDs"] = {
-						[86659] = true,
+						[115310] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 135919,
+					["cooldown"] = 180,
+					["texture"] = 1020466,
 				},
 				["Nether Bond"] = {
 					["enabled"] = true,
@@ -11603,14 +11604,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 25,
 					["texture"] = 135968,
 				},
-				["Ice Block"] = {
+				["Blood Mirror"] = {
 					["enabled"] = true,
-					["refSpellID"] = 45438,
+					["refSpellID"] = 206977,
 					["spellIDs"] = {
-						[45438] = true,
+						[206977] = true,
 					},
-					["cooldown"] = 240,
-					["texture"] = 135841,
+					["cooldown"] = 120,
+					["texture"] = 134084,
 				},
 				["Invisibility"] = {
 					["enabled"] = true,
@@ -11648,32 +11649,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 20,
 					["texture"] = 134153,
 				},
-				["Shadowmeld"] = {
+				["Counterspell"] = {
 					["enabled"] = true,
-					["refSpellID"] = 58984,
+					["refSpellID"] = 2139,
 					["spellIDs"] = {
-						[58984] = true,
+						[2139] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 132089,
+					["cooldown"] = 24,
+					["texture"] = 135856,
 				},
-				["Greater Fade"] = {
+				["Earthgrab Totem"] = {
 					["enabled"] = true,
-					["refSpellID"] = 213602,
+					["refSpellID"] = 51485,
 					["spellIDs"] = {
-						[213602] = true,
+						[51485] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 135994,
+					["texture"] = 136100,
 				},
-				["Pain Suppression"] = {
+				["Holy Avenger"] = {
 					["enabled"] = true,
-					["refSpellID"] = 33206,
+					["refSpellID"] = 105809,
 					["spellIDs"] = {
-						[33206] = true,
+						[105809] = true,
 					},
-					["cooldown"] = 210,
-					["texture"] = 135936,
+					["cooldown"] = 90,
+					["texture"] = 571555,
 				},
 				["Illidan's Grasp"] = {
 					["enabled"] = true,
@@ -11702,23 +11703,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 1376045,
 				},
-				["Wyvern Sting"] = {
+				["Power Infusion"] = {
 					["enabled"] = true,
-					["refSpellID"] = 19386,
+					["refSpellID"] = 10060,
 					["spellIDs"] = {
-						[19386] = true,
+						[10060] = true,
 					},
-					["cooldown"] = 45,
-					["texture"] = 135125,
+					["cooldown"] = 120,
+					["texture"] = 135939,
 				},
-				["Duel"] = {
+				["Feral Lunge"] = {
 					["enabled"] = true,
-					["refSpellID"] = 236273,
+					["refSpellID"] = 196884,
 					["spellIDs"] = {
-						[236273] = true,
+						[196884] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 1455893,
+					["cooldown"] = 30,
+					["texture"] = 1027879,
 				},
 				["Unending Resolve"] = {
 					["enabled"] = true,
@@ -11729,32 +11730,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 150,
 					["texture"] = 136150,
 				},
-				["Netherwalk"] = {
+				["Aspect of the Turtle"] = {
 					["enabled"] = true,
-					["refSpellID"] = 196555,
+					["refSpellID"] = 186265,
 					["spellIDs"] = {
-						[196555] = true,
+						[186265] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 132199,
+				},
+				["Dark Regeneration"] = {
+					["enabled"] = true,
+					["refSpellID"] = 108359,
+					["spellIDs"] = {
+						[108359] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 463284,
+					["texture"] = 537516,
 				},
-				["Chaos Nova"] = {
+				["Shadowy Duel"] = {
 					["enabled"] = true,
-					["refSpellID"] = 179057,
+					["refSpellID"] = 207736,
 					["spellIDs"] = {
-						[179057] = true,
+						[207736] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 135795,
-				},
-				["Cheat Death"] = {
-					["enabled"] = true,
-					["refSpellID"] = 31230,
-					["spellIDs"] = {
-						[31230] = true,
-					},
-					["cooldown"] = 360,
-					["texture"] = 132285,
+					["cooldown"] = 120,
+					["texture"] = 1020341,
 				},
 				["Vendetta"] = {
 					["enabled"] = true,
@@ -11765,23 +11766,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 458726,
 				},
-				["Bladestorm"] = {
+				["Storm Bolt"] = {
 					["enabled"] = true,
-					["refSpellID"] = 227847,
+					["refSpellID"] = 107570,
 					["spellIDs"] = {
-						[227847] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 236303,
-				},
-				["Shambling Rush"] = {
-					["enabled"] = true,
-					["refSpellID"] = 91802,
-					["spellIDs"] = {
-						[91802] = true,
+						[107570] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 237569,
+					["texture"] = 613535,
+				},
+				["Rebuke"] = {
+					["enabled"] = true,
+					["refSpellID"] = 96231,
+					["spellIDs"] = {
+						[96231] = true,
+					},
+					["cooldown"] = 15,
+					["texture"] = 523893,
 				},
 				["Dark Transformation"] = {
 					["enabled"] = true,
@@ -11792,14 +11793,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 342913,
 				},
-				["Shadowfury"] = {
+				["Adrenaline Rush"] = {
 					["enabled"] = true,
-					["refSpellID"] = 30283,
+					["refSpellID"] = 13750,
 					["spellIDs"] = {
-						[30283] = true,
+						[13750] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 607865,
+					["cooldown"] = 150,
+					["texture"] = 136206,
 				},
 				["Blessing of Protection"] = {
 					["enabled"] = true,
@@ -11819,77 +11820,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135824,
 				},
-				["Trueshot"] = {
+				["Strangulate"] = {
 					["enabled"] = true,
-					["refSpellID"] = 193526,
+					["refSpellID"] = 47476,
 					["spellIDs"] = {
-						[193526] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 132329,
-				},
-				["Avenging Wrath"] = {
-					["enabled"] = true,
-					["refSpellID"] = 31884,
-					["spellIDs"] = {
-						[31884] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 135875,
-				},
-				["Freezing Trap"] = {
-					["enabled"] = true,
-					["refSpellID"] = 187650,
-					["spellIDs"] = {
-						[187650] = true,
-					},
-					["cooldown"] = 25,
-					["texture"] = 135834,
-				},
-				["Shockwave"] = {
-					["enabled"] = true,
-					["refSpellID"] = 46968,
-					["spellIDs"] = {
-						[46968] = true,
-					},
-					["cooldown"] = 40,
-					["texture"] = 236312,
-				},
-				["Death Pact"] = {
-					["enabled"] = true,
-					["refSpellID"] = 48743,
-					["spellIDs"] = {
-						[48743] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 136146,
-				},
-				["Gladiator's Medallion"] = {
-					["enabled"] = true,
-					["refSpellID"] = 208683,
-					["spellIDs"] = {
-						[208683] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 1322720,
-				},
-				["Dancing Rune Weapon"] = {
-					["enabled"] = true,
-					["refSpellID"] = 49028,
-					["spellIDs"] = {
-						[49028] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 135277,
-				},
-				["Guardian Spirit"] = {
-					["enabled"] = true,
-					["refSpellID"] = 47788,
-					["spellIDs"] = {
-						[47788] = true,
+						[47476] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 237542,
+					["texture"] = 136214,
 				},
 				["Healing Tide Totem"] = {
 					["enabled"] = true,
@@ -11900,86 +11838,149 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 180,
 					["texture"] = 538569,
 				},
-				["Strangulate"] = {
+				["Guardian Spirit"] = {
 					["enabled"] = true,
-					["refSpellID"] = 47476,
+					["refSpellID"] = 47788,
 					["spellIDs"] = {
-						[47476] = true,
+						[47788] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 136214,
+					["texture"] = 237542,
 				},
-				["Adrenaline Rush"] = {
+				["Dancing Rune Weapon"] = {
 					["enabled"] = true,
-					["refSpellID"] = 13750,
+					["refSpellID"] = 49028,
 					["spellIDs"] = {
-						[13750] = true,
-					},
-					["cooldown"] = 150,
-					["texture"] = 136206,
-				},
-				["Rebuke"] = {
-					["enabled"] = true,
-					["refSpellID"] = 96231,
-					["spellIDs"] = {
-						[96231] = true,
-					},
-					["cooldown"] = 15,
-					["texture"] = 523893,
-				},
-				["Storm Bolt"] = {
-					["enabled"] = true,
-					["refSpellID"] = 107570,
-					["spellIDs"] = {
-						[107570] = true,
-					},
-					["cooldown"] = 30,
-					["texture"] = 613535,
-				},
-				["Shadowy Duel"] = {
-					["enabled"] = true,
-					["refSpellID"] = 207736,
-					["spellIDs"] = {
-						[207736] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 1020341,
-				},
-				["Dark Regeneration"] = {
-					["enabled"] = true,
-					["refSpellID"] = 108359,
-					["spellIDs"] = {
-						[108359] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 537516,
-				},
-				["Aspect of the Turtle"] = {
-					["enabled"] = true,
-					["refSpellID"] = 186265,
-					["spellIDs"] = {
-						[186265] = true,
+						[49028] = true,
 					},
 					["cooldown"] = 180,
-					["texture"] = 132199,
+					["texture"] = 135277,
 				},
-				["Feral Lunge"] = {
+				["Gladiator's Medallion"] = {
 					["enabled"] = true,
-					["refSpellID"] = 196884,
+					["refSpellID"] = 208683,
 					["spellIDs"] = {
-						[196884] = true,
-					},
-					["cooldown"] = 30,
-					["texture"] = 1027879,
-				},
-				["Power Infusion"] = {
-					["enabled"] = true,
-					["refSpellID"] = 10060,
-					["spellIDs"] = {
-						[10060] = true,
+						[208683] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 135939,
+					["texture"] = 1322720,
+				},
+				["Death Pact"] = {
+					["enabled"] = true,
+					["refSpellID"] = 48743,
+					["spellIDs"] = {
+						[48743] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 136146,
+				},
+				["Shockwave"] = {
+					["enabled"] = true,
+					["refSpellID"] = 46968,
+					["spellIDs"] = {
+						[46968] = true,
+					},
+					["cooldown"] = 40,
+					["texture"] = 236312,
+				},
+				["Freezing Trap"] = {
+					["enabled"] = true,
+					["refSpellID"] = 187650,
+					["spellIDs"] = {
+						[187650] = true,
+					},
+					["cooldown"] = 25,
+					["texture"] = 135834,
+				},
+				["Avenging Wrath"] = {
+					["enabled"] = true,
+					["refSpellID"] = 31884,
+					["spellIDs"] = {
+						[31884] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 135875,
+				},
+				["Trueshot"] = {
+					["enabled"] = true,
+					["refSpellID"] = 193526,
+					["spellIDs"] = {
+						[193526] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 132329,
+				},
+				["Shadowfury"] = {
+					["enabled"] = true,
+					["refSpellID"] = 30283,
+					["spellIDs"] = {
+						[30283] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 607865,
+				},
+				["Shambling Rush"] = {
+					["enabled"] = true,
+					["refSpellID"] = 91802,
+					["spellIDs"] = {
+						[91802] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 237569,
+				},
+				["Bladestorm"] = {
+					["enabled"] = true,
+					["refSpellID"] = 227847,
+					["spellIDs"] = {
+						[227847] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 236303,
+				},
+				["Cheat Death"] = {
+					["enabled"] = true,
+					["refSpellID"] = 31230,
+					["spellIDs"] = {
+						[31230] = true,
+					},
+					["cooldown"] = 360,
+					["texture"] = 132285,
+				},
+				["Chaos Nova"] = {
+					["enabled"] = true,
+					["refSpellID"] = 179057,
+					["spellIDs"] = {
+						[179057] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 135795,
+				},
+				["Netherwalk"] = {
+					["enabled"] = true,
+					["refSpellID"] = 196555,
+					["spellIDs"] = {
+						[196555] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 463284,
+				},
+				["Duel"] = {
+					["enabled"] = true,
+					["refSpellID"] = 236273,
+					["spellIDs"] = {
+						[236273] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 1455893,
+				},
+				["Wyvern Sting"] = {
+					["enabled"] = true,
+					["refSpellID"] = 19386,
+					["spellIDs"] = {
+						[19386] = true,
+					},
+					["cooldown"] = 45,
+					["texture"] = 135125,
 				},
 				["Dismantle"] = {
 					["enabled"] = true,
@@ -11999,32 +12000,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 54,
 					["texture"] = 1418286,
 				},
-				["Holy Avenger"] = {
+				["Pain Suppression"] = {
 					["enabled"] = true,
-					["refSpellID"] = 105809,
+					["refSpellID"] = 33206,
 					["spellIDs"] = {
-						[105809] = true,
+						[33206] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 571555,
+					["cooldown"] = 210,
+					["texture"] = 135936,
 				},
-				["Earthgrab Totem"] = {
+				["Greater Fade"] = {
 					["enabled"] = true,
-					["refSpellID"] = 51485,
+					["refSpellID"] = 213602,
 					["spellIDs"] = {
-						[51485] = true,
+						[213602] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 136100,
+					["texture"] = 135994,
 				},
-				["Counterspell"] = {
+				["Shadowmeld"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2139,
+					["refSpellID"] = 58984,
 					["spellIDs"] = {
-						[2139] = true,
+						[58984] = true,
 					},
-					["cooldown"] = 24,
-					["texture"] = 135856,
+					["cooldown"] = 120,
+					["texture"] = 132089,
 				},
 				["Ursol's Vortex"] = {
 					["enabled"] = true,
@@ -12035,14 +12036,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 571588,
 				},
-				["Blood Mirror"] = {
+				["Ice Block"] = {
 					["enabled"] = true,
-					["refSpellID"] = 206977,
+					["refSpellID"] = 45438,
 					["spellIDs"] = {
-						[206977] = true,
+						[45438] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 134084,
+					["cooldown"] = 240,
+					["texture"] = 135841,
 				},
 				["Dispersion"] = {
 					["enabled"] = true,
@@ -12053,50 +12054,50 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 237563,
 				},
-				["Revival"] = {
+				["Guardian of Ancient Kings"] = {
 					["enabled"] = true,
-					["refSpellID"] = 115310,
+					["refSpellID"] = 86659,
 					["spellIDs"] = {
-						[115310] = true,
+						[86659] = true,
 					},
-					["cooldown"] = 180,
-					["texture"] = 1020466,
+					["cooldown"] = 300,
+					["texture"] = 135919,
 				},
-				["Blessing of Sacrifice"] = {
+				["Demonic Trample"] = {
 					["enabled"] = true,
-					["refSpellID"] = 6940,
+					["refSpellID"] = 205629,
 					["spellIDs"] = {
-						[6940] = true,
+						[205629] = true,
 					},
-					["cooldown"] = 75,
-					["texture"] = 135966,
+					["cooldown"] = 30,
+					["texture"] = 134294,
 				},
-				["Power Word: Barrier"] = {
+				["Diffuse Magic"] = {
 					["enabled"] = true,
-					["refSpellID"] = 62618,
+					["refSpellID"] = 122783,
 					["spellIDs"] = {
-						[62618] = true,
+						[122783] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 253400,
+					["cooldown"] = 90,
+					["texture"] = 775460,
 				},
-				["Dampen Harm"] = {
+				["Blur"] = {
 					["enabled"] = true,
-					["refSpellID"] = 122278,
+					["refSpellID"] = 198589,
 					["spellIDs"] = {
-						[122278] = true,
+						[198589] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 620827,
+					["cooldown"] = 60,
+					["texture"] = 1305150,
 				},
-				["Parley"] = {
+				["Evocation"] = {
 					["enabled"] = true,
-					["refSpellID"] = 199743,
+					["refSpellID"] = 12051,
 					["spellIDs"] = {
-						[199743] = true,
+						[12051] = true,
 					},
-					["cooldown"] = 20,
-					["texture"] = 236448,
+					["cooldown"] = 90,
+					["texture"] = 136075,
 				},
 				["Dragon Charge"] = {
 					["enabled"] = true,
@@ -12107,23 +12108,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 20,
 					["texture"] = 1380676,
 				},
-				["Shadowstep"] = {
+				["Essence of G'Hanir"] = {
 					["enabled"] = true,
-					["refSpellID"] = 36554,
+					["refSpellID"] = 208253,
 					["spellIDs"] = {
-						[36554] = true,
+						[208253] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 132303,
+					["cooldown"] = 90,
+					["texture"] = 1115592,
 				},
-				["Bloodlust"] = {
+				["Intercept"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2825,
+					["refSpellID"] = 198304,
 					["spellIDs"] = {
-						[2825] = true,
+						[198304] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 136012,
+					["cooldown"] = 17,
+					["texture"] = 132365,
 				},
 				["Typhoon"] = {
 					["enabled"] = true,
@@ -12161,23 +12162,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 180,
 					["texture"] = 135872,
 				},
-				["Reverse Magic"] = {
+				["Barkskin"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205604,
+					["refSpellID"] = 22812,
 					["spellIDs"] = {
-						[205604] = true,
+						[22812] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 1380372,
+					["texture"] = 136097,
 				},
-				["Kick"] = {
+				["Spirit of Redemption"] = {
 					["enabled"] = true,
-					["refSpellID"] = 1766,
+					["refSpellID"] = 215769,
 					["spellIDs"] = {
-						[1766] = true,
+						[215769] = true,
 					},
-					["cooldown"] = 15,
-					["texture"] = 132219,
+					["cooldown"] = 300,
+					["texture"] = 132864,
 				},
 				["Spell Lock"] = {
 					["enabled"] = true,
@@ -12188,19 +12189,19 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 24,
 					["texture"] = 136174,
 				},
-				["Sigil of Silence"] = {
+				["Force of Nature"] = {
 					["enabled"] = true,
-					["refSpellID"] = 202137,
+					["refSpellID"] = 205636,
 					["spellIDs"] = {
-						[202137] = true,
+						[205636] = true,
 					},
-					["cooldown"] = 36,
-					["texture"] = 1418288,
+					["cooldown"] = 60,
+					["texture"] = 132129,
 				},
 			},
-			["DBVersion"] = 8,
 		},
 		["Dulgan - Kilrogg"] = {
+			["DBVersion"] = 8,
 			["SpellCDs"] = {
 				["Life Cocoon"] = {
 					["enabled"] = true,
@@ -13813,14 +13814,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 136214,
 				},
-				["Sigil of Silence"] = {
+				["Force of Nature"] = {
 					["enabled"] = true,
-					["refSpellID"] = 202137,
+					["refSpellID"] = 205636,
 					["spellIDs"] = {
-						[202137] = true,
+						[205636] = true,
 					},
-					["cooldown"] = 36,
-					["texture"] = 1418288,
+					["cooldown"] = 60,
+					["texture"] = 132129,
 				},
 				["Master's Call"] = {
 					["enabled"] = true,
@@ -13840,14 +13841,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 25,
 					["texture"] = 1033909,
 				},
-				["Kick"] = {
+				["Spirit of Redemption"] = {
 					["enabled"] = true,
-					["refSpellID"] = 1766,
+					["refSpellID"] = 215769,
 					["spellIDs"] = {
-						[1766] = true,
+						[215769] = true,
 					},
-					["cooldown"] = 15,
-					["texture"] = 132219,
+					["cooldown"] = 300,
+					["texture"] = 132864,
 				},
 				["Invoke Xuen, the White Tiger"] = {
 					["enabled"] = true,
@@ -13867,14 +13868,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 300,
 					["texture"] = 135865,
 				},
-				["Reverse Magic"] = {
+				["Barkskin"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205604,
+					["refSpellID"] = 22812,
 					["spellIDs"] = {
-						[205604] = true,
+						[22812] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 1380372,
+					["texture"] = 136097,
 				},
 				["Ironbark"] = {
 					["enabled"] = true,
@@ -13912,23 +13913,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 651728,
 				},
-				["Bloodlust"] = {
+				["Intercept"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2825,
+					["refSpellID"] = 198304,
 					["spellIDs"] = {
-						[2825] = true,
+						[198304] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 136012,
+					["cooldown"] = 17,
+					["texture"] = 132365,
 				},
-				["Shadowstep"] = {
+				["Essence of G'Hanir"] = {
 					["enabled"] = true,
-					["refSpellID"] = 36554,
+					["refSpellID"] = 208253,
 					["spellIDs"] = {
-						[36554] = true,
+						[208253] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 132303,
+					["cooldown"] = 90,
+					["texture"] = 1115592,
 				},
 				["Kidney Shot"] = {
 					["enabled"] = true,
@@ -13948,23 +13949,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 1029585,
 				},
-				["Parley"] = {
+				["Evocation"] = {
 					["enabled"] = true,
-					["refSpellID"] = 199743,
+					["refSpellID"] = 12051,
 					["spellIDs"] = {
-						[199743] = true,
+						[12051] = true,
 					},
-					["cooldown"] = 20,
-					["texture"] = 236448,
+					["cooldown"] = 90,
+					["texture"] = 136075,
 				},
-				["Dampen Harm"] = {
+				["Blur"] = {
 					["enabled"] = true,
-					["refSpellID"] = 122278,
+					["refSpellID"] = 198589,
 					["spellIDs"] = {
-						[122278] = true,
+						[198589] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 620827,
+					["cooldown"] = 60,
+					["texture"] = 1305150,
 				},
 				["Dire Beast: Basilisk"] = {
 					["enabled"] = true,
@@ -13975,14 +13976,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 1412204,
 				},
-				["Power Word: Barrier"] = {
+				["Diffuse Magic"] = {
 					["enabled"] = true,
-					["refSpellID"] = 62618,
+					["refSpellID"] = 122783,
 					["spellIDs"] = {
-						[62618] = true,
+						[122783] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 253400,
+					["cooldown"] = 90,
+					["texture"] = 775460,
 				},
 				["Tombstone"] = {
 					["enabled"] = true,
@@ -13993,23 +13994,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 132151,
 				},
-				["Blessing of Sacrifice"] = {
+				["Demonic Trample"] = {
 					["enabled"] = true,
-					["refSpellID"] = 6940,
+					["refSpellID"] = 205629,
 					["spellIDs"] = {
-						[6940] = true,
+						[205629] = true,
 					},
-					["cooldown"] = 75,
-					["texture"] = 135966,
+					["cooldown"] = 30,
+					["texture"] = 134294,
 				},
-				["Revival"] = {
+				["Guardian of Ancient Kings"] = {
 					["enabled"] = true,
-					["refSpellID"] = 115310,
+					["refSpellID"] = 86659,
 					["spellIDs"] = {
-						[115310] = true,
+						[86659] = true,
 					},
-					["cooldown"] = 180,
-					["texture"] = 1020466,
+					["cooldown"] = 300,
+					["texture"] = 135919,
 				},
 				["Nether Bond"] = {
 					["enabled"] = true,
@@ -14038,14 +14039,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 25,
 					["texture"] = 135968,
 				},
-				["Blood Mirror"] = {
+				["Ice Block"] = {
 					["enabled"] = true,
-					["refSpellID"] = 206977,
+					["refSpellID"] = 45438,
 					["spellIDs"] = {
-						[206977] = true,
+						[45438] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 134084,
+					["cooldown"] = 240,
+					["texture"] = 135841,
 				},
 				["Invisibility"] = {
 					["enabled"] = true,
@@ -14083,32 +14084,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 20,
 					["texture"] = 134153,
 				},
-				["Counterspell"] = {
+				["Shadowmeld"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2139,
+					["refSpellID"] = 58984,
 					["spellIDs"] = {
-						[2139] = true,
+						[58984] = true,
 					},
-					["cooldown"] = 24,
-					["texture"] = 135856,
+					["cooldown"] = 120,
+					["texture"] = 132089,
 				},
-				["Earthgrab Totem"] = {
+				["Greater Fade"] = {
 					["enabled"] = true,
-					["refSpellID"] = 51485,
+					["refSpellID"] = 213602,
 					["spellIDs"] = {
-						[51485] = true,
+						[213602] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 136100,
+					["texture"] = 135994,
 				},
-				["Holy Avenger"] = {
+				["Pain Suppression"] = {
 					["enabled"] = true,
-					["refSpellID"] = 105809,
+					["refSpellID"] = 33206,
 					["spellIDs"] = {
-						[105809] = true,
+						[33206] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 571555,
+					["cooldown"] = 210,
+					["texture"] = 135936,
 				},
 				["Illidan's Grasp"] = {
 					["enabled"] = true,
@@ -14137,23 +14138,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 1376045,
 				},
-				["Power Infusion"] = {
+				["Wyvern Sting"] = {
 					["enabled"] = true,
-					["refSpellID"] = 10060,
+					["refSpellID"] = 19386,
 					["spellIDs"] = {
-						[10060] = true,
+						[19386] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 135939,
+					["cooldown"] = 45,
+					["texture"] = 135125,
 				},
-				["Feral Lunge"] = {
+				["Duel"] = {
 					["enabled"] = true,
-					["refSpellID"] = 196884,
+					["refSpellID"] = 236273,
 					["spellIDs"] = {
-						[196884] = true,
+						[236273] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 1027879,
+					["cooldown"] = 60,
+					["texture"] = 1455893,
 				},
 				["Unending Resolve"] = {
 					["enabled"] = true,
@@ -14164,32 +14165,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 150,
 					["texture"] = 136150,
 				},
-				["Aspect of the Turtle"] = {
+				["Netherwalk"] = {
 					["enabled"] = true,
-					["refSpellID"] = 186265,
+					["refSpellID"] = 196555,
 					["spellIDs"] = {
-						[186265] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 132199,
-				},
-				["Dark Regeneration"] = {
-					["enabled"] = true,
-					["refSpellID"] = 108359,
-					["spellIDs"] = {
-						[108359] = true,
+						[196555] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 537516,
+					["texture"] = 463284,
 				},
-				["Shadowy Duel"] = {
+				["Chaos Nova"] = {
 					["enabled"] = true,
-					["refSpellID"] = 207736,
+					["refSpellID"] = 179057,
 					["spellIDs"] = {
-						[207736] = true,
+						[179057] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 1020341,
+					["cooldown"] = 60,
+					["texture"] = 135795,
+				},
+				["Cheat Death"] = {
+					["enabled"] = true,
+					["refSpellID"] = 31230,
+					["spellIDs"] = {
+						[31230] = true,
+					},
+					["cooldown"] = 360,
+					["texture"] = 132285,
 				},
 				["Vendetta"] = {
 					["enabled"] = true,
@@ -14200,23 +14201,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 458726,
 				},
-				["Storm Bolt"] = {
+				["Bladestorm"] = {
 					["enabled"] = true,
-					["refSpellID"] = 107570,
+					["refSpellID"] = 227847,
 					["spellIDs"] = {
-						[107570] = true,
+						[227847] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 613535,
-				},
-				["Rebuke"] = {
-					["enabled"] = true,
-					["refSpellID"] = 96231,
-					["spellIDs"] = {
-						[96231] = true,
-					},
-					["cooldown"] = 15,
-					["texture"] = 523893,
+					["cooldown"] = 60,
+					["texture"] = 236303,
 				},
 				["Shambling Rush"] = {
 					["enabled"] = true,
@@ -14227,14 +14219,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 30,
 					["texture"] = 237569,
 				},
-				["Adrenaline Rush"] = {
+				["Dark Transformation"] = {
 					["enabled"] = true,
-					["refSpellID"] = 13750,
+					["refSpellID"] = 63560,
 					["spellIDs"] = {
-						[13750] = true,
+						[63560] = true,
 					},
-					["cooldown"] = 150,
-					["texture"] = 136206,
+					["cooldown"] = 60,
+					["texture"] = 342913,
+				},
+				["Shadowfury"] = {
+					["enabled"] = true,
+					["refSpellID"] = 30283,
+					["spellIDs"] = {
+						[30283] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 607865,
 				},
 				["Blessing of Protection"] = {
 					["enabled"] = true,
@@ -14254,77 +14255,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135824,
 				},
-				["Strangulate"] = {
+				["Trueshot"] = {
 					["enabled"] = true,
-					["refSpellID"] = 47476,
+					["refSpellID"] = 193526,
 					["spellIDs"] = {
-						[47476] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 136214,
-				},
-				["Healing Tide Totem"] = {
-					["enabled"] = true,
-					["refSpellID"] = 108280,
-					["spellIDs"] = {
-						[108280] = true,
+						[193526] = true,
 					},
 					["cooldown"] = 180,
-					["texture"] = 538569,
-				},
-				["Guardian Spirit"] = {
-					["enabled"] = true,
-					["refSpellID"] = 47788,
-					["spellIDs"] = {
-						[47788] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 237542,
-				},
-				["Dancing Rune Weapon"] = {
-					["enabled"] = true,
-					["refSpellID"] = 49028,
-					["spellIDs"] = {
-						[49028] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 135277,
-				},
-				["Gladiator's Medallion"] = {
-					["enabled"] = true,
-					["refSpellID"] = 208683,
-					["spellIDs"] = {
-						[208683] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 1322720,
-				},
-				["Death Pact"] = {
-					["enabled"] = true,
-					["refSpellID"] = 48743,
-					["spellIDs"] = {
-						[48743] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 136146,
-				},
-				["Shockwave"] = {
-					["enabled"] = true,
-					["refSpellID"] = 46968,
-					["spellIDs"] = {
-						[46968] = true,
-					},
-					["cooldown"] = 40,
-					["texture"] = 236312,
-				},
-				["Freezing Trap"] = {
-					["enabled"] = true,
-					["refSpellID"] = 187650,
-					["spellIDs"] = {
-						[187650] = true,
-					},
-					["cooldown"] = 25,
-					["texture"] = 135834,
+					["texture"] = 132329,
 				},
 				["Avenging Wrath"] = {
 					["enabled"] = true,
@@ -14335,86 +14273,149 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135875,
 				},
-				["Trueshot"] = {
+				["Freezing Trap"] = {
 					["enabled"] = true,
-					["refSpellID"] = 193526,
+					["refSpellID"] = 187650,
 					["spellIDs"] = {
-						[193526] = true,
+						[187650] = true,
 					},
-					["cooldown"] = 180,
-					["texture"] = 132329,
+					["cooldown"] = 25,
+					["texture"] = 135834,
 				},
-				["Shadowfury"] = {
+				["Shockwave"] = {
 					["enabled"] = true,
-					["refSpellID"] = 30283,
+					["refSpellID"] = 46968,
 					["spellIDs"] = {
-						[30283] = true,
+						[46968] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 607865,
+					["cooldown"] = 40,
+					["texture"] = 236312,
 				},
-				["Dark Transformation"] = {
+				["Death Pact"] = {
 					["enabled"] = true,
-					["refSpellID"] = 63560,
+					["refSpellID"] = 48743,
 					["spellIDs"] = {
-						[63560] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 342913,
-				},
-				["Bladestorm"] = {
-					["enabled"] = true,
-					["refSpellID"] = 227847,
-					["spellIDs"] = {
-						[227847] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 236303,
-				},
-				["Cheat Death"] = {
-					["enabled"] = true,
-					["refSpellID"] = 31230,
-					["spellIDs"] = {
-						[31230] = true,
-					},
-					["cooldown"] = 360,
-					["texture"] = 132285,
-				},
-				["Chaos Nova"] = {
-					["enabled"] = true,
-					["refSpellID"] = 179057,
-					["spellIDs"] = {
-						[179057] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 135795,
-				},
-				["Netherwalk"] = {
-					["enabled"] = true,
-					["refSpellID"] = 196555,
-					["spellIDs"] = {
-						[196555] = true,
+						[48743] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 463284,
+					["texture"] = 136146,
 				},
-				["Duel"] = {
+				["Gladiator's Medallion"] = {
 					["enabled"] = true,
-					["refSpellID"] = 236273,
+					["refSpellID"] = 208683,
 					["spellIDs"] = {
-						[236273] = true,
+						[208683] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 1322720,
+				},
+				["Dancing Rune Weapon"] = {
+					["enabled"] = true,
+					["refSpellID"] = 49028,
+					["spellIDs"] = {
+						[49028] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 135277,
+				},
+				["Guardian Spirit"] = {
+					["enabled"] = true,
+					["refSpellID"] = 47788,
+					["spellIDs"] = {
+						[47788] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 1455893,
+					["texture"] = 237542,
 				},
-				["Wyvern Sting"] = {
+				["Healing Tide Totem"] = {
 					["enabled"] = true,
-					["refSpellID"] = 19386,
+					["refSpellID"] = 108280,
 					["spellIDs"] = {
-						[19386] = true,
+						[108280] = true,
 					},
-					["cooldown"] = 45,
-					["texture"] = 135125,
+					["cooldown"] = 180,
+					["texture"] = 538569,
+				},
+				["Strangulate"] = {
+					["enabled"] = true,
+					["refSpellID"] = 47476,
+					["spellIDs"] = {
+						[47476] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 136214,
+				},
+				["Adrenaline Rush"] = {
+					["enabled"] = true,
+					["refSpellID"] = 13750,
+					["spellIDs"] = {
+						[13750] = true,
+					},
+					["cooldown"] = 150,
+					["texture"] = 136206,
+				},
+				["Rebuke"] = {
+					["enabled"] = true,
+					["refSpellID"] = 96231,
+					["spellIDs"] = {
+						[96231] = true,
+					},
+					["cooldown"] = 15,
+					["texture"] = 523893,
+				},
+				["Storm Bolt"] = {
+					["enabled"] = true,
+					["refSpellID"] = 107570,
+					["spellIDs"] = {
+						[107570] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 613535,
+				},
+				["Shadowy Duel"] = {
+					["enabled"] = true,
+					["refSpellID"] = 207736,
+					["spellIDs"] = {
+						[207736] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 1020341,
+				},
+				["Dark Regeneration"] = {
+					["enabled"] = true,
+					["refSpellID"] = 108359,
+					["spellIDs"] = {
+						[108359] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 537516,
+				},
+				["Aspect of the Turtle"] = {
+					["enabled"] = true,
+					["refSpellID"] = 186265,
+					["spellIDs"] = {
+						[186265] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 132199,
+				},
+				["Feral Lunge"] = {
+					["enabled"] = true,
+					["refSpellID"] = 196884,
+					["spellIDs"] = {
+						[196884] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 1027879,
+				},
+				["Power Infusion"] = {
+					["enabled"] = true,
+					["refSpellID"] = 10060,
+					["spellIDs"] = {
+						[10060] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 135939,
 				},
 				["Dismantle"] = {
 					["enabled"] = true,
@@ -14434,32 +14435,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 54,
 					["texture"] = 1418286,
 				},
-				["Pain Suppression"] = {
+				["Holy Avenger"] = {
 					["enabled"] = true,
-					["refSpellID"] = 33206,
+					["refSpellID"] = 105809,
 					["spellIDs"] = {
-						[33206] = true,
+						[105809] = true,
 					},
-					["cooldown"] = 210,
-					["texture"] = 135936,
+					["cooldown"] = 90,
+					["texture"] = 571555,
 				},
-				["Greater Fade"] = {
+				["Earthgrab Totem"] = {
 					["enabled"] = true,
-					["refSpellID"] = 213602,
+					["refSpellID"] = 51485,
 					["spellIDs"] = {
-						[213602] = true,
+						[51485] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 135994,
+					["texture"] = 136100,
 				},
-				["Shadowmeld"] = {
+				["Counterspell"] = {
 					["enabled"] = true,
-					["refSpellID"] = 58984,
+					["refSpellID"] = 2139,
 					["spellIDs"] = {
-						[58984] = true,
+						[2139] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 132089,
+					["cooldown"] = 24,
+					["texture"] = 135856,
 				},
 				["Ursol's Vortex"] = {
 					["enabled"] = true,
@@ -14470,14 +14471,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 571588,
 				},
-				["Ice Block"] = {
+				["Blood Mirror"] = {
 					["enabled"] = true,
-					["refSpellID"] = 45438,
+					["refSpellID"] = 206977,
 					["spellIDs"] = {
-						[45438] = true,
+						[206977] = true,
 					},
-					["cooldown"] = 240,
-					["texture"] = 135841,
+					["cooldown"] = 120,
+					["texture"] = 134084,
 				},
 				["Dispersion"] = {
 					["enabled"] = true,
@@ -14488,50 +14489,50 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 237563,
 				},
-				["Guardian of Ancient Kings"] = {
+				["Revival"] = {
 					["enabled"] = true,
-					["refSpellID"] = 86659,
+					["refSpellID"] = 115310,
 					["spellIDs"] = {
-						[86659] = true,
+						[115310] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 135919,
+					["cooldown"] = 180,
+					["texture"] = 1020466,
 				},
-				["Demonic Trample"] = {
+				["Blessing of Sacrifice"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205629,
+					["refSpellID"] = 6940,
 					["spellIDs"] = {
-						[205629] = true,
+						[6940] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 134294,
+					["cooldown"] = 75,
+					["texture"] = 135966,
 				},
-				["Diffuse Magic"] = {
+				["Power Word: Barrier"] = {
 					["enabled"] = true,
-					["refSpellID"] = 122783,
+					["refSpellID"] = 62618,
 					["spellIDs"] = {
-						[122783] = true,
+						[62618] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 775460,
+					["cooldown"] = 120,
+					["texture"] = 253400,
 				},
-				["Blur"] = {
+				["Dampen Harm"] = {
 					["enabled"] = true,
-					["refSpellID"] = 198589,
+					["refSpellID"] = 122278,
 					["spellIDs"] = {
-						[198589] = true,
+						[122278] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 1305150,
+					["cooldown"] = 120,
+					["texture"] = 620827,
 				},
-				["Evocation"] = {
+				["Parley"] = {
 					["enabled"] = true,
-					["refSpellID"] = 12051,
+					["refSpellID"] = 199743,
 					["spellIDs"] = {
-						[12051] = true,
+						[199743] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 136075,
+					["cooldown"] = 20,
+					["texture"] = 236448,
 				},
 				["Dragon Charge"] = {
 					["enabled"] = true,
@@ -14542,23 +14543,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 20,
 					["texture"] = 1380676,
 				},
-				["Essence of G'Hanir"] = {
+				["Shadowstep"] = {
 					["enabled"] = true,
-					["refSpellID"] = 208253,
+					["refSpellID"] = 36554,
 					["spellIDs"] = {
-						[208253] = true,
+						[36554] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 1115592,
+					["cooldown"] = 30,
+					["texture"] = 132303,
 				},
-				["Intercept"] = {
+				["Bloodlust"] = {
 					["enabled"] = true,
-					["refSpellID"] = 198304,
+					["refSpellID"] = 2825,
 					["spellIDs"] = {
-						[198304] = true,
+						[2825] = true,
 					},
-					["cooldown"] = 17,
-					["texture"] = 132365,
+					["cooldown"] = 60,
+					["texture"] = 136012,
 				},
 				["Typhoon"] = {
 					["enabled"] = true,
@@ -14596,23 +14597,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 180,
 					["texture"] = 135872,
 				},
-				["Barkskin"] = {
+				["Reverse Magic"] = {
 					["enabled"] = true,
-					["refSpellID"] = 22812,
+					["refSpellID"] = 205604,
 					["spellIDs"] = {
-						[22812] = true,
+						[205604] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 136097,
+					["texture"] = 1380372,
 				},
-				["Spirit of Redemption"] = {
+				["Kick"] = {
 					["enabled"] = true,
-					["refSpellID"] = 215769,
+					["refSpellID"] = 1766,
 					["spellIDs"] = {
-						[215769] = true,
+						[1766] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 132864,
+					["cooldown"] = 15,
+					["texture"] = 132219,
 				},
 				["Spell Lock"] = {
 					["enabled"] = true,
@@ -14623,19 +14624,19 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 24,
 					["texture"] = 136174,
 				},
-				["Force of Nature"] = {
+				["Sigil of Silence"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205636,
+					["refSpellID"] = 202137,
 					["spellIDs"] = {
-						[205636] = true,
+						[202137] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 132129,
+					["cooldown"] = 36,
+					["texture"] = 1418288,
 				},
 			},
-			["DBVersion"] = 8,
 		},
 		["Fhaykum - Area 52"] = {
+			["DBVersion"] = 8,
 			["SpellCDs"] = {
 				["Life Cocoon"] = {
 					["enabled"] = true,
@@ -16248,14 +16249,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 136214,
 				},
-				["Sigil of Silence"] = {
+				["Force of Nature"] = {
 					["enabled"] = true,
-					["refSpellID"] = 202137,
+					["refSpellID"] = 205636,
 					["spellIDs"] = {
-						[202137] = true,
+						[205636] = true,
 					},
-					["cooldown"] = 36,
-					["texture"] = 1418288,
+					["cooldown"] = 60,
+					["texture"] = 132129,
 				},
 				["Master's Call"] = {
 					["enabled"] = true,
@@ -16275,14 +16276,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 25,
 					["texture"] = 1033909,
 				},
-				["Kick"] = {
+				["Spirit of Redemption"] = {
 					["enabled"] = true,
-					["refSpellID"] = 1766,
+					["refSpellID"] = 215769,
 					["spellIDs"] = {
-						[1766] = true,
+						[215769] = true,
 					},
-					["cooldown"] = 15,
-					["texture"] = 132219,
+					["cooldown"] = 300,
+					["texture"] = 132864,
 				},
 				["Invoke Xuen, the White Tiger"] = {
 					["enabled"] = true,
@@ -16302,14 +16303,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 300,
 					["texture"] = 135865,
 				},
-				["Reverse Magic"] = {
+				["Barkskin"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205604,
+					["refSpellID"] = 22812,
 					["spellIDs"] = {
-						[205604] = true,
+						[22812] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 1380372,
+					["texture"] = 136097,
 				},
 				["Ironbark"] = {
 					["enabled"] = true,
@@ -16347,23 +16348,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 651728,
 				},
-				["Bloodlust"] = {
+				["Intercept"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2825,
+					["refSpellID"] = 198304,
 					["spellIDs"] = {
-						[2825] = true,
+						[198304] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 136012,
+					["cooldown"] = 17,
+					["texture"] = 132365,
 				},
-				["Shadowstep"] = {
+				["Essence of G'Hanir"] = {
 					["enabled"] = true,
-					["refSpellID"] = 36554,
+					["refSpellID"] = 208253,
 					["spellIDs"] = {
-						[36554] = true,
+						[208253] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 132303,
+					["cooldown"] = 90,
+					["texture"] = 1115592,
 				},
 				["Kidney Shot"] = {
 					["enabled"] = true,
@@ -16383,23 +16384,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 1029585,
 				},
-				["Parley"] = {
+				["Evocation"] = {
 					["enabled"] = true,
-					["refSpellID"] = 199743,
+					["refSpellID"] = 12051,
 					["spellIDs"] = {
-						[199743] = true,
+						[12051] = true,
 					},
-					["cooldown"] = 20,
-					["texture"] = 236448,
+					["cooldown"] = 90,
+					["texture"] = 136075,
 				},
-				["Dampen Harm"] = {
+				["Blur"] = {
 					["enabled"] = true,
-					["refSpellID"] = 122278,
+					["refSpellID"] = 198589,
 					["spellIDs"] = {
-						[122278] = true,
+						[198589] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 620827,
+					["cooldown"] = 60,
+					["texture"] = 1305150,
 				},
 				["Dire Beast: Basilisk"] = {
 					["enabled"] = true,
@@ -16410,14 +16411,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 1412204,
 				},
-				["Power Word: Barrier"] = {
+				["Diffuse Magic"] = {
 					["enabled"] = true,
-					["refSpellID"] = 62618,
+					["refSpellID"] = 122783,
 					["spellIDs"] = {
-						[62618] = true,
+						[122783] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 253400,
+					["cooldown"] = 90,
+					["texture"] = 775460,
 				},
 				["Tombstone"] = {
 					["enabled"] = true,
@@ -16428,23 +16429,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 132151,
 				},
-				["Blessing of Sacrifice"] = {
+				["Demonic Trample"] = {
 					["enabled"] = true,
-					["refSpellID"] = 6940,
+					["refSpellID"] = 205629,
 					["spellIDs"] = {
-						[6940] = true,
+						[205629] = true,
 					},
-					["cooldown"] = 75,
-					["texture"] = 135966,
+					["cooldown"] = 30,
+					["texture"] = 134294,
 				},
-				["Revival"] = {
+				["Guardian of Ancient Kings"] = {
 					["enabled"] = true,
-					["refSpellID"] = 115310,
+					["refSpellID"] = 86659,
 					["spellIDs"] = {
-						[115310] = true,
+						[86659] = true,
 					},
-					["cooldown"] = 180,
-					["texture"] = 1020466,
+					["cooldown"] = 300,
+					["texture"] = 135919,
 				},
 				["Nether Bond"] = {
 					["enabled"] = true,
@@ -16473,14 +16474,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 25,
 					["texture"] = 135968,
 				},
-				["Blood Mirror"] = {
+				["Ice Block"] = {
 					["enabled"] = true,
-					["refSpellID"] = 206977,
+					["refSpellID"] = 45438,
 					["spellIDs"] = {
-						[206977] = true,
+						[45438] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 134084,
+					["cooldown"] = 240,
+					["texture"] = 135841,
 				},
 				["Invisibility"] = {
 					["enabled"] = true,
@@ -16518,32 +16519,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 20,
 					["texture"] = 134153,
 				},
-				["Counterspell"] = {
+				["Shadowmeld"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2139,
+					["refSpellID"] = 58984,
 					["spellIDs"] = {
-						[2139] = true,
+						[58984] = true,
 					},
-					["cooldown"] = 24,
-					["texture"] = 135856,
+					["cooldown"] = 120,
+					["texture"] = 132089,
 				},
-				["Earthgrab Totem"] = {
+				["Greater Fade"] = {
 					["enabled"] = true,
-					["refSpellID"] = 51485,
+					["refSpellID"] = 213602,
 					["spellIDs"] = {
-						[51485] = true,
+						[213602] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 136100,
+					["texture"] = 135994,
 				},
-				["Holy Avenger"] = {
+				["Pain Suppression"] = {
 					["enabled"] = true,
-					["refSpellID"] = 105809,
+					["refSpellID"] = 33206,
 					["spellIDs"] = {
-						[105809] = true,
+						[33206] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 571555,
+					["cooldown"] = 210,
+					["texture"] = 135936,
 				},
 				["Illidan's Grasp"] = {
 					["enabled"] = true,
@@ -16572,23 +16573,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 1376045,
 				},
-				["Power Infusion"] = {
+				["Wyvern Sting"] = {
 					["enabled"] = true,
-					["refSpellID"] = 10060,
+					["refSpellID"] = 19386,
 					["spellIDs"] = {
-						[10060] = true,
+						[19386] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 135939,
+					["cooldown"] = 45,
+					["texture"] = 135125,
 				},
-				["Feral Lunge"] = {
+				["Duel"] = {
 					["enabled"] = true,
-					["refSpellID"] = 196884,
+					["refSpellID"] = 236273,
 					["spellIDs"] = {
-						[196884] = true,
+						[236273] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 1027879,
+					["cooldown"] = 60,
+					["texture"] = 1455893,
 				},
 				["Unending Resolve"] = {
 					["enabled"] = true,
@@ -16599,32 +16600,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 150,
 					["texture"] = 136150,
 				},
-				["Aspect of the Turtle"] = {
+				["Netherwalk"] = {
 					["enabled"] = true,
-					["refSpellID"] = 186265,
+					["refSpellID"] = 196555,
 					["spellIDs"] = {
-						[186265] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 132199,
-				},
-				["Dark Regeneration"] = {
-					["enabled"] = true,
-					["refSpellID"] = 108359,
-					["spellIDs"] = {
-						[108359] = true,
+						[196555] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 537516,
+					["texture"] = 463284,
 				},
-				["Shadowy Duel"] = {
+				["Chaos Nova"] = {
 					["enabled"] = true,
-					["refSpellID"] = 207736,
+					["refSpellID"] = 179057,
 					["spellIDs"] = {
-						[207736] = true,
+						[179057] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 1020341,
+					["cooldown"] = 60,
+					["texture"] = 135795,
+				},
+				["Cheat Death"] = {
+					["enabled"] = true,
+					["refSpellID"] = 31230,
+					["spellIDs"] = {
+						[31230] = true,
+					},
+					["cooldown"] = 360,
+					["texture"] = 132285,
 				},
 				["Vendetta"] = {
 					["enabled"] = true,
@@ -16635,23 +16636,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 458726,
 				},
-				["Storm Bolt"] = {
+				["Bladestorm"] = {
 					["enabled"] = true,
-					["refSpellID"] = 107570,
+					["refSpellID"] = 227847,
 					["spellIDs"] = {
-						[107570] = true,
+						[227847] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 613535,
-				},
-				["Rebuke"] = {
-					["enabled"] = true,
-					["refSpellID"] = 96231,
-					["spellIDs"] = {
-						[96231] = true,
-					},
-					["cooldown"] = 15,
-					["texture"] = 523893,
+					["cooldown"] = 60,
+					["texture"] = 236303,
 				},
 				["Dark Transformation"] = {
 					["enabled"] = true,
@@ -16662,14 +16654,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 342913,
 				},
-				["Adrenaline Rush"] = {
+				["Shambling Rush"] = {
 					["enabled"] = true,
-					["refSpellID"] = 13750,
+					["refSpellID"] = 91802,
 					["spellIDs"] = {
-						[13750] = true,
+						[91802] = true,
 					},
-					["cooldown"] = 150,
-					["texture"] = 136206,
+					["cooldown"] = 30,
+					["texture"] = 237569,
+				},
+				["Shadowfury"] = {
+					["enabled"] = true,
+					["refSpellID"] = 30283,
+					["spellIDs"] = {
+						[30283] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 607865,
 				},
 				["Blessing of Protection"] = {
 					["enabled"] = true,
@@ -16689,77 +16690,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135824,
 				},
-				["Strangulate"] = {
+				["Trueshot"] = {
 					["enabled"] = true,
-					["refSpellID"] = 47476,
+					["refSpellID"] = 193526,
 					["spellIDs"] = {
-						[47476] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 136214,
-				},
-				["Healing Tide Totem"] = {
-					["enabled"] = true,
-					["refSpellID"] = 108280,
-					["spellIDs"] = {
-						[108280] = true,
+						[193526] = true,
 					},
 					["cooldown"] = 180,
-					["texture"] = 538569,
-				},
-				["Guardian Spirit"] = {
-					["enabled"] = true,
-					["refSpellID"] = 47788,
-					["spellIDs"] = {
-						[47788] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 237542,
-				},
-				["Dancing Rune Weapon"] = {
-					["enabled"] = true,
-					["refSpellID"] = 49028,
-					["spellIDs"] = {
-						[49028] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 135277,
-				},
-				["Gladiator's Medallion"] = {
-					["enabled"] = true,
-					["refSpellID"] = 208683,
-					["spellIDs"] = {
-						[208683] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 1322720,
-				},
-				["Death Pact"] = {
-					["enabled"] = true,
-					["refSpellID"] = 48743,
-					["spellIDs"] = {
-						[48743] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 136146,
-				},
-				["Shockwave"] = {
-					["enabled"] = true,
-					["refSpellID"] = 46968,
-					["spellIDs"] = {
-						[46968] = true,
-					},
-					["cooldown"] = 40,
-					["texture"] = 236312,
-				},
-				["Freezing Trap"] = {
-					["enabled"] = true,
-					["refSpellID"] = 187650,
-					["spellIDs"] = {
-						[187650] = true,
-					},
-					["cooldown"] = 25,
-					["texture"] = 135834,
+					["texture"] = 132329,
 				},
 				["Avenging Wrath"] = {
 					["enabled"] = true,
@@ -16770,86 +16708,149 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135875,
 				},
-				["Trueshot"] = {
+				["Freezing Trap"] = {
 					["enabled"] = true,
-					["refSpellID"] = 193526,
+					["refSpellID"] = 187650,
 					["spellIDs"] = {
-						[193526] = true,
+						[187650] = true,
 					},
-					["cooldown"] = 180,
-					["texture"] = 132329,
+					["cooldown"] = 25,
+					["texture"] = 135834,
 				},
-				["Shadowfury"] = {
+				["Shockwave"] = {
 					["enabled"] = true,
-					["refSpellID"] = 30283,
+					["refSpellID"] = 46968,
 					["spellIDs"] = {
-						[30283] = true,
+						[46968] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 607865,
+					["cooldown"] = 40,
+					["texture"] = 236312,
 				},
-				["Shambling Rush"] = {
+				["Death Pact"] = {
 					["enabled"] = true,
-					["refSpellID"] = 91802,
+					["refSpellID"] = 48743,
 					["spellIDs"] = {
-						[91802] = true,
-					},
-					["cooldown"] = 30,
-					["texture"] = 237569,
-				},
-				["Bladestorm"] = {
-					["enabled"] = true,
-					["refSpellID"] = 227847,
-					["spellIDs"] = {
-						[227847] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 236303,
-				},
-				["Cheat Death"] = {
-					["enabled"] = true,
-					["refSpellID"] = 31230,
-					["spellIDs"] = {
-						[31230] = true,
-					},
-					["cooldown"] = 360,
-					["texture"] = 132285,
-				},
-				["Chaos Nova"] = {
-					["enabled"] = true,
-					["refSpellID"] = 179057,
-					["spellIDs"] = {
-						[179057] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 135795,
-				},
-				["Netherwalk"] = {
-					["enabled"] = true,
-					["refSpellID"] = 196555,
-					["spellIDs"] = {
-						[196555] = true,
+						[48743] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 463284,
+					["texture"] = 136146,
 				},
-				["Duel"] = {
+				["Gladiator's Medallion"] = {
 					["enabled"] = true,
-					["refSpellID"] = 236273,
+					["refSpellID"] = 208683,
 					["spellIDs"] = {
-						[236273] = true,
+						[208683] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 1322720,
+				},
+				["Dancing Rune Weapon"] = {
+					["enabled"] = true,
+					["refSpellID"] = 49028,
+					["spellIDs"] = {
+						[49028] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 135277,
+				},
+				["Guardian Spirit"] = {
+					["enabled"] = true,
+					["refSpellID"] = 47788,
+					["spellIDs"] = {
+						[47788] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 1455893,
+					["texture"] = 237542,
 				},
-				["Wyvern Sting"] = {
+				["Healing Tide Totem"] = {
 					["enabled"] = true,
-					["refSpellID"] = 19386,
+					["refSpellID"] = 108280,
 					["spellIDs"] = {
-						[19386] = true,
+						[108280] = true,
 					},
-					["cooldown"] = 45,
-					["texture"] = 135125,
+					["cooldown"] = 180,
+					["texture"] = 538569,
+				},
+				["Strangulate"] = {
+					["enabled"] = true,
+					["refSpellID"] = 47476,
+					["spellIDs"] = {
+						[47476] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 136214,
+				},
+				["Adrenaline Rush"] = {
+					["enabled"] = true,
+					["refSpellID"] = 13750,
+					["spellIDs"] = {
+						[13750] = true,
+					},
+					["cooldown"] = 150,
+					["texture"] = 136206,
+				},
+				["Rebuke"] = {
+					["enabled"] = true,
+					["refSpellID"] = 96231,
+					["spellIDs"] = {
+						[96231] = true,
+					},
+					["cooldown"] = 15,
+					["texture"] = 523893,
+				},
+				["Storm Bolt"] = {
+					["enabled"] = true,
+					["refSpellID"] = 107570,
+					["spellIDs"] = {
+						[107570] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 613535,
+				},
+				["Shadowy Duel"] = {
+					["enabled"] = true,
+					["refSpellID"] = 207736,
+					["spellIDs"] = {
+						[207736] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 1020341,
+				},
+				["Dark Regeneration"] = {
+					["enabled"] = true,
+					["refSpellID"] = 108359,
+					["spellIDs"] = {
+						[108359] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 537516,
+				},
+				["Aspect of the Turtle"] = {
+					["enabled"] = true,
+					["refSpellID"] = 186265,
+					["spellIDs"] = {
+						[186265] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 132199,
+				},
+				["Feral Lunge"] = {
+					["enabled"] = true,
+					["refSpellID"] = 196884,
+					["spellIDs"] = {
+						[196884] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 1027879,
+				},
+				["Power Infusion"] = {
+					["enabled"] = true,
+					["refSpellID"] = 10060,
+					["spellIDs"] = {
+						[10060] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 135939,
 				},
 				["Dismantle"] = {
 					["enabled"] = true,
@@ -16869,32 +16870,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 54,
 					["texture"] = 1418286,
 				},
-				["Pain Suppression"] = {
+				["Holy Avenger"] = {
 					["enabled"] = true,
-					["refSpellID"] = 33206,
+					["refSpellID"] = 105809,
 					["spellIDs"] = {
-						[33206] = true,
+						[105809] = true,
 					},
-					["cooldown"] = 210,
-					["texture"] = 135936,
+					["cooldown"] = 90,
+					["texture"] = 571555,
 				},
-				["Greater Fade"] = {
+				["Earthgrab Totem"] = {
 					["enabled"] = true,
-					["refSpellID"] = 213602,
+					["refSpellID"] = 51485,
 					["spellIDs"] = {
-						[213602] = true,
+						[51485] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 135994,
+					["texture"] = 136100,
 				},
-				["Shadowmeld"] = {
+				["Counterspell"] = {
 					["enabled"] = true,
-					["refSpellID"] = 58984,
+					["refSpellID"] = 2139,
 					["spellIDs"] = {
-						[58984] = true,
+						[2139] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 132089,
+					["cooldown"] = 24,
+					["texture"] = 135856,
 				},
 				["Ursol's Vortex"] = {
 					["enabled"] = true,
@@ -16905,14 +16906,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 571588,
 				},
-				["Ice Block"] = {
+				["Blood Mirror"] = {
 					["enabled"] = true,
-					["refSpellID"] = 45438,
+					["refSpellID"] = 206977,
 					["spellIDs"] = {
-						[45438] = true,
+						[206977] = true,
 					},
-					["cooldown"] = 240,
-					["texture"] = 135841,
+					["cooldown"] = 120,
+					["texture"] = 134084,
 				},
 				["Dispersion"] = {
 					["enabled"] = true,
@@ -16923,50 +16924,50 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 237563,
 				},
-				["Guardian of Ancient Kings"] = {
+				["Revival"] = {
 					["enabled"] = true,
-					["refSpellID"] = 86659,
+					["refSpellID"] = 115310,
 					["spellIDs"] = {
-						[86659] = true,
+						[115310] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 135919,
+					["cooldown"] = 180,
+					["texture"] = 1020466,
 				},
-				["Demonic Trample"] = {
+				["Blessing of Sacrifice"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205629,
+					["refSpellID"] = 6940,
 					["spellIDs"] = {
-						[205629] = true,
+						[6940] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 134294,
+					["cooldown"] = 75,
+					["texture"] = 135966,
 				},
-				["Diffuse Magic"] = {
+				["Power Word: Barrier"] = {
 					["enabled"] = true,
-					["refSpellID"] = 122783,
+					["refSpellID"] = 62618,
 					["spellIDs"] = {
-						[122783] = true,
+						[62618] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 775460,
+					["cooldown"] = 120,
+					["texture"] = 253400,
 				},
-				["Blur"] = {
+				["Dampen Harm"] = {
 					["enabled"] = true,
-					["refSpellID"] = 198589,
+					["refSpellID"] = 122278,
 					["spellIDs"] = {
-						[198589] = true,
+						[122278] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 1305150,
+					["cooldown"] = 120,
+					["texture"] = 620827,
 				},
-				["Evocation"] = {
+				["Parley"] = {
 					["enabled"] = true,
-					["refSpellID"] = 12051,
+					["refSpellID"] = 199743,
 					["spellIDs"] = {
-						[12051] = true,
+						[199743] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 136075,
+					["cooldown"] = 20,
+					["texture"] = 236448,
 				},
 				["Dragon Charge"] = {
 					["enabled"] = true,
@@ -16977,23 +16978,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 20,
 					["texture"] = 1380676,
 				},
-				["Essence of G'Hanir"] = {
+				["Shadowstep"] = {
 					["enabled"] = true,
-					["refSpellID"] = 208253,
+					["refSpellID"] = 36554,
 					["spellIDs"] = {
-						[208253] = true,
+						[36554] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 1115592,
+					["cooldown"] = 30,
+					["texture"] = 132303,
 				},
-				["Intercept"] = {
+				["Bloodlust"] = {
 					["enabled"] = true,
-					["refSpellID"] = 198304,
+					["refSpellID"] = 2825,
 					["spellIDs"] = {
-						[198304] = true,
+						[2825] = true,
 					},
-					["cooldown"] = 17,
-					["texture"] = 132365,
+					["cooldown"] = 60,
+					["texture"] = 136012,
 				},
 				["Typhoon"] = {
 					["enabled"] = true,
@@ -17031,23 +17032,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 180,
 					["texture"] = 135872,
 				},
-				["Barkskin"] = {
+				["Reverse Magic"] = {
 					["enabled"] = true,
-					["refSpellID"] = 22812,
+					["refSpellID"] = 205604,
 					["spellIDs"] = {
-						[22812] = true,
+						[205604] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 136097,
+					["texture"] = 1380372,
 				},
-				["Spirit of Redemption"] = {
+				["Kick"] = {
 					["enabled"] = true,
-					["refSpellID"] = 215769,
+					["refSpellID"] = 1766,
 					["spellIDs"] = {
-						[215769] = true,
+						[1766] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 132864,
+					["cooldown"] = 15,
+					["texture"] = 132219,
 				},
 				["Spell Lock"] = {
 					["enabled"] = true,
@@ -17058,19 +17059,19 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 24,
 					["texture"] = 136174,
 				},
-				["Force of Nature"] = {
+				["Sigil of Silence"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205636,
+					["refSpellID"] = 202137,
 					["spellIDs"] = {
-						[205636] = true,
+						[202137] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 132129,
+					["cooldown"] = 36,
+					["texture"] = 1418288,
 				},
 			},
-			["DBVersion"] = 8,
 		},
 		["Primerlock - Kel'Thuzad"] = {
+			["DBVersion"] = 8,
 			["SpellCDs"] = {
 				["Life Cocoon"] = {
 					["enabled"] = true,
@@ -18683,14 +18684,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 136214,
 				},
-				["Force of Nature"] = {
+				["Sigil of Silence"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205636,
+					["refSpellID"] = 202137,
 					["spellIDs"] = {
-						[205636] = true,
+						[202137] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 132129,
+					["cooldown"] = 36,
+					["texture"] = 1418288,
 				},
 				["Master's Call"] = {
 					["enabled"] = true,
@@ -18710,14 +18711,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 25,
 					["texture"] = 1033909,
 				},
-				["Spirit of Redemption"] = {
+				["Kick"] = {
 					["enabled"] = true,
-					["refSpellID"] = 215769,
+					["refSpellID"] = 1766,
 					["spellIDs"] = {
-						[215769] = true,
+						[1766] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 132864,
+					["cooldown"] = 15,
+					["texture"] = 132219,
 				},
 				["Invoke Xuen, the White Tiger"] = {
 					["enabled"] = true,
@@ -18737,14 +18738,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 300,
 					["texture"] = 135865,
 				},
-				["Barkskin"] = {
+				["Reverse Magic"] = {
 					["enabled"] = true,
-					["refSpellID"] = 22812,
+					["refSpellID"] = 205604,
 					["spellIDs"] = {
-						[22812] = true,
+						[205604] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 136097,
+					["texture"] = 1380372,
 				},
 				["Ironbark"] = {
 					["enabled"] = true,
@@ -18782,23 +18783,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 651728,
 				},
-				["Intercept"] = {
+				["Bloodlust"] = {
 					["enabled"] = true,
-					["refSpellID"] = 198304,
+					["refSpellID"] = 2825,
 					["spellIDs"] = {
-						[198304] = true,
+						[2825] = true,
 					},
-					["cooldown"] = 17,
-					["texture"] = 132365,
+					["cooldown"] = 60,
+					["texture"] = 136012,
 				},
-				["Essence of G'Hanir"] = {
+				["Shadowstep"] = {
 					["enabled"] = true,
-					["refSpellID"] = 208253,
+					["refSpellID"] = 36554,
 					["spellIDs"] = {
-						[208253] = true,
+						[36554] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 1115592,
+					["cooldown"] = 30,
+					["texture"] = 132303,
 				},
 				["Kidney Shot"] = {
 					["enabled"] = true,
@@ -18818,23 +18819,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 1029585,
 				},
-				["Evocation"] = {
+				["Parley"] = {
 					["enabled"] = true,
-					["refSpellID"] = 12051,
+					["refSpellID"] = 199743,
 					["spellIDs"] = {
-						[12051] = true,
+						[199743] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 136075,
+					["cooldown"] = 20,
+					["texture"] = 236448,
 				},
-				["Blur"] = {
+				["Dampen Harm"] = {
 					["enabled"] = true,
-					["refSpellID"] = 198589,
+					["refSpellID"] = 122278,
 					["spellIDs"] = {
-						[198589] = true,
+						[122278] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 1305150,
+					["cooldown"] = 120,
+					["texture"] = 620827,
 				},
 				["Dire Beast: Basilisk"] = {
 					["enabled"] = true,
@@ -18845,14 +18846,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 1412204,
 				},
-				["Diffuse Magic"] = {
+				["Power Word: Barrier"] = {
 					["enabled"] = true,
-					["refSpellID"] = 122783,
+					["refSpellID"] = 62618,
 					["spellIDs"] = {
-						[122783] = true,
+						[62618] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 775460,
+					["cooldown"] = 120,
+					["texture"] = 253400,
 				},
 				["Tombstone"] = {
 					["enabled"] = true,
@@ -18863,23 +18864,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 132151,
 				},
-				["Demonic Trample"] = {
+				["Blessing of Sacrifice"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205629,
+					["refSpellID"] = 6940,
 					["spellIDs"] = {
-						[205629] = true,
+						[6940] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 134294,
+					["cooldown"] = 75,
+					["texture"] = 135966,
 				},
-				["Guardian of Ancient Kings"] = {
+				["Revival"] = {
 					["enabled"] = true,
-					["refSpellID"] = 86659,
+					["refSpellID"] = 115310,
 					["spellIDs"] = {
-						[86659] = true,
+						[115310] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 135919,
+					["cooldown"] = 180,
+					["texture"] = 1020466,
 				},
 				["Nether Bond"] = {
 					["enabled"] = true,
@@ -18908,14 +18909,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 25,
 					["texture"] = 135968,
 				},
-				["Ice Block"] = {
+				["Blood Mirror"] = {
 					["enabled"] = true,
-					["refSpellID"] = 45438,
+					["refSpellID"] = 206977,
 					["spellIDs"] = {
-						[45438] = true,
+						[206977] = true,
 					},
-					["cooldown"] = 240,
-					["texture"] = 135841,
+					["cooldown"] = 120,
+					["texture"] = 134084,
 				},
 				["Invisibility"] = {
 					["enabled"] = true,
@@ -18953,32 +18954,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 20,
 					["texture"] = 134153,
 				},
-				["Shadowmeld"] = {
+				["Counterspell"] = {
 					["enabled"] = true,
-					["refSpellID"] = 58984,
+					["refSpellID"] = 2139,
 					["spellIDs"] = {
-						[58984] = true,
+						[2139] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 132089,
+					["cooldown"] = 24,
+					["texture"] = 135856,
 				},
-				["Greater Fade"] = {
+				["Earthgrab Totem"] = {
 					["enabled"] = true,
-					["refSpellID"] = 213602,
+					["refSpellID"] = 51485,
 					["spellIDs"] = {
-						[213602] = true,
+						[51485] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 135994,
+					["texture"] = 136100,
 				},
-				["Pain Suppression"] = {
+				["Holy Avenger"] = {
 					["enabled"] = true,
-					["refSpellID"] = 33206,
+					["refSpellID"] = 105809,
 					["spellIDs"] = {
-						[33206] = true,
+						[105809] = true,
 					},
-					["cooldown"] = 210,
-					["texture"] = 135936,
+					["cooldown"] = 90,
+					["texture"] = 571555,
 				},
 				["Illidan's Grasp"] = {
 					["enabled"] = true,
@@ -19007,23 +19008,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 1376045,
 				},
-				["Wyvern Sting"] = {
+				["Power Infusion"] = {
 					["enabled"] = true,
-					["refSpellID"] = 19386,
+					["refSpellID"] = 10060,
 					["spellIDs"] = {
-						[19386] = true,
+						[10060] = true,
 					},
-					["cooldown"] = 45,
-					["texture"] = 135125,
+					["cooldown"] = 120,
+					["texture"] = 135939,
 				},
-				["Duel"] = {
+				["Feral Lunge"] = {
 					["enabled"] = true,
-					["refSpellID"] = 236273,
+					["refSpellID"] = 196884,
 					["spellIDs"] = {
-						[236273] = true,
+						[196884] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 1455893,
+					["cooldown"] = 30,
+					["texture"] = 1027879,
 				},
 				["Unending Resolve"] = {
 					["enabled"] = true,
@@ -19034,32 +19035,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 150,
 					["texture"] = 136150,
 				},
-				["Netherwalk"] = {
+				["Aspect of the Turtle"] = {
 					["enabled"] = true,
-					["refSpellID"] = 196555,
+					["refSpellID"] = 186265,
 					["spellIDs"] = {
-						[196555] = true,
+						[186265] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 132199,
+				},
+				["Dark Regeneration"] = {
+					["enabled"] = true,
+					["refSpellID"] = 108359,
+					["spellIDs"] = {
+						[108359] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 463284,
+					["texture"] = 537516,
 				},
-				["Chaos Nova"] = {
+				["Shadowy Duel"] = {
 					["enabled"] = true,
-					["refSpellID"] = 179057,
+					["refSpellID"] = 207736,
 					["spellIDs"] = {
-						[179057] = true,
+						[207736] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 135795,
-				},
-				["Cheat Death"] = {
-					["enabled"] = true,
-					["refSpellID"] = 31230,
-					["spellIDs"] = {
-						[31230] = true,
-					},
-					["cooldown"] = 360,
-					["texture"] = 132285,
+					["cooldown"] = 120,
+					["texture"] = 1020341,
 				},
 				["Vendetta"] = {
 					["enabled"] = true,
@@ -19070,23 +19071,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 458726,
 				},
-				["Bladestorm"] = {
+				["Storm Bolt"] = {
 					["enabled"] = true,
-					["refSpellID"] = 227847,
+					["refSpellID"] = 107570,
 					["spellIDs"] = {
-						[227847] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 236303,
-				},
-				["Shambling Rush"] = {
-					["enabled"] = true,
-					["refSpellID"] = 91802,
-					["spellIDs"] = {
-						[91802] = true,
+						[107570] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 237569,
+					["texture"] = 613535,
+				},
+				["Rebuke"] = {
+					["enabled"] = true,
+					["refSpellID"] = 96231,
+					["spellIDs"] = {
+						[96231] = true,
+					},
+					["cooldown"] = 15,
+					["texture"] = 523893,
 				},
 				["Dark Transformation"] = {
 					["enabled"] = true,
@@ -19097,14 +19098,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 342913,
 				},
-				["Shadowfury"] = {
+				["Adrenaline Rush"] = {
 					["enabled"] = true,
-					["refSpellID"] = 30283,
+					["refSpellID"] = 13750,
 					["spellIDs"] = {
-						[30283] = true,
+						[13750] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 607865,
+					["cooldown"] = 150,
+					["texture"] = 136206,
 				},
 				["Blessing of Protection"] = {
 					["enabled"] = true,
@@ -19124,77 +19125,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135824,
 				},
-				["Trueshot"] = {
+				["Strangulate"] = {
 					["enabled"] = true,
-					["refSpellID"] = 193526,
+					["refSpellID"] = 47476,
 					["spellIDs"] = {
-						[193526] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 132329,
-				},
-				["Avenging Wrath"] = {
-					["enabled"] = true,
-					["refSpellID"] = 31884,
-					["spellIDs"] = {
-						[31884] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 135875,
-				},
-				["Freezing Trap"] = {
-					["enabled"] = true,
-					["refSpellID"] = 187650,
-					["spellIDs"] = {
-						[187650] = true,
-					},
-					["cooldown"] = 25,
-					["texture"] = 135834,
-				},
-				["Shockwave"] = {
-					["enabled"] = true,
-					["refSpellID"] = 46968,
-					["spellIDs"] = {
-						[46968] = true,
-					},
-					["cooldown"] = 40,
-					["texture"] = 236312,
-				},
-				["Death Pact"] = {
-					["enabled"] = true,
-					["refSpellID"] = 48743,
-					["spellIDs"] = {
-						[48743] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 136146,
-				},
-				["Gladiator's Medallion"] = {
-					["enabled"] = true,
-					["refSpellID"] = 208683,
-					["spellIDs"] = {
-						[208683] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 1322720,
-				},
-				["Dancing Rune Weapon"] = {
-					["enabled"] = true,
-					["refSpellID"] = 49028,
-					["spellIDs"] = {
-						[49028] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 135277,
-				},
-				["Guardian Spirit"] = {
-					["enabled"] = true,
-					["refSpellID"] = 47788,
-					["spellIDs"] = {
-						[47788] = true,
+						[47476] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 237542,
+					["texture"] = 136214,
 				},
 				["Healing Tide Totem"] = {
 					["enabled"] = true,
@@ -19205,86 +19143,149 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 180,
 					["texture"] = 538569,
 				},
-				["Strangulate"] = {
+				["Guardian Spirit"] = {
 					["enabled"] = true,
-					["refSpellID"] = 47476,
+					["refSpellID"] = 47788,
 					["spellIDs"] = {
-						[47476] = true,
+						[47788] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 136214,
+					["texture"] = 237542,
 				},
-				["Adrenaline Rush"] = {
+				["Dancing Rune Weapon"] = {
 					["enabled"] = true,
-					["refSpellID"] = 13750,
+					["refSpellID"] = 49028,
 					["spellIDs"] = {
-						[13750] = true,
-					},
-					["cooldown"] = 150,
-					["texture"] = 136206,
-				},
-				["Rebuke"] = {
-					["enabled"] = true,
-					["refSpellID"] = 96231,
-					["spellIDs"] = {
-						[96231] = true,
-					},
-					["cooldown"] = 15,
-					["texture"] = 523893,
-				},
-				["Storm Bolt"] = {
-					["enabled"] = true,
-					["refSpellID"] = 107570,
-					["spellIDs"] = {
-						[107570] = true,
-					},
-					["cooldown"] = 30,
-					["texture"] = 613535,
-				},
-				["Shadowy Duel"] = {
-					["enabled"] = true,
-					["refSpellID"] = 207736,
-					["spellIDs"] = {
-						[207736] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 1020341,
-				},
-				["Dark Regeneration"] = {
-					["enabled"] = true,
-					["refSpellID"] = 108359,
-					["spellIDs"] = {
-						[108359] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 537516,
-				},
-				["Aspect of the Turtle"] = {
-					["enabled"] = true,
-					["refSpellID"] = 186265,
-					["spellIDs"] = {
-						[186265] = true,
+						[49028] = true,
 					},
 					["cooldown"] = 180,
-					["texture"] = 132199,
+					["texture"] = 135277,
 				},
-				["Feral Lunge"] = {
+				["Gladiator's Medallion"] = {
 					["enabled"] = true,
-					["refSpellID"] = 196884,
+					["refSpellID"] = 208683,
 					["spellIDs"] = {
-						[196884] = true,
-					},
-					["cooldown"] = 30,
-					["texture"] = 1027879,
-				},
-				["Power Infusion"] = {
-					["enabled"] = true,
-					["refSpellID"] = 10060,
-					["spellIDs"] = {
-						[10060] = true,
+						[208683] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 135939,
+					["texture"] = 1322720,
+				},
+				["Death Pact"] = {
+					["enabled"] = true,
+					["refSpellID"] = 48743,
+					["spellIDs"] = {
+						[48743] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 136146,
+				},
+				["Shockwave"] = {
+					["enabled"] = true,
+					["refSpellID"] = 46968,
+					["spellIDs"] = {
+						[46968] = true,
+					},
+					["cooldown"] = 40,
+					["texture"] = 236312,
+				},
+				["Freezing Trap"] = {
+					["enabled"] = true,
+					["refSpellID"] = 187650,
+					["spellIDs"] = {
+						[187650] = true,
+					},
+					["cooldown"] = 25,
+					["texture"] = 135834,
+				},
+				["Avenging Wrath"] = {
+					["enabled"] = true,
+					["refSpellID"] = 31884,
+					["spellIDs"] = {
+						[31884] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 135875,
+				},
+				["Trueshot"] = {
+					["enabled"] = true,
+					["refSpellID"] = 193526,
+					["spellIDs"] = {
+						[193526] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 132329,
+				},
+				["Shadowfury"] = {
+					["enabled"] = true,
+					["refSpellID"] = 30283,
+					["spellIDs"] = {
+						[30283] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 607865,
+				},
+				["Shambling Rush"] = {
+					["enabled"] = true,
+					["refSpellID"] = 91802,
+					["spellIDs"] = {
+						[91802] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 237569,
+				},
+				["Bladestorm"] = {
+					["enabled"] = true,
+					["refSpellID"] = 227847,
+					["spellIDs"] = {
+						[227847] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 236303,
+				},
+				["Cheat Death"] = {
+					["enabled"] = true,
+					["refSpellID"] = 31230,
+					["spellIDs"] = {
+						[31230] = true,
+					},
+					["cooldown"] = 360,
+					["texture"] = 132285,
+				},
+				["Chaos Nova"] = {
+					["enabled"] = true,
+					["refSpellID"] = 179057,
+					["spellIDs"] = {
+						[179057] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 135795,
+				},
+				["Netherwalk"] = {
+					["enabled"] = true,
+					["refSpellID"] = 196555,
+					["spellIDs"] = {
+						[196555] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 463284,
+				},
+				["Duel"] = {
+					["enabled"] = true,
+					["refSpellID"] = 236273,
+					["spellIDs"] = {
+						[236273] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 1455893,
+				},
+				["Wyvern Sting"] = {
+					["enabled"] = true,
+					["refSpellID"] = 19386,
+					["spellIDs"] = {
+						[19386] = true,
+					},
+					["cooldown"] = 45,
+					["texture"] = 135125,
 				},
 				["Dismantle"] = {
 					["enabled"] = true,
@@ -19304,32 +19305,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 54,
 					["texture"] = 1418286,
 				},
-				["Holy Avenger"] = {
+				["Pain Suppression"] = {
 					["enabled"] = true,
-					["refSpellID"] = 105809,
+					["refSpellID"] = 33206,
 					["spellIDs"] = {
-						[105809] = true,
+						[33206] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 571555,
+					["cooldown"] = 210,
+					["texture"] = 135936,
 				},
-				["Earthgrab Totem"] = {
+				["Greater Fade"] = {
 					["enabled"] = true,
-					["refSpellID"] = 51485,
+					["refSpellID"] = 213602,
 					["spellIDs"] = {
-						[51485] = true,
+						[213602] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 136100,
+					["texture"] = 135994,
 				},
-				["Counterspell"] = {
+				["Shadowmeld"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2139,
+					["refSpellID"] = 58984,
 					["spellIDs"] = {
-						[2139] = true,
+						[58984] = true,
 					},
-					["cooldown"] = 24,
-					["texture"] = 135856,
+					["cooldown"] = 120,
+					["texture"] = 132089,
 				},
 				["Ursol's Vortex"] = {
 					["enabled"] = true,
@@ -19340,14 +19341,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 571588,
 				},
-				["Blood Mirror"] = {
+				["Ice Block"] = {
 					["enabled"] = true,
-					["refSpellID"] = 206977,
+					["refSpellID"] = 45438,
 					["spellIDs"] = {
-						[206977] = true,
+						[45438] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 134084,
+					["cooldown"] = 240,
+					["texture"] = 135841,
 				},
 				["Dispersion"] = {
 					["enabled"] = true,
@@ -19358,50 +19359,50 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 237563,
 				},
-				["Revival"] = {
+				["Guardian of Ancient Kings"] = {
 					["enabled"] = true,
-					["refSpellID"] = 115310,
+					["refSpellID"] = 86659,
 					["spellIDs"] = {
-						[115310] = true,
+						[86659] = true,
 					},
-					["cooldown"] = 180,
-					["texture"] = 1020466,
+					["cooldown"] = 300,
+					["texture"] = 135919,
 				},
-				["Blessing of Sacrifice"] = {
+				["Demonic Trample"] = {
 					["enabled"] = true,
-					["refSpellID"] = 6940,
+					["refSpellID"] = 205629,
 					["spellIDs"] = {
-						[6940] = true,
+						[205629] = true,
 					},
-					["cooldown"] = 75,
-					["texture"] = 135966,
+					["cooldown"] = 30,
+					["texture"] = 134294,
 				},
-				["Power Word: Barrier"] = {
+				["Diffuse Magic"] = {
 					["enabled"] = true,
-					["refSpellID"] = 62618,
+					["refSpellID"] = 122783,
 					["spellIDs"] = {
-						[62618] = true,
+						[122783] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 253400,
+					["cooldown"] = 90,
+					["texture"] = 775460,
 				},
-				["Dampen Harm"] = {
+				["Blur"] = {
 					["enabled"] = true,
-					["refSpellID"] = 122278,
+					["refSpellID"] = 198589,
 					["spellIDs"] = {
-						[122278] = true,
+						[198589] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 620827,
+					["cooldown"] = 60,
+					["texture"] = 1305150,
 				},
-				["Parley"] = {
+				["Evocation"] = {
 					["enabled"] = true,
-					["refSpellID"] = 199743,
+					["refSpellID"] = 12051,
 					["spellIDs"] = {
-						[199743] = true,
+						[12051] = true,
 					},
-					["cooldown"] = 20,
-					["texture"] = 236448,
+					["cooldown"] = 90,
+					["texture"] = 136075,
 				},
 				["Dragon Charge"] = {
 					["enabled"] = true,
@@ -19412,23 +19413,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 20,
 					["texture"] = 1380676,
 				},
-				["Shadowstep"] = {
+				["Essence of G'Hanir"] = {
 					["enabled"] = true,
-					["refSpellID"] = 36554,
+					["refSpellID"] = 208253,
 					["spellIDs"] = {
-						[36554] = true,
+						[208253] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 132303,
+					["cooldown"] = 90,
+					["texture"] = 1115592,
 				},
-				["Bloodlust"] = {
+				["Intercept"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2825,
+					["refSpellID"] = 198304,
 					["spellIDs"] = {
-						[2825] = true,
+						[198304] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 136012,
+					["cooldown"] = 17,
+					["texture"] = 132365,
 				},
 				["Typhoon"] = {
 					["enabled"] = true,
@@ -19466,23 +19467,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 180,
 					["texture"] = 135872,
 				},
-				["Reverse Magic"] = {
+				["Barkskin"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205604,
+					["refSpellID"] = 22812,
 					["spellIDs"] = {
-						[205604] = true,
+						[22812] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 1380372,
+					["texture"] = 136097,
 				},
-				["Kick"] = {
+				["Spirit of Redemption"] = {
 					["enabled"] = true,
-					["refSpellID"] = 1766,
+					["refSpellID"] = 215769,
 					["spellIDs"] = {
-						[1766] = true,
+						[215769] = true,
 					},
-					["cooldown"] = 15,
-					["texture"] = 132219,
+					["cooldown"] = 300,
+					["texture"] = 132864,
 				},
 				["Spell Lock"] = {
 					["enabled"] = true,
@@ -19493,19 +19494,19 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 24,
 					["texture"] = 136174,
 				},
-				["Sigil of Silence"] = {
+				["Force of Nature"] = {
 					["enabled"] = true,
-					["refSpellID"] = 202137,
+					["refSpellID"] = 205636,
 					["spellIDs"] = {
-						[202137] = true,
+						[205636] = true,
 					},
-					["cooldown"] = 36,
-					["texture"] = 1418288,
+					["cooldown"] = 60,
+					["texture"] = 132129,
 				},
 			},
-			["DBVersion"] = 8,
 		},
 		["Primepriest - Area 52"] = {
+			["DBVersion"] = 8,
 			["SpellCDs"] = {
 				["Life Cocoon"] = {
 					["enabled"] = true,
@@ -21118,14 +21119,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 136214,
 				},
-				["Force of Nature"] = {
+				["Sigil of Silence"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205636,
+					["refSpellID"] = 202137,
 					["spellIDs"] = {
-						[205636] = true,
+						[202137] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 132129,
+					["cooldown"] = 36,
+					["texture"] = 1418288,
 				},
 				["Master's Call"] = {
 					["enabled"] = true,
@@ -21145,14 +21146,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 25,
 					["texture"] = 1033909,
 				},
-				["Spirit of Redemption"] = {
+				["Kick"] = {
 					["enabled"] = true,
-					["refSpellID"] = 215769,
+					["refSpellID"] = 1766,
 					["spellIDs"] = {
-						[215769] = true,
+						[1766] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 132864,
+					["cooldown"] = 15,
+					["texture"] = 132219,
 				},
 				["Invoke Xuen, the White Tiger"] = {
 					["enabled"] = true,
@@ -21172,14 +21173,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 300,
 					["texture"] = 135865,
 				},
-				["Barkskin"] = {
+				["Reverse Magic"] = {
 					["enabled"] = true,
-					["refSpellID"] = 22812,
+					["refSpellID"] = 205604,
 					["spellIDs"] = {
-						[22812] = true,
+						[205604] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 136097,
+					["texture"] = 1380372,
 				},
 				["Ironbark"] = {
 					["enabled"] = true,
@@ -21217,23 +21218,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 651728,
 				},
-				["Intercept"] = {
+				["Bloodlust"] = {
 					["enabled"] = true,
-					["refSpellID"] = 198304,
+					["refSpellID"] = 2825,
 					["spellIDs"] = {
-						[198304] = true,
+						[2825] = true,
 					},
-					["cooldown"] = 17,
-					["texture"] = 132365,
+					["cooldown"] = 60,
+					["texture"] = 136012,
 				},
-				["Essence of G'Hanir"] = {
+				["Shadowstep"] = {
 					["enabled"] = true,
-					["refSpellID"] = 208253,
+					["refSpellID"] = 36554,
 					["spellIDs"] = {
-						[208253] = true,
+						[36554] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 1115592,
+					["cooldown"] = 30,
+					["texture"] = 132303,
 				},
 				["Kidney Shot"] = {
 					["enabled"] = true,
@@ -21253,23 +21254,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 1029585,
 				},
-				["Evocation"] = {
+				["Parley"] = {
 					["enabled"] = true,
-					["refSpellID"] = 12051,
+					["refSpellID"] = 199743,
 					["spellIDs"] = {
-						[12051] = true,
+						[199743] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 136075,
+					["cooldown"] = 20,
+					["texture"] = 236448,
 				},
-				["Blur"] = {
+				["Dampen Harm"] = {
 					["enabled"] = true,
-					["refSpellID"] = 198589,
+					["refSpellID"] = 122278,
 					["spellIDs"] = {
-						[198589] = true,
+						[122278] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 1305150,
+					["cooldown"] = 120,
+					["texture"] = 620827,
 				},
 				["Dire Beast: Basilisk"] = {
 					["enabled"] = true,
@@ -21280,14 +21281,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 1412204,
 				},
-				["Diffuse Magic"] = {
+				["Power Word: Barrier"] = {
 					["enabled"] = true,
-					["refSpellID"] = 122783,
+					["refSpellID"] = 62618,
 					["spellIDs"] = {
-						[122783] = true,
+						[62618] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 775460,
+					["cooldown"] = 120,
+					["texture"] = 253400,
 				},
 				["Tombstone"] = {
 					["enabled"] = true,
@@ -21298,23 +21299,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 132151,
 				},
-				["Demonic Trample"] = {
+				["Blessing of Sacrifice"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205629,
+					["refSpellID"] = 6940,
 					["spellIDs"] = {
-						[205629] = true,
+						[6940] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 134294,
+					["cooldown"] = 75,
+					["texture"] = 135966,
 				},
-				["Guardian of Ancient Kings"] = {
+				["Revival"] = {
 					["enabled"] = true,
-					["refSpellID"] = 86659,
+					["refSpellID"] = 115310,
 					["spellIDs"] = {
-						[86659] = true,
+						[115310] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 135919,
+					["cooldown"] = 180,
+					["texture"] = 1020466,
 				},
 				["Nether Bond"] = {
 					["enabled"] = true,
@@ -21343,14 +21344,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 25,
 					["texture"] = 135968,
 				},
-				["Ice Block"] = {
+				["Blood Mirror"] = {
 					["enabled"] = true,
-					["refSpellID"] = 45438,
+					["refSpellID"] = 206977,
 					["spellIDs"] = {
-						[45438] = true,
+						[206977] = true,
 					},
-					["cooldown"] = 240,
-					["texture"] = 135841,
+					["cooldown"] = 120,
+					["texture"] = 134084,
 				},
 				["Invisibility"] = {
 					["enabled"] = true,
@@ -21388,32 +21389,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 20,
 					["texture"] = 134153,
 				},
-				["Shadowmeld"] = {
+				["Counterspell"] = {
 					["enabled"] = true,
-					["refSpellID"] = 58984,
+					["refSpellID"] = 2139,
 					["spellIDs"] = {
-						[58984] = true,
+						[2139] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 132089,
+					["cooldown"] = 24,
+					["texture"] = 135856,
 				},
-				["Greater Fade"] = {
+				["Earthgrab Totem"] = {
 					["enabled"] = true,
-					["refSpellID"] = 213602,
+					["refSpellID"] = 51485,
 					["spellIDs"] = {
-						[213602] = true,
+						[51485] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 135994,
+					["texture"] = 136100,
 				},
-				["Pain Suppression"] = {
+				["Holy Avenger"] = {
 					["enabled"] = true,
-					["refSpellID"] = 33206,
+					["refSpellID"] = 105809,
 					["spellIDs"] = {
-						[33206] = true,
+						[105809] = true,
 					},
-					["cooldown"] = 210,
-					["texture"] = 135936,
+					["cooldown"] = 90,
+					["texture"] = 571555,
 				},
 				["Illidan's Grasp"] = {
 					["enabled"] = true,
@@ -21442,23 +21443,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 1376045,
 				},
-				["Wyvern Sting"] = {
+				["Power Infusion"] = {
 					["enabled"] = true,
-					["refSpellID"] = 19386,
+					["refSpellID"] = 10060,
 					["spellIDs"] = {
-						[19386] = true,
+						[10060] = true,
 					},
-					["cooldown"] = 45,
-					["texture"] = 135125,
+					["cooldown"] = 120,
+					["texture"] = 135939,
 				},
-				["Duel"] = {
+				["Feral Lunge"] = {
 					["enabled"] = true,
-					["refSpellID"] = 236273,
+					["refSpellID"] = 196884,
 					["spellIDs"] = {
-						[236273] = true,
+						[196884] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 1455893,
+					["cooldown"] = 30,
+					["texture"] = 1027879,
 				},
 				["Unending Resolve"] = {
 					["enabled"] = true,
@@ -21469,32 +21470,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 150,
 					["texture"] = 136150,
 				},
-				["Netherwalk"] = {
+				["Aspect of the Turtle"] = {
 					["enabled"] = true,
-					["refSpellID"] = 196555,
+					["refSpellID"] = 186265,
 					["spellIDs"] = {
-						[196555] = true,
+						[186265] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 132199,
+				},
+				["Dark Regeneration"] = {
+					["enabled"] = true,
+					["refSpellID"] = 108359,
+					["spellIDs"] = {
+						[108359] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 463284,
+					["texture"] = 537516,
 				},
-				["Chaos Nova"] = {
+				["Shadowy Duel"] = {
 					["enabled"] = true,
-					["refSpellID"] = 179057,
+					["refSpellID"] = 207736,
 					["spellIDs"] = {
-						[179057] = true,
+						[207736] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 135795,
-				},
-				["Cheat Death"] = {
-					["enabled"] = true,
-					["refSpellID"] = 31230,
-					["spellIDs"] = {
-						[31230] = true,
-					},
-					["cooldown"] = 360,
-					["texture"] = 132285,
+					["cooldown"] = 120,
+					["texture"] = 1020341,
 				},
 				["Vendetta"] = {
 					["enabled"] = true,
@@ -21505,23 +21506,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 458726,
 				},
-				["Bladestorm"] = {
+				["Storm Bolt"] = {
 					["enabled"] = true,
-					["refSpellID"] = 227847,
+					["refSpellID"] = 107570,
 					["spellIDs"] = {
-						[227847] = true,
+						[107570] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 236303,
+					["cooldown"] = 30,
+					["texture"] = 613535,
 				},
-				["Dark Transformation"] = {
+				["Rebuke"] = {
 					["enabled"] = true,
-					["refSpellID"] = 63560,
+					["refSpellID"] = 96231,
 					["spellIDs"] = {
-						[63560] = true,
+						[96231] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 342913,
+					["cooldown"] = 15,
+					["texture"] = 523893,
 				},
 				["Shambling Rush"] = {
 					["enabled"] = true,
@@ -21532,14 +21533,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 30,
 					["texture"] = 237569,
 				},
-				["Shadowfury"] = {
+				["Adrenaline Rush"] = {
 					["enabled"] = true,
-					["refSpellID"] = 30283,
+					["refSpellID"] = 13750,
 					["spellIDs"] = {
-						[30283] = true,
+						[13750] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 607865,
+					["cooldown"] = 150,
+					["texture"] = 136206,
 				},
 				["Blessing of Protection"] = {
 					["enabled"] = true,
@@ -21559,77 +21560,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135824,
 				},
-				["Trueshot"] = {
+				["Strangulate"] = {
 					["enabled"] = true,
-					["refSpellID"] = 193526,
+					["refSpellID"] = 47476,
 					["spellIDs"] = {
-						[193526] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 132329,
-				},
-				["Avenging Wrath"] = {
-					["enabled"] = true,
-					["refSpellID"] = 31884,
-					["spellIDs"] = {
-						[31884] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 135875,
-				},
-				["Freezing Trap"] = {
-					["enabled"] = true,
-					["refSpellID"] = 187650,
-					["spellIDs"] = {
-						[187650] = true,
-					},
-					["cooldown"] = 25,
-					["texture"] = 135834,
-				},
-				["Shockwave"] = {
-					["enabled"] = true,
-					["refSpellID"] = 46968,
-					["spellIDs"] = {
-						[46968] = true,
-					},
-					["cooldown"] = 40,
-					["texture"] = 236312,
-				},
-				["Death Pact"] = {
-					["enabled"] = true,
-					["refSpellID"] = 48743,
-					["spellIDs"] = {
-						[48743] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 136146,
-				},
-				["Gladiator's Medallion"] = {
-					["enabled"] = true,
-					["refSpellID"] = 208683,
-					["spellIDs"] = {
-						[208683] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 1322720,
-				},
-				["Dancing Rune Weapon"] = {
-					["enabled"] = true,
-					["refSpellID"] = 49028,
-					["spellIDs"] = {
-						[49028] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 135277,
-				},
-				["Guardian Spirit"] = {
-					["enabled"] = true,
-					["refSpellID"] = 47788,
-					["spellIDs"] = {
-						[47788] = true,
+						[47476] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 237542,
+					["texture"] = 136214,
 				},
 				["Healing Tide Totem"] = {
 					["enabled"] = true,
@@ -21640,86 +21578,149 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 180,
 					["texture"] = 538569,
 				},
-				["Strangulate"] = {
+				["Guardian Spirit"] = {
 					["enabled"] = true,
-					["refSpellID"] = 47476,
+					["refSpellID"] = 47788,
 					["spellIDs"] = {
-						[47476] = true,
+						[47788] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 136214,
+					["texture"] = 237542,
 				},
-				["Adrenaline Rush"] = {
+				["Dancing Rune Weapon"] = {
 					["enabled"] = true,
-					["refSpellID"] = 13750,
+					["refSpellID"] = 49028,
 					["spellIDs"] = {
-						[13750] = true,
-					},
-					["cooldown"] = 150,
-					["texture"] = 136206,
-				},
-				["Rebuke"] = {
-					["enabled"] = true,
-					["refSpellID"] = 96231,
-					["spellIDs"] = {
-						[96231] = true,
-					},
-					["cooldown"] = 15,
-					["texture"] = 523893,
-				},
-				["Storm Bolt"] = {
-					["enabled"] = true,
-					["refSpellID"] = 107570,
-					["spellIDs"] = {
-						[107570] = true,
-					},
-					["cooldown"] = 30,
-					["texture"] = 613535,
-				},
-				["Shadowy Duel"] = {
-					["enabled"] = true,
-					["refSpellID"] = 207736,
-					["spellIDs"] = {
-						[207736] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 1020341,
-				},
-				["Dark Regeneration"] = {
-					["enabled"] = true,
-					["refSpellID"] = 108359,
-					["spellIDs"] = {
-						[108359] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 537516,
-				},
-				["Aspect of the Turtle"] = {
-					["enabled"] = true,
-					["refSpellID"] = 186265,
-					["spellIDs"] = {
-						[186265] = true,
+						[49028] = true,
 					},
 					["cooldown"] = 180,
-					["texture"] = 132199,
+					["texture"] = 135277,
 				},
-				["Feral Lunge"] = {
+				["Gladiator's Medallion"] = {
 					["enabled"] = true,
-					["refSpellID"] = 196884,
+					["refSpellID"] = 208683,
 					["spellIDs"] = {
-						[196884] = true,
-					},
-					["cooldown"] = 30,
-					["texture"] = 1027879,
-				},
-				["Power Infusion"] = {
-					["enabled"] = true,
-					["refSpellID"] = 10060,
-					["spellIDs"] = {
-						[10060] = true,
+						[208683] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 135939,
+					["texture"] = 1322720,
+				},
+				["Death Pact"] = {
+					["enabled"] = true,
+					["refSpellID"] = 48743,
+					["spellIDs"] = {
+						[48743] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 136146,
+				},
+				["Shockwave"] = {
+					["enabled"] = true,
+					["refSpellID"] = 46968,
+					["spellIDs"] = {
+						[46968] = true,
+					},
+					["cooldown"] = 40,
+					["texture"] = 236312,
+				},
+				["Freezing Trap"] = {
+					["enabled"] = true,
+					["refSpellID"] = 187650,
+					["spellIDs"] = {
+						[187650] = true,
+					},
+					["cooldown"] = 25,
+					["texture"] = 135834,
+				},
+				["Avenging Wrath"] = {
+					["enabled"] = true,
+					["refSpellID"] = 31884,
+					["spellIDs"] = {
+						[31884] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 135875,
+				},
+				["Trueshot"] = {
+					["enabled"] = true,
+					["refSpellID"] = 193526,
+					["spellIDs"] = {
+						[193526] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 132329,
+				},
+				["Shadowfury"] = {
+					["enabled"] = true,
+					["refSpellID"] = 30283,
+					["spellIDs"] = {
+						[30283] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 607865,
+				},
+				["Dark Transformation"] = {
+					["enabled"] = true,
+					["refSpellID"] = 63560,
+					["spellIDs"] = {
+						[63560] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 342913,
+				},
+				["Bladestorm"] = {
+					["enabled"] = true,
+					["refSpellID"] = 227847,
+					["spellIDs"] = {
+						[227847] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 236303,
+				},
+				["Cheat Death"] = {
+					["enabled"] = true,
+					["refSpellID"] = 31230,
+					["spellIDs"] = {
+						[31230] = true,
+					},
+					["cooldown"] = 360,
+					["texture"] = 132285,
+				},
+				["Chaos Nova"] = {
+					["enabled"] = true,
+					["refSpellID"] = 179057,
+					["spellIDs"] = {
+						[179057] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 135795,
+				},
+				["Netherwalk"] = {
+					["enabled"] = true,
+					["refSpellID"] = 196555,
+					["spellIDs"] = {
+						[196555] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 463284,
+				},
+				["Duel"] = {
+					["enabled"] = true,
+					["refSpellID"] = 236273,
+					["spellIDs"] = {
+						[236273] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 1455893,
+				},
+				["Wyvern Sting"] = {
+					["enabled"] = true,
+					["refSpellID"] = 19386,
+					["spellIDs"] = {
+						[19386] = true,
+					},
+					["cooldown"] = 45,
+					["texture"] = 135125,
 				},
 				["Dismantle"] = {
 					["enabled"] = true,
@@ -21739,32 +21740,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 54,
 					["texture"] = 1418286,
 				},
-				["Holy Avenger"] = {
+				["Pain Suppression"] = {
 					["enabled"] = true,
-					["refSpellID"] = 105809,
+					["refSpellID"] = 33206,
 					["spellIDs"] = {
-						[105809] = true,
+						[33206] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 571555,
+					["cooldown"] = 210,
+					["texture"] = 135936,
 				},
-				["Earthgrab Totem"] = {
+				["Greater Fade"] = {
 					["enabled"] = true,
-					["refSpellID"] = 51485,
+					["refSpellID"] = 213602,
 					["spellIDs"] = {
-						[51485] = true,
+						[213602] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 136100,
+					["texture"] = 135994,
 				},
-				["Counterspell"] = {
+				["Shadowmeld"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2139,
+					["refSpellID"] = 58984,
 					["spellIDs"] = {
-						[2139] = true,
+						[58984] = true,
 					},
-					["cooldown"] = 24,
-					["texture"] = 135856,
+					["cooldown"] = 120,
+					["texture"] = 132089,
 				},
 				["Ursol's Vortex"] = {
 					["enabled"] = true,
@@ -21775,14 +21776,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 571588,
 				},
-				["Blood Mirror"] = {
+				["Ice Block"] = {
 					["enabled"] = true,
-					["refSpellID"] = 206977,
+					["refSpellID"] = 45438,
 					["spellIDs"] = {
-						[206977] = true,
+						[45438] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 134084,
+					["cooldown"] = 240,
+					["texture"] = 135841,
 				},
 				["Dispersion"] = {
 					["enabled"] = true,
@@ -21793,50 +21794,50 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 237563,
 				},
-				["Revival"] = {
+				["Guardian of Ancient Kings"] = {
 					["enabled"] = true,
-					["refSpellID"] = 115310,
+					["refSpellID"] = 86659,
 					["spellIDs"] = {
-						[115310] = true,
+						[86659] = true,
 					},
-					["cooldown"] = 180,
-					["texture"] = 1020466,
+					["cooldown"] = 300,
+					["texture"] = 135919,
 				},
-				["Blessing of Sacrifice"] = {
+				["Demonic Trample"] = {
 					["enabled"] = true,
-					["refSpellID"] = 6940,
+					["refSpellID"] = 205629,
 					["spellIDs"] = {
-						[6940] = true,
+						[205629] = true,
 					},
-					["cooldown"] = 75,
-					["texture"] = 135966,
+					["cooldown"] = 30,
+					["texture"] = 134294,
 				},
-				["Power Word: Barrier"] = {
+				["Diffuse Magic"] = {
 					["enabled"] = true,
-					["refSpellID"] = 62618,
+					["refSpellID"] = 122783,
 					["spellIDs"] = {
-						[62618] = true,
+						[122783] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 253400,
+					["cooldown"] = 90,
+					["texture"] = 775460,
 				},
-				["Dampen Harm"] = {
+				["Blur"] = {
 					["enabled"] = true,
-					["refSpellID"] = 122278,
+					["refSpellID"] = 198589,
 					["spellIDs"] = {
-						[122278] = true,
+						[198589] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 620827,
+					["cooldown"] = 60,
+					["texture"] = 1305150,
 				},
-				["Parley"] = {
+				["Evocation"] = {
 					["enabled"] = true,
-					["refSpellID"] = 199743,
+					["refSpellID"] = 12051,
 					["spellIDs"] = {
-						[199743] = true,
+						[12051] = true,
 					},
-					["cooldown"] = 20,
-					["texture"] = 236448,
+					["cooldown"] = 90,
+					["texture"] = 136075,
 				},
 				["Dragon Charge"] = {
 					["enabled"] = true,
@@ -21847,23 +21848,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 20,
 					["texture"] = 1380676,
 				},
-				["Shadowstep"] = {
+				["Essence of G'Hanir"] = {
 					["enabled"] = true,
-					["refSpellID"] = 36554,
+					["refSpellID"] = 208253,
 					["spellIDs"] = {
-						[36554] = true,
+						[208253] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 132303,
+					["cooldown"] = 90,
+					["texture"] = 1115592,
 				},
-				["Bloodlust"] = {
+				["Intercept"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2825,
+					["refSpellID"] = 198304,
 					["spellIDs"] = {
-						[2825] = true,
+						[198304] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 136012,
+					["cooldown"] = 17,
+					["texture"] = 132365,
 				},
 				["Typhoon"] = {
 					["enabled"] = true,
@@ -21901,23 +21902,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 180,
 					["texture"] = 135872,
 				},
-				["Reverse Magic"] = {
+				["Barkskin"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205604,
+					["refSpellID"] = 22812,
 					["spellIDs"] = {
-						[205604] = true,
+						[22812] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 1380372,
+					["texture"] = 136097,
 				},
-				["Kick"] = {
+				["Spirit of Redemption"] = {
 					["enabled"] = true,
-					["refSpellID"] = 1766,
+					["refSpellID"] = 215769,
 					["spellIDs"] = {
-						[1766] = true,
+						[215769] = true,
 					},
-					["cooldown"] = 15,
-					["texture"] = 132219,
+					["cooldown"] = 300,
+					["texture"] = 132864,
 				},
 				["Spell Lock"] = {
 					["enabled"] = true,
@@ -21928,19 +21929,18 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 24,
 					["texture"] = 136174,
 				},
-				["Sigil of Silence"] = {
+				["Force of Nature"] = {
 					["enabled"] = true,
-					["refSpellID"] = 202137,
+					["refSpellID"] = 205636,
 					["spellIDs"] = {
-						[202137] = true,
+						[205636] = true,
 					},
-					["cooldown"] = 36,
-					["texture"] = 1418288,
+					["cooldown"] = 60,
+					["texture"] = 132129,
 				},
 			},
-			["DBVersion"] = 8,
 		},
-		["Fhayrin - Area 52"] = {
+		["Rotrin - Area 52"] = {
 			["DBVersion"] = 8,
 			["SpellCDs"] = {
 				["Life Cocoon"] = {
@@ -23554,14 +23554,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 136214,
 				},
-				["Force of Nature"] = {
+				["Sigil of Silence"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205636,
+					["refSpellID"] = 202137,
 					["spellIDs"] = {
-						[205636] = true,
+						[202137] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 132129,
+					["cooldown"] = 36,
+					["texture"] = 1418288,
 				},
 				["Master's Call"] = {
 					["enabled"] = true,
@@ -23581,14 +23581,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 25,
 					["texture"] = 1033909,
 				},
-				["Spirit of Redemption"] = {
+				["Kick"] = {
 					["enabled"] = true,
-					["refSpellID"] = 215769,
+					["refSpellID"] = 1766,
 					["spellIDs"] = {
-						[215769] = true,
+						[1766] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 132864,
+					["cooldown"] = 15,
+					["texture"] = 132219,
 				},
 				["Invoke Xuen, the White Tiger"] = {
 					["enabled"] = true,
@@ -23608,14 +23608,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 300,
 					["texture"] = 135865,
 				},
-				["Barkskin"] = {
+				["Reverse Magic"] = {
 					["enabled"] = true,
-					["refSpellID"] = 22812,
+					["refSpellID"] = 205604,
 					["spellIDs"] = {
-						[22812] = true,
+						[205604] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 136097,
+					["texture"] = 1380372,
 				},
 				["Ironbark"] = {
 					["enabled"] = true,
@@ -23653,23 +23653,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 651728,
 				},
-				["Intercept"] = {
+				["Bloodlust"] = {
 					["enabled"] = true,
-					["refSpellID"] = 198304,
+					["refSpellID"] = 2825,
 					["spellIDs"] = {
-						[198304] = true,
+						[2825] = true,
 					},
-					["cooldown"] = 17,
-					["texture"] = 132365,
+					["cooldown"] = 60,
+					["texture"] = 136012,
 				},
-				["Essence of G'Hanir"] = {
+				["Shadowstep"] = {
 					["enabled"] = true,
-					["refSpellID"] = 208253,
+					["refSpellID"] = 36554,
 					["spellIDs"] = {
-						[208253] = true,
+						[36554] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 1115592,
+					["cooldown"] = 30,
+					["texture"] = 132303,
 				},
 				["Kidney Shot"] = {
 					["enabled"] = true,
@@ -23689,23 +23689,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 1029585,
 				},
-				["Evocation"] = {
+				["Parley"] = {
 					["enabled"] = true,
-					["refSpellID"] = 12051,
+					["refSpellID"] = 199743,
 					["spellIDs"] = {
-						[12051] = true,
+						[199743] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 136075,
+					["cooldown"] = 20,
+					["texture"] = 236448,
 				},
-				["Blur"] = {
+				["Dampen Harm"] = {
 					["enabled"] = true,
-					["refSpellID"] = 198589,
+					["refSpellID"] = 122278,
 					["spellIDs"] = {
-						[198589] = true,
+						[122278] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 1305150,
+					["cooldown"] = 120,
+					["texture"] = 620827,
 				},
 				["Dire Beast: Basilisk"] = {
 					["enabled"] = true,
@@ -23716,14 +23716,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 1412204,
 				},
-				["Diffuse Magic"] = {
+				["Power Word: Barrier"] = {
 					["enabled"] = true,
-					["refSpellID"] = 122783,
+					["refSpellID"] = 62618,
 					["spellIDs"] = {
-						[122783] = true,
+						[62618] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 775460,
+					["cooldown"] = 120,
+					["texture"] = 253400,
 				},
 				["Tombstone"] = {
 					["enabled"] = true,
@@ -23734,23 +23734,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 132151,
 				},
-				["Demonic Trample"] = {
+				["Blessing of Sacrifice"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205629,
+					["refSpellID"] = 6940,
 					["spellIDs"] = {
-						[205629] = true,
+						[6940] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 134294,
+					["cooldown"] = 75,
+					["texture"] = 135966,
 				},
-				["Guardian of Ancient Kings"] = {
+				["Revival"] = {
 					["enabled"] = true,
-					["refSpellID"] = 86659,
+					["refSpellID"] = 115310,
 					["spellIDs"] = {
-						[86659] = true,
+						[115310] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 135919,
+					["cooldown"] = 180,
+					["texture"] = 1020466,
 				},
 				["Nether Bond"] = {
 					["enabled"] = true,
@@ -23779,14 +23779,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 25,
 					["texture"] = 135968,
 				},
-				["Ice Block"] = {
+				["Blood Mirror"] = {
 					["enabled"] = true,
-					["refSpellID"] = 45438,
+					["refSpellID"] = 206977,
 					["spellIDs"] = {
-						[45438] = true,
+						[206977] = true,
 					},
-					["cooldown"] = 240,
-					["texture"] = 135841,
+					["cooldown"] = 120,
+					["texture"] = 134084,
 				},
 				["Invisibility"] = {
 					["enabled"] = true,
@@ -23824,32 +23824,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 20,
 					["texture"] = 134153,
 				},
-				["Shadowmeld"] = {
+				["Counterspell"] = {
 					["enabled"] = true,
-					["refSpellID"] = 58984,
+					["refSpellID"] = 2139,
 					["spellIDs"] = {
-						[58984] = true,
+						[2139] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 132089,
+					["cooldown"] = 24,
+					["texture"] = 135856,
 				},
-				["Greater Fade"] = {
+				["Earthgrab Totem"] = {
 					["enabled"] = true,
-					["refSpellID"] = 213602,
+					["refSpellID"] = 51485,
 					["spellIDs"] = {
-						[213602] = true,
+						[51485] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 135994,
+					["texture"] = 136100,
 				},
-				["Pain Suppression"] = {
+				["Holy Avenger"] = {
 					["enabled"] = true,
-					["refSpellID"] = 33206,
+					["refSpellID"] = 105809,
 					["spellIDs"] = {
-						[33206] = true,
+						[105809] = true,
 					},
-					["cooldown"] = 210,
-					["texture"] = 135936,
+					["cooldown"] = 90,
+					["texture"] = 571555,
 				},
 				["Illidan's Grasp"] = {
 					["enabled"] = true,
@@ -23878,23 +23878,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 1376045,
 				},
-				["Wyvern Sting"] = {
+				["Power Infusion"] = {
 					["enabled"] = true,
-					["refSpellID"] = 19386,
+					["refSpellID"] = 10060,
 					["spellIDs"] = {
-						[19386] = true,
+						[10060] = true,
 					},
-					["cooldown"] = 45,
-					["texture"] = 135125,
+					["cooldown"] = 120,
+					["texture"] = 135939,
 				},
-				["Duel"] = {
+				["Feral Lunge"] = {
 					["enabled"] = true,
-					["refSpellID"] = 236273,
+					["refSpellID"] = 196884,
 					["spellIDs"] = {
-						[236273] = true,
+						[196884] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 1455893,
+					["cooldown"] = 30,
+					["texture"] = 1027879,
 				},
 				["Unending Resolve"] = {
 					["enabled"] = true,
@@ -23905,32 +23905,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 150,
 					["texture"] = 136150,
 				},
-				["Netherwalk"] = {
+				["Aspect of the Turtle"] = {
 					["enabled"] = true,
-					["refSpellID"] = 196555,
+					["refSpellID"] = 186265,
 					["spellIDs"] = {
-						[196555] = true,
+						[186265] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 132199,
+				},
+				["Dark Regeneration"] = {
+					["enabled"] = true,
+					["refSpellID"] = 108359,
+					["spellIDs"] = {
+						[108359] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 463284,
+					["texture"] = 537516,
 				},
-				["Chaos Nova"] = {
+				["Shadowy Duel"] = {
 					["enabled"] = true,
-					["refSpellID"] = 179057,
+					["refSpellID"] = 207736,
 					["spellIDs"] = {
-						[179057] = true,
+						[207736] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 135795,
-				},
-				["Cheat Death"] = {
-					["enabled"] = true,
-					["refSpellID"] = 31230,
-					["spellIDs"] = {
-						[31230] = true,
-					},
-					["cooldown"] = 360,
-					["texture"] = 132285,
+					["cooldown"] = 120,
+					["texture"] = 1020341,
 				},
 				["Vendetta"] = {
 					["enabled"] = true,
@@ -23941,14 +23941,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 458726,
 				},
-				["Bladestorm"] = {
+				["Storm Bolt"] = {
 					["enabled"] = true,
-					["refSpellID"] = 227847,
+					["refSpellID"] = 107570,
 					["spellIDs"] = {
-						[227847] = true,
+						[107570] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 236303,
+					["cooldown"] = 30,
+					["texture"] = 613535,
+				},
+				["Rebuke"] = {
+					["enabled"] = true,
+					["refSpellID"] = 96231,
+					["spellIDs"] = {
+						[96231] = true,
+					},
+					["cooldown"] = 15,
+					["texture"] = 523893,
 				},
 				["Shambling Rush"] = {
 					["enabled"] = true,
@@ -23959,23 +23968,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 30,
 					["texture"] = 237569,
 				},
-				["Dark Transformation"] = {
+				["Adrenaline Rush"] = {
 					["enabled"] = true,
-					["refSpellID"] = 63560,
+					["refSpellID"] = 13750,
 					["spellIDs"] = {
-						[63560] = true,
+						[13750] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 342913,
-				},
-				["Shadowfury"] = {
-					["enabled"] = true,
-					["refSpellID"] = 30283,
-					["spellIDs"] = {
-						[30283] = true,
-					},
-					["cooldown"] = 30,
-					["texture"] = 607865,
+					["cooldown"] = 150,
+					["texture"] = 136206,
 				},
 				["Blessing of Protection"] = {
 					["enabled"] = true,
@@ -23995,77 +23995,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135824,
 				},
-				["Trueshot"] = {
+				["Strangulate"] = {
 					["enabled"] = true,
-					["refSpellID"] = 193526,
+					["refSpellID"] = 47476,
 					["spellIDs"] = {
-						[193526] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 132329,
-				},
-				["Avenging Wrath"] = {
-					["enabled"] = true,
-					["refSpellID"] = 31884,
-					["spellIDs"] = {
-						[31884] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 135875,
-				},
-				["Freezing Trap"] = {
-					["enabled"] = true,
-					["refSpellID"] = 187650,
-					["spellIDs"] = {
-						[187650] = true,
-					},
-					["cooldown"] = 25,
-					["texture"] = 135834,
-				},
-				["Shockwave"] = {
-					["enabled"] = true,
-					["refSpellID"] = 46968,
-					["spellIDs"] = {
-						[46968] = true,
-					},
-					["cooldown"] = 40,
-					["texture"] = 236312,
-				},
-				["Death Pact"] = {
-					["enabled"] = true,
-					["refSpellID"] = 48743,
-					["spellIDs"] = {
-						[48743] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 136146,
-				},
-				["Gladiator's Medallion"] = {
-					["enabled"] = true,
-					["refSpellID"] = 208683,
-					["spellIDs"] = {
-						[208683] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 1322720,
-				},
-				["Dancing Rune Weapon"] = {
-					["enabled"] = true,
-					["refSpellID"] = 49028,
-					["spellIDs"] = {
-						[49028] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 135277,
-				},
-				["Guardian Spirit"] = {
-					["enabled"] = true,
-					["refSpellID"] = 47788,
-					["spellIDs"] = {
-						[47788] = true,
+						[47476] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 237542,
+					["texture"] = 136214,
 				},
 				["Healing Tide Totem"] = {
 					["enabled"] = true,
@@ -24076,86 +24013,149 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 180,
 					["texture"] = 538569,
 				},
-				["Strangulate"] = {
+				["Guardian Spirit"] = {
 					["enabled"] = true,
-					["refSpellID"] = 47476,
+					["refSpellID"] = 47788,
 					["spellIDs"] = {
-						[47476] = true,
+						[47788] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 136214,
+					["texture"] = 237542,
 				},
-				["Adrenaline Rush"] = {
+				["Dancing Rune Weapon"] = {
 					["enabled"] = true,
-					["refSpellID"] = 13750,
+					["refSpellID"] = 49028,
 					["spellIDs"] = {
-						[13750] = true,
-					},
-					["cooldown"] = 150,
-					["texture"] = 136206,
-				},
-				["Rebuke"] = {
-					["enabled"] = true,
-					["refSpellID"] = 96231,
-					["spellIDs"] = {
-						[96231] = true,
-					},
-					["cooldown"] = 15,
-					["texture"] = 523893,
-				},
-				["Storm Bolt"] = {
-					["enabled"] = true,
-					["refSpellID"] = 107570,
-					["spellIDs"] = {
-						[107570] = true,
-					},
-					["cooldown"] = 30,
-					["texture"] = 613535,
-				},
-				["Shadowy Duel"] = {
-					["enabled"] = true,
-					["refSpellID"] = 207736,
-					["spellIDs"] = {
-						[207736] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 1020341,
-				},
-				["Dark Regeneration"] = {
-					["enabled"] = true,
-					["refSpellID"] = 108359,
-					["spellIDs"] = {
-						[108359] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 537516,
-				},
-				["Aspect of the Turtle"] = {
-					["enabled"] = true,
-					["refSpellID"] = 186265,
-					["spellIDs"] = {
-						[186265] = true,
+						[49028] = true,
 					},
 					["cooldown"] = 180,
-					["texture"] = 132199,
+					["texture"] = 135277,
 				},
-				["Feral Lunge"] = {
+				["Gladiator's Medallion"] = {
 					["enabled"] = true,
-					["refSpellID"] = 196884,
+					["refSpellID"] = 208683,
 					["spellIDs"] = {
-						[196884] = true,
-					},
-					["cooldown"] = 30,
-					["texture"] = 1027879,
-				},
-				["Power Infusion"] = {
-					["enabled"] = true,
-					["refSpellID"] = 10060,
-					["spellIDs"] = {
-						[10060] = true,
+						[208683] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 135939,
+					["texture"] = 1322720,
+				},
+				["Death Pact"] = {
+					["enabled"] = true,
+					["refSpellID"] = 48743,
+					["spellIDs"] = {
+						[48743] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 136146,
+				},
+				["Shockwave"] = {
+					["enabled"] = true,
+					["refSpellID"] = 46968,
+					["spellIDs"] = {
+						[46968] = true,
+					},
+					["cooldown"] = 40,
+					["texture"] = 236312,
+				},
+				["Freezing Trap"] = {
+					["enabled"] = true,
+					["refSpellID"] = 187650,
+					["spellIDs"] = {
+						[187650] = true,
+					},
+					["cooldown"] = 25,
+					["texture"] = 135834,
+				},
+				["Avenging Wrath"] = {
+					["enabled"] = true,
+					["refSpellID"] = 31884,
+					["spellIDs"] = {
+						[31884] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 135875,
+				},
+				["Trueshot"] = {
+					["enabled"] = true,
+					["refSpellID"] = 193526,
+					["spellIDs"] = {
+						[193526] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 132329,
+				},
+				["Shadowfury"] = {
+					["enabled"] = true,
+					["refSpellID"] = 30283,
+					["spellIDs"] = {
+						[30283] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 607865,
+				},
+				["Dark Transformation"] = {
+					["enabled"] = true,
+					["refSpellID"] = 63560,
+					["spellIDs"] = {
+						[63560] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 342913,
+				},
+				["Bladestorm"] = {
+					["enabled"] = true,
+					["refSpellID"] = 227847,
+					["spellIDs"] = {
+						[227847] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 236303,
+				},
+				["Cheat Death"] = {
+					["enabled"] = true,
+					["refSpellID"] = 31230,
+					["spellIDs"] = {
+						[31230] = true,
+					},
+					["cooldown"] = 360,
+					["texture"] = 132285,
+				},
+				["Chaos Nova"] = {
+					["enabled"] = true,
+					["refSpellID"] = 179057,
+					["spellIDs"] = {
+						[179057] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 135795,
+				},
+				["Netherwalk"] = {
+					["enabled"] = true,
+					["refSpellID"] = 196555,
+					["spellIDs"] = {
+						[196555] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 463284,
+				},
+				["Duel"] = {
+					["enabled"] = true,
+					["refSpellID"] = 236273,
+					["spellIDs"] = {
+						[236273] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 1455893,
+				},
+				["Wyvern Sting"] = {
+					["enabled"] = true,
+					["refSpellID"] = 19386,
+					["spellIDs"] = {
+						[19386] = true,
+					},
+					["cooldown"] = 45,
+					["texture"] = 135125,
 				},
 				["Dismantle"] = {
 					["enabled"] = true,
@@ -24175,32 +24175,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 54,
 					["texture"] = 1418286,
 				},
-				["Holy Avenger"] = {
+				["Pain Suppression"] = {
 					["enabled"] = true,
-					["refSpellID"] = 105809,
+					["refSpellID"] = 33206,
 					["spellIDs"] = {
-						[105809] = true,
+						[33206] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 571555,
+					["cooldown"] = 210,
+					["texture"] = 135936,
 				},
-				["Earthgrab Totem"] = {
+				["Greater Fade"] = {
 					["enabled"] = true,
-					["refSpellID"] = 51485,
+					["refSpellID"] = 213602,
 					["spellIDs"] = {
-						[51485] = true,
+						[213602] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 136100,
+					["texture"] = 135994,
 				},
-				["Counterspell"] = {
+				["Shadowmeld"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2139,
+					["refSpellID"] = 58984,
 					["spellIDs"] = {
-						[2139] = true,
+						[58984] = true,
 					},
-					["cooldown"] = 24,
-					["texture"] = 135856,
+					["cooldown"] = 120,
+					["texture"] = 132089,
 				},
 				["Ursol's Vortex"] = {
 					["enabled"] = true,
@@ -24211,14 +24211,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 571588,
 				},
-				["Blood Mirror"] = {
+				["Ice Block"] = {
 					["enabled"] = true,
-					["refSpellID"] = 206977,
+					["refSpellID"] = 45438,
 					["spellIDs"] = {
-						[206977] = true,
+						[45438] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 134084,
+					["cooldown"] = 240,
+					["texture"] = 135841,
 				},
 				["Dispersion"] = {
 					["enabled"] = true,
@@ -24229,50 +24229,50 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 237563,
 				},
-				["Revival"] = {
+				["Guardian of Ancient Kings"] = {
 					["enabled"] = true,
-					["refSpellID"] = 115310,
+					["refSpellID"] = 86659,
 					["spellIDs"] = {
-						[115310] = true,
+						[86659] = true,
 					},
-					["cooldown"] = 180,
-					["texture"] = 1020466,
+					["cooldown"] = 300,
+					["texture"] = 135919,
 				},
-				["Blessing of Sacrifice"] = {
+				["Demonic Trample"] = {
 					["enabled"] = true,
-					["refSpellID"] = 6940,
+					["refSpellID"] = 205629,
 					["spellIDs"] = {
-						[6940] = true,
+						[205629] = true,
 					},
-					["cooldown"] = 75,
-					["texture"] = 135966,
+					["cooldown"] = 30,
+					["texture"] = 134294,
 				},
-				["Power Word: Barrier"] = {
+				["Diffuse Magic"] = {
 					["enabled"] = true,
-					["refSpellID"] = 62618,
+					["refSpellID"] = 122783,
 					["spellIDs"] = {
-						[62618] = true,
+						[122783] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 253400,
+					["cooldown"] = 90,
+					["texture"] = 775460,
 				},
-				["Dampen Harm"] = {
+				["Blur"] = {
 					["enabled"] = true,
-					["refSpellID"] = 122278,
+					["refSpellID"] = 198589,
 					["spellIDs"] = {
-						[122278] = true,
+						[198589] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 620827,
+					["cooldown"] = 60,
+					["texture"] = 1305150,
 				},
-				["Parley"] = {
+				["Evocation"] = {
 					["enabled"] = true,
-					["refSpellID"] = 199743,
+					["refSpellID"] = 12051,
 					["spellIDs"] = {
-						[199743] = true,
+						[12051] = true,
 					},
-					["cooldown"] = 20,
-					["texture"] = 236448,
+					["cooldown"] = 90,
+					["texture"] = 136075,
 				},
 				["Dragon Charge"] = {
 					["enabled"] = true,
@@ -24283,23 +24283,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 20,
 					["texture"] = 1380676,
 				},
-				["Shadowstep"] = {
+				["Essence of G'Hanir"] = {
 					["enabled"] = true,
-					["refSpellID"] = 36554,
+					["refSpellID"] = 208253,
 					["spellIDs"] = {
-						[36554] = true,
+						[208253] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 132303,
+					["cooldown"] = 90,
+					["texture"] = 1115592,
 				},
-				["Bloodlust"] = {
+				["Intercept"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2825,
+					["refSpellID"] = 198304,
 					["spellIDs"] = {
-						[2825] = true,
+						[198304] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 136012,
+					["cooldown"] = 17,
+					["texture"] = 132365,
 				},
 				["Typhoon"] = {
 					["enabled"] = true,
@@ -24337,23 +24337,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 180,
 					["texture"] = 135872,
 				},
-				["Reverse Magic"] = {
+				["Barkskin"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205604,
+					["refSpellID"] = 22812,
 					["spellIDs"] = {
-						[205604] = true,
+						[22812] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 1380372,
+					["texture"] = 136097,
 				},
-				["Kick"] = {
+				["Spirit of Redemption"] = {
 					["enabled"] = true,
-					["refSpellID"] = 1766,
+					["refSpellID"] = 215769,
 					["spellIDs"] = {
-						[1766] = true,
+						[215769] = true,
 					},
-					["cooldown"] = 15,
-					["texture"] = 132219,
+					["cooldown"] = 300,
+					["texture"] = 132864,
 				},
 				["Spell Lock"] = {
 					["enabled"] = true,
@@ -24364,18 +24364,19 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 24,
 					["texture"] = 136174,
 				},
-				["Sigil of Silence"] = {
+				["Force of Nature"] = {
 					["enabled"] = true,
-					["refSpellID"] = 202137,
+					["refSpellID"] = 205636,
 					["spellIDs"] = {
-						[202137] = true,
+						[205636] = true,
 					},
-					["cooldown"] = 36,
-					["texture"] = 1418288,
+					["cooldown"] = 60,
+					["texture"] = 132129,
 				},
 			},
 		},
 		["Uwutuskdaddy - Area 52"] = {
+			["DBVersion"] = 8,
 			["SpellCDs"] = {
 				["Life Cocoon"] = {
 					["enabled"] = true,
@@ -25988,14 +25989,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 136214,
 				},
-				["Sigil of Silence"] = {
+				["Force of Nature"] = {
 					["enabled"] = true,
-					["refSpellID"] = 202137,
+					["refSpellID"] = 205636,
 					["spellIDs"] = {
-						[202137] = true,
+						[205636] = true,
 					},
-					["cooldown"] = 36,
-					["texture"] = 1418288,
+					["cooldown"] = 60,
+					["texture"] = 132129,
 				},
 				["Master's Call"] = {
 					["enabled"] = true,
@@ -26015,14 +26016,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 25,
 					["texture"] = 1033909,
 				},
-				["Kick"] = {
+				["Spirit of Redemption"] = {
 					["enabled"] = true,
-					["refSpellID"] = 1766,
+					["refSpellID"] = 215769,
 					["spellIDs"] = {
-						[1766] = true,
+						[215769] = true,
 					},
-					["cooldown"] = 15,
-					["texture"] = 132219,
+					["cooldown"] = 300,
+					["texture"] = 132864,
 				},
 				["Invoke Xuen, the White Tiger"] = {
 					["enabled"] = true,
@@ -26042,14 +26043,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 300,
 					["texture"] = 135865,
 				},
-				["Reverse Magic"] = {
+				["Barkskin"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205604,
+					["refSpellID"] = 22812,
 					["spellIDs"] = {
-						[205604] = true,
+						[22812] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 1380372,
+					["texture"] = 136097,
 				},
 				["Ironbark"] = {
 					["enabled"] = true,
@@ -26087,23 +26088,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 651728,
 				},
-				["Bloodlust"] = {
+				["Intercept"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2825,
+					["refSpellID"] = 198304,
 					["spellIDs"] = {
-						[2825] = true,
+						[198304] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 136012,
+					["cooldown"] = 17,
+					["texture"] = 132365,
 				},
-				["Shadowstep"] = {
+				["Essence of G'Hanir"] = {
 					["enabled"] = true,
-					["refSpellID"] = 36554,
+					["refSpellID"] = 208253,
 					["spellIDs"] = {
-						[36554] = true,
+						[208253] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 132303,
+					["cooldown"] = 90,
+					["texture"] = 1115592,
 				},
 				["Kidney Shot"] = {
 					["enabled"] = true,
@@ -26123,23 +26124,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 1029585,
 				},
-				["Parley"] = {
+				["Evocation"] = {
 					["enabled"] = true,
-					["refSpellID"] = 199743,
+					["refSpellID"] = 12051,
 					["spellIDs"] = {
-						[199743] = true,
+						[12051] = true,
 					},
-					["cooldown"] = 20,
-					["texture"] = 236448,
+					["cooldown"] = 90,
+					["texture"] = 136075,
 				},
-				["Dampen Harm"] = {
+				["Blur"] = {
 					["enabled"] = true,
-					["refSpellID"] = 122278,
+					["refSpellID"] = 198589,
 					["spellIDs"] = {
-						[122278] = true,
+						[198589] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 620827,
+					["cooldown"] = 60,
+					["texture"] = 1305150,
 				},
 				["Dire Beast: Basilisk"] = {
 					["enabled"] = true,
@@ -26150,14 +26151,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 1412204,
 				},
-				["Power Word: Barrier"] = {
+				["Diffuse Magic"] = {
 					["enabled"] = true,
-					["refSpellID"] = 62618,
+					["refSpellID"] = 122783,
 					["spellIDs"] = {
-						[62618] = true,
+						[122783] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 253400,
+					["cooldown"] = 90,
+					["texture"] = 775460,
 				},
 				["Tombstone"] = {
 					["enabled"] = true,
@@ -26168,23 +26169,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 132151,
 				},
-				["Blessing of Sacrifice"] = {
+				["Demonic Trample"] = {
 					["enabled"] = true,
-					["refSpellID"] = 6940,
+					["refSpellID"] = 205629,
 					["spellIDs"] = {
-						[6940] = true,
+						[205629] = true,
 					},
-					["cooldown"] = 75,
-					["texture"] = 135966,
+					["cooldown"] = 30,
+					["texture"] = 134294,
 				},
-				["Revival"] = {
+				["Guardian of Ancient Kings"] = {
 					["enabled"] = true,
-					["refSpellID"] = 115310,
+					["refSpellID"] = 86659,
 					["spellIDs"] = {
-						[115310] = true,
+						[86659] = true,
 					},
-					["cooldown"] = 180,
-					["texture"] = 1020466,
+					["cooldown"] = 300,
+					["texture"] = 135919,
 				},
 				["Nether Bond"] = {
 					["enabled"] = true,
@@ -26213,14 +26214,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 25,
 					["texture"] = 135968,
 				},
-				["Blood Mirror"] = {
+				["Ice Block"] = {
 					["enabled"] = true,
-					["refSpellID"] = 206977,
+					["refSpellID"] = 45438,
 					["spellIDs"] = {
-						[206977] = true,
+						[45438] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 134084,
+					["cooldown"] = 240,
+					["texture"] = 135841,
 				},
 				["Invisibility"] = {
 					["enabled"] = true,
@@ -26258,32 +26259,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 20,
 					["texture"] = 134153,
 				},
-				["Counterspell"] = {
+				["Shadowmeld"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2139,
+					["refSpellID"] = 58984,
 					["spellIDs"] = {
-						[2139] = true,
+						[58984] = true,
 					},
-					["cooldown"] = 24,
-					["texture"] = 135856,
+					["cooldown"] = 120,
+					["texture"] = 132089,
 				},
-				["Earthgrab Totem"] = {
+				["Greater Fade"] = {
 					["enabled"] = true,
-					["refSpellID"] = 51485,
+					["refSpellID"] = 213602,
 					["spellIDs"] = {
-						[51485] = true,
+						[213602] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 136100,
+					["texture"] = 135994,
 				},
-				["Holy Avenger"] = {
+				["Pain Suppression"] = {
 					["enabled"] = true,
-					["refSpellID"] = 105809,
+					["refSpellID"] = 33206,
 					["spellIDs"] = {
-						[105809] = true,
+						[33206] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 571555,
+					["cooldown"] = 210,
+					["texture"] = 135936,
 				},
 				["Illidan's Grasp"] = {
 					["enabled"] = true,
@@ -26312,23 +26313,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 1376045,
 				},
-				["Power Infusion"] = {
+				["Wyvern Sting"] = {
 					["enabled"] = true,
-					["refSpellID"] = 10060,
+					["refSpellID"] = 19386,
 					["spellIDs"] = {
-						[10060] = true,
+						[19386] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 135939,
+					["cooldown"] = 45,
+					["texture"] = 135125,
 				},
-				["Feral Lunge"] = {
+				["Duel"] = {
 					["enabled"] = true,
-					["refSpellID"] = 196884,
+					["refSpellID"] = 236273,
 					["spellIDs"] = {
-						[196884] = true,
+						[236273] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 1027879,
+					["cooldown"] = 60,
+					["texture"] = 1455893,
 				},
 				["Unending Resolve"] = {
 					["enabled"] = true,
@@ -26339,32 +26340,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 150,
 					["texture"] = 136150,
 				},
-				["Aspect of the Turtle"] = {
+				["Netherwalk"] = {
 					["enabled"] = true,
-					["refSpellID"] = 186265,
+					["refSpellID"] = 196555,
 					["spellIDs"] = {
-						[186265] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 132199,
-				},
-				["Dark Regeneration"] = {
-					["enabled"] = true,
-					["refSpellID"] = 108359,
-					["spellIDs"] = {
-						[108359] = true,
+						[196555] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 537516,
+					["texture"] = 463284,
 				},
-				["Shadowy Duel"] = {
+				["Chaos Nova"] = {
 					["enabled"] = true,
-					["refSpellID"] = 207736,
+					["refSpellID"] = 179057,
 					["spellIDs"] = {
-						[207736] = true,
+						[179057] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 1020341,
+					["cooldown"] = 60,
+					["texture"] = 135795,
+				},
+				["Cheat Death"] = {
+					["enabled"] = true,
+					["refSpellID"] = 31230,
+					["spellIDs"] = {
+						[31230] = true,
+					},
+					["cooldown"] = 360,
+					["texture"] = 132285,
 				},
 				["Vendetta"] = {
 					["enabled"] = true,
@@ -26375,23 +26376,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 458726,
 				},
-				["Storm Bolt"] = {
+				["Bladestorm"] = {
 					["enabled"] = true,
-					["refSpellID"] = 107570,
+					["refSpellID"] = 227847,
 					["spellIDs"] = {
-						[107570] = true,
+						[227847] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 613535,
-				},
-				["Rebuke"] = {
-					["enabled"] = true,
-					["refSpellID"] = 96231,
-					["spellIDs"] = {
-						[96231] = true,
-					},
-					["cooldown"] = 15,
-					["texture"] = 523893,
+					["cooldown"] = 60,
+					["texture"] = 236303,
 				},
 				["Shambling Rush"] = {
 					["enabled"] = true,
@@ -26402,14 +26394,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 30,
 					["texture"] = 237569,
 				},
-				["Adrenaline Rush"] = {
+				["Dark Transformation"] = {
 					["enabled"] = true,
-					["refSpellID"] = 13750,
+					["refSpellID"] = 63560,
 					["spellIDs"] = {
-						[13750] = true,
+						[63560] = true,
 					},
-					["cooldown"] = 150,
-					["texture"] = 136206,
+					["cooldown"] = 60,
+					["texture"] = 342913,
+				},
+				["Shadowfury"] = {
+					["enabled"] = true,
+					["refSpellID"] = 30283,
+					["spellIDs"] = {
+						[30283] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 607865,
 				},
 				["Blessing of Protection"] = {
 					["enabled"] = true,
@@ -26429,77 +26430,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135824,
 				},
-				["Strangulate"] = {
+				["Trueshot"] = {
 					["enabled"] = true,
-					["refSpellID"] = 47476,
+					["refSpellID"] = 193526,
 					["spellIDs"] = {
-						[47476] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 136214,
-				},
-				["Healing Tide Totem"] = {
-					["enabled"] = true,
-					["refSpellID"] = 108280,
-					["spellIDs"] = {
-						[108280] = true,
+						[193526] = true,
 					},
 					["cooldown"] = 180,
-					["texture"] = 538569,
-				},
-				["Guardian Spirit"] = {
-					["enabled"] = true,
-					["refSpellID"] = 47788,
-					["spellIDs"] = {
-						[47788] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 237542,
-				},
-				["Dancing Rune Weapon"] = {
-					["enabled"] = true,
-					["refSpellID"] = 49028,
-					["spellIDs"] = {
-						[49028] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 135277,
-				},
-				["Gladiator's Medallion"] = {
-					["enabled"] = true,
-					["refSpellID"] = 208683,
-					["spellIDs"] = {
-						[208683] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 1322720,
-				},
-				["Death Pact"] = {
-					["enabled"] = true,
-					["refSpellID"] = 48743,
-					["spellIDs"] = {
-						[48743] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 136146,
-				},
-				["Shockwave"] = {
-					["enabled"] = true,
-					["refSpellID"] = 46968,
-					["spellIDs"] = {
-						[46968] = true,
-					},
-					["cooldown"] = 40,
-					["texture"] = 236312,
-				},
-				["Freezing Trap"] = {
-					["enabled"] = true,
-					["refSpellID"] = 187650,
-					["spellIDs"] = {
-						[187650] = true,
-					},
-					["cooldown"] = 25,
-					["texture"] = 135834,
+					["texture"] = 132329,
 				},
 				["Avenging Wrath"] = {
 					["enabled"] = true,
@@ -26510,86 +26448,149 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135875,
 				},
-				["Trueshot"] = {
+				["Freezing Trap"] = {
 					["enabled"] = true,
-					["refSpellID"] = 193526,
+					["refSpellID"] = 187650,
 					["spellIDs"] = {
-						[193526] = true,
+						[187650] = true,
 					},
-					["cooldown"] = 180,
-					["texture"] = 132329,
+					["cooldown"] = 25,
+					["texture"] = 135834,
 				},
-				["Shadowfury"] = {
+				["Shockwave"] = {
 					["enabled"] = true,
-					["refSpellID"] = 30283,
+					["refSpellID"] = 46968,
 					["spellIDs"] = {
-						[30283] = true,
+						[46968] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 607865,
+					["cooldown"] = 40,
+					["texture"] = 236312,
 				},
-				["Dark Transformation"] = {
+				["Death Pact"] = {
 					["enabled"] = true,
-					["refSpellID"] = 63560,
+					["refSpellID"] = 48743,
 					["spellIDs"] = {
-						[63560] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 342913,
-				},
-				["Bladestorm"] = {
-					["enabled"] = true,
-					["refSpellID"] = 227847,
-					["spellIDs"] = {
-						[227847] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 236303,
-				},
-				["Cheat Death"] = {
-					["enabled"] = true,
-					["refSpellID"] = 31230,
-					["spellIDs"] = {
-						[31230] = true,
-					},
-					["cooldown"] = 360,
-					["texture"] = 132285,
-				},
-				["Chaos Nova"] = {
-					["enabled"] = true,
-					["refSpellID"] = 179057,
-					["spellIDs"] = {
-						[179057] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 135795,
-				},
-				["Netherwalk"] = {
-					["enabled"] = true,
-					["refSpellID"] = 196555,
-					["spellIDs"] = {
-						[196555] = true,
+						[48743] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 463284,
+					["texture"] = 136146,
 				},
-				["Duel"] = {
+				["Gladiator's Medallion"] = {
 					["enabled"] = true,
-					["refSpellID"] = 236273,
+					["refSpellID"] = 208683,
 					["spellIDs"] = {
-						[236273] = true,
+						[208683] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 1322720,
+				},
+				["Dancing Rune Weapon"] = {
+					["enabled"] = true,
+					["refSpellID"] = 49028,
+					["spellIDs"] = {
+						[49028] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 135277,
+				},
+				["Guardian Spirit"] = {
+					["enabled"] = true,
+					["refSpellID"] = 47788,
+					["spellIDs"] = {
+						[47788] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 1455893,
+					["texture"] = 237542,
 				},
-				["Wyvern Sting"] = {
+				["Healing Tide Totem"] = {
 					["enabled"] = true,
-					["refSpellID"] = 19386,
+					["refSpellID"] = 108280,
 					["spellIDs"] = {
-						[19386] = true,
+						[108280] = true,
 					},
-					["cooldown"] = 45,
-					["texture"] = 135125,
+					["cooldown"] = 180,
+					["texture"] = 538569,
+				},
+				["Strangulate"] = {
+					["enabled"] = true,
+					["refSpellID"] = 47476,
+					["spellIDs"] = {
+						[47476] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 136214,
+				},
+				["Adrenaline Rush"] = {
+					["enabled"] = true,
+					["refSpellID"] = 13750,
+					["spellIDs"] = {
+						[13750] = true,
+					},
+					["cooldown"] = 150,
+					["texture"] = 136206,
+				},
+				["Rebuke"] = {
+					["enabled"] = true,
+					["refSpellID"] = 96231,
+					["spellIDs"] = {
+						[96231] = true,
+					},
+					["cooldown"] = 15,
+					["texture"] = 523893,
+				},
+				["Storm Bolt"] = {
+					["enabled"] = true,
+					["refSpellID"] = 107570,
+					["spellIDs"] = {
+						[107570] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 613535,
+				},
+				["Shadowy Duel"] = {
+					["enabled"] = true,
+					["refSpellID"] = 207736,
+					["spellIDs"] = {
+						[207736] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 1020341,
+				},
+				["Dark Regeneration"] = {
+					["enabled"] = true,
+					["refSpellID"] = 108359,
+					["spellIDs"] = {
+						[108359] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 537516,
+				},
+				["Aspect of the Turtle"] = {
+					["enabled"] = true,
+					["refSpellID"] = 186265,
+					["spellIDs"] = {
+						[186265] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 132199,
+				},
+				["Feral Lunge"] = {
+					["enabled"] = true,
+					["refSpellID"] = 196884,
+					["spellIDs"] = {
+						[196884] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 1027879,
+				},
+				["Power Infusion"] = {
+					["enabled"] = true,
+					["refSpellID"] = 10060,
+					["spellIDs"] = {
+						[10060] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 135939,
 				},
 				["Dismantle"] = {
 					["enabled"] = true,
@@ -26609,32 +26610,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 54,
 					["texture"] = 1418286,
 				},
-				["Pain Suppression"] = {
+				["Holy Avenger"] = {
 					["enabled"] = true,
-					["refSpellID"] = 33206,
+					["refSpellID"] = 105809,
 					["spellIDs"] = {
-						[33206] = true,
+						[105809] = true,
 					},
-					["cooldown"] = 210,
-					["texture"] = 135936,
+					["cooldown"] = 90,
+					["texture"] = 571555,
 				},
-				["Greater Fade"] = {
+				["Earthgrab Totem"] = {
 					["enabled"] = true,
-					["refSpellID"] = 213602,
+					["refSpellID"] = 51485,
 					["spellIDs"] = {
-						[213602] = true,
+						[51485] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 135994,
+					["texture"] = 136100,
 				},
-				["Shadowmeld"] = {
+				["Counterspell"] = {
 					["enabled"] = true,
-					["refSpellID"] = 58984,
+					["refSpellID"] = 2139,
 					["spellIDs"] = {
-						[58984] = true,
+						[2139] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 132089,
+					["cooldown"] = 24,
+					["texture"] = 135856,
 				},
 				["Ursol's Vortex"] = {
 					["enabled"] = true,
@@ -26645,14 +26646,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 571588,
 				},
-				["Ice Block"] = {
+				["Blood Mirror"] = {
 					["enabled"] = true,
-					["refSpellID"] = 45438,
+					["refSpellID"] = 206977,
 					["spellIDs"] = {
-						[45438] = true,
+						[206977] = true,
 					},
-					["cooldown"] = 240,
-					["texture"] = 135841,
+					["cooldown"] = 120,
+					["texture"] = 134084,
 				},
 				["Dispersion"] = {
 					["enabled"] = true,
@@ -26663,50 +26664,50 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 237563,
 				},
-				["Guardian of Ancient Kings"] = {
+				["Revival"] = {
 					["enabled"] = true,
-					["refSpellID"] = 86659,
+					["refSpellID"] = 115310,
 					["spellIDs"] = {
-						[86659] = true,
+						[115310] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 135919,
+					["cooldown"] = 180,
+					["texture"] = 1020466,
 				},
-				["Demonic Trample"] = {
+				["Blessing of Sacrifice"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205629,
+					["refSpellID"] = 6940,
 					["spellIDs"] = {
-						[205629] = true,
+						[6940] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 134294,
+					["cooldown"] = 75,
+					["texture"] = 135966,
 				},
-				["Diffuse Magic"] = {
+				["Power Word: Barrier"] = {
 					["enabled"] = true,
-					["refSpellID"] = 122783,
+					["refSpellID"] = 62618,
 					["spellIDs"] = {
-						[122783] = true,
+						[62618] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 775460,
+					["cooldown"] = 120,
+					["texture"] = 253400,
 				},
-				["Blur"] = {
+				["Dampen Harm"] = {
 					["enabled"] = true,
-					["refSpellID"] = 198589,
+					["refSpellID"] = 122278,
 					["spellIDs"] = {
-						[198589] = true,
+						[122278] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 1305150,
+					["cooldown"] = 120,
+					["texture"] = 620827,
 				},
-				["Evocation"] = {
+				["Parley"] = {
 					["enabled"] = true,
-					["refSpellID"] = 12051,
+					["refSpellID"] = 199743,
 					["spellIDs"] = {
-						[12051] = true,
+						[199743] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 136075,
+					["cooldown"] = 20,
+					["texture"] = 236448,
 				},
 				["Dragon Charge"] = {
 					["enabled"] = true,
@@ -26717,23 +26718,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 20,
 					["texture"] = 1380676,
 				},
-				["Essence of G'Hanir"] = {
+				["Shadowstep"] = {
 					["enabled"] = true,
-					["refSpellID"] = 208253,
+					["refSpellID"] = 36554,
 					["spellIDs"] = {
-						[208253] = true,
+						[36554] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 1115592,
+					["cooldown"] = 30,
+					["texture"] = 132303,
 				},
-				["Intercept"] = {
+				["Bloodlust"] = {
 					["enabled"] = true,
-					["refSpellID"] = 198304,
+					["refSpellID"] = 2825,
 					["spellIDs"] = {
-						[198304] = true,
+						[2825] = true,
 					},
-					["cooldown"] = 17,
-					["texture"] = 132365,
+					["cooldown"] = 60,
+					["texture"] = 136012,
 				},
 				["Typhoon"] = {
 					["enabled"] = true,
@@ -26771,23 +26772,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 180,
 					["texture"] = 135872,
 				},
-				["Barkskin"] = {
+				["Reverse Magic"] = {
 					["enabled"] = true,
-					["refSpellID"] = 22812,
+					["refSpellID"] = 205604,
 					["spellIDs"] = {
-						[22812] = true,
+						[205604] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 136097,
+					["texture"] = 1380372,
 				},
-				["Spirit of Redemption"] = {
+				["Kick"] = {
 					["enabled"] = true,
-					["refSpellID"] = 215769,
+					["refSpellID"] = 1766,
 					["spellIDs"] = {
-						[215769] = true,
+						[1766] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 132864,
+					["cooldown"] = 15,
+					["texture"] = 132219,
 				},
 				["Spell Lock"] = {
 					["enabled"] = true,
@@ -26798,20 +26799,18 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 24,
 					["texture"] = 136174,
 				},
-				["Force of Nature"] = {
+				["Sigil of Silence"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205636,
+					["refSpellID"] = 202137,
 					["spellIDs"] = {
-						[205636] = true,
+						[202137] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 132129,
+					["cooldown"] = 36,
+					["texture"] = 1418288,
 				},
 			},
-			["DBVersion"] = 8,
 		},
 		["Pewpybholes - Area 52"] = {
-			["DBVersion"] = 8,
 			["SpellCDs"] = {
 				["Life Cocoon"] = {
 					["enabled"] = true,
@@ -28424,14 +28423,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 136214,
 				},
-				["Force of Nature"] = {
+				["Sigil of Silence"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205636,
+					["refSpellID"] = 202137,
 					["spellIDs"] = {
-						[205636] = true,
+						[202137] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 132129,
+					["cooldown"] = 36,
+					["texture"] = 1418288,
 				},
 				["Master's Call"] = {
 					["enabled"] = true,
@@ -28451,14 +28450,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 25,
 					["texture"] = 1033909,
 				},
-				["Spirit of Redemption"] = {
+				["Kick"] = {
 					["enabled"] = true,
-					["refSpellID"] = 215769,
+					["refSpellID"] = 1766,
 					["spellIDs"] = {
-						[215769] = true,
+						[1766] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 132864,
+					["cooldown"] = 15,
+					["texture"] = 132219,
 				},
 				["Invoke Xuen, the White Tiger"] = {
 					["enabled"] = true,
@@ -28478,14 +28477,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 300,
 					["texture"] = 135865,
 				},
-				["Barkskin"] = {
+				["Reverse Magic"] = {
 					["enabled"] = true,
-					["refSpellID"] = 22812,
+					["refSpellID"] = 205604,
 					["spellIDs"] = {
-						[22812] = true,
+						[205604] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 136097,
+					["texture"] = 1380372,
 				},
 				["Ironbark"] = {
 					["enabled"] = true,
@@ -28523,23 +28522,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 651728,
 				},
-				["Intercept"] = {
+				["Bloodlust"] = {
 					["enabled"] = true,
-					["refSpellID"] = 198304,
+					["refSpellID"] = 2825,
 					["spellIDs"] = {
-						[198304] = true,
+						[2825] = true,
 					},
-					["cooldown"] = 17,
-					["texture"] = 132365,
+					["cooldown"] = 60,
+					["texture"] = 136012,
 				},
-				["Essence of G'Hanir"] = {
+				["Shadowstep"] = {
 					["enabled"] = true,
-					["refSpellID"] = 208253,
+					["refSpellID"] = 36554,
 					["spellIDs"] = {
-						[208253] = true,
+						[36554] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 1115592,
+					["cooldown"] = 30,
+					["texture"] = 132303,
 				},
 				["Kidney Shot"] = {
 					["enabled"] = true,
@@ -28559,23 +28558,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 1029585,
 				},
-				["Evocation"] = {
+				["Parley"] = {
 					["enabled"] = true,
-					["refSpellID"] = 12051,
+					["refSpellID"] = 199743,
 					["spellIDs"] = {
-						[12051] = true,
+						[199743] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 136075,
+					["cooldown"] = 20,
+					["texture"] = 236448,
 				},
-				["Blur"] = {
+				["Dampen Harm"] = {
 					["enabled"] = true,
-					["refSpellID"] = 198589,
+					["refSpellID"] = 122278,
 					["spellIDs"] = {
-						[198589] = true,
+						[122278] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 1305150,
+					["cooldown"] = 120,
+					["texture"] = 620827,
 				},
 				["Dire Beast: Basilisk"] = {
 					["enabled"] = true,
@@ -28586,14 +28585,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 1412204,
 				},
-				["Diffuse Magic"] = {
+				["Power Word: Barrier"] = {
 					["enabled"] = true,
-					["refSpellID"] = 122783,
+					["refSpellID"] = 62618,
 					["spellIDs"] = {
-						[122783] = true,
+						[62618] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 775460,
+					["cooldown"] = 120,
+					["texture"] = 253400,
 				},
 				["Tombstone"] = {
 					["enabled"] = true,
@@ -28604,23 +28603,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 132151,
 				},
-				["Demonic Trample"] = {
+				["Blessing of Sacrifice"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205629,
+					["refSpellID"] = 6940,
 					["spellIDs"] = {
-						[205629] = true,
+						[6940] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 134294,
+					["cooldown"] = 75,
+					["texture"] = 135966,
 				},
-				["Guardian of Ancient Kings"] = {
+				["Revival"] = {
 					["enabled"] = true,
-					["refSpellID"] = 86659,
+					["refSpellID"] = 115310,
 					["spellIDs"] = {
-						[86659] = true,
+						[115310] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 135919,
+					["cooldown"] = 180,
+					["texture"] = 1020466,
 				},
 				["Nether Bond"] = {
 					["enabled"] = true,
@@ -28649,14 +28648,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 25,
 					["texture"] = 135968,
 				},
-				["Ice Block"] = {
+				["Blood Mirror"] = {
 					["enabled"] = true,
-					["refSpellID"] = 45438,
+					["refSpellID"] = 206977,
 					["spellIDs"] = {
-						[45438] = true,
+						[206977] = true,
 					},
-					["cooldown"] = 240,
-					["texture"] = 135841,
+					["cooldown"] = 120,
+					["texture"] = 134084,
 				},
 				["Invisibility"] = {
 					["enabled"] = true,
@@ -28694,32 +28693,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 20,
 					["texture"] = 134153,
 				},
-				["Shadowmeld"] = {
+				["Counterspell"] = {
 					["enabled"] = true,
-					["refSpellID"] = 58984,
+					["refSpellID"] = 2139,
 					["spellIDs"] = {
-						[58984] = true,
+						[2139] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 132089,
+					["cooldown"] = 24,
+					["texture"] = 135856,
 				},
-				["Greater Fade"] = {
+				["Earthgrab Totem"] = {
 					["enabled"] = true,
-					["refSpellID"] = 213602,
+					["refSpellID"] = 51485,
 					["spellIDs"] = {
-						[213602] = true,
+						[51485] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 135994,
+					["texture"] = 136100,
 				},
-				["Pain Suppression"] = {
+				["Holy Avenger"] = {
 					["enabled"] = true,
-					["refSpellID"] = 33206,
+					["refSpellID"] = 105809,
 					["spellIDs"] = {
-						[33206] = true,
+						[105809] = true,
 					},
-					["cooldown"] = 210,
-					["texture"] = 135936,
+					["cooldown"] = 90,
+					["texture"] = 571555,
 				},
 				["Illidan's Grasp"] = {
 					["enabled"] = true,
@@ -28748,23 +28747,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 1376045,
 				},
-				["Wyvern Sting"] = {
+				["Power Infusion"] = {
 					["enabled"] = true,
-					["refSpellID"] = 19386,
+					["refSpellID"] = 10060,
 					["spellIDs"] = {
-						[19386] = true,
+						[10060] = true,
 					},
-					["cooldown"] = 45,
-					["texture"] = 135125,
+					["cooldown"] = 120,
+					["texture"] = 135939,
 				},
-				["Duel"] = {
+				["Feral Lunge"] = {
 					["enabled"] = true,
-					["refSpellID"] = 236273,
+					["refSpellID"] = 196884,
 					["spellIDs"] = {
-						[236273] = true,
+						[196884] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 1455893,
+					["cooldown"] = 30,
+					["texture"] = 1027879,
 				},
 				["Unending Resolve"] = {
 					["enabled"] = true,
@@ -28775,32 +28774,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 150,
 					["texture"] = 136150,
 				},
-				["Netherwalk"] = {
+				["Aspect of the Turtle"] = {
 					["enabled"] = true,
-					["refSpellID"] = 196555,
+					["refSpellID"] = 186265,
 					["spellIDs"] = {
-						[196555] = true,
+						[186265] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 132199,
+				},
+				["Dark Regeneration"] = {
+					["enabled"] = true,
+					["refSpellID"] = 108359,
+					["spellIDs"] = {
+						[108359] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 463284,
+					["texture"] = 537516,
 				},
-				["Chaos Nova"] = {
+				["Shadowy Duel"] = {
 					["enabled"] = true,
-					["refSpellID"] = 179057,
+					["refSpellID"] = 207736,
 					["spellIDs"] = {
-						[179057] = true,
+						[207736] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 135795,
-				},
-				["Cheat Death"] = {
-					["enabled"] = true,
-					["refSpellID"] = 31230,
-					["spellIDs"] = {
-						[31230] = true,
-					},
-					["cooldown"] = 360,
-					["texture"] = 132285,
+					["cooldown"] = 120,
+					["texture"] = 1020341,
 				},
 				["Vendetta"] = {
 					["enabled"] = true,
@@ -28811,23 +28810,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 458726,
 				},
-				["Bladestorm"] = {
+				["Storm Bolt"] = {
 					["enabled"] = true,
-					["refSpellID"] = 227847,
+					["refSpellID"] = 107570,
 					["spellIDs"] = {
-						[227847] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 236303,
-				},
-				["Shambling Rush"] = {
-					["enabled"] = true,
-					["refSpellID"] = 91802,
-					["spellIDs"] = {
-						[91802] = true,
+						[107570] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 237569,
+					["texture"] = 613535,
+				},
+				["Rebuke"] = {
+					["enabled"] = true,
+					["refSpellID"] = 96231,
+					["spellIDs"] = {
+						[96231] = true,
+					},
+					["cooldown"] = 15,
+					["texture"] = 523893,
 				},
 				["Dark Transformation"] = {
 					["enabled"] = true,
@@ -28838,14 +28837,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 342913,
 				},
-				["Shadowfury"] = {
+				["Adrenaline Rush"] = {
 					["enabled"] = true,
-					["refSpellID"] = 30283,
+					["refSpellID"] = 13750,
 					["spellIDs"] = {
-						[30283] = true,
+						[13750] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 607865,
+					["cooldown"] = 150,
+					["texture"] = 136206,
 				},
 				["Blessing of Protection"] = {
 					["enabled"] = true,
@@ -28865,77 +28864,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135824,
 				},
-				["Trueshot"] = {
+				["Strangulate"] = {
 					["enabled"] = true,
-					["refSpellID"] = 193526,
+					["refSpellID"] = 47476,
 					["spellIDs"] = {
-						[193526] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 132329,
-				},
-				["Avenging Wrath"] = {
-					["enabled"] = true,
-					["refSpellID"] = 31884,
-					["spellIDs"] = {
-						[31884] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 135875,
-				},
-				["Freezing Trap"] = {
-					["enabled"] = true,
-					["refSpellID"] = 187650,
-					["spellIDs"] = {
-						[187650] = true,
-					},
-					["cooldown"] = 25,
-					["texture"] = 135834,
-				},
-				["Shockwave"] = {
-					["enabled"] = true,
-					["refSpellID"] = 46968,
-					["spellIDs"] = {
-						[46968] = true,
-					},
-					["cooldown"] = 40,
-					["texture"] = 236312,
-				},
-				["Death Pact"] = {
-					["enabled"] = true,
-					["refSpellID"] = 48743,
-					["spellIDs"] = {
-						[48743] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 136146,
-				},
-				["Gladiator's Medallion"] = {
-					["enabled"] = true,
-					["refSpellID"] = 208683,
-					["spellIDs"] = {
-						[208683] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 1322720,
-				},
-				["Dancing Rune Weapon"] = {
-					["enabled"] = true,
-					["refSpellID"] = 49028,
-					["spellIDs"] = {
-						[49028] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 135277,
-				},
-				["Guardian Spirit"] = {
-					["enabled"] = true,
-					["refSpellID"] = 47788,
-					["spellIDs"] = {
-						[47788] = true,
+						[47476] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 237542,
+					["texture"] = 136214,
 				},
 				["Healing Tide Totem"] = {
 					["enabled"] = true,
@@ -28946,86 +28882,149 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 180,
 					["texture"] = 538569,
 				},
-				["Strangulate"] = {
+				["Guardian Spirit"] = {
 					["enabled"] = true,
-					["refSpellID"] = 47476,
+					["refSpellID"] = 47788,
 					["spellIDs"] = {
-						[47476] = true,
+						[47788] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 136214,
+					["texture"] = 237542,
 				},
-				["Adrenaline Rush"] = {
+				["Dancing Rune Weapon"] = {
 					["enabled"] = true,
-					["refSpellID"] = 13750,
+					["refSpellID"] = 49028,
 					["spellIDs"] = {
-						[13750] = true,
-					},
-					["cooldown"] = 150,
-					["texture"] = 136206,
-				},
-				["Rebuke"] = {
-					["enabled"] = true,
-					["refSpellID"] = 96231,
-					["spellIDs"] = {
-						[96231] = true,
-					},
-					["cooldown"] = 15,
-					["texture"] = 523893,
-				},
-				["Storm Bolt"] = {
-					["enabled"] = true,
-					["refSpellID"] = 107570,
-					["spellIDs"] = {
-						[107570] = true,
-					},
-					["cooldown"] = 30,
-					["texture"] = 613535,
-				},
-				["Shadowy Duel"] = {
-					["enabled"] = true,
-					["refSpellID"] = 207736,
-					["spellIDs"] = {
-						[207736] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 1020341,
-				},
-				["Dark Regeneration"] = {
-					["enabled"] = true,
-					["refSpellID"] = 108359,
-					["spellIDs"] = {
-						[108359] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 537516,
-				},
-				["Aspect of the Turtle"] = {
-					["enabled"] = true,
-					["refSpellID"] = 186265,
-					["spellIDs"] = {
-						[186265] = true,
+						[49028] = true,
 					},
 					["cooldown"] = 180,
-					["texture"] = 132199,
+					["texture"] = 135277,
 				},
-				["Feral Lunge"] = {
+				["Gladiator's Medallion"] = {
 					["enabled"] = true,
-					["refSpellID"] = 196884,
+					["refSpellID"] = 208683,
 					["spellIDs"] = {
-						[196884] = true,
-					},
-					["cooldown"] = 30,
-					["texture"] = 1027879,
-				},
-				["Power Infusion"] = {
-					["enabled"] = true,
-					["refSpellID"] = 10060,
-					["spellIDs"] = {
-						[10060] = true,
+						[208683] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 135939,
+					["texture"] = 1322720,
+				},
+				["Death Pact"] = {
+					["enabled"] = true,
+					["refSpellID"] = 48743,
+					["spellIDs"] = {
+						[48743] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 136146,
+				},
+				["Shockwave"] = {
+					["enabled"] = true,
+					["refSpellID"] = 46968,
+					["spellIDs"] = {
+						[46968] = true,
+					},
+					["cooldown"] = 40,
+					["texture"] = 236312,
+				},
+				["Freezing Trap"] = {
+					["enabled"] = true,
+					["refSpellID"] = 187650,
+					["spellIDs"] = {
+						[187650] = true,
+					},
+					["cooldown"] = 25,
+					["texture"] = 135834,
+				},
+				["Avenging Wrath"] = {
+					["enabled"] = true,
+					["refSpellID"] = 31884,
+					["spellIDs"] = {
+						[31884] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 135875,
+				},
+				["Trueshot"] = {
+					["enabled"] = true,
+					["refSpellID"] = 193526,
+					["spellIDs"] = {
+						[193526] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 132329,
+				},
+				["Shadowfury"] = {
+					["enabled"] = true,
+					["refSpellID"] = 30283,
+					["spellIDs"] = {
+						[30283] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 607865,
+				},
+				["Shambling Rush"] = {
+					["enabled"] = true,
+					["refSpellID"] = 91802,
+					["spellIDs"] = {
+						[91802] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 237569,
+				},
+				["Bladestorm"] = {
+					["enabled"] = true,
+					["refSpellID"] = 227847,
+					["spellIDs"] = {
+						[227847] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 236303,
+				},
+				["Cheat Death"] = {
+					["enabled"] = true,
+					["refSpellID"] = 31230,
+					["spellIDs"] = {
+						[31230] = true,
+					},
+					["cooldown"] = 360,
+					["texture"] = 132285,
+				},
+				["Chaos Nova"] = {
+					["enabled"] = true,
+					["refSpellID"] = 179057,
+					["spellIDs"] = {
+						[179057] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 135795,
+				},
+				["Netherwalk"] = {
+					["enabled"] = true,
+					["refSpellID"] = 196555,
+					["spellIDs"] = {
+						[196555] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 463284,
+				},
+				["Duel"] = {
+					["enabled"] = true,
+					["refSpellID"] = 236273,
+					["spellIDs"] = {
+						[236273] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 1455893,
+				},
+				["Wyvern Sting"] = {
+					["enabled"] = true,
+					["refSpellID"] = 19386,
+					["spellIDs"] = {
+						[19386] = true,
+					},
+					["cooldown"] = 45,
+					["texture"] = 135125,
 				},
 				["Dismantle"] = {
 					["enabled"] = true,
@@ -29045,32 +29044,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 54,
 					["texture"] = 1418286,
 				},
-				["Holy Avenger"] = {
+				["Pain Suppression"] = {
 					["enabled"] = true,
-					["refSpellID"] = 105809,
+					["refSpellID"] = 33206,
 					["spellIDs"] = {
-						[105809] = true,
+						[33206] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 571555,
+					["cooldown"] = 210,
+					["texture"] = 135936,
 				},
-				["Earthgrab Totem"] = {
+				["Greater Fade"] = {
 					["enabled"] = true,
-					["refSpellID"] = 51485,
+					["refSpellID"] = 213602,
 					["spellIDs"] = {
-						[51485] = true,
+						[213602] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 136100,
+					["texture"] = 135994,
 				},
-				["Counterspell"] = {
+				["Shadowmeld"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2139,
+					["refSpellID"] = 58984,
 					["spellIDs"] = {
-						[2139] = true,
+						[58984] = true,
 					},
-					["cooldown"] = 24,
-					["texture"] = 135856,
+					["cooldown"] = 120,
+					["texture"] = 132089,
 				},
 				["Ursol's Vortex"] = {
 					["enabled"] = true,
@@ -29081,14 +29080,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 571588,
 				},
-				["Blood Mirror"] = {
+				["Ice Block"] = {
 					["enabled"] = true,
-					["refSpellID"] = 206977,
+					["refSpellID"] = 45438,
 					["spellIDs"] = {
-						[206977] = true,
+						[45438] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 134084,
+					["cooldown"] = 240,
+					["texture"] = 135841,
 				},
 				["Dispersion"] = {
 					["enabled"] = true,
@@ -29099,50 +29098,50 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 237563,
 				},
-				["Revival"] = {
+				["Guardian of Ancient Kings"] = {
 					["enabled"] = true,
-					["refSpellID"] = 115310,
+					["refSpellID"] = 86659,
 					["spellIDs"] = {
-						[115310] = true,
+						[86659] = true,
 					},
-					["cooldown"] = 180,
-					["texture"] = 1020466,
+					["cooldown"] = 300,
+					["texture"] = 135919,
 				},
-				["Blessing of Sacrifice"] = {
+				["Demonic Trample"] = {
 					["enabled"] = true,
-					["refSpellID"] = 6940,
+					["refSpellID"] = 205629,
 					["spellIDs"] = {
-						[6940] = true,
+						[205629] = true,
 					},
-					["cooldown"] = 75,
-					["texture"] = 135966,
+					["cooldown"] = 30,
+					["texture"] = 134294,
 				},
-				["Power Word: Barrier"] = {
+				["Diffuse Magic"] = {
 					["enabled"] = true,
-					["refSpellID"] = 62618,
+					["refSpellID"] = 122783,
 					["spellIDs"] = {
-						[62618] = true,
+						[122783] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 253400,
+					["cooldown"] = 90,
+					["texture"] = 775460,
 				},
-				["Dampen Harm"] = {
+				["Blur"] = {
 					["enabled"] = true,
-					["refSpellID"] = 122278,
+					["refSpellID"] = 198589,
 					["spellIDs"] = {
-						[122278] = true,
+						[198589] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 620827,
+					["cooldown"] = 60,
+					["texture"] = 1305150,
 				},
-				["Parley"] = {
+				["Evocation"] = {
 					["enabled"] = true,
-					["refSpellID"] = 199743,
+					["refSpellID"] = 12051,
 					["spellIDs"] = {
-						[199743] = true,
+						[12051] = true,
 					},
-					["cooldown"] = 20,
-					["texture"] = 236448,
+					["cooldown"] = 90,
+					["texture"] = 136075,
 				},
 				["Dragon Charge"] = {
 					["enabled"] = true,
@@ -29153,23 +29152,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 20,
 					["texture"] = 1380676,
 				},
-				["Shadowstep"] = {
+				["Essence of G'Hanir"] = {
 					["enabled"] = true,
-					["refSpellID"] = 36554,
+					["refSpellID"] = 208253,
 					["spellIDs"] = {
-						[36554] = true,
+						[208253] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 132303,
+					["cooldown"] = 90,
+					["texture"] = 1115592,
 				},
-				["Bloodlust"] = {
+				["Intercept"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2825,
+					["refSpellID"] = 198304,
 					["spellIDs"] = {
-						[2825] = true,
+						[198304] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 136012,
+					["cooldown"] = 17,
+					["texture"] = 132365,
 				},
 				["Typhoon"] = {
 					["enabled"] = true,
@@ -29207,23 +29206,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 180,
 					["texture"] = 135872,
 				},
-				["Reverse Magic"] = {
+				["Barkskin"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205604,
+					["refSpellID"] = 22812,
 					["spellIDs"] = {
-						[205604] = true,
+						[22812] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 1380372,
+					["texture"] = 136097,
 				},
-				["Kick"] = {
+				["Spirit of Redemption"] = {
 					["enabled"] = true,
-					["refSpellID"] = 1766,
+					["refSpellID"] = 215769,
 					["spellIDs"] = {
-						[1766] = true,
+						[215769] = true,
 					},
-					["cooldown"] = 15,
-					["texture"] = 132219,
+					["cooldown"] = 300,
+					["texture"] = 132864,
 				},
 				["Spell Lock"] = {
 					["enabled"] = true,
@@ -29234,18 +29233,20 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 24,
 					["texture"] = 136174,
 				},
-				["Sigil of Silence"] = {
+				["Force of Nature"] = {
 					["enabled"] = true,
-					["refSpellID"] = 202137,
+					["refSpellID"] = 205636,
 					["spellIDs"] = {
-						[202137] = true,
+						[205636] = true,
 					},
-					["cooldown"] = 36,
-					["texture"] = 1418288,
+					["cooldown"] = 60,
+					["texture"] = 132129,
 				},
 			},
+			["DBVersion"] = 8,
 		},
 		["Warodner - Moon Guard"] = {
+			["DBVersion"] = 8,
 			["SpellCDs"] = {
 				["Life Cocoon"] = {
 					["enabled"] = true,
@@ -30858,14 +30859,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 136214,
 				},
-				["Sigil of Silence"] = {
+				["Force of Nature"] = {
 					["enabled"] = true,
-					["refSpellID"] = 202137,
+					["refSpellID"] = 205636,
 					["spellIDs"] = {
-						[202137] = true,
+						[205636] = true,
 					},
-					["cooldown"] = 36,
-					["texture"] = 1418288,
+					["cooldown"] = 60,
+					["texture"] = 132129,
 				},
 				["Master's Call"] = {
 					["enabled"] = true,
@@ -30885,14 +30886,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 25,
 					["texture"] = 1033909,
 				},
-				["Kick"] = {
+				["Spirit of Redemption"] = {
 					["enabled"] = true,
-					["refSpellID"] = 1766,
+					["refSpellID"] = 215769,
 					["spellIDs"] = {
-						[1766] = true,
+						[215769] = true,
 					},
-					["cooldown"] = 15,
-					["texture"] = 132219,
+					["cooldown"] = 300,
+					["texture"] = 132864,
 				},
 				["Invoke Xuen, the White Tiger"] = {
 					["enabled"] = true,
@@ -30912,14 +30913,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 300,
 					["texture"] = 135865,
 				},
-				["Reverse Magic"] = {
+				["Barkskin"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205604,
+					["refSpellID"] = 22812,
 					["spellIDs"] = {
-						[205604] = true,
+						[22812] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 1380372,
+					["texture"] = 136097,
 				},
 				["Ironbark"] = {
 					["enabled"] = true,
@@ -30957,23 +30958,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 651728,
 				},
-				["Bloodlust"] = {
+				["Intercept"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2825,
+					["refSpellID"] = 198304,
 					["spellIDs"] = {
-						[2825] = true,
+						[198304] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 136012,
+					["cooldown"] = 17,
+					["texture"] = 132365,
 				},
-				["Shadowstep"] = {
+				["Essence of G'Hanir"] = {
 					["enabled"] = true,
-					["refSpellID"] = 36554,
+					["refSpellID"] = 208253,
 					["spellIDs"] = {
-						[36554] = true,
+						[208253] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 132303,
+					["cooldown"] = 90,
+					["texture"] = 1115592,
 				},
 				["Kidney Shot"] = {
 					["enabled"] = true,
@@ -30993,23 +30994,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 1029585,
 				},
-				["Parley"] = {
+				["Evocation"] = {
 					["enabled"] = true,
-					["refSpellID"] = 199743,
+					["refSpellID"] = 12051,
 					["spellIDs"] = {
-						[199743] = true,
+						[12051] = true,
 					},
-					["cooldown"] = 20,
-					["texture"] = 236448,
+					["cooldown"] = 90,
+					["texture"] = 136075,
 				},
-				["Dampen Harm"] = {
+				["Blur"] = {
 					["enabled"] = true,
-					["refSpellID"] = 122278,
+					["refSpellID"] = 198589,
 					["spellIDs"] = {
-						[122278] = true,
+						[198589] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 620827,
+					["cooldown"] = 60,
+					["texture"] = 1305150,
 				},
 				["Dire Beast: Basilisk"] = {
 					["enabled"] = true,
@@ -31020,14 +31021,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 1412204,
 				},
-				["Power Word: Barrier"] = {
+				["Diffuse Magic"] = {
 					["enabled"] = true,
-					["refSpellID"] = 62618,
+					["refSpellID"] = 122783,
 					["spellIDs"] = {
-						[62618] = true,
+						[122783] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 253400,
+					["cooldown"] = 90,
+					["texture"] = 775460,
 				},
 				["Tombstone"] = {
 					["enabled"] = true,
@@ -31038,23 +31039,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 132151,
 				},
-				["Blessing of Sacrifice"] = {
+				["Demonic Trample"] = {
 					["enabled"] = true,
-					["refSpellID"] = 6940,
+					["refSpellID"] = 205629,
 					["spellIDs"] = {
-						[6940] = true,
+						[205629] = true,
 					},
-					["cooldown"] = 75,
-					["texture"] = 135966,
+					["cooldown"] = 30,
+					["texture"] = 134294,
 				},
-				["Revival"] = {
+				["Guardian of Ancient Kings"] = {
 					["enabled"] = true,
-					["refSpellID"] = 115310,
+					["refSpellID"] = 86659,
 					["spellIDs"] = {
-						[115310] = true,
+						[86659] = true,
 					},
-					["cooldown"] = 180,
-					["texture"] = 1020466,
+					["cooldown"] = 300,
+					["texture"] = 135919,
 				},
 				["Nether Bond"] = {
 					["enabled"] = true,
@@ -31083,14 +31084,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 25,
 					["texture"] = 135968,
 				},
-				["Blood Mirror"] = {
+				["Ice Block"] = {
 					["enabled"] = true,
-					["refSpellID"] = 206977,
+					["refSpellID"] = 45438,
 					["spellIDs"] = {
-						[206977] = true,
+						[45438] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 134084,
+					["cooldown"] = 240,
+					["texture"] = 135841,
 				},
 				["Invisibility"] = {
 					["enabled"] = true,
@@ -31128,32 +31129,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 20,
 					["texture"] = 134153,
 				},
-				["Counterspell"] = {
+				["Shadowmeld"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2139,
+					["refSpellID"] = 58984,
 					["spellIDs"] = {
-						[2139] = true,
+						[58984] = true,
 					},
-					["cooldown"] = 24,
-					["texture"] = 135856,
+					["cooldown"] = 120,
+					["texture"] = 132089,
 				},
-				["Earthgrab Totem"] = {
+				["Greater Fade"] = {
 					["enabled"] = true,
-					["refSpellID"] = 51485,
+					["refSpellID"] = 213602,
 					["spellIDs"] = {
-						[51485] = true,
+						[213602] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 136100,
+					["texture"] = 135994,
 				},
-				["Holy Avenger"] = {
+				["Pain Suppression"] = {
 					["enabled"] = true,
-					["refSpellID"] = 105809,
+					["refSpellID"] = 33206,
 					["spellIDs"] = {
-						[105809] = true,
+						[33206] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 571555,
+					["cooldown"] = 210,
+					["texture"] = 135936,
 				},
 				["Illidan's Grasp"] = {
 					["enabled"] = true,
@@ -31182,23 +31183,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 1376045,
 				},
-				["Power Infusion"] = {
+				["Wyvern Sting"] = {
 					["enabled"] = true,
-					["refSpellID"] = 10060,
+					["refSpellID"] = 19386,
 					["spellIDs"] = {
-						[10060] = true,
+						[19386] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 135939,
+					["cooldown"] = 45,
+					["texture"] = 135125,
 				},
-				["Feral Lunge"] = {
+				["Duel"] = {
 					["enabled"] = true,
-					["refSpellID"] = 196884,
+					["refSpellID"] = 236273,
 					["spellIDs"] = {
-						[196884] = true,
+						[236273] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 1027879,
+					["cooldown"] = 60,
+					["texture"] = 1455893,
 				},
 				["Unending Resolve"] = {
 					["enabled"] = true,
@@ -31209,32 +31210,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 150,
 					["texture"] = 136150,
 				},
-				["Aspect of the Turtle"] = {
+				["Netherwalk"] = {
 					["enabled"] = true,
-					["refSpellID"] = 186265,
+					["refSpellID"] = 196555,
 					["spellIDs"] = {
-						[186265] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 132199,
-				},
-				["Dark Regeneration"] = {
-					["enabled"] = true,
-					["refSpellID"] = 108359,
-					["spellIDs"] = {
-						[108359] = true,
+						[196555] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 537516,
+					["texture"] = 463284,
 				},
-				["Shadowy Duel"] = {
+				["Chaos Nova"] = {
 					["enabled"] = true,
-					["refSpellID"] = 207736,
+					["refSpellID"] = 179057,
 					["spellIDs"] = {
-						[207736] = true,
+						[179057] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 1020341,
+					["cooldown"] = 60,
+					["texture"] = 135795,
+				},
+				["Cheat Death"] = {
+					["enabled"] = true,
+					["refSpellID"] = 31230,
+					["spellIDs"] = {
+						[31230] = true,
+					},
+					["cooldown"] = 360,
+					["texture"] = 132285,
 				},
 				["Vendetta"] = {
 					["enabled"] = true,
@@ -31245,23 +31246,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 458726,
 				},
-				["Storm Bolt"] = {
+				["Bladestorm"] = {
 					["enabled"] = true,
-					["refSpellID"] = 107570,
+					["refSpellID"] = 227847,
 					["spellIDs"] = {
-						[107570] = true,
+						[227847] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 613535,
-				},
-				["Rebuke"] = {
-					["enabled"] = true,
-					["refSpellID"] = 96231,
-					["spellIDs"] = {
-						[96231] = true,
-					},
-					["cooldown"] = 15,
-					["texture"] = 523893,
+					["cooldown"] = 60,
+					["texture"] = 236303,
 				},
 				["Shambling Rush"] = {
 					["enabled"] = true,
@@ -31272,14 +31264,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 30,
 					["texture"] = 237569,
 				},
-				["Adrenaline Rush"] = {
+				["Dark Transformation"] = {
 					["enabled"] = true,
-					["refSpellID"] = 13750,
+					["refSpellID"] = 63560,
 					["spellIDs"] = {
-						[13750] = true,
+						[63560] = true,
 					},
-					["cooldown"] = 150,
-					["texture"] = 136206,
+					["cooldown"] = 60,
+					["texture"] = 342913,
+				},
+				["Shadowfury"] = {
+					["enabled"] = true,
+					["refSpellID"] = 30283,
+					["spellIDs"] = {
+						[30283] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 607865,
 				},
 				["Blessing of Protection"] = {
 					["enabled"] = true,
@@ -31299,77 +31300,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135824,
 				},
-				["Strangulate"] = {
+				["Trueshot"] = {
 					["enabled"] = true,
-					["refSpellID"] = 47476,
+					["refSpellID"] = 193526,
 					["spellIDs"] = {
-						[47476] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 136214,
-				},
-				["Healing Tide Totem"] = {
-					["enabled"] = true,
-					["refSpellID"] = 108280,
-					["spellIDs"] = {
-						[108280] = true,
+						[193526] = true,
 					},
 					["cooldown"] = 180,
-					["texture"] = 538569,
-				},
-				["Guardian Spirit"] = {
-					["enabled"] = true,
-					["refSpellID"] = 47788,
-					["spellIDs"] = {
-						[47788] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 237542,
-				},
-				["Dancing Rune Weapon"] = {
-					["enabled"] = true,
-					["refSpellID"] = 49028,
-					["spellIDs"] = {
-						[49028] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 135277,
-				},
-				["Gladiator's Medallion"] = {
-					["enabled"] = true,
-					["refSpellID"] = 208683,
-					["spellIDs"] = {
-						[208683] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 1322720,
-				},
-				["Death Pact"] = {
-					["enabled"] = true,
-					["refSpellID"] = 48743,
-					["spellIDs"] = {
-						[48743] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 136146,
-				},
-				["Shockwave"] = {
-					["enabled"] = true,
-					["refSpellID"] = 46968,
-					["spellIDs"] = {
-						[46968] = true,
-					},
-					["cooldown"] = 40,
-					["texture"] = 236312,
-				},
-				["Freezing Trap"] = {
-					["enabled"] = true,
-					["refSpellID"] = 187650,
-					["spellIDs"] = {
-						[187650] = true,
-					},
-					["cooldown"] = 25,
-					["texture"] = 135834,
+					["texture"] = 132329,
 				},
 				["Avenging Wrath"] = {
 					["enabled"] = true,
@@ -31380,86 +31318,149 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135875,
 				},
-				["Trueshot"] = {
+				["Freezing Trap"] = {
 					["enabled"] = true,
-					["refSpellID"] = 193526,
+					["refSpellID"] = 187650,
 					["spellIDs"] = {
-						[193526] = true,
+						[187650] = true,
 					},
-					["cooldown"] = 180,
-					["texture"] = 132329,
+					["cooldown"] = 25,
+					["texture"] = 135834,
 				},
-				["Shadowfury"] = {
+				["Shockwave"] = {
 					["enabled"] = true,
-					["refSpellID"] = 30283,
+					["refSpellID"] = 46968,
 					["spellIDs"] = {
-						[30283] = true,
+						[46968] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 607865,
+					["cooldown"] = 40,
+					["texture"] = 236312,
 				},
-				["Dark Transformation"] = {
+				["Death Pact"] = {
 					["enabled"] = true,
-					["refSpellID"] = 63560,
+					["refSpellID"] = 48743,
 					["spellIDs"] = {
-						[63560] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 342913,
-				},
-				["Bladestorm"] = {
-					["enabled"] = true,
-					["refSpellID"] = 227847,
-					["spellIDs"] = {
-						[227847] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 236303,
-				},
-				["Cheat Death"] = {
-					["enabled"] = true,
-					["refSpellID"] = 31230,
-					["spellIDs"] = {
-						[31230] = true,
-					},
-					["cooldown"] = 360,
-					["texture"] = 132285,
-				},
-				["Chaos Nova"] = {
-					["enabled"] = true,
-					["refSpellID"] = 179057,
-					["spellIDs"] = {
-						[179057] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 135795,
-				},
-				["Netherwalk"] = {
-					["enabled"] = true,
-					["refSpellID"] = 196555,
-					["spellIDs"] = {
-						[196555] = true,
+						[48743] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 463284,
+					["texture"] = 136146,
 				},
-				["Duel"] = {
+				["Gladiator's Medallion"] = {
 					["enabled"] = true,
-					["refSpellID"] = 236273,
+					["refSpellID"] = 208683,
 					["spellIDs"] = {
-						[236273] = true,
+						[208683] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 1322720,
+				},
+				["Dancing Rune Weapon"] = {
+					["enabled"] = true,
+					["refSpellID"] = 49028,
+					["spellIDs"] = {
+						[49028] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 135277,
+				},
+				["Guardian Spirit"] = {
+					["enabled"] = true,
+					["refSpellID"] = 47788,
+					["spellIDs"] = {
+						[47788] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 1455893,
+					["texture"] = 237542,
 				},
-				["Wyvern Sting"] = {
+				["Healing Tide Totem"] = {
 					["enabled"] = true,
-					["refSpellID"] = 19386,
+					["refSpellID"] = 108280,
 					["spellIDs"] = {
-						[19386] = true,
+						[108280] = true,
 					},
-					["cooldown"] = 45,
-					["texture"] = 135125,
+					["cooldown"] = 180,
+					["texture"] = 538569,
+				},
+				["Strangulate"] = {
+					["enabled"] = true,
+					["refSpellID"] = 47476,
+					["spellIDs"] = {
+						[47476] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 136214,
+				},
+				["Adrenaline Rush"] = {
+					["enabled"] = true,
+					["refSpellID"] = 13750,
+					["spellIDs"] = {
+						[13750] = true,
+					},
+					["cooldown"] = 150,
+					["texture"] = 136206,
+				},
+				["Rebuke"] = {
+					["enabled"] = true,
+					["refSpellID"] = 96231,
+					["spellIDs"] = {
+						[96231] = true,
+					},
+					["cooldown"] = 15,
+					["texture"] = 523893,
+				},
+				["Storm Bolt"] = {
+					["enabled"] = true,
+					["refSpellID"] = 107570,
+					["spellIDs"] = {
+						[107570] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 613535,
+				},
+				["Shadowy Duel"] = {
+					["enabled"] = true,
+					["refSpellID"] = 207736,
+					["spellIDs"] = {
+						[207736] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 1020341,
+				},
+				["Dark Regeneration"] = {
+					["enabled"] = true,
+					["refSpellID"] = 108359,
+					["spellIDs"] = {
+						[108359] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 537516,
+				},
+				["Aspect of the Turtle"] = {
+					["enabled"] = true,
+					["refSpellID"] = 186265,
+					["spellIDs"] = {
+						[186265] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 132199,
+				},
+				["Feral Lunge"] = {
+					["enabled"] = true,
+					["refSpellID"] = 196884,
+					["spellIDs"] = {
+						[196884] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 1027879,
+				},
+				["Power Infusion"] = {
+					["enabled"] = true,
+					["refSpellID"] = 10060,
+					["spellIDs"] = {
+						[10060] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 135939,
 				},
 				["Dismantle"] = {
 					["enabled"] = true,
@@ -31479,32 +31480,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 54,
 					["texture"] = 1418286,
 				},
-				["Pain Suppression"] = {
+				["Holy Avenger"] = {
 					["enabled"] = true,
-					["refSpellID"] = 33206,
+					["refSpellID"] = 105809,
 					["spellIDs"] = {
-						[33206] = true,
+						[105809] = true,
 					},
-					["cooldown"] = 210,
-					["texture"] = 135936,
+					["cooldown"] = 90,
+					["texture"] = 571555,
 				},
-				["Greater Fade"] = {
+				["Earthgrab Totem"] = {
 					["enabled"] = true,
-					["refSpellID"] = 213602,
+					["refSpellID"] = 51485,
 					["spellIDs"] = {
-						[213602] = true,
+						[51485] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 135994,
+					["texture"] = 136100,
 				},
-				["Shadowmeld"] = {
+				["Counterspell"] = {
 					["enabled"] = true,
-					["refSpellID"] = 58984,
+					["refSpellID"] = 2139,
 					["spellIDs"] = {
-						[58984] = true,
+						[2139] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 132089,
+					["cooldown"] = 24,
+					["texture"] = 135856,
 				},
 				["Ursol's Vortex"] = {
 					["enabled"] = true,
@@ -31515,14 +31516,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 571588,
 				},
-				["Ice Block"] = {
+				["Blood Mirror"] = {
 					["enabled"] = true,
-					["refSpellID"] = 45438,
+					["refSpellID"] = 206977,
 					["spellIDs"] = {
-						[45438] = true,
+						[206977] = true,
 					},
-					["cooldown"] = 240,
-					["texture"] = 135841,
+					["cooldown"] = 120,
+					["texture"] = 134084,
 				},
 				["Dispersion"] = {
 					["enabled"] = true,
@@ -31533,50 +31534,50 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 237563,
 				},
-				["Guardian of Ancient Kings"] = {
+				["Revival"] = {
 					["enabled"] = true,
-					["refSpellID"] = 86659,
+					["refSpellID"] = 115310,
 					["spellIDs"] = {
-						[86659] = true,
+						[115310] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 135919,
+					["cooldown"] = 180,
+					["texture"] = 1020466,
 				},
-				["Demonic Trample"] = {
+				["Blessing of Sacrifice"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205629,
+					["refSpellID"] = 6940,
 					["spellIDs"] = {
-						[205629] = true,
+						[6940] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 134294,
+					["cooldown"] = 75,
+					["texture"] = 135966,
 				},
-				["Diffuse Magic"] = {
+				["Power Word: Barrier"] = {
 					["enabled"] = true,
-					["refSpellID"] = 122783,
+					["refSpellID"] = 62618,
 					["spellIDs"] = {
-						[122783] = true,
+						[62618] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 775460,
+					["cooldown"] = 120,
+					["texture"] = 253400,
 				},
-				["Blur"] = {
+				["Dampen Harm"] = {
 					["enabled"] = true,
-					["refSpellID"] = 198589,
+					["refSpellID"] = 122278,
 					["spellIDs"] = {
-						[198589] = true,
+						[122278] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 1305150,
+					["cooldown"] = 120,
+					["texture"] = 620827,
 				},
-				["Evocation"] = {
+				["Parley"] = {
 					["enabled"] = true,
-					["refSpellID"] = 12051,
+					["refSpellID"] = 199743,
 					["spellIDs"] = {
-						[12051] = true,
+						[199743] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 136075,
+					["cooldown"] = 20,
+					["texture"] = 236448,
 				},
 				["Dragon Charge"] = {
 					["enabled"] = true,
@@ -31587,23 +31588,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 20,
 					["texture"] = 1380676,
 				},
-				["Essence of G'Hanir"] = {
+				["Shadowstep"] = {
 					["enabled"] = true,
-					["refSpellID"] = 208253,
+					["refSpellID"] = 36554,
 					["spellIDs"] = {
-						[208253] = true,
+						[36554] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 1115592,
+					["cooldown"] = 30,
+					["texture"] = 132303,
 				},
-				["Intercept"] = {
+				["Bloodlust"] = {
 					["enabled"] = true,
-					["refSpellID"] = 198304,
+					["refSpellID"] = 2825,
 					["spellIDs"] = {
-						[198304] = true,
+						[2825] = true,
 					},
-					["cooldown"] = 17,
-					["texture"] = 132365,
+					["cooldown"] = 60,
+					["texture"] = 136012,
 				},
 				["Typhoon"] = {
 					["enabled"] = true,
@@ -31641,23 +31642,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 180,
 					["texture"] = 135872,
 				},
-				["Barkskin"] = {
+				["Reverse Magic"] = {
 					["enabled"] = true,
-					["refSpellID"] = 22812,
+					["refSpellID"] = 205604,
 					["spellIDs"] = {
-						[22812] = true,
+						[205604] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 136097,
+					["texture"] = 1380372,
 				},
-				["Spirit of Redemption"] = {
+				["Kick"] = {
 					["enabled"] = true,
-					["refSpellID"] = 215769,
+					["refSpellID"] = 1766,
 					["spellIDs"] = {
-						[215769] = true,
+						[1766] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 132864,
+					["cooldown"] = 15,
+					["texture"] = 132219,
 				},
 				["Spell Lock"] = {
 					["enabled"] = true,
@@ -31668,20 +31669,18 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 24,
 					["texture"] = 136174,
 				},
-				["Force of Nature"] = {
+				["Sigil of Silence"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205636,
+					["refSpellID"] = 202137,
 					["spellIDs"] = {
-						[205636] = true,
+						[202137] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 132129,
+					["cooldown"] = 36,
+					["texture"] = 1418288,
 				},
 			},
-			["DBVersion"] = 8,
 		},
 		["Iamprime - Area 52"] = {
-			["DBVersion"] = 8,
 			["SpellCDs"] = {
 				["Life Cocoon"] = {
 					["enabled"] = true,
@@ -33294,14 +33293,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 136214,
 				},
-				["Force of Nature"] = {
+				["Sigil of Silence"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205636,
+					["refSpellID"] = 202137,
 					["spellIDs"] = {
-						[205636] = true,
+						[202137] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 132129,
+					["cooldown"] = 36,
+					["texture"] = 1418288,
 				},
 				["Master's Call"] = {
 					["enabled"] = true,
@@ -33321,14 +33320,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 25,
 					["texture"] = 1033909,
 				},
-				["Spirit of Redemption"] = {
+				["Kick"] = {
 					["enabled"] = true,
-					["refSpellID"] = 215769,
+					["refSpellID"] = 1766,
 					["spellIDs"] = {
-						[215769] = true,
+						[1766] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 132864,
+					["cooldown"] = 15,
+					["texture"] = 132219,
 				},
 				["Invoke Xuen, the White Tiger"] = {
 					["enabled"] = true,
@@ -33348,14 +33347,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 300,
 					["texture"] = 135865,
 				},
-				["Barkskin"] = {
+				["Reverse Magic"] = {
 					["enabled"] = true,
-					["refSpellID"] = 22812,
+					["refSpellID"] = 205604,
 					["spellIDs"] = {
-						[22812] = true,
+						[205604] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 136097,
+					["texture"] = 1380372,
 				},
 				["Ironbark"] = {
 					["enabled"] = true,
@@ -33393,23 +33392,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 651728,
 				},
-				["Intercept"] = {
+				["Bloodlust"] = {
 					["enabled"] = true,
-					["refSpellID"] = 198304,
+					["refSpellID"] = 2825,
 					["spellIDs"] = {
-						[198304] = true,
+						[2825] = true,
 					},
-					["cooldown"] = 17,
-					["texture"] = 132365,
+					["cooldown"] = 60,
+					["texture"] = 136012,
 				},
-				["Essence of G'Hanir"] = {
+				["Shadowstep"] = {
 					["enabled"] = true,
-					["refSpellID"] = 208253,
+					["refSpellID"] = 36554,
 					["spellIDs"] = {
-						[208253] = true,
+						[36554] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 1115592,
+					["cooldown"] = 30,
+					["texture"] = 132303,
 				},
 				["Kidney Shot"] = {
 					["enabled"] = true,
@@ -33429,23 +33428,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 1029585,
 				},
-				["Evocation"] = {
+				["Parley"] = {
 					["enabled"] = true,
-					["refSpellID"] = 12051,
+					["refSpellID"] = 199743,
 					["spellIDs"] = {
-						[12051] = true,
+						[199743] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 136075,
+					["cooldown"] = 20,
+					["texture"] = 236448,
 				},
-				["Blur"] = {
+				["Dampen Harm"] = {
 					["enabled"] = true,
-					["refSpellID"] = 198589,
+					["refSpellID"] = 122278,
 					["spellIDs"] = {
-						[198589] = true,
+						[122278] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 1305150,
+					["cooldown"] = 120,
+					["texture"] = 620827,
 				},
 				["Dire Beast: Basilisk"] = {
 					["enabled"] = true,
@@ -33456,14 +33455,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 1412204,
 				},
-				["Diffuse Magic"] = {
+				["Power Word: Barrier"] = {
 					["enabled"] = true,
-					["refSpellID"] = 122783,
+					["refSpellID"] = 62618,
 					["spellIDs"] = {
-						[122783] = true,
+						[62618] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 775460,
+					["cooldown"] = 120,
+					["texture"] = 253400,
 				},
 				["Tombstone"] = {
 					["enabled"] = true,
@@ -33474,23 +33473,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 132151,
 				},
-				["Demonic Trample"] = {
+				["Blessing of Sacrifice"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205629,
+					["refSpellID"] = 6940,
 					["spellIDs"] = {
-						[205629] = true,
+						[6940] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 134294,
+					["cooldown"] = 75,
+					["texture"] = 135966,
 				},
-				["Guardian of Ancient Kings"] = {
+				["Revival"] = {
 					["enabled"] = true,
-					["refSpellID"] = 86659,
+					["refSpellID"] = 115310,
 					["spellIDs"] = {
-						[86659] = true,
+						[115310] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 135919,
+					["cooldown"] = 180,
+					["texture"] = 1020466,
 				},
 				["Nether Bond"] = {
 					["enabled"] = true,
@@ -33519,14 +33518,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 25,
 					["texture"] = 135968,
 				},
-				["Ice Block"] = {
+				["Blood Mirror"] = {
 					["enabled"] = true,
-					["refSpellID"] = 45438,
+					["refSpellID"] = 206977,
 					["spellIDs"] = {
-						[45438] = true,
+						[206977] = true,
 					},
-					["cooldown"] = 240,
-					["texture"] = 135841,
+					["cooldown"] = 120,
+					["texture"] = 134084,
 				},
 				["Invisibility"] = {
 					["enabled"] = true,
@@ -33564,32 +33563,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 20,
 					["texture"] = 134153,
 				},
-				["Shadowmeld"] = {
+				["Counterspell"] = {
 					["enabled"] = true,
-					["refSpellID"] = 58984,
+					["refSpellID"] = 2139,
 					["spellIDs"] = {
-						[58984] = true,
+						[2139] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 132089,
+					["cooldown"] = 24,
+					["texture"] = 135856,
 				},
-				["Greater Fade"] = {
+				["Earthgrab Totem"] = {
 					["enabled"] = true,
-					["refSpellID"] = 213602,
+					["refSpellID"] = 51485,
 					["spellIDs"] = {
-						[213602] = true,
+						[51485] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 135994,
+					["texture"] = 136100,
 				},
-				["Pain Suppression"] = {
+				["Holy Avenger"] = {
 					["enabled"] = true,
-					["refSpellID"] = 33206,
+					["refSpellID"] = 105809,
 					["spellIDs"] = {
-						[33206] = true,
+						[105809] = true,
 					},
-					["cooldown"] = 210,
-					["texture"] = 135936,
+					["cooldown"] = 90,
+					["texture"] = 571555,
 				},
 				["Illidan's Grasp"] = {
 					["enabled"] = true,
@@ -33618,23 +33617,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 1376045,
 				},
-				["Wyvern Sting"] = {
+				["Power Infusion"] = {
 					["enabled"] = true,
-					["refSpellID"] = 19386,
+					["refSpellID"] = 10060,
 					["spellIDs"] = {
-						[19386] = true,
+						[10060] = true,
 					},
-					["cooldown"] = 45,
-					["texture"] = 135125,
+					["cooldown"] = 120,
+					["texture"] = 135939,
 				},
-				["Duel"] = {
+				["Feral Lunge"] = {
 					["enabled"] = true,
-					["refSpellID"] = 236273,
+					["refSpellID"] = 196884,
 					["spellIDs"] = {
-						[236273] = true,
+						[196884] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 1455893,
+					["cooldown"] = 30,
+					["texture"] = 1027879,
 				},
 				["Unending Resolve"] = {
 					["enabled"] = true,
@@ -33645,32 +33644,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 150,
 					["texture"] = 136150,
 				},
-				["Netherwalk"] = {
+				["Aspect of the Turtle"] = {
 					["enabled"] = true,
-					["refSpellID"] = 196555,
+					["refSpellID"] = 186265,
 					["spellIDs"] = {
-						[196555] = true,
+						[186265] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 132199,
+				},
+				["Dark Regeneration"] = {
+					["enabled"] = true,
+					["refSpellID"] = 108359,
+					["spellIDs"] = {
+						[108359] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 463284,
+					["texture"] = 537516,
 				},
-				["Chaos Nova"] = {
+				["Shadowy Duel"] = {
 					["enabled"] = true,
-					["refSpellID"] = 179057,
+					["refSpellID"] = 207736,
 					["spellIDs"] = {
-						[179057] = true,
+						[207736] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 135795,
-				},
-				["Cheat Death"] = {
-					["enabled"] = true,
-					["refSpellID"] = 31230,
-					["spellIDs"] = {
-						[31230] = true,
-					},
-					["cooldown"] = 360,
-					["texture"] = 132285,
+					["cooldown"] = 120,
+					["texture"] = 1020341,
 				},
 				["Vendetta"] = {
 					["enabled"] = true,
@@ -33681,23 +33680,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 458726,
 				},
-				["Bladestorm"] = {
+				["Storm Bolt"] = {
 					["enabled"] = true,
-					["refSpellID"] = 227847,
+					["refSpellID"] = 107570,
 					["spellIDs"] = {
-						[227847] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 236303,
-				},
-				["Shambling Rush"] = {
-					["enabled"] = true,
-					["refSpellID"] = 91802,
-					["spellIDs"] = {
-						[91802] = true,
+						[107570] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 237569,
+					["texture"] = 613535,
+				},
+				["Rebuke"] = {
+					["enabled"] = true,
+					["refSpellID"] = 96231,
+					["spellIDs"] = {
+						[96231] = true,
+					},
+					["cooldown"] = 15,
+					["texture"] = 523893,
 				},
 				["Dark Transformation"] = {
 					["enabled"] = true,
@@ -33708,14 +33707,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 342913,
 				},
-				["Shadowfury"] = {
+				["Adrenaline Rush"] = {
 					["enabled"] = true,
-					["refSpellID"] = 30283,
+					["refSpellID"] = 13750,
 					["spellIDs"] = {
-						[30283] = true,
+						[13750] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 607865,
+					["cooldown"] = 150,
+					["texture"] = 136206,
 				},
 				["Blessing of Protection"] = {
 					["enabled"] = true,
@@ -33735,77 +33734,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135824,
 				},
-				["Trueshot"] = {
+				["Strangulate"] = {
 					["enabled"] = true,
-					["refSpellID"] = 193526,
+					["refSpellID"] = 47476,
 					["spellIDs"] = {
-						[193526] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 132329,
-				},
-				["Avenging Wrath"] = {
-					["enabled"] = true,
-					["refSpellID"] = 31884,
-					["spellIDs"] = {
-						[31884] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 135875,
-				},
-				["Freezing Trap"] = {
-					["enabled"] = true,
-					["refSpellID"] = 187650,
-					["spellIDs"] = {
-						[187650] = true,
-					},
-					["cooldown"] = 25,
-					["texture"] = 135834,
-				},
-				["Shockwave"] = {
-					["enabled"] = true,
-					["refSpellID"] = 46968,
-					["spellIDs"] = {
-						[46968] = true,
-					},
-					["cooldown"] = 40,
-					["texture"] = 236312,
-				},
-				["Death Pact"] = {
-					["enabled"] = true,
-					["refSpellID"] = 48743,
-					["spellIDs"] = {
-						[48743] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 136146,
-				},
-				["Gladiator's Medallion"] = {
-					["enabled"] = true,
-					["refSpellID"] = 208683,
-					["spellIDs"] = {
-						[208683] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 1322720,
-				},
-				["Dancing Rune Weapon"] = {
-					["enabled"] = true,
-					["refSpellID"] = 49028,
-					["spellIDs"] = {
-						[49028] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 135277,
-				},
-				["Guardian Spirit"] = {
-					["enabled"] = true,
-					["refSpellID"] = 47788,
-					["spellIDs"] = {
-						[47788] = true,
+						[47476] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 237542,
+					["texture"] = 136214,
 				},
 				["Healing Tide Totem"] = {
 					["enabled"] = true,
@@ -33816,86 +33752,149 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 180,
 					["texture"] = 538569,
 				},
-				["Strangulate"] = {
+				["Guardian Spirit"] = {
 					["enabled"] = true,
-					["refSpellID"] = 47476,
+					["refSpellID"] = 47788,
 					["spellIDs"] = {
-						[47476] = true,
+						[47788] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 136214,
+					["texture"] = 237542,
 				},
-				["Adrenaline Rush"] = {
+				["Dancing Rune Weapon"] = {
 					["enabled"] = true,
-					["refSpellID"] = 13750,
+					["refSpellID"] = 49028,
 					["spellIDs"] = {
-						[13750] = true,
-					},
-					["cooldown"] = 150,
-					["texture"] = 136206,
-				},
-				["Rebuke"] = {
-					["enabled"] = true,
-					["refSpellID"] = 96231,
-					["spellIDs"] = {
-						[96231] = true,
-					},
-					["cooldown"] = 15,
-					["texture"] = 523893,
-				},
-				["Storm Bolt"] = {
-					["enabled"] = true,
-					["refSpellID"] = 107570,
-					["spellIDs"] = {
-						[107570] = true,
-					},
-					["cooldown"] = 30,
-					["texture"] = 613535,
-				},
-				["Shadowy Duel"] = {
-					["enabled"] = true,
-					["refSpellID"] = 207736,
-					["spellIDs"] = {
-						[207736] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 1020341,
-				},
-				["Dark Regeneration"] = {
-					["enabled"] = true,
-					["refSpellID"] = 108359,
-					["spellIDs"] = {
-						[108359] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 537516,
-				},
-				["Aspect of the Turtle"] = {
-					["enabled"] = true,
-					["refSpellID"] = 186265,
-					["spellIDs"] = {
-						[186265] = true,
+						[49028] = true,
 					},
 					["cooldown"] = 180,
-					["texture"] = 132199,
+					["texture"] = 135277,
 				},
-				["Feral Lunge"] = {
+				["Gladiator's Medallion"] = {
 					["enabled"] = true,
-					["refSpellID"] = 196884,
+					["refSpellID"] = 208683,
 					["spellIDs"] = {
-						[196884] = true,
-					},
-					["cooldown"] = 30,
-					["texture"] = 1027879,
-				},
-				["Power Infusion"] = {
-					["enabled"] = true,
-					["refSpellID"] = 10060,
-					["spellIDs"] = {
-						[10060] = true,
+						[208683] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 135939,
+					["texture"] = 1322720,
+				},
+				["Death Pact"] = {
+					["enabled"] = true,
+					["refSpellID"] = 48743,
+					["spellIDs"] = {
+						[48743] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 136146,
+				},
+				["Shockwave"] = {
+					["enabled"] = true,
+					["refSpellID"] = 46968,
+					["spellIDs"] = {
+						[46968] = true,
+					},
+					["cooldown"] = 40,
+					["texture"] = 236312,
+				},
+				["Freezing Trap"] = {
+					["enabled"] = true,
+					["refSpellID"] = 187650,
+					["spellIDs"] = {
+						[187650] = true,
+					},
+					["cooldown"] = 25,
+					["texture"] = 135834,
+				},
+				["Avenging Wrath"] = {
+					["enabled"] = true,
+					["refSpellID"] = 31884,
+					["spellIDs"] = {
+						[31884] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 135875,
+				},
+				["Trueshot"] = {
+					["enabled"] = true,
+					["refSpellID"] = 193526,
+					["spellIDs"] = {
+						[193526] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 132329,
+				},
+				["Shadowfury"] = {
+					["enabled"] = true,
+					["refSpellID"] = 30283,
+					["spellIDs"] = {
+						[30283] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 607865,
+				},
+				["Shambling Rush"] = {
+					["enabled"] = true,
+					["refSpellID"] = 91802,
+					["spellIDs"] = {
+						[91802] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 237569,
+				},
+				["Bladestorm"] = {
+					["enabled"] = true,
+					["refSpellID"] = 227847,
+					["spellIDs"] = {
+						[227847] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 236303,
+				},
+				["Cheat Death"] = {
+					["enabled"] = true,
+					["refSpellID"] = 31230,
+					["spellIDs"] = {
+						[31230] = true,
+					},
+					["cooldown"] = 360,
+					["texture"] = 132285,
+				},
+				["Chaos Nova"] = {
+					["enabled"] = true,
+					["refSpellID"] = 179057,
+					["spellIDs"] = {
+						[179057] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 135795,
+				},
+				["Netherwalk"] = {
+					["enabled"] = true,
+					["refSpellID"] = 196555,
+					["spellIDs"] = {
+						[196555] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 463284,
+				},
+				["Duel"] = {
+					["enabled"] = true,
+					["refSpellID"] = 236273,
+					["spellIDs"] = {
+						[236273] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 1455893,
+				},
+				["Wyvern Sting"] = {
+					["enabled"] = true,
+					["refSpellID"] = 19386,
+					["spellIDs"] = {
+						[19386] = true,
+					},
+					["cooldown"] = 45,
+					["texture"] = 135125,
 				},
 				["Dismantle"] = {
 					["enabled"] = true,
@@ -33915,32 +33914,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 54,
 					["texture"] = 1418286,
 				},
-				["Holy Avenger"] = {
+				["Pain Suppression"] = {
 					["enabled"] = true,
-					["refSpellID"] = 105809,
+					["refSpellID"] = 33206,
 					["spellIDs"] = {
-						[105809] = true,
+						[33206] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 571555,
+					["cooldown"] = 210,
+					["texture"] = 135936,
 				},
-				["Earthgrab Totem"] = {
+				["Greater Fade"] = {
 					["enabled"] = true,
-					["refSpellID"] = 51485,
+					["refSpellID"] = 213602,
 					["spellIDs"] = {
-						[51485] = true,
+						[213602] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 136100,
+					["texture"] = 135994,
 				},
-				["Counterspell"] = {
+				["Shadowmeld"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2139,
+					["refSpellID"] = 58984,
 					["spellIDs"] = {
-						[2139] = true,
+						[58984] = true,
 					},
-					["cooldown"] = 24,
-					["texture"] = 135856,
+					["cooldown"] = 120,
+					["texture"] = 132089,
 				},
 				["Ursol's Vortex"] = {
 					["enabled"] = true,
@@ -33951,14 +33950,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 571588,
 				},
-				["Blood Mirror"] = {
+				["Ice Block"] = {
 					["enabled"] = true,
-					["refSpellID"] = 206977,
+					["refSpellID"] = 45438,
 					["spellIDs"] = {
-						[206977] = true,
+						[45438] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 134084,
+					["cooldown"] = 240,
+					["texture"] = 135841,
 				},
 				["Dispersion"] = {
 					["enabled"] = true,
@@ -33969,50 +33968,50 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 237563,
 				},
-				["Revival"] = {
+				["Guardian of Ancient Kings"] = {
 					["enabled"] = true,
-					["refSpellID"] = 115310,
+					["refSpellID"] = 86659,
 					["spellIDs"] = {
-						[115310] = true,
+						[86659] = true,
 					},
-					["cooldown"] = 180,
-					["texture"] = 1020466,
+					["cooldown"] = 300,
+					["texture"] = 135919,
 				},
-				["Blessing of Sacrifice"] = {
+				["Demonic Trample"] = {
 					["enabled"] = true,
-					["refSpellID"] = 6940,
+					["refSpellID"] = 205629,
 					["spellIDs"] = {
-						[6940] = true,
+						[205629] = true,
 					},
-					["cooldown"] = 75,
-					["texture"] = 135966,
+					["cooldown"] = 30,
+					["texture"] = 134294,
 				},
-				["Power Word: Barrier"] = {
+				["Diffuse Magic"] = {
 					["enabled"] = true,
-					["refSpellID"] = 62618,
+					["refSpellID"] = 122783,
 					["spellIDs"] = {
-						[62618] = true,
+						[122783] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 253400,
+					["cooldown"] = 90,
+					["texture"] = 775460,
 				},
-				["Dampen Harm"] = {
+				["Blur"] = {
 					["enabled"] = true,
-					["refSpellID"] = 122278,
+					["refSpellID"] = 198589,
 					["spellIDs"] = {
-						[122278] = true,
+						[198589] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 620827,
+					["cooldown"] = 60,
+					["texture"] = 1305150,
 				},
-				["Parley"] = {
+				["Evocation"] = {
 					["enabled"] = true,
-					["refSpellID"] = 199743,
+					["refSpellID"] = 12051,
 					["spellIDs"] = {
-						[199743] = true,
+						[12051] = true,
 					},
-					["cooldown"] = 20,
-					["texture"] = 236448,
+					["cooldown"] = 90,
+					["texture"] = 136075,
 				},
 				["Dragon Charge"] = {
 					["enabled"] = true,
@@ -34023,23 +34022,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 20,
 					["texture"] = 1380676,
 				},
-				["Shadowstep"] = {
+				["Essence of G'Hanir"] = {
 					["enabled"] = true,
-					["refSpellID"] = 36554,
+					["refSpellID"] = 208253,
 					["spellIDs"] = {
-						[36554] = true,
+						[208253] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 132303,
+					["cooldown"] = 90,
+					["texture"] = 1115592,
 				},
-				["Bloodlust"] = {
+				["Intercept"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2825,
+					["refSpellID"] = 198304,
 					["spellIDs"] = {
-						[2825] = true,
+						[198304] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 136012,
+					["cooldown"] = 17,
+					["texture"] = 132365,
 				},
 				["Typhoon"] = {
 					["enabled"] = true,
@@ -34077,23 +34076,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 180,
 					["texture"] = 135872,
 				},
-				["Reverse Magic"] = {
+				["Barkskin"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205604,
+					["refSpellID"] = 22812,
 					["spellIDs"] = {
-						[205604] = true,
+						[22812] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 1380372,
+					["texture"] = 136097,
 				},
-				["Kick"] = {
+				["Spirit of Redemption"] = {
 					["enabled"] = true,
-					["refSpellID"] = 1766,
+					["refSpellID"] = 215769,
 					["spellIDs"] = {
-						[1766] = true,
+						[215769] = true,
 					},
-					["cooldown"] = 15,
-					["texture"] = 132219,
+					["cooldown"] = 300,
+					["texture"] = 132864,
 				},
 				["Spell Lock"] = {
 					["enabled"] = true,
@@ -34104,19 +34103,19 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 24,
 					["texture"] = 136174,
 				},
-				["Sigil of Silence"] = {
+				["Force of Nature"] = {
 					["enabled"] = true,
-					["refSpellID"] = 202137,
+					["refSpellID"] = 205636,
 					["spellIDs"] = {
-						[202137] = true,
+						[205636] = true,
 					},
-					["cooldown"] = 36,
-					["texture"] = 1418288,
+					["cooldown"] = 60,
+					["texture"] = 132129,
 				},
 			},
+			["DBVersion"] = 8,
 		},
 		["Ahriak - Area 52"] = {
-			["DBVersion"] = 8,
 			["SpellCDs"] = {
 				["Life Cocoon"] = {
 					["enabled"] = true,
@@ -35729,14 +35728,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 136214,
 				},
-				["Sigil of Silence"] = {
+				["Force of Nature"] = {
 					["enabled"] = true,
-					["refSpellID"] = 202137,
+					["refSpellID"] = 205636,
 					["spellIDs"] = {
-						[202137] = true,
+						[205636] = true,
 					},
-					["cooldown"] = 36,
-					["texture"] = 1418288,
+					["cooldown"] = 60,
+					["texture"] = 132129,
 				},
 				["Master's Call"] = {
 					["enabled"] = true,
@@ -35756,14 +35755,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 25,
 					["texture"] = 1033909,
 				},
-				["Kick"] = {
+				["Spirit of Redemption"] = {
 					["enabled"] = true,
-					["refSpellID"] = 1766,
+					["refSpellID"] = 215769,
 					["spellIDs"] = {
-						[1766] = true,
+						[215769] = true,
 					},
-					["cooldown"] = 15,
-					["texture"] = 132219,
+					["cooldown"] = 300,
+					["texture"] = 132864,
 				},
 				["Invoke Xuen, the White Tiger"] = {
 					["enabled"] = true,
@@ -35783,14 +35782,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 300,
 					["texture"] = 135865,
 				},
-				["Reverse Magic"] = {
+				["Barkskin"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205604,
+					["refSpellID"] = 22812,
 					["spellIDs"] = {
-						[205604] = true,
+						[22812] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 1380372,
+					["texture"] = 136097,
 				},
 				["Ironbark"] = {
 					["enabled"] = true,
@@ -35828,23 +35827,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 651728,
 				},
-				["Bloodlust"] = {
+				["Intercept"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2825,
+					["refSpellID"] = 198304,
 					["spellIDs"] = {
-						[2825] = true,
+						[198304] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 136012,
+					["cooldown"] = 17,
+					["texture"] = 132365,
 				},
-				["Shadowstep"] = {
+				["Essence of G'Hanir"] = {
 					["enabled"] = true,
-					["refSpellID"] = 36554,
+					["refSpellID"] = 208253,
 					["spellIDs"] = {
-						[36554] = true,
+						[208253] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 132303,
+					["cooldown"] = 90,
+					["texture"] = 1115592,
 				},
 				["Kidney Shot"] = {
 					["enabled"] = true,
@@ -35864,23 +35863,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 1029585,
 				},
-				["Parley"] = {
+				["Evocation"] = {
 					["enabled"] = true,
-					["refSpellID"] = 199743,
+					["refSpellID"] = 12051,
 					["spellIDs"] = {
-						[199743] = true,
+						[12051] = true,
 					},
-					["cooldown"] = 20,
-					["texture"] = 236448,
+					["cooldown"] = 90,
+					["texture"] = 136075,
 				},
-				["Dampen Harm"] = {
+				["Blur"] = {
 					["enabled"] = true,
-					["refSpellID"] = 122278,
+					["refSpellID"] = 198589,
 					["spellIDs"] = {
-						[122278] = true,
+						[198589] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 620827,
+					["cooldown"] = 60,
+					["texture"] = 1305150,
 				},
 				["Dire Beast: Basilisk"] = {
 					["enabled"] = true,
@@ -35891,14 +35890,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 1412204,
 				},
-				["Power Word: Barrier"] = {
+				["Diffuse Magic"] = {
 					["enabled"] = true,
-					["refSpellID"] = 62618,
+					["refSpellID"] = 122783,
 					["spellIDs"] = {
-						[62618] = true,
+						[122783] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 253400,
+					["cooldown"] = 90,
+					["texture"] = 775460,
 				},
 				["Tombstone"] = {
 					["enabled"] = true,
@@ -35909,23 +35908,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 132151,
 				},
-				["Blessing of Sacrifice"] = {
+				["Demonic Trample"] = {
 					["enabled"] = true,
-					["refSpellID"] = 6940,
+					["refSpellID"] = 205629,
 					["spellIDs"] = {
-						[6940] = true,
+						[205629] = true,
 					},
-					["cooldown"] = 75,
-					["texture"] = 135966,
+					["cooldown"] = 30,
+					["texture"] = 134294,
 				},
-				["Revival"] = {
+				["Guardian of Ancient Kings"] = {
 					["enabled"] = true,
-					["refSpellID"] = 115310,
+					["refSpellID"] = 86659,
 					["spellIDs"] = {
-						[115310] = true,
+						[86659] = true,
 					},
-					["cooldown"] = 180,
-					["texture"] = 1020466,
+					["cooldown"] = 300,
+					["texture"] = 135919,
 				},
 				["Nether Bond"] = {
 					["enabled"] = true,
@@ -35954,14 +35953,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 25,
 					["texture"] = 135968,
 				},
-				["Blood Mirror"] = {
+				["Ice Block"] = {
 					["enabled"] = true,
-					["refSpellID"] = 206977,
+					["refSpellID"] = 45438,
 					["spellIDs"] = {
-						[206977] = true,
+						[45438] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 134084,
+					["cooldown"] = 240,
+					["texture"] = 135841,
 				},
 				["Invisibility"] = {
 					["enabled"] = true,
@@ -35999,32 +35998,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 20,
 					["texture"] = 134153,
 				},
-				["Counterspell"] = {
+				["Shadowmeld"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2139,
+					["refSpellID"] = 58984,
 					["spellIDs"] = {
-						[2139] = true,
+						[58984] = true,
 					},
-					["cooldown"] = 24,
-					["texture"] = 135856,
+					["cooldown"] = 120,
+					["texture"] = 132089,
 				},
-				["Earthgrab Totem"] = {
+				["Greater Fade"] = {
 					["enabled"] = true,
-					["refSpellID"] = 51485,
+					["refSpellID"] = 213602,
 					["spellIDs"] = {
-						[51485] = true,
+						[213602] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 136100,
+					["texture"] = 135994,
 				},
-				["Holy Avenger"] = {
+				["Pain Suppression"] = {
 					["enabled"] = true,
-					["refSpellID"] = 105809,
+					["refSpellID"] = 33206,
 					["spellIDs"] = {
-						[105809] = true,
+						[33206] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 571555,
+					["cooldown"] = 210,
+					["texture"] = 135936,
 				},
 				["Illidan's Grasp"] = {
 					["enabled"] = true,
@@ -36053,23 +36052,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 1376045,
 				},
-				["Power Infusion"] = {
+				["Wyvern Sting"] = {
 					["enabled"] = true,
-					["refSpellID"] = 10060,
+					["refSpellID"] = 19386,
 					["spellIDs"] = {
-						[10060] = true,
+						[19386] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 135939,
+					["cooldown"] = 45,
+					["texture"] = 135125,
 				},
-				["Feral Lunge"] = {
+				["Duel"] = {
 					["enabled"] = true,
-					["refSpellID"] = 196884,
+					["refSpellID"] = 236273,
 					["spellIDs"] = {
-						[196884] = true,
+						[236273] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 1027879,
+					["cooldown"] = 60,
+					["texture"] = 1455893,
 				},
 				["Unending Resolve"] = {
 					["enabled"] = true,
@@ -36080,32 +36079,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 150,
 					["texture"] = 136150,
 				},
-				["Aspect of the Turtle"] = {
+				["Netherwalk"] = {
 					["enabled"] = true,
-					["refSpellID"] = 186265,
+					["refSpellID"] = 196555,
 					["spellIDs"] = {
-						[186265] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 132199,
-				},
-				["Dark Regeneration"] = {
-					["enabled"] = true,
-					["refSpellID"] = 108359,
-					["spellIDs"] = {
-						[108359] = true,
+						[196555] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 537516,
+					["texture"] = 463284,
 				},
-				["Shadowy Duel"] = {
+				["Chaos Nova"] = {
 					["enabled"] = true,
-					["refSpellID"] = 207736,
+					["refSpellID"] = 179057,
 					["spellIDs"] = {
-						[207736] = true,
+						[179057] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 1020341,
+					["cooldown"] = 60,
+					["texture"] = 135795,
+				},
+				["Cheat Death"] = {
+					["enabled"] = true,
+					["refSpellID"] = 31230,
+					["spellIDs"] = {
+						[31230] = true,
+					},
+					["cooldown"] = 360,
+					["texture"] = 132285,
 				},
 				["Vendetta"] = {
 					["enabled"] = true,
@@ -36116,23 +36115,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 458726,
 				},
-				["Storm Bolt"] = {
+				["Bladestorm"] = {
 					["enabled"] = true,
-					["refSpellID"] = 107570,
+					["refSpellID"] = 227847,
 					["spellIDs"] = {
-						[107570] = true,
+						[227847] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 613535,
-				},
-				["Rebuke"] = {
-					["enabled"] = true,
-					["refSpellID"] = 96231,
-					["spellIDs"] = {
-						[96231] = true,
-					},
-					["cooldown"] = 15,
-					["texture"] = 523893,
+					["cooldown"] = 60,
+					["texture"] = 236303,
 				},
 				["Shambling Rush"] = {
 					["enabled"] = true,
@@ -36143,14 +36133,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 30,
 					["texture"] = 237569,
 				},
-				["Adrenaline Rush"] = {
+				["Dark Transformation"] = {
 					["enabled"] = true,
-					["refSpellID"] = 13750,
+					["refSpellID"] = 63560,
 					["spellIDs"] = {
-						[13750] = true,
+						[63560] = true,
 					},
-					["cooldown"] = 150,
-					["texture"] = 136206,
+					["cooldown"] = 60,
+					["texture"] = 342913,
+				},
+				["Shadowfury"] = {
+					["enabled"] = true,
+					["refSpellID"] = 30283,
+					["spellIDs"] = {
+						[30283] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 607865,
 				},
 				["Blessing of Protection"] = {
 					["enabled"] = true,
@@ -36170,77 +36169,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135824,
 				},
-				["Strangulate"] = {
+				["Trueshot"] = {
 					["enabled"] = true,
-					["refSpellID"] = 47476,
+					["refSpellID"] = 193526,
 					["spellIDs"] = {
-						[47476] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 136214,
-				},
-				["Healing Tide Totem"] = {
-					["enabled"] = true,
-					["refSpellID"] = 108280,
-					["spellIDs"] = {
-						[108280] = true,
+						[193526] = true,
 					},
 					["cooldown"] = 180,
-					["texture"] = 538569,
-				},
-				["Guardian Spirit"] = {
-					["enabled"] = true,
-					["refSpellID"] = 47788,
-					["spellIDs"] = {
-						[47788] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 237542,
-				},
-				["Dancing Rune Weapon"] = {
-					["enabled"] = true,
-					["refSpellID"] = 49028,
-					["spellIDs"] = {
-						[49028] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 135277,
-				},
-				["Gladiator's Medallion"] = {
-					["enabled"] = true,
-					["refSpellID"] = 208683,
-					["spellIDs"] = {
-						[208683] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 1322720,
-				},
-				["Death Pact"] = {
-					["enabled"] = true,
-					["refSpellID"] = 48743,
-					["spellIDs"] = {
-						[48743] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 136146,
-				},
-				["Shockwave"] = {
-					["enabled"] = true,
-					["refSpellID"] = 46968,
-					["spellIDs"] = {
-						[46968] = true,
-					},
-					["cooldown"] = 40,
-					["texture"] = 236312,
-				},
-				["Freezing Trap"] = {
-					["enabled"] = true,
-					["refSpellID"] = 187650,
-					["spellIDs"] = {
-						[187650] = true,
-					},
-					["cooldown"] = 25,
-					["texture"] = 135834,
+					["texture"] = 132329,
 				},
 				["Avenging Wrath"] = {
 					["enabled"] = true,
@@ -36251,86 +36187,149 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135875,
 				},
-				["Trueshot"] = {
+				["Freezing Trap"] = {
 					["enabled"] = true,
-					["refSpellID"] = 193526,
+					["refSpellID"] = 187650,
 					["spellIDs"] = {
-						[193526] = true,
+						[187650] = true,
 					},
-					["cooldown"] = 180,
-					["texture"] = 132329,
+					["cooldown"] = 25,
+					["texture"] = 135834,
 				},
-				["Shadowfury"] = {
+				["Shockwave"] = {
 					["enabled"] = true,
-					["refSpellID"] = 30283,
+					["refSpellID"] = 46968,
 					["spellIDs"] = {
-						[30283] = true,
+						[46968] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 607865,
+					["cooldown"] = 40,
+					["texture"] = 236312,
 				},
-				["Dark Transformation"] = {
+				["Death Pact"] = {
 					["enabled"] = true,
-					["refSpellID"] = 63560,
+					["refSpellID"] = 48743,
 					["spellIDs"] = {
-						[63560] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 342913,
-				},
-				["Bladestorm"] = {
-					["enabled"] = true,
-					["refSpellID"] = 227847,
-					["spellIDs"] = {
-						[227847] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 236303,
-				},
-				["Cheat Death"] = {
-					["enabled"] = true,
-					["refSpellID"] = 31230,
-					["spellIDs"] = {
-						[31230] = true,
-					},
-					["cooldown"] = 360,
-					["texture"] = 132285,
-				},
-				["Chaos Nova"] = {
-					["enabled"] = true,
-					["refSpellID"] = 179057,
-					["spellIDs"] = {
-						[179057] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 135795,
-				},
-				["Netherwalk"] = {
-					["enabled"] = true,
-					["refSpellID"] = 196555,
-					["spellIDs"] = {
-						[196555] = true,
+						[48743] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 463284,
+					["texture"] = 136146,
 				},
-				["Duel"] = {
+				["Gladiator's Medallion"] = {
 					["enabled"] = true,
-					["refSpellID"] = 236273,
+					["refSpellID"] = 208683,
 					["spellIDs"] = {
-						[236273] = true,
+						[208683] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 1322720,
+				},
+				["Dancing Rune Weapon"] = {
+					["enabled"] = true,
+					["refSpellID"] = 49028,
+					["spellIDs"] = {
+						[49028] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 135277,
+				},
+				["Guardian Spirit"] = {
+					["enabled"] = true,
+					["refSpellID"] = 47788,
+					["spellIDs"] = {
+						[47788] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 1455893,
+					["texture"] = 237542,
 				},
-				["Wyvern Sting"] = {
+				["Healing Tide Totem"] = {
 					["enabled"] = true,
-					["refSpellID"] = 19386,
+					["refSpellID"] = 108280,
 					["spellIDs"] = {
-						[19386] = true,
+						[108280] = true,
 					},
-					["cooldown"] = 45,
-					["texture"] = 135125,
+					["cooldown"] = 180,
+					["texture"] = 538569,
+				},
+				["Strangulate"] = {
+					["enabled"] = true,
+					["refSpellID"] = 47476,
+					["spellIDs"] = {
+						[47476] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 136214,
+				},
+				["Adrenaline Rush"] = {
+					["enabled"] = true,
+					["refSpellID"] = 13750,
+					["spellIDs"] = {
+						[13750] = true,
+					},
+					["cooldown"] = 150,
+					["texture"] = 136206,
+				},
+				["Rebuke"] = {
+					["enabled"] = true,
+					["refSpellID"] = 96231,
+					["spellIDs"] = {
+						[96231] = true,
+					},
+					["cooldown"] = 15,
+					["texture"] = 523893,
+				},
+				["Storm Bolt"] = {
+					["enabled"] = true,
+					["refSpellID"] = 107570,
+					["spellIDs"] = {
+						[107570] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 613535,
+				},
+				["Shadowy Duel"] = {
+					["enabled"] = true,
+					["refSpellID"] = 207736,
+					["spellIDs"] = {
+						[207736] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 1020341,
+				},
+				["Dark Regeneration"] = {
+					["enabled"] = true,
+					["refSpellID"] = 108359,
+					["spellIDs"] = {
+						[108359] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 537516,
+				},
+				["Aspect of the Turtle"] = {
+					["enabled"] = true,
+					["refSpellID"] = 186265,
+					["spellIDs"] = {
+						[186265] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 132199,
+				},
+				["Feral Lunge"] = {
+					["enabled"] = true,
+					["refSpellID"] = 196884,
+					["spellIDs"] = {
+						[196884] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 1027879,
+				},
+				["Power Infusion"] = {
+					["enabled"] = true,
+					["refSpellID"] = 10060,
+					["spellIDs"] = {
+						[10060] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 135939,
 				},
 				["Dismantle"] = {
 					["enabled"] = true,
@@ -36350,32 +36349,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 54,
 					["texture"] = 1418286,
 				},
-				["Pain Suppression"] = {
+				["Holy Avenger"] = {
 					["enabled"] = true,
-					["refSpellID"] = 33206,
+					["refSpellID"] = 105809,
 					["spellIDs"] = {
-						[33206] = true,
+						[105809] = true,
 					},
-					["cooldown"] = 210,
-					["texture"] = 135936,
+					["cooldown"] = 90,
+					["texture"] = 571555,
 				},
-				["Greater Fade"] = {
+				["Earthgrab Totem"] = {
 					["enabled"] = true,
-					["refSpellID"] = 213602,
+					["refSpellID"] = 51485,
 					["spellIDs"] = {
-						[213602] = true,
+						[51485] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 135994,
+					["texture"] = 136100,
 				},
-				["Shadowmeld"] = {
+				["Counterspell"] = {
 					["enabled"] = true,
-					["refSpellID"] = 58984,
+					["refSpellID"] = 2139,
 					["spellIDs"] = {
-						[58984] = true,
+						[2139] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 132089,
+					["cooldown"] = 24,
+					["texture"] = 135856,
 				},
 				["Ursol's Vortex"] = {
 					["enabled"] = true,
@@ -36386,14 +36385,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 571588,
 				},
-				["Ice Block"] = {
+				["Blood Mirror"] = {
 					["enabled"] = true,
-					["refSpellID"] = 45438,
+					["refSpellID"] = 206977,
 					["spellIDs"] = {
-						[45438] = true,
+						[206977] = true,
 					},
-					["cooldown"] = 240,
-					["texture"] = 135841,
+					["cooldown"] = 120,
+					["texture"] = 134084,
 				},
 				["Dispersion"] = {
 					["enabled"] = true,
@@ -36404,50 +36403,50 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 237563,
 				},
-				["Guardian of Ancient Kings"] = {
+				["Revival"] = {
 					["enabled"] = true,
-					["refSpellID"] = 86659,
+					["refSpellID"] = 115310,
 					["spellIDs"] = {
-						[86659] = true,
+						[115310] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 135919,
+					["cooldown"] = 180,
+					["texture"] = 1020466,
 				},
-				["Demonic Trample"] = {
+				["Blessing of Sacrifice"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205629,
+					["refSpellID"] = 6940,
 					["spellIDs"] = {
-						[205629] = true,
+						[6940] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 134294,
+					["cooldown"] = 75,
+					["texture"] = 135966,
 				},
-				["Diffuse Magic"] = {
+				["Power Word: Barrier"] = {
 					["enabled"] = true,
-					["refSpellID"] = 122783,
+					["refSpellID"] = 62618,
 					["spellIDs"] = {
-						[122783] = true,
+						[62618] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 775460,
+					["cooldown"] = 120,
+					["texture"] = 253400,
 				},
-				["Blur"] = {
+				["Dampen Harm"] = {
 					["enabled"] = true,
-					["refSpellID"] = 198589,
+					["refSpellID"] = 122278,
 					["spellIDs"] = {
-						[198589] = true,
+						[122278] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 1305150,
+					["cooldown"] = 120,
+					["texture"] = 620827,
 				},
-				["Evocation"] = {
+				["Parley"] = {
 					["enabled"] = true,
-					["refSpellID"] = 12051,
+					["refSpellID"] = 199743,
 					["spellIDs"] = {
-						[12051] = true,
+						[199743] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 136075,
+					["cooldown"] = 20,
+					["texture"] = 236448,
 				},
 				["Dragon Charge"] = {
 					["enabled"] = true,
@@ -36458,23 +36457,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 20,
 					["texture"] = 1380676,
 				},
-				["Essence of G'Hanir"] = {
+				["Shadowstep"] = {
 					["enabled"] = true,
-					["refSpellID"] = 208253,
+					["refSpellID"] = 36554,
 					["spellIDs"] = {
-						[208253] = true,
+						[36554] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 1115592,
+					["cooldown"] = 30,
+					["texture"] = 132303,
 				},
-				["Intercept"] = {
+				["Bloodlust"] = {
 					["enabled"] = true,
-					["refSpellID"] = 198304,
+					["refSpellID"] = 2825,
 					["spellIDs"] = {
-						[198304] = true,
+						[2825] = true,
 					},
-					["cooldown"] = 17,
-					["texture"] = 132365,
+					["cooldown"] = 60,
+					["texture"] = 136012,
 				},
 				["Typhoon"] = {
 					["enabled"] = true,
@@ -36512,23 +36511,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 180,
 					["texture"] = 135872,
 				},
-				["Barkskin"] = {
+				["Reverse Magic"] = {
 					["enabled"] = true,
-					["refSpellID"] = 22812,
+					["refSpellID"] = 205604,
 					["spellIDs"] = {
-						[22812] = true,
+						[205604] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 136097,
+					["texture"] = 1380372,
 				},
-				["Spirit of Redemption"] = {
+				["Kick"] = {
 					["enabled"] = true,
-					["refSpellID"] = 215769,
+					["refSpellID"] = 1766,
 					["spellIDs"] = {
-						[215769] = true,
+						[1766] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 132864,
+					["cooldown"] = 15,
+					["texture"] = 132219,
 				},
 				["Spell Lock"] = {
 					["enabled"] = true,
@@ -36539,18 +36538,20 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 24,
 					["texture"] = 136174,
 				},
-				["Force of Nature"] = {
+				["Sigil of Silence"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205636,
+					["refSpellID"] = 202137,
 					["spellIDs"] = {
-						[205636] = true,
+						[202137] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 132129,
+					["cooldown"] = 36,
+					["texture"] = 1418288,
 				},
 			},
+			["DBVersion"] = 8,
 		},
 		["Plskillme - Kilrogg"] = {
+			["DBVersion"] = 8,
 			["SpellCDs"] = {
 				["Life Cocoon"] = {
 					["enabled"] = true,
@@ -38163,14 +38164,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 136214,
 				},
-				["Sigil of Silence"] = {
+				["Force of Nature"] = {
 					["enabled"] = true,
-					["refSpellID"] = 202137,
+					["refSpellID"] = 205636,
 					["spellIDs"] = {
-						[202137] = true,
+						[205636] = true,
 					},
-					["cooldown"] = 36,
-					["texture"] = 1418288,
+					["cooldown"] = 60,
+					["texture"] = 132129,
 				},
 				["Master's Call"] = {
 					["enabled"] = true,
@@ -38190,14 +38191,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 25,
 					["texture"] = 1033909,
 				},
-				["Kick"] = {
+				["Spirit of Redemption"] = {
 					["enabled"] = true,
-					["refSpellID"] = 1766,
+					["refSpellID"] = 215769,
 					["spellIDs"] = {
-						[1766] = true,
+						[215769] = true,
 					},
-					["cooldown"] = 15,
-					["texture"] = 132219,
+					["cooldown"] = 300,
+					["texture"] = 132864,
 				},
 				["Invoke Xuen, the White Tiger"] = {
 					["enabled"] = true,
@@ -38217,14 +38218,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 300,
 					["texture"] = 135865,
 				},
-				["Reverse Magic"] = {
+				["Barkskin"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205604,
+					["refSpellID"] = 22812,
 					["spellIDs"] = {
-						[205604] = true,
+						[22812] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 1380372,
+					["texture"] = 136097,
 				},
 				["Ironbark"] = {
 					["enabled"] = true,
@@ -38262,23 +38263,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 651728,
 				},
-				["Bloodlust"] = {
+				["Intercept"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2825,
+					["refSpellID"] = 198304,
 					["spellIDs"] = {
-						[2825] = true,
+						[198304] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 136012,
+					["cooldown"] = 17,
+					["texture"] = 132365,
 				},
-				["Shadowstep"] = {
+				["Essence of G'Hanir"] = {
 					["enabled"] = true,
-					["refSpellID"] = 36554,
+					["refSpellID"] = 208253,
 					["spellIDs"] = {
-						[36554] = true,
+						[208253] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 132303,
+					["cooldown"] = 90,
+					["texture"] = 1115592,
 				},
 				["Kidney Shot"] = {
 					["enabled"] = true,
@@ -38298,23 +38299,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 1029585,
 				},
-				["Parley"] = {
+				["Evocation"] = {
 					["enabled"] = true,
-					["refSpellID"] = 199743,
+					["refSpellID"] = 12051,
 					["spellIDs"] = {
-						[199743] = true,
+						[12051] = true,
 					},
-					["cooldown"] = 20,
-					["texture"] = 236448,
+					["cooldown"] = 90,
+					["texture"] = 136075,
 				},
-				["Dampen Harm"] = {
+				["Blur"] = {
 					["enabled"] = true,
-					["refSpellID"] = 122278,
+					["refSpellID"] = 198589,
 					["spellIDs"] = {
-						[122278] = true,
+						[198589] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 620827,
+					["cooldown"] = 60,
+					["texture"] = 1305150,
 				},
 				["Dire Beast: Basilisk"] = {
 					["enabled"] = true,
@@ -38325,14 +38326,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 1412204,
 				},
-				["Power Word: Barrier"] = {
+				["Diffuse Magic"] = {
 					["enabled"] = true,
-					["refSpellID"] = 62618,
+					["refSpellID"] = 122783,
 					["spellIDs"] = {
-						[62618] = true,
+						[122783] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 253400,
+					["cooldown"] = 90,
+					["texture"] = 775460,
 				},
 				["Tombstone"] = {
 					["enabled"] = true,
@@ -38343,23 +38344,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 132151,
 				},
-				["Blessing of Sacrifice"] = {
+				["Demonic Trample"] = {
 					["enabled"] = true,
-					["refSpellID"] = 6940,
+					["refSpellID"] = 205629,
 					["spellIDs"] = {
-						[6940] = true,
+						[205629] = true,
 					},
-					["cooldown"] = 75,
-					["texture"] = 135966,
+					["cooldown"] = 30,
+					["texture"] = 134294,
 				},
-				["Revival"] = {
+				["Guardian of Ancient Kings"] = {
 					["enabled"] = true,
-					["refSpellID"] = 115310,
+					["refSpellID"] = 86659,
 					["spellIDs"] = {
-						[115310] = true,
+						[86659] = true,
 					},
-					["cooldown"] = 180,
-					["texture"] = 1020466,
+					["cooldown"] = 300,
+					["texture"] = 135919,
 				},
 				["Nether Bond"] = {
 					["enabled"] = true,
@@ -38388,14 +38389,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 25,
 					["texture"] = 135968,
 				},
-				["Blood Mirror"] = {
+				["Ice Block"] = {
 					["enabled"] = true,
-					["refSpellID"] = 206977,
+					["refSpellID"] = 45438,
 					["spellIDs"] = {
-						[206977] = true,
+						[45438] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 134084,
+					["cooldown"] = 240,
+					["texture"] = 135841,
 				},
 				["Invisibility"] = {
 					["enabled"] = true,
@@ -38433,32 +38434,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 20,
 					["texture"] = 134153,
 				},
-				["Counterspell"] = {
+				["Shadowmeld"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2139,
+					["refSpellID"] = 58984,
 					["spellIDs"] = {
-						[2139] = true,
+						[58984] = true,
 					},
-					["cooldown"] = 24,
-					["texture"] = 135856,
+					["cooldown"] = 120,
+					["texture"] = 132089,
 				},
-				["Earthgrab Totem"] = {
+				["Greater Fade"] = {
 					["enabled"] = true,
-					["refSpellID"] = 51485,
+					["refSpellID"] = 213602,
 					["spellIDs"] = {
-						[51485] = true,
+						[213602] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 136100,
+					["texture"] = 135994,
 				},
-				["Holy Avenger"] = {
+				["Pain Suppression"] = {
 					["enabled"] = true,
-					["refSpellID"] = 105809,
+					["refSpellID"] = 33206,
 					["spellIDs"] = {
-						[105809] = true,
+						[33206] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 571555,
+					["cooldown"] = 210,
+					["texture"] = 135936,
 				},
 				["Illidan's Grasp"] = {
 					["enabled"] = true,
@@ -38487,23 +38488,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 1376045,
 				},
-				["Power Infusion"] = {
+				["Wyvern Sting"] = {
 					["enabled"] = true,
-					["refSpellID"] = 10060,
+					["refSpellID"] = 19386,
 					["spellIDs"] = {
-						[10060] = true,
+						[19386] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 135939,
+					["cooldown"] = 45,
+					["texture"] = 135125,
 				},
-				["Feral Lunge"] = {
+				["Duel"] = {
 					["enabled"] = true,
-					["refSpellID"] = 196884,
+					["refSpellID"] = 236273,
 					["spellIDs"] = {
-						[196884] = true,
+						[236273] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 1027879,
+					["cooldown"] = 60,
+					["texture"] = 1455893,
 				},
 				["Unending Resolve"] = {
 					["enabled"] = true,
@@ -38514,32 +38515,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 150,
 					["texture"] = 136150,
 				},
-				["Aspect of the Turtle"] = {
+				["Netherwalk"] = {
 					["enabled"] = true,
-					["refSpellID"] = 186265,
+					["refSpellID"] = 196555,
 					["spellIDs"] = {
-						[186265] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 132199,
-				},
-				["Dark Regeneration"] = {
-					["enabled"] = true,
-					["refSpellID"] = 108359,
-					["spellIDs"] = {
-						[108359] = true,
+						[196555] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 537516,
+					["texture"] = 463284,
 				},
-				["Shadowy Duel"] = {
+				["Chaos Nova"] = {
 					["enabled"] = true,
-					["refSpellID"] = 207736,
+					["refSpellID"] = 179057,
 					["spellIDs"] = {
-						[207736] = true,
+						[179057] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 1020341,
+					["cooldown"] = 60,
+					["texture"] = 135795,
+				},
+				["Cheat Death"] = {
+					["enabled"] = true,
+					["refSpellID"] = 31230,
+					["spellIDs"] = {
+						[31230] = true,
+					},
+					["cooldown"] = 360,
+					["texture"] = 132285,
 				},
 				["Vendetta"] = {
 					["enabled"] = true,
@@ -38550,23 +38551,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 458726,
 				},
-				["Storm Bolt"] = {
+				["Bladestorm"] = {
 					["enabled"] = true,
-					["refSpellID"] = 107570,
+					["refSpellID"] = 227847,
 					["spellIDs"] = {
-						[107570] = true,
+						[227847] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 613535,
-				},
-				["Rebuke"] = {
-					["enabled"] = true,
-					["refSpellID"] = 96231,
-					["spellIDs"] = {
-						[96231] = true,
-					},
-					["cooldown"] = 15,
-					["texture"] = 523893,
+					["cooldown"] = 60,
+					["texture"] = 236303,
 				},
 				["Shambling Rush"] = {
 					["enabled"] = true,
@@ -38577,14 +38569,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 30,
 					["texture"] = 237569,
 				},
-				["Adrenaline Rush"] = {
+				["Dark Transformation"] = {
 					["enabled"] = true,
-					["refSpellID"] = 13750,
+					["refSpellID"] = 63560,
 					["spellIDs"] = {
-						[13750] = true,
+						[63560] = true,
 					},
-					["cooldown"] = 150,
-					["texture"] = 136206,
+					["cooldown"] = 60,
+					["texture"] = 342913,
+				},
+				["Shadowfury"] = {
+					["enabled"] = true,
+					["refSpellID"] = 30283,
+					["spellIDs"] = {
+						[30283] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 607865,
 				},
 				["Blessing of Protection"] = {
 					["enabled"] = true,
@@ -38604,77 +38605,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135824,
 				},
-				["Strangulate"] = {
+				["Trueshot"] = {
 					["enabled"] = true,
-					["refSpellID"] = 47476,
+					["refSpellID"] = 193526,
 					["spellIDs"] = {
-						[47476] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 136214,
-				},
-				["Healing Tide Totem"] = {
-					["enabled"] = true,
-					["refSpellID"] = 108280,
-					["spellIDs"] = {
-						[108280] = true,
+						[193526] = true,
 					},
 					["cooldown"] = 180,
-					["texture"] = 538569,
-				},
-				["Guardian Spirit"] = {
-					["enabled"] = true,
-					["refSpellID"] = 47788,
-					["spellIDs"] = {
-						[47788] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 237542,
-				},
-				["Dancing Rune Weapon"] = {
-					["enabled"] = true,
-					["refSpellID"] = 49028,
-					["spellIDs"] = {
-						[49028] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 135277,
-				},
-				["Gladiator's Medallion"] = {
-					["enabled"] = true,
-					["refSpellID"] = 208683,
-					["spellIDs"] = {
-						[208683] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 1322720,
-				},
-				["Death Pact"] = {
-					["enabled"] = true,
-					["refSpellID"] = 48743,
-					["spellIDs"] = {
-						[48743] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 136146,
-				},
-				["Shockwave"] = {
-					["enabled"] = true,
-					["refSpellID"] = 46968,
-					["spellIDs"] = {
-						[46968] = true,
-					},
-					["cooldown"] = 40,
-					["texture"] = 236312,
-				},
-				["Freezing Trap"] = {
-					["enabled"] = true,
-					["refSpellID"] = 187650,
-					["spellIDs"] = {
-						[187650] = true,
-					},
-					["cooldown"] = 25,
-					["texture"] = 135834,
+					["texture"] = 132329,
 				},
 				["Avenging Wrath"] = {
 					["enabled"] = true,
@@ -38685,86 +38623,149 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135875,
 				},
-				["Trueshot"] = {
+				["Freezing Trap"] = {
 					["enabled"] = true,
-					["refSpellID"] = 193526,
+					["refSpellID"] = 187650,
 					["spellIDs"] = {
-						[193526] = true,
+						[187650] = true,
 					},
-					["cooldown"] = 180,
-					["texture"] = 132329,
+					["cooldown"] = 25,
+					["texture"] = 135834,
 				},
-				["Shadowfury"] = {
+				["Shockwave"] = {
 					["enabled"] = true,
-					["refSpellID"] = 30283,
+					["refSpellID"] = 46968,
 					["spellIDs"] = {
-						[30283] = true,
+						[46968] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 607865,
+					["cooldown"] = 40,
+					["texture"] = 236312,
 				},
-				["Dark Transformation"] = {
+				["Death Pact"] = {
 					["enabled"] = true,
-					["refSpellID"] = 63560,
+					["refSpellID"] = 48743,
 					["spellIDs"] = {
-						[63560] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 342913,
-				},
-				["Bladestorm"] = {
-					["enabled"] = true,
-					["refSpellID"] = 227847,
-					["spellIDs"] = {
-						[227847] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 236303,
-				},
-				["Cheat Death"] = {
-					["enabled"] = true,
-					["refSpellID"] = 31230,
-					["spellIDs"] = {
-						[31230] = true,
-					},
-					["cooldown"] = 360,
-					["texture"] = 132285,
-				},
-				["Chaos Nova"] = {
-					["enabled"] = true,
-					["refSpellID"] = 179057,
-					["spellIDs"] = {
-						[179057] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 135795,
-				},
-				["Netherwalk"] = {
-					["enabled"] = true,
-					["refSpellID"] = 196555,
-					["spellIDs"] = {
-						[196555] = true,
+						[48743] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 463284,
+					["texture"] = 136146,
 				},
-				["Duel"] = {
+				["Gladiator's Medallion"] = {
 					["enabled"] = true,
-					["refSpellID"] = 236273,
+					["refSpellID"] = 208683,
 					["spellIDs"] = {
-						[236273] = true,
+						[208683] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 1322720,
+				},
+				["Dancing Rune Weapon"] = {
+					["enabled"] = true,
+					["refSpellID"] = 49028,
+					["spellIDs"] = {
+						[49028] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 135277,
+				},
+				["Guardian Spirit"] = {
+					["enabled"] = true,
+					["refSpellID"] = 47788,
+					["spellIDs"] = {
+						[47788] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 1455893,
+					["texture"] = 237542,
 				},
-				["Wyvern Sting"] = {
+				["Healing Tide Totem"] = {
 					["enabled"] = true,
-					["refSpellID"] = 19386,
+					["refSpellID"] = 108280,
 					["spellIDs"] = {
-						[19386] = true,
+						[108280] = true,
 					},
-					["cooldown"] = 45,
-					["texture"] = 135125,
+					["cooldown"] = 180,
+					["texture"] = 538569,
+				},
+				["Strangulate"] = {
+					["enabled"] = true,
+					["refSpellID"] = 47476,
+					["spellIDs"] = {
+						[47476] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 136214,
+				},
+				["Adrenaline Rush"] = {
+					["enabled"] = true,
+					["refSpellID"] = 13750,
+					["spellIDs"] = {
+						[13750] = true,
+					},
+					["cooldown"] = 150,
+					["texture"] = 136206,
+				},
+				["Rebuke"] = {
+					["enabled"] = true,
+					["refSpellID"] = 96231,
+					["spellIDs"] = {
+						[96231] = true,
+					},
+					["cooldown"] = 15,
+					["texture"] = 523893,
+				},
+				["Storm Bolt"] = {
+					["enabled"] = true,
+					["refSpellID"] = 107570,
+					["spellIDs"] = {
+						[107570] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 613535,
+				},
+				["Shadowy Duel"] = {
+					["enabled"] = true,
+					["refSpellID"] = 207736,
+					["spellIDs"] = {
+						[207736] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 1020341,
+				},
+				["Dark Regeneration"] = {
+					["enabled"] = true,
+					["refSpellID"] = 108359,
+					["spellIDs"] = {
+						[108359] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 537516,
+				},
+				["Aspect of the Turtle"] = {
+					["enabled"] = true,
+					["refSpellID"] = 186265,
+					["spellIDs"] = {
+						[186265] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 132199,
+				},
+				["Feral Lunge"] = {
+					["enabled"] = true,
+					["refSpellID"] = 196884,
+					["spellIDs"] = {
+						[196884] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 1027879,
+				},
+				["Power Infusion"] = {
+					["enabled"] = true,
+					["refSpellID"] = 10060,
+					["spellIDs"] = {
+						[10060] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 135939,
 				},
 				["Dismantle"] = {
 					["enabled"] = true,
@@ -38784,32 +38785,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 54,
 					["texture"] = 1418286,
 				},
-				["Pain Suppression"] = {
+				["Holy Avenger"] = {
 					["enabled"] = true,
-					["refSpellID"] = 33206,
+					["refSpellID"] = 105809,
 					["spellIDs"] = {
-						[33206] = true,
+						[105809] = true,
 					},
-					["cooldown"] = 210,
-					["texture"] = 135936,
+					["cooldown"] = 90,
+					["texture"] = 571555,
 				},
-				["Greater Fade"] = {
+				["Earthgrab Totem"] = {
 					["enabled"] = true,
-					["refSpellID"] = 213602,
+					["refSpellID"] = 51485,
 					["spellIDs"] = {
-						[213602] = true,
+						[51485] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 135994,
+					["texture"] = 136100,
 				},
-				["Shadowmeld"] = {
+				["Counterspell"] = {
 					["enabled"] = true,
-					["refSpellID"] = 58984,
+					["refSpellID"] = 2139,
 					["spellIDs"] = {
-						[58984] = true,
+						[2139] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 132089,
+					["cooldown"] = 24,
+					["texture"] = 135856,
 				},
 				["Ursol's Vortex"] = {
 					["enabled"] = true,
@@ -38820,14 +38821,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 571588,
 				},
-				["Ice Block"] = {
+				["Blood Mirror"] = {
 					["enabled"] = true,
-					["refSpellID"] = 45438,
+					["refSpellID"] = 206977,
 					["spellIDs"] = {
-						[45438] = true,
+						[206977] = true,
 					},
-					["cooldown"] = 240,
-					["texture"] = 135841,
+					["cooldown"] = 120,
+					["texture"] = 134084,
 				},
 				["Dispersion"] = {
 					["enabled"] = true,
@@ -38838,50 +38839,50 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 237563,
 				},
-				["Guardian of Ancient Kings"] = {
+				["Revival"] = {
 					["enabled"] = true,
-					["refSpellID"] = 86659,
+					["refSpellID"] = 115310,
 					["spellIDs"] = {
-						[86659] = true,
+						[115310] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 135919,
+					["cooldown"] = 180,
+					["texture"] = 1020466,
 				},
-				["Demonic Trample"] = {
+				["Blessing of Sacrifice"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205629,
+					["refSpellID"] = 6940,
 					["spellIDs"] = {
-						[205629] = true,
+						[6940] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 134294,
+					["cooldown"] = 75,
+					["texture"] = 135966,
 				},
-				["Diffuse Magic"] = {
+				["Power Word: Barrier"] = {
 					["enabled"] = true,
-					["refSpellID"] = 122783,
+					["refSpellID"] = 62618,
 					["spellIDs"] = {
-						[122783] = true,
+						[62618] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 775460,
+					["cooldown"] = 120,
+					["texture"] = 253400,
 				},
-				["Blur"] = {
+				["Dampen Harm"] = {
 					["enabled"] = true,
-					["refSpellID"] = 198589,
+					["refSpellID"] = 122278,
 					["spellIDs"] = {
-						[198589] = true,
+						[122278] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 1305150,
+					["cooldown"] = 120,
+					["texture"] = 620827,
 				},
-				["Evocation"] = {
+				["Parley"] = {
 					["enabled"] = true,
-					["refSpellID"] = 12051,
+					["refSpellID"] = 199743,
 					["spellIDs"] = {
-						[12051] = true,
+						[199743] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 136075,
+					["cooldown"] = 20,
+					["texture"] = 236448,
 				},
 				["Dragon Charge"] = {
 					["enabled"] = true,
@@ -38892,23 +38893,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 20,
 					["texture"] = 1380676,
 				},
-				["Essence of G'Hanir"] = {
+				["Shadowstep"] = {
 					["enabled"] = true,
-					["refSpellID"] = 208253,
+					["refSpellID"] = 36554,
 					["spellIDs"] = {
-						[208253] = true,
+						[36554] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 1115592,
+					["cooldown"] = 30,
+					["texture"] = 132303,
 				},
-				["Intercept"] = {
+				["Bloodlust"] = {
 					["enabled"] = true,
-					["refSpellID"] = 198304,
+					["refSpellID"] = 2825,
 					["spellIDs"] = {
-						[198304] = true,
+						[2825] = true,
 					},
-					["cooldown"] = 17,
-					["texture"] = 132365,
+					["cooldown"] = 60,
+					["texture"] = 136012,
 				},
 				["Typhoon"] = {
 					["enabled"] = true,
@@ -38946,23 +38947,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 180,
 					["texture"] = 135872,
 				},
-				["Barkskin"] = {
+				["Reverse Magic"] = {
 					["enabled"] = true,
-					["refSpellID"] = 22812,
+					["refSpellID"] = 205604,
 					["spellIDs"] = {
-						[22812] = true,
+						[205604] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 136097,
+					["texture"] = 1380372,
 				},
-				["Spirit of Redemption"] = {
+				["Kick"] = {
 					["enabled"] = true,
-					["refSpellID"] = 215769,
+					["refSpellID"] = 1766,
 					["spellIDs"] = {
-						[215769] = true,
+						[1766] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 132864,
+					["cooldown"] = 15,
+					["texture"] = 132219,
 				},
 				["Spell Lock"] = {
 					["enabled"] = true,
@@ -38973,19 +38974,18 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 24,
 					["texture"] = 136174,
 				},
-				["Force of Nature"] = {
+				["Sigil of Silence"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205636,
+					["refSpellID"] = 202137,
 					["spellIDs"] = {
-						[205636] = true,
+						[202137] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 132129,
+					["cooldown"] = 36,
+					["texture"] = 1418288,
 				},
 			},
-			["DBVersion"] = 8,
 		},
-		["Primepriest - Kel'Thuzad"] = {
+		["Primehunter - Area 52"] = {
 			["DBVersion"] = 8,
 			["SpellCDs"] = {
 				["Life Cocoon"] = {
@@ -41004,14 +41004,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 523893,
 				},
-				["Dark Transformation"] = {
+				["Shambling Rush"] = {
 					["enabled"] = true,
-					["refSpellID"] = 63560,
+					["refSpellID"] = 91802,
 					["spellIDs"] = {
-						[63560] = true,
+						[91802] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 342913,
+					["cooldown"] = 30,
+					["texture"] = 237569,
 				},
 				["Adrenaline Rush"] = {
 					["enabled"] = true,
@@ -41139,14 +41139,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 30,
 					["texture"] = 607865,
 				},
-				["Shambling Rush"] = {
+				["Dark Transformation"] = {
 					["enabled"] = true,
-					["refSpellID"] = 91802,
+					["refSpellID"] = 63560,
 					["spellIDs"] = {
-						[91802] = true,
+						[63560] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 237569,
+					["cooldown"] = 60,
+					["texture"] = 342913,
 				},
 				["Bladestorm"] = {
 					["enabled"] = true,
@@ -41421,6 +41421,7 @@ NameplateCooldownsAceDB = {
 			},
 		},
 		["Primelocker - Kel'Thuzad"] = {
+			["DBVersion"] = 8,
 			["SpellCDs"] = {
 				["Life Cocoon"] = {
 					["enabled"] = true,
@@ -43033,14 +43034,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 136214,
 				},
-				["Force of Nature"] = {
+				["Sigil of Silence"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205636,
+					["refSpellID"] = 202137,
 					["spellIDs"] = {
-						[205636] = true,
+						[202137] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 132129,
+					["cooldown"] = 36,
+					["texture"] = 1418288,
 				},
 				["Master's Call"] = {
 					["enabled"] = true,
@@ -43060,14 +43061,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 25,
 					["texture"] = 1033909,
 				},
-				["Spirit of Redemption"] = {
+				["Kick"] = {
 					["enabled"] = true,
-					["refSpellID"] = 215769,
+					["refSpellID"] = 1766,
 					["spellIDs"] = {
-						[215769] = true,
+						[1766] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 132864,
+					["cooldown"] = 15,
+					["texture"] = 132219,
 				},
 				["Invoke Xuen, the White Tiger"] = {
 					["enabled"] = true,
@@ -43087,14 +43088,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 300,
 					["texture"] = 135865,
 				},
-				["Barkskin"] = {
+				["Reverse Magic"] = {
 					["enabled"] = true,
-					["refSpellID"] = 22812,
+					["refSpellID"] = 205604,
 					["spellIDs"] = {
-						[22812] = true,
+						[205604] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 136097,
+					["texture"] = 1380372,
 				},
 				["Ironbark"] = {
 					["enabled"] = true,
@@ -43132,23 +43133,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 651728,
 				},
-				["Intercept"] = {
+				["Bloodlust"] = {
 					["enabled"] = true,
-					["refSpellID"] = 198304,
+					["refSpellID"] = 2825,
 					["spellIDs"] = {
-						[198304] = true,
+						[2825] = true,
 					},
-					["cooldown"] = 17,
-					["texture"] = 132365,
+					["cooldown"] = 60,
+					["texture"] = 136012,
 				},
-				["Essence of G'Hanir"] = {
+				["Shadowstep"] = {
 					["enabled"] = true,
-					["refSpellID"] = 208253,
+					["refSpellID"] = 36554,
 					["spellIDs"] = {
-						[208253] = true,
+						[36554] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 1115592,
+					["cooldown"] = 30,
+					["texture"] = 132303,
 				},
 				["Kidney Shot"] = {
 					["enabled"] = true,
@@ -43168,23 +43169,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 1029585,
 				},
-				["Evocation"] = {
+				["Parley"] = {
 					["enabled"] = true,
-					["refSpellID"] = 12051,
+					["refSpellID"] = 199743,
 					["spellIDs"] = {
-						[12051] = true,
+						[199743] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 136075,
+					["cooldown"] = 20,
+					["texture"] = 236448,
 				},
-				["Blur"] = {
+				["Dampen Harm"] = {
 					["enabled"] = true,
-					["refSpellID"] = 198589,
+					["refSpellID"] = 122278,
 					["spellIDs"] = {
-						[198589] = true,
+						[122278] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 1305150,
+					["cooldown"] = 120,
+					["texture"] = 620827,
 				},
 				["Dire Beast: Basilisk"] = {
 					["enabled"] = true,
@@ -43195,14 +43196,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 1412204,
 				},
-				["Diffuse Magic"] = {
+				["Power Word: Barrier"] = {
 					["enabled"] = true,
-					["refSpellID"] = 122783,
+					["refSpellID"] = 62618,
 					["spellIDs"] = {
-						[122783] = true,
+						[62618] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 775460,
+					["cooldown"] = 120,
+					["texture"] = 253400,
 				},
 				["Tombstone"] = {
 					["enabled"] = true,
@@ -43213,23 +43214,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 132151,
 				},
-				["Demonic Trample"] = {
+				["Blessing of Sacrifice"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205629,
+					["refSpellID"] = 6940,
 					["spellIDs"] = {
-						[205629] = true,
+						[6940] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 134294,
+					["cooldown"] = 75,
+					["texture"] = 135966,
 				},
-				["Guardian of Ancient Kings"] = {
+				["Revival"] = {
 					["enabled"] = true,
-					["refSpellID"] = 86659,
+					["refSpellID"] = 115310,
 					["spellIDs"] = {
-						[86659] = true,
+						[115310] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 135919,
+					["cooldown"] = 180,
+					["texture"] = 1020466,
 				},
 				["Nether Bond"] = {
 					["enabled"] = true,
@@ -43258,14 +43259,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 25,
 					["texture"] = 135968,
 				},
-				["Ice Block"] = {
+				["Blood Mirror"] = {
 					["enabled"] = true,
-					["refSpellID"] = 45438,
+					["refSpellID"] = 206977,
 					["spellIDs"] = {
-						[45438] = true,
+						[206977] = true,
 					},
-					["cooldown"] = 240,
-					["texture"] = 135841,
+					["cooldown"] = 120,
+					["texture"] = 134084,
 				},
 				["Invisibility"] = {
 					["enabled"] = true,
@@ -43303,32 +43304,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 20,
 					["texture"] = 134153,
 				},
-				["Shadowmeld"] = {
+				["Counterspell"] = {
 					["enabled"] = true,
-					["refSpellID"] = 58984,
+					["refSpellID"] = 2139,
 					["spellIDs"] = {
-						[58984] = true,
+						[2139] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 132089,
+					["cooldown"] = 24,
+					["texture"] = 135856,
 				},
-				["Greater Fade"] = {
+				["Earthgrab Totem"] = {
 					["enabled"] = true,
-					["refSpellID"] = 213602,
+					["refSpellID"] = 51485,
 					["spellIDs"] = {
-						[213602] = true,
+						[51485] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 135994,
+					["texture"] = 136100,
 				},
-				["Pain Suppression"] = {
+				["Holy Avenger"] = {
 					["enabled"] = true,
-					["refSpellID"] = 33206,
+					["refSpellID"] = 105809,
 					["spellIDs"] = {
-						[33206] = true,
+						[105809] = true,
 					},
-					["cooldown"] = 210,
-					["texture"] = 135936,
+					["cooldown"] = 90,
+					["texture"] = 571555,
 				},
 				["Illidan's Grasp"] = {
 					["enabled"] = true,
@@ -43357,23 +43358,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 1376045,
 				},
-				["Wyvern Sting"] = {
+				["Power Infusion"] = {
 					["enabled"] = true,
-					["refSpellID"] = 19386,
+					["refSpellID"] = 10060,
 					["spellIDs"] = {
-						[19386] = true,
+						[10060] = true,
 					},
-					["cooldown"] = 45,
-					["texture"] = 135125,
+					["cooldown"] = 120,
+					["texture"] = 135939,
 				},
-				["Duel"] = {
+				["Feral Lunge"] = {
 					["enabled"] = true,
-					["refSpellID"] = 236273,
+					["refSpellID"] = 196884,
 					["spellIDs"] = {
-						[236273] = true,
+						[196884] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 1455893,
+					["cooldown"] = 30,
+					["texture"] = 1027879,
 				},
 				["Unending Resolve"] = {
 					["enabled"] = true,
@@ -43384,32 +43385,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 150,
 					["texture"] = 136150,
 				},
-				["Netherwalk"] = {
+				["Aspect of the Turtle"] = {
 					["enabled"] = true,
-					["refSpellID"] = 196555,
+					["refSpellID"] = 186265,
 					["spellIDs"] = {
-						[196555] = true,
+						[186265] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 132199,
+				},
+				["Dark Regeneration"] = {
+					["enabled"] = true,
+					["refSpellID"] = 108359,
+					["spellIDs"] = {
+						[108359] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 463284,
+					["texture"] = 537516,
 				},
-				["Chaos Nova"] = {
+				["Shadowy Duel"] = {
 					["enabled"] = true,
-					["refSpellID"] = 179057,
+					["refSpellID"] = 207736,
 					["spellIDs"] = {
-						[179057] = true,
+						[207736] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 135795,
-				},
-				["Cheat Death"] = {
-					["enabled"] = true,
-					["refSpellID"] = 31230,
-					["spellIDs"] = {
-						[31230] = true,
-					},
-					["cooldown"] = 360,
-					["texture"] = 132285,
+					["cooldown"] = 120,
+					["texture"] = 1020341,
 				},
 				["Vendetta"] = {
 					["enabled"] = true,
@@ -43420,23 +43421,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 458726,
 				},
-				["Bladestorm"] = {
+				["Storm Bolt"] = {
 					["enabled"] = true,
-					["refSpellID"] = 227847,
+					["refSpellID"] = 107570,
 					["spellIDs"] = {
-						[227847] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 236303,
-				},
-				["Shambling Rush"] = {
-					["enabled"] = true,
-					["refSpellID"] = 91802,
-					["spellIDs"] = {
-						[91802] = true,
+						[107570] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 237569,
+					["texture"] = 613535,
+				},
+				["Rebuke"] = {
+					["enabled"] = true,
+					["refSpellID"] = 96231,
+					["spellIDs"] = {
+						[96231] = true,
+					},
+					["cooldown"] = 15,
+					["texture"] = 523893,
 				},
 				["Dark Transformation"] = {
 					["enabled"] = true,
@@ -43447,14 +43448,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 342913,
 				},
-				["Shadowfury"] = {
+				["Adrenaline Rush"] = {
 					["enabled"] = true,
-					["refSpellID"] = 30283,
+					["refSpellID"] = 13750,
 					["spellIDs"] = {
-						[30283] = true,
+						[13750] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 607865,
+					["cooldown"] = 150,
+					["texture"] = 136206,
 				},
 				["Blessing of Protection"] = {
 					["enabled"] = true,
@@ -43474,77 +43475,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135824,
 				},
-				["Trueshot"] = {
+				["Strangulate"] = {
 					["enabled"] = true,
-					["refSpellID"] = 193526,
+					["refSpellID"] = 47476,
 					["spellIDs"] = {
-						[193526] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 132329,
-				},
-				["Avenging Wrath"] = {
-					["enabled"] = true,
-					["refSpellID"] = 31884,
-					["spellIDs"] = {
-						[31884] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 135875,
-				},
-				["Freezing Trap"] = {
-					["enabled"] = true,
-					["refSpellID"] = 187650,
-					["spellIDs"] = {
-						[187650] = true,
-					},
-					["cooldown"] = 25,
-					["texture"] = 135834,
-				},
-				["Shockwave"] = {
-					["enabled"] = true,
-					["refSpellID"] = 46968,
-					["spellIDs"] = {
-						[46968] = true,
-					},
-					["cooldown"] = 40,
-					["texture"] = 236312,
-				},
-				["Death Pact"] = {
-					["enabled"] = true,
-					["refSpellID"] = 48743,
-					["spellIDs"] = {
-						[48743] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 136146,
-				},
-				["Gladiator's Medallion"] = {
-					["enabled"] = true,
-					["refSpellID"] = 208683,
-					["spellIDs"] = {
-						[208683] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 1322720,
-				},
-				["Dancing Rune Weapon"] = {
-					["enabled"] = true,
-					["refSpellID"] = 49028,
-					["spellIDs"] = {
-						[49028] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 135277,
-				},
-				["Guardian Spirit"] = {
-					["enabled"] = true,
-					["refSpellID"] = 47788,
-					["spellIDs"] = {
-						[47788] = true,
+						[47476] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 237542,
+					["texture"] = 136214,
 				},
 				["Healing Tide Totem"] = {
 					["enabled"] = true,
@@ -43555,86 +43493,149 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 180,
 					["texture"] = 538569,
 				},
-				["Strangulate"] = {
+				["Guardian Spirit"] = {
 					["enabled"] = true,
-					["refSpellID"] = 47476,
+					["refSpellID"] = 47788,
 					["spellIDs"] = {
-						[47476] = true,
+						[47788] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 136214,
+					["texture"] = 237542,
 				},
-				["Adrenaline Rush"] = {
+				["Dancing Rune Weapon"] = {
 					["enabled"] = true,
-					["refSpellID"] = 13750,
+					["refSpellID"] = 49028,
 					["spellIDs"] = {
-						[13750] = true,
-					},
-					["cooldown"] = 150,
-					["texture"] = 136206,
-				},
-				["Rebuke"] = {
-					["enabled"] = true,
-					["refSpellID"] = 96231,
-					["spellIDs"] = {
-						[96231] = true,
-					},
-					["cooldown"] = 15,
-					["texture"] = 523893,
-				},
-				["Storm Bolt"] = {
-					["enabled"] = true,
-					["refSpellID"] = 107570,
-					["spellIDs"] = {
-						[107570] = true,
-					},
-					["cooldown"] = 30,
-					["texture"] = 613535,
-				},
-				["Shadowy Duel"] = {
-					["enabled"] = true,
-					["refSpellID"] = 207736,
-					["spellIDs"] = {
-						[207736] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 1020341,
-				},
-				["Dark Regeneration"] = {
-					["enabled"] = true,
-					["refSpellID"] = 108359,
-					["spellIDs"] = {
-						[108359] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 537516,
-				},
-				["Aspect of the Turtle"] = {
-					["enabled"] = true,
-					["refSpellID"] = 186265,
-					["spellIDs"] = {
-						[186265] = true,
+						[49028] = true,
 					},
 					["cooldown"] = 180,
-					["texture"] = 132199,
+					["texture"] = 135277,
 				},
-				["Feral Lunge"] = {
+				["Gladiator's Medallion"] = {
 					["enabled"] = true,
-					["refSpellID"] = 196884,
+					["refSpellID"] = 208683,
 					["spellIDs"] = {
-						[196884] = true,
-					},
-					["cooldown"] = 30,
-					["texture"] = 1027879,
-				},
-				["Power Infusion"] = {
-					["enabled"] = true,
-					["refSpellID"] = 10060,
-					["spellIDs"] = {
-						[10060] = true,
+						[208683] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 135939,
+					["texture"] = 1322720,
+				},
+				["Death Pact"] = {
+					["enabled"] = true,
+					["refSpellID"] = 48743,
+					["spellIDs"] = {
+						[48743] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 136146,
+				},
+				["Shockwave"] = {
+					["enabled"] = true,
+					["refSpellID"] = 46968,
+					["spellIDs"] = {
+						[46968] = true,
+					},
+					["cooldown"] = 40,
+					["texture"] = 236312,
+				},
+				["Freezing Trap"] = {
+					["enabled"] = true,
+					["refSpellID"] = 187650,
+					["spellIDs"] = {
+						[187650] = true,
+					},
+					["cooldown"] = 25,
+					["texture"] = 135834,
+				},
+				["Avenging Wrath"] = {
+					["enabled"] = true,
+					["refSpellID"] = 31884,
+					["spellIDs"] = {
+						[31884] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 135875,
+				},
+				["Trueshot"] = {
+					["enabled"] = true,
+					["refSpellID"] = 193526,
+					["spellIDs"] = {
+						[193526] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 132329,
+				},
+				["Shadowfury"] = {
+					["enabled"] = true,
+					["refSpellID"] = 30283,
+					["spellIDs"] = {
+						[30283] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 607865,
+				},
+				["Shambling Rush"] = {
+					["enabled"] = true,
+					["refSpellID"] = 91802,
+					["spellIDs"] = {
+						[91802] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 237569,
+				},
+				["Bladestorm"] = {
+					["enabled"] = true,
+					["refSpellID"] = 227847,
+					["spellIDs"] = {
+						[227847] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 236303,
+				},
+				["Cheat Death"] = {
+					["enabled"] = true,
+					["refSpellID"] = 31230,
+					["spellIDs"] = {
+						[31230] = true,
+					},
+					["cooldown"] = 360,
+					["texture"] = 132285,
+				},
+				["Chaos Nova"] = {
+					["enabled"] = true,
+					["refSpellID"] = 179057,
+					["spellIDs"] = {
+						[179057] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 135795,
+				},
+				["Netherwalk"] = {
+					["enabled"] = true,
+					["refSpellID"] = 196555,
+					["spellIDs"] = {
+						[196555] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 463284,
+				},
+				["Duel"] = {
+					["enabled"] = true,
+					["refSpellID"] = 236273,
+					["spellIDs"] = {
+						[236273] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 1455893,
+				},
+				["Wyvern Sting"] = {
+					["enabled"] = true,
+					["refSpellID"] = 19386,
+					["spellIDs"] = {
+						[19386] = true,
+					},
+					["cooldown"] = 45,
+					["texture"] = 135125,
 				},
 				["Dismantle"] = {
 					["enabled"] = true,
@@ -43654,32 +43655,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 54,
 					["texture"] = 1418286,
 				},
-				["Holy Avenger"] = {
+				["Pain Suppression"] = {
 					["enabled"] = true,
-					["refSpellID"] = 105809,
+					["refSpellID"] = 33206,
 					["spellIDs"] = {
-						[105809] = true,
+						[33206] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 571555,
+					["cooldown"] = 210,
+					["texture"] = 135936,
 				},
-				["Earthgrab Totem"] = {
+				["Greater Fade"] = {
 					["enabled"] = true,
-					["refSpellID"] = 51485,
+					["refSpellID"] = 213602,
 					["spellIDs"] = {
-						[51485] = true,
+						[213602] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 136100,
+					["texture"] = 135994,
 				},
-				["Counterspell"] = {
+				["Shadowmeld"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2139,
+					["refSpellID"] = 58984,
 					["spellIDs"] = {
-						[2139] = true,
+						[58984] = true,
 					},
-					["cooldown"] = 24,
-					["texture"] = 135856,
+					["cooldown"] = 120,
+					["texture"] = 132089,
 				},
 				["Ursol's Vortex"] = {
 					["enabled"] = true,
@@ -43690,14 +43691,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 571588,
 				},
-				["Blood Mirror"] = {
+				["Ice Block"] = {
 					["enabled"] = true,
-					["refSpellID"] = 206977,
+					["refSpellID"] = 45438,
 					["spellIDs"] = {
-						[206977] = true,
+						[45438] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 134084,
+					["cooldown"] = 240,
+					["texture"] = 135841,
 				},
 				["Dispersion"] = {
 					["enabled"] = true,
@@ -43708,50 +43709,50 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 237563,
 				},
-				["Revival"] = {
+				["Guardian of Ancient Kings"] = {
 					["enabled"] = true,
-					["refSpellID"] = 115310,
+					["refSpellID"] = 86659,
 					["spellIDs"] = {
-						[115310] = true,
+						[86659] = true,
 					},
-					["cooldown"] = 180,
-					["texture"] = 1020466,
+					["cooldown"] = 300,
+					["texture"] = 135919,
 				},
-				["Blessing of Sacrifice"] = {
+				["Demonic Trample"] = {
 					["enabled"] = true,
-					["refSpellID"] = 6940,
+					["refSpellID"] = 205629,
 					["spellIDs"] = {
-						[6940] = true,
+						[205629] = true,
 					},
-					["cooldown"] = 75,
-					["texture"] = 135966,
+					["cooldown"] = 30,
+					["texture"] = 134294,
 				},
-				["Power Word: Barrier"] = {
+				["Diffuse Magic"] = {
 					["enabled"] = true,
-					["refSpellID"] = 62618,
+					["refSpellID"] = 122783,
 					["spellIDs"] = {
-						[62618] = true,
+						[122783] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 253400,
+					["cooldown"] = 90,
+					["texture"] = 775460,
 				},
-				["Dampen Harm"] = {
+				["Blur"] = {
 					["enabled"] = true,
-					["refSpellID"] = 122278,
+					["refSpellID"] = 198589,
 					["spellIDs"] = {
-						[122278] = true,
+						[198589] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 620827,
+					["cooldown"] = 60,
+					["texture"] = 1305150,
 				},
-				["Parley"] = {
+				["Evocation"] = {
 					["enabled"] = true,
-					["refSpellID"] = 199743,
+					["refSpellID"] = 12051,
 					["spellIDs"] = {
-						[199743] = true,
+						[12051] = true,
 					},
-					["cooldown"] = 20,
-					["texture"] = 236448,
+					["cooldown"] = 90,
+					["texture"] = 136075,
 				},
 				["Dragon Charge"] = {
 					["enabled"] = true,
@@ -43762,23 +43763,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 20,
 					["texture"] = 1380676,
 				},
-				["Shadowstep"] = {
+				["Essence of G'Hanir"] = {
 					["enabled"] = true,
-					["refSpellID"] = 36554,
+					["refSpellID"] = 208253,
 					["spellIDs"] = {
-						[36554] = true,
+						[208253] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 132303,
+					["cooldown"] = 90,
+					["texture"] = 1115592,
 				},
-				["Bloodlust"] = {
+				["Intercept"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2825,
+					["refSpellID"] = 198304,
 					["spellIDs"] = {
-						[2825] = true,
+						[198304] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 136012,
+					["cooldown"] = 17,
+					["texture"] = 132365,
 				},
 				["Typhoon"] = {
 					["enabled"] = true,
@@ -43816,23 +43817,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 180,
 					["texture"] = 135872,
 				},
-				["Reverse Magic"] = {
+				["Barkskin"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205604,
+					["refSpellID"] = 22812,
 					["spellIDs"] = {
-						[205604] = true,
+						[22812] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 1380372,
+					["texture"] = 136097,
 				},
-				["Kick"] = {
+				["Spirit of Redemption"] = {
 					["enabled"] = true,
-					["refSpellID"] = 1766,
+					["refSpellID"] = 215769,
 					["spellIDs"] = {
-						[1766] = true,
+						[215769] = true,
 					},
-					["cooldown"] = 15,
-					["texture"] = 132219,
+					["cooldown"] = 300,
+					["texture"] = 132864,
 				},
 				["Spell Lock"] = {
 					["enabled"] = true,
@@ -43843,19 +43844,19 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 24,
 					["texture"] = 136174,
 				},
-				["Sigil of Silence"] = {
+				["Force of Nature"] = {
 					["enabled"] = true,
-					["refSpellID"] = 202137,
+					["refSpellID"] = 205636,
 					["spellIDs"] = {
-						[202137] = true,
+						[205636] = true,
 					},
-					["cooldown"] = 36,
-					["texture"] = 1418288,
+					["cooldown"] = 60,
+					["texture"] = 132129,
 				},
 			},
-			["DBVersion"] = 8,
 		},
 		["Fhayge - Area 52"] = {
+			["DBVersion"] = 8,
 			["SpellCDs"] = {
 				["Life Cocoon"] = {
 					["enabled"] = true,
@@ -45468,14 +45469,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 136214,
 				},
-				["Force of Nature"] = {
+				["Sigil of Silence"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205636,
+					["refSpellID"] = 202137,
 					["spellIDs"] = {
-						[205636] = true,
+						[202137] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 132129,
+					["cooldown"] = 36,
+					["texture"] = 1418288,
 				},
 				["Master's Call"] = {
 					["enabled"] = true,
@@ -45495,14 +45496,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 25,
 					["texture"] = 1033909,
 				},
-				["Spirit of Redemption"] = {
+				["Kick"] = {
 					["enabled"] = true,
-					["refSpellID"] = 215769,
+					["refSpellID"] = 1766,
 					["spellIDs"] = {
-						[215769] = true,
+						[1766] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 132864,
+					["cooldown"] = 15,
+					["texture"] = 132219,
 				},
 				["Invoke Xuen, the White Tiger"] = {
 					["enabled"] = true,
@@ -45522,14 +45523,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 300,
 					["texture"] = 135865,
 				},
-				["Barkskin"] = {
+				["Reverse Magic"] = {
 					["enabled"] = true,
-					["refSpellID"] = 22812,
+					["refSpellID"] = 205604,
 					["spellIDs"] = {
-						[22812] = true,
+						[205604] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 136097,
+					["texture"] = 1380372,
 				},
 				["Ironbark"] = {
 					["enabled"] = true,
@@ -45567,23 +45568,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 651728,
 				},
-				["Intercept"] = {
+				["Bloodlust"] = {
 					["enabled"] = true,
-					["refSpellID"] = 198304,
+					["refSpellID"] = 2825,
 					["spellIDs"] = {
-						[198304] = true,
+						[2825] = true,
 					},
-					["cooldown"] = 17,
-					["texture"] = 132365,
+					["cooldown"] = 60,
+					["texture"] = 136012,
 				},
-				["Essence of G'Hanir"] = {
+				["Shadowstep"] = {
 					["enabled"] = true,
-					["refSpellID"] = 208253,
+					["refSpellID"] = 36554,
 					["spellIDs"] = {
-						[208253] = true,
+						[36554] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 1115592,
+					["cooldown"] = 30,
+					["texture"] = 132303,
 				},
 				["Kidney Shot"] = {
 					["enabled"] = true,
@@ -45603,23 +45604,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 1029585,
 				},
-				["Evocation"] = {
+				["Parley"] = {
 					["enabled"] = true,
-					["refSpellID"] = 12051,
+					["refSpellID"] = 199743,
 					["spellIDs"] = {
-						[12051] = true,
+						[199743] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 136075,
+					["cooldown"] = 20,
+					["texture"] = 236448,
 				},
-				["Blur"] = {
+				["Dampen Harm"] = {
 					["enabled"] = true,
-					["refSpellID"] = 198589,
+					["refSpellID"] = 122278,
 					["spellIDs"] = {
-						[198589] = true,
+						[122278] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 1305150,
+					["cooldown"] = 120,
+					["texture"] = 620827,
 				},
 				["Dire Beast: Basilisk"] = {
 					["enabled"] = true,
@@ -45630,14 +45631,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 1412204,
 				},
-				["Diffuse Magic"] = {
+				["Power Word: Barrier"] = {
 					["enabled"] = true,
-					["refSpellID"] = 122783,
+					["refSpellID"] = 62618,
 					["spellIDs"] = {
-						[122783] = true,
+						[62618] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 775460,
+					["cooldown"] = 120,
+					["texture"] = 253400,
 				},
 				["Tombstone"] = {
 					["enabled"] = true,
@@ -45648,23 +45649,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 132151,
 				},
-				["Demonic Trample"] = {
+				["Blessing of Sacrifice"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205629,
+					["refSpellID"] = 6940,
 					["spellIDs"] = {
-						[205629] = true,
+						[6940] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 134294,
+					["cooldown"] = 75,
+					["texture"] = 135966,
 				},
-				["Guardian of Ancient Kings"] = {
+				["Revival"] = {
 					["enabled"] = true,
-					["refSpellID"] = 86659,
+					["refSpellID"] = 115310,
 					["spellIDs"] = {
-						[86659] = true,
+						[115310] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 135919,
+					["cooldown"] = 180,
+					["texture"] = 1020466,
 				},
 				["Nether Bond"] = {
 					["enabled"] = true,
@@ -45693,14 +45694,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 25,
 					["texture"] = 135968,
 				},
-				["Ice Block"] = {
+				["Blood Mirror"] = {
 					["enabled"] = true,
-					["refSpellID"] = 45438,
+					["refSpellID"] = 206977,
 					["spellIDs"] = {
-						[45438] = true,
+						[206977] = true,
 					},
-					["cooldown"] = 240,
-					["texture"] = 135841,
+					["cooldown"] = 120,
+					["texture"] = 134084,
 				},
 				["Invisibility"] = {
 					["enabled"] = true,
@@ -45738,32 +45739,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 20,
 					["texture"] = 134153,
 				},
-				["Shadowmeld"] = {
+				["Counterspell"] = {
 					["enabled"] = true,
-					["refSpellID"] = 58984,
+					["refSpellID"] = 2139,
 					["spellIDs"] = {
-						[58984] = true,
+						[2139] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 132089,
+					["cooldown"] = 24,
+					["texture"] = 135856,
 				},
-				["Greater Fade"] = {
+				["Earthgrab Totem"] = {
 					["enabled"] = true,
-					["refSpellID"] = 213602,
+					["refSpellID"] = 51485,
 					["spellIDs"] = {
-						[213602] = true,
+						[51485] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 135994,
+					["texture"] = 136100,
 				},
-				["Pain Suppression"] = {
+				["Holy Avenger"] = {
 					["enabled"] = true,
-					["refSpellID"] = 33206,
+					["refSpellID"] = 105809,
 					["spellIDs"] = {
-						[33206] = true,
+						[105809] = true,
 					},
-					["cooldown"] = 210,
-					["texture"] = 135936,
+					["cooldown"] = 90,
+					["texture"] = 571555,
 				},
 				["Illidan's Grasp"] = {
 					["enabled"] = true,
@@ -45792,23 +45793,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 1376045,
 				},
-				["Wyvern Sting"] = {
+				["Power Infusion"] = {
 					["enabled"] = true,
-					["refSpellID"] = 19386,
+					["refSpellID"] = 10060,
 					["spellIDs"] = {
-						[19386] = true,
+						[10060] = true,
 					},
-					["cooldown"] = 45,
-					["texture"] = 135125,
+					["cooldown"] = 120,
+					["texture"] = 135939,
 				},
-				["Duel"] = {
+				["Feral Lunge"] = {
 					["enabled"] = true,
-					["refSpellID"] = 236273,
+					["refSpellID"] = 196884,
 					["spellIDs"] = {
-						[236273] = true,
+						[196884] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 1455893,
+					["cooldown"] = 30,
+					["texture"] = 1027879,
 				},
 				["Unending Resolve"] = {
 					["enabled"] = true,
@@ -45819,32 +45820,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 150,
 					["texture"] = 136150,
 				},
-				["Netherwalk"] = {
+				["Aspect of the Turtle"] = {
 					["enabled"] = true,
-					["refSpellID"] = 196555,
+					["refSpellID"] = 186265,
 					["spellIDs"] = {
-						[196555] = true,
+						[186265] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 132199,
+				},
+				["Dark Regeneration"] = {
+					["enabled"] = true,
+					["refSpellID"] = 108359,
+					["spellIDs"] = {
+						[108359] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 463284,
+					["texture"] = 537516,
 				},
-				["Chaos Nova"] = {
+				["Shadowy Duel"] = {
 					["enabled"] = true,
-					["refSpellID"] = 179057,
+					["refSpellID"] = 207736,
 					["spellIDs"] = {
-						[179057] = true,
+						[207736] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 135795,
-				},
-				["Cheat Death"] = {
-					["enabled"] = true,
-					["refSpellID"] = 31230,
-					["spellIDs"] = {
-						[31230] = true,
-					},
-					["cooldown"] = 360,
-					["texture"] = 132285,
+					["cooldown"] = 120,
+					["texture"] = 1020341,
 				},
 				["Vendetta"] = {
 					["enabled"] = true,
@@ -45855,23 +45856,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 458726,
 				},
-				["Bladestorm"] = {
+				["Storm Bolt"] = {
 					["enabled"] = true,
-					["refSpellID"] = 227847,
+					["refSpellID"] = 107570,
 					["spellIDs"] = {
-						[227847] = true,
+						[107570] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 236303,
+					["cooldown"] = 30,
+					["texture"] = 613535,
 				},
-				["Dark Transformation"] = {
+				["Rebuke"] = {
 					["enabled"] = true,
-					["refSpellID"] = 63560,
+					["refSpellID"] = 96231,
 					["spellIDs"] = {
-						[63560] = true,
+						[96231] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 342913,
+					["cooldown"] = 15,
+					["texture"] = 523893,
 				},
 				["Shambling Rush"] = {
 					["enabled"] = true,
@@ -45882,14 +45883,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 30,
 					["texture"] = 237569,
 				},
-				["Shadowfury"] = {
+				["Adrenaline Rush"] = {
 					["enabled"] = true,
-					["refSpellID"] = 30283,
+					["refSpellID"] = 13750,
 					["spellIDs"] = {
-						[30283] = true,
+						[13750] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 607865,
+					["cooldown"] = 150,
+					["texture"] = 136206,
 				},
 				["Blessing of Protection"] = {
 					["enabled"] = true,
@@ -45909,77 +45910,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135824,
 				},
-				["Trueshot"] = {
+				["Strangulate"] = {
 					["enabled"] = true,
-					["refSpellID"] = 193526,
+					["refSpellID"] = 47476,
 					["spellIDs"] = {
-						[193526] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 132329,
-				},
-				["Avenging Wrath"] = {
-					["enabled"] = true,
-					["refSpellID"] = 31884,
-					["spellIDs"] = {
-						[31884] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 135875,
-				},
-				["Freezing Trap"] = {
-					["enabled"] = true,
-					["refSpellID"] = 187650,
-					["spellIDs"] = {
-						[187650] = true,
-					},
-					["cooldown"] = 25,
-					["texture"] = 135834,
-				},
-				["Shockwave"] = {
-					["enabled"] = true,
-					["refSpellID"] = 46968,
-					["spellIDs"] = {
-						[46968] = true,
-					},
-					["cooldown"] = 40,
-					["texture"] = 236312,
-				},
-				["Death Pact"] = {
-					["enabled"] = true,
-					["refSpellID"] = 48743,
-					["spellIDs"] = {
-						[48743] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 136146,
-				},
-				["Gladiator's Medallion"] = {
-					["enabled"] = true,
-					["refSpellID"] = 208683,
-					["spellIDs"] = {
-						[208683] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 1322720,
-				},
-				["Dancing Rune Weapon"] = {
-					["enabled"] = true,
-					["refSpellID"] = 49028,
-					["spellIDs"] = {
-						[49028] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 135277,
-				},
-				["Guardian Spirit"] = {
-					["enabled"] = true,
-					["refSpellID"] = 47788,
-					["spellIDs"] = {
-						[47788] = true,
+						[47476] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 237542,
+					["texture"] = 136214,
 				},
 				["Healing Tide Totem"] = {
 					["enabled"] = true,
@@ -45990,86 +45928,149 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 180,
 					["texture"] = 538569,
 				},
-				["Strangulate"] = {
+				["Guardian Spirit"] = {
 					["enabled"] = true,
-					["refSpellID"] = 47476,
+					["refSpellID"] = 47788,
 					["spellIDs"] = {
-						[47476] = true,
+						[47788] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 136214,
+					["texture"] = 237542,
 				},
-				["Adrenaline Rush"] = {
+				["Dancing Rune Weapon"] = {
 					["enabled"] = true,
-					["refSpellID"] = 13750,
+					["refSpellID"] = 49028,
 					["spellIDs"] = {
-						[13750] = true,
-					},
-					["cooldown"] = 150,
-					["texture"] = 136206,
-				},
-				["Rebuke"] = {
-					["enabled"] = true,
-					["refSpellID"] = 96231,
-					["spellIDs"] = {
-						[96231] = true,
-					},
-					["cooldown"] = 15,
-					["texture"] = 523893,
-				},
-				["Storm Bolt"] = {
-					["enabled"] = true,
-					["refSpellID"] = 107570,
-					["spellIDs"] = {
-						[107570] = true,
-					},
-					["cooldown"] = 30,
-					["texture"] = 613535,
-				},
-				["Shadowy Duel"] = {
-					["enabled"] = true,
-					["refSpellID"] = 207736,
-					["spellIDs"] = {
-						[207736] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 1020341,
-				},
-				["Dark Regeneration"] = {
-					["enabled"] = true,
-					["refSpellID"] = 108359,
-					["spellIDs"] = {
-						[108359] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 537516,
-				},
-				["Aspect of the Turtle"] = {
-					["enabled"] = true,
-					["refSpellID"] = 186265,
-					["spellIDs"] = {
-						[186265] = true,
+						[49028] = true,
 					},
 					["cooldown"] = 180,
-					["texture"] = 132199,
+					["texture"] = 135277,
 				},
-				["Feral Lunge"] = {
+				["Gladiator's Medallion"] = {
 					["enabled"] = true,
-					["refSpellID"] = 196884,
+					["refSpellID"] = 208683,
 					["spellIDs"] = {
-						[196884] = true,
-					},
-					["cooldown"] = 30,
-					["texture"] = 1027879,
-				},
-				["Power Infusion"] = {
-					["enabled"] = true,
-					["refSpellID"] = 10060,
-					["spellIDs"] = {
-						[10060] = true,
+						[208683] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 135939,
+					["texture"] = 1322720,
+				},
+				["Death Pact"] = {
+					["enabled"] = true,
+					["refSpellID"] = 48743,
+					["spellIDs"] = {
+						[48743] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 136146,
+				},
+				["Shockwave"] = {
+					["enabled"] = true,
+					["refSpellID"] = 46968,
+					["spellIDs"] = {
+						[46968] = true,
+					},
+					["cooldown"] = 40,
+					["texture"] = 236312,
+				},
+				["Freezing Trap"] = {
+					["enabled"] = true,
+					["refSpellID"] = 187650,
+					["spellIDs"] = {
+						[187650] = true,
+					},
+					["cooldown"] = 25,
+					["texture"] = 135834,
+				},
+				["Avenging Wrath"] = {
+					["enabled"] = true,
+					["refSpellID"] = 31884,
+					["spellIDs"] = {
+						[31884] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 135875,
+				},
+				["Trueshot"] = {
+					["enabled"] = true,
+					["refSpellID"] = 193526,
+					["spellIDs"] = {
+						[193526] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 132329,
+				},
+				["Shadowfury"] = {
+					["enabled"] = true,
+					["refSpellID"] = 30283,
+					["spellIDs"] = {
+						[30283] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 607865,
+				},
+				["Dark Transformation"] = {
+					["enabled"] = true,
+					["refSpellID"] = 63560,
+					["spellIDs"] = {
+						[63560] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 342913,
+				},
+				["Bladestorm"] = {
+					["enabled"] = true,
+					["refSpellID"] = 227847,
+					["spellIDs"] = {
+						[227847] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 236303,
+				},
+				["Cheat Death"] = {
+					["enabled"] = true,
+					["refSpellID"] = 31230,
+					["spellIDs"] = {
+						[31230] = true,
+					},
+					["cooldown"] = 360,
+					["texture"] = 132285,
+				},
+				["Chaos Nova"] = {
+					["enabled"] = true,
+					["refSpellID"] = 179057,
+					["spellIDs"] = {
+						[179057] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 135795,
+				},
+				["Netherwalk"] = {
+					["enabled"] = true,
+					["refSpellID"] = 196555,
+					["spellIDs"] = {
+						[196555] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 463284,
+				},
+				["Duel"] = {
+					["enabled"] = true,
+					["refSpellID"] = 236273,
+					["spellIDs"] = {
+						[236273] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 1455893,
+				},
+				["Wyvern Sting"] = {
+					["enabled"] = true,
+					["refSpellID"] = 19386,
+					["spellIDs"] = {
+						[19386] = true,
+					},
+					["cooldown"] = 45,
+					["texture"] = 135125,
 				},
 				["Dismantle"] = {
 					["enabled"] = true,
@@ -46089,32 +46090,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 54,
 					["texture"] = 1418286,
 				},
-				["Holy Avenger"] = {
+				["Pain Suppression"] = {
 					["enabled"] = true,
-					["refSpellID"] = 105809,
+					["refSpellID"] = 33206,
 					["spellIDs"] = {
-						[105809] = true,
+						[33206] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 571555,
+					["cooldown"] = 210,
+					["texture"] = 135936,
 				},
-				["Earthgrab Totem"] = {
+				["Greater Fade"] = {
 					["enabled"] = true,
-					["refSpellID"] = 51485,
+					["refSpellID"] = 213602,
 					["spellIDs"] = {
-						[51485] = true,
+						[213602] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 136100,
+					["texture"] = 135994,
 				},
-				["Counterspell"] = {
+				["Shadowmeld"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2139,
+					["refSpellID"] = 58984,
 					["spellIDs"] = {
-						[2139] = true,
+						[58984] = true,
 					},
-					["cooldown"] = 24,
-					["texture"] = 135856,
+					["cooldown"] = 120,
+					["texture"] = 132089,
 				},
 				["Ursol's Vortex"] = {
 					["enabled"] = true,
@@ -46125,14 +46126,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 571588,
 				},
-				["Blood Mirror"] = {
+				["Ice Block"] = {
 					["enabled"] = true,
-					["refSpellID"] = 206977,
+					["refSpellID"] = 45438,
 					["spellIDs"] = {
-						[206977] = true,
+						[45438] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 134084,
+					["cooldown"] = 240,
+					["texture"] = 135841,
 				},
 				["Dispersion"] = {
 					["enabled"] = true,
@@ -46143,50 +46144,50 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 237563,
 				},
-				["Revival"] = {
+				["Guardian of Ancient Kings"] = {
 					["enabled"] = true,
-					["refSpellID"] = 115310,
+					["refSpellID"] = 86659,
 					["spellIDs"] = {
-						[115310] = true,
+						[86659] = true,
 					},
-					["cooldown"] = 180,
-					["texture"] = 1020466,
+					["cooldown"] = 300,
+					["texture"] = 135919,
 				},
-				["Blessing of Sacrifice"] = {
+				["Demonic Trample"] = {
 					["enabled"] = true,
-					["refSpellID"] = 6940,
+					["refSpellID"] = 205629,
 					["spellIDs"] = {
-						[6940] = true,
+						[205629] = true,
 					},
-					["cooldown"] = 75,
-					["texture"] = 135966,
+					["cooldown"] = 30,
+					["texture"] = 134294,
 				},
-				["Power Word: Barrier"] = {
+				["Diffuse Magic"] = {
 					["enabled"] = true,
-					["refSpellID"] = 62618,
+					["refSpellID"] = 122783,
 					["spellIDs"] = {
-						[62618] = true,
+						[122783] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 253400,
+					["cooldown"] = 90,
+					["texture"] = 775460,
 				},
-				["Dampen Harm"] = {
+				["Blur"] = {
 					["enabled"] = true,
-					["refSpellID"] = 122278,
+					["refSpellID"] = 198589,
 					["spellIDs"] = {
-						[122278] = true,
+						[198589] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 620827,
+					["cooldown"] = 60,
+					["texture"] = 1305150,
 				},
-				["Parley"] = {
+				["Evocation"] = {
 					["enabled"] = true,
-					["refSpellID"] = 199743,
+					["refSpellID"] = 12051,
 					["spellIDs"] = {
-						[199743] = true,
+						[12051] = true,
 					},
-					["cooldown"] = 20,
-					["texture"] = 236448,
+					["cooldown"] = 90,
+					["texture"] = 136075,
 				},
 				["Dragon Charge"] = {
 					["enabled"] = true,
@@ -46197,23 +46198,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 20,
 					["texture"] = 1380676,
 				},
-				["Shadowstep"] = {
+				["Essence of G'Hanir"] = {
 					["enabled"] = true,
-					["refSpellID"] = 36554,
+					["refSpellID"] = 208253,
 					["spellIDs"] = {
-						[36554] = true,
+						[208253] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 132303,
+					["cooldown"] = 90,
+					["texture"] = 1115592,
 				},
-				["Bloodlust"] = {
+				["Intercept"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2825,
+					["refSpellID"] = 198304,
 					["spellIDs"] = {
-						[2825] = true,
+						[198304] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 136012,
+					["cooldown"] = 17,
+					["texture"] = 132365,
 				},
 				["Typhoon"] = {
 					["enabled"] = true,
@@ -46251,23 +46252,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 180,
 					["texture"] = 135872,
 				},
-				["Reverse Magic"] = {
+				["Barkskin"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205604,
+					["refSpellID"] = 22812,
 					["spellIDs"] = {
-						[205604] = true,
+						[22812] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 1380372,
+					["texture"] = 136097,
 				},
-				["Kick"] = {
+				["Spirit of Redemption"] = {
 					["enabled"] = true,
-					["refSpellID"] = 1766,
+					["refSpellID"] = 215769,
 					["spellIDs"] = {
-						[1766] = true,
+						[215769] = true,
 					},
-					["cooldown"] = 15,
-					["texture"] = 132219,
+					["cooldown"] = 300,
+					["texture"] = 132864,
 				},
 				["Spell Lock"] = {
 					["enabled"] = true,
@@ -46278,19 +46279,18 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 24,
 					["texture"] = 136174,
 				},
-				["Sigil of Silence"] = {
+				["Force of Nature"] = {
 					["enabled"] = true,
-					["refSpellID"] = 202137,
+					["refSpellID"] = 205636,
 					["spellIDs"] = {
-						[202137] = true,
+						[205636] = true,
 					},
-					["cooldown"] = 36,
-					["texture"] = 1418288,
+					["cooldown"] = 60,
+					["texture"] = 132129,
 				},
 			},
-			["DBVersion"] = 8,
 		},
-		["Primehunter - Area 52"] = {
+		["Primepriest - Kel'Thuzad"] = {
 			["SpellCDs"] = {
 				["Life Cocoon"] = {
 					["enabled"] = true,
@@ -48726,7 +48726,6 @@ NameplateCooldownsAceDB = {
 			["DBVersion"] = 8,
 		},
 		["Paintprimer - Kel'Thuzad"] = {
-			["DBVersion"] = 8,
 			["SpellCDs"] = {
 				["Life Cocoon"] = {
 					["enabled"] = true,
@@ -50339,14 +50338,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 136214,
 				},
-				["Force of Nature"] = {
+				["Sigil of Silence"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205636,
+					["refSpellID"] = 202137,
 					["spellIDs"] = {
-						[205636] = true,
+						[202137] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 132129,
+					["cooldown"] = 36,
+					["texture"] = 1418288,
 				},
 				["Master's Call"] = {
 					["enabled"] = true,
@@ -50366,14 +50365,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 25,
 					["texture"] = 1033909,
 				},
-				["Spirit of Redemption"] = {
+				["Kick"] = {
 					["enabled"] = true,
-					["refSpellID"] = 215769,
+					["refSpellID"] = 1766,
 					["spellIDs"] = {
-						[215769] = true,
+						[1766] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 132864,
+					["cooldown"] = 15,
+					["texture"] = 132219,
 				},
 				["Invoke Xuen, the White Tiger"] = {
 					["enabled"] = true,
@@ -50393,14 +50392,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 300,
 					["texture"] = 135865,
 				},
-				["Barkskin"] = {
+				["Reverse Magic"] = {
 					["enabled"] = true,
-					["refSpellID"] = 22812,
+					["refSpellID"] = 205604,
 					["spellIDs"] = {
-						[22812] = true,
+						[205604] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 136097,
+					["texture"] = 1380372,
 				},
 				["Ironbark"] = {
 					["enabled"] = true,
@@ -50438,23 +50437,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 651728,
 				},
-				["Intercept"] = {
+				["Bloodlust"] = {
 					["enabled"] = true,
-					["refSpellID"] = 198304,
+					["refSpellID"] = 2825,
 					["spellIDs"] = {
-						[198304] = true,
+						[2825] = true,
 					},
-					["cooldown"] = 17,
-					["texture"] = 132365,
+					["cooldown"] = 60,
+					["texture"] = 136012,
 				},
-				["Essence of G'Hanir"] = {
+				["Shadowstep"] = {
 					["enabled"] = true,
-					["refSpellID"] = 208253,
+					["refSpellID"] = 36554,
 					["spellIDs"] = {
-						[208253] = true,
+						[36554] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 1115592,
+					["cooldown"] = 30,
+					["texture"] = 132303,
 				},
 				["Kidney Shot"] = {
 					["enabled"] = true,
@@ -50474,23 +50473,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 1029585,
 				},
-				["Evocation"] = {
+				["Parley"] = {
 					["enabled"] = true,
-					["refSpellID"] = 12051,
+					["refSpellID"] = 199743,
 					["spellIDs"] = {
-						[12051] = true,
+						[199743] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 136075,
+					["cooldown"] = 20,
+					["texture"] = 236448,
 				},
-				["Blur"] = {
+				["Dampen Harm"] = {
 					["enabled"] = true,
-					["refSpellID"] = 198589,
+					["refSpellID"] = 122278,
 					["spellIDs"] = {
-						[198589] = true,
+						[122278] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 1305150,
+					["cooldown"] = 120,
+					["texture"] = 620827,
 				},
 				["Dire Beast: Basilisk"] = {
 					["enabled"] = true,
@@ -50501,14 +50500,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 1412204,
 				},
-				["Diffuse Magic"] = {
+				["Power Word: Barrier"] = {
 					["enabled"] = true,
-					["refSpellID"] = 122783,
+					["refSpellID"] = 62618,
 					["spellIDs"] = {
-						[122783] = true,
+						[62618] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 775460,
+					["cooldown"] = 120,
+					["texture"] = 253400,
 				},
 				["Tombstone"] = {
 					["enabled"] = true,
@@ -50519,23 +50518,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 132151,
 				},
-				["Demonic Trample"] = {
+				["Blessing of Sacrifice"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205629,
+					["refSpellID"] = 6940,
 					["spellIDs"] = {
-						[205629] = true,
+						[6940] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 134294,
+					["cooldown"] = 75,
+					["texture"] = 135966,
 				},
-				["Guardian of Ancient Kings"] = {
+				["Revival"] = {
 					["enabled"] = true,
-					["refSpellID"] = 86659,
+					["refSpellID"] = 115310,
 					["spellIDs"] = {
-						[86659] = true,
+						[115310] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 135919,
+					["cooldown"] = 180,
+					["texture"] = 1020466,
 				},
 				["Nether Bond"] = {
 					["enabled"] = true,
@@ -50564,14 +50563,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 25,
 					["texture"] = 135968,
 				},
-				["Ice Block"] = {
+				["Blood Mirror"] = {
 					["enabled"] = true,
-					["refSpellID"] = 45438,
+					["refSpellID"] = 206977,
 					["spellIDs"] = {
-						[45438] = true,
+						[206977] = true,
 					},
-					["cooldown"] = 240,
-					["texture"] = 135841,
+					["cooldown"] = 120,
+					["texture"] = 134084,
 				},
 				["Invisibility"] = {
 					["enabled"] = true,
@@ -50609,32 +50608,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 20,
 					["texture"] = 134153,
 				},
-				["Shadowmeld"] = {
+				["Counterspell"] = {
 					["enabled"] = true,
-					["refSpellID"] = 58984,
+					["refSpellID"] = 2139,
 					["spellIDs"] = {
-						[58984] = true,
+						[2139] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 132089,
+					["cooldown"] = 24,
+					["texture"] = 135856,
 				},
-				["Greater Fade"] = {
+				["Earthgrab Totem"] = {
 					["enabled"] = true,
-					["refSpellID"] = 213602,
+					["refSpellID"] = 51485,
 					["spellIDs"] = {
-						[213602] = true,
+						[51485] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 135994,
+					["texture"] = 136100,
 				},
-				["Pain Suppression"] = {
+				["Holy Avenger"] = {
 					["enabled"] = true,
-					["refSpellID"] = 33206,
+					["refSpellID"] = 105809,
 					["spellIDs"] = {
-						[33206] = true,
+						[105809] = true,
 					},
-					["cooldown"] = 210,
-					["texture"] = 135936,
+					["cooldown"] = 90,
+					["texture"] = 571555,
 				},
 				["Illidan's Grasp"] = {
 					["enabled"] = true,
@@ -50663,23 +50662,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 1376045,
 				},
-				["Wyvern Sting"] = {
+				["Power Infusion"] = {
 					["enabled"] = true,
-					["refSpellID"] = 19386,
+					["refSpellID"] = 10060,
 					["spellIDs"] = {
-						[19386] = true,
+						[10060] = true,
 					},
-					["cooldown"] = 45,
-					["texture"] = 135125,
+					["cooldown"] = 120,
+					["texture"] = 135939,
 				},
-				["Duel"] = {
+				["Feral Lunge"] = {
 					["enabled"] = true,
-					["refSpellID"] = 236273,
+					["refSpellID"] = 196884,
 					["spellIDs"] = {
-						[236273] = true,
+						[196884] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 1455893,
+					["cooldown"] = 30,
+					["texture"] = 1027879,
 				},
 				["Unending Resolve"] = {
 					["enabled"] = true,
@@ -50690,32 +50689,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 150,
 					["texture"] = 136150,
 				},
-				["Netherwalk"] = {
+				["Aspect of the Turtle"] = {
 					["enabled"] = true,
-					["refSpellID"] = 196555,
+					["refSpellID"] = 186265,
 					["spellIDs"] = {
-						[196555] = true,
+						[186265] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 132199,
+				},
+				["Dark Regeneration"] = {
+					["enabled"] = true,
+					["refSpellID"] = 108359,
+					["spellIDs"] = {
+						[108359] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 463284,
+					["texture"] = 537516,
 				},
-				["Chaos Nova"] = {
+				["Shadowy Duel"] = {
 					["enabled"] = true,
-					["refSpellID"] = 179057,
+					["refSpellID"] = 207736,
 					["spellIDs"] = {
-						[179057] = true,
+						[207736] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 135795,
-				},
-				["Cheat Death"] = {
-					["enabled"] = true,
-					["refSpellID"] = 31230,
-					["spellIDs"] = {
-						[31230] = true,
-					},
-					["cooldown"] = 360,
-					["texture"] = 132285,
+					["cooldown"] = 120,
+					["texture"] = 1020341,
 				},
 				["Vendetta"] = {
 					["enabled"] = true,
@@ -50726,23 +50725,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 458726,
 				},
-				["Bladestorm"] = {
+				["Storm Bolt"] = {
 					["enabled"] = true,
-					["refSpellID"] = 227847,
+					["refSpellID"] = 107570,
 					["spellIDs"] = {
-						[227847] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 236303,
-				},
-				["Shambling Rush"] = {
-					["enabled"] = true,
-					["refSpellID"] = 91802,
-					["spellIDs"] = {
-						[91802] = true,
+						[107570] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 237569,
+					["texture"] = 613535,
+				},
+				["Rebuke"] = {
+					["enabled"] = true,
+					["refSpellID"] = 96231,
+					["spellIDs"] = {
+						[96231] = true,
+					},
+					["cooldown"] = 15,
+					["texture"] = 523893,
 				},
 				["Dark Transformation"] = {
 					["enabled"] = true,
@@ -50753,14 +50752,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 342913,
 				},
-				["Shadowfury"] = {
+				["Adrenaline Rush"] = {
 					["enabled"] = true,
-					["refSpellID"] = 30283,
+					["refSpellID"] = 13750,
 					["spellIDs"] = {
-						[30283] = true,
+						[13750] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 607865,
+					["cooldown"] = 150,
+					["texture"] = 136206,
 				},
 				["Blessing of Protection"] = {
 					["enabled"] = true,
@@ -50780,77 +50779,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135824,
 				},
-				["Trueshot"] = {
+				["Strangulate"] = {
 					["enabled"] = true,
-					["refSpellID"] = 193526,
+					["refSpellID"] = 47476,
 					["spellIDs"] = {
-						[193526] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 132329,
-				},
-				["Avenging Wrath"] = {
-					["enabled"] = true,
-					["refSpellID"] = 31884,
-					["spellIDs"] = {
-						[31884] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 135875,
-				},
-				["Freezing Trap"] = {
-					["enabled"] = true,
-					["refSpellID"] = 187650,
-					["spellIDs"] = {
-						[187650] = true,
-					},
-					["cooldown"] = 25,
-					["texture"] = 135834,
-				},
-				["Shockwave"] = {
-					["enabled"] = true,
-					["refSpellID"] = 46968,
-					["spellIDs"] = {
-						[46968] = true,
-					},
-					["cooldown"] = 40,
-					["texture"] = 236312,
-				},
-				["Death Pact"] = {
-					["enabled"] = true,
-					["refSpellID"] = 48743,
-					["spellIDs"] = {
-						[48743] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 136146,
-				},
-				["Gladiator's Medallion"] = {
-					["enabled"] = true,
-					["refSpellID"] = 208683,
-					["spellIDs"] = {
-						[208683] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 1322720,
-				},
-				["Dancing Rune Weapon"] = {
-					["enabled"] = true,
-					["refSpellID"] = 49028,
-					["spellIDs"] = {
-						[49028] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 135277,
-				},
-				["Guardian Spirit"] = {
-					["enabled"] = true,
-					["refSpellID"] = 47788,
-					["spellIDs"] = {
-						[47788] = true,
+						[47476] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 237542,
+					["texture"] = 136214,
 				},
 				["Healing Tide Totem"] = {
 					["enabled"] = true,
@@ -50861,86 +50797,149 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 180,
 					["texture"] = 538569,
 				},
-				["Strangulate"] = {
+				["Guardian Spirit"] = {
 					["enabled"] = true,
-					["refSpellID"] = 47476,
+					["refSpellID"] = 47788,
 					["spellIDs"] = {
-						[47476] = true,
+						[47788] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 136214,
+					["texture"] = 237542,
 				},
-				["Adrenaline Rush"] = {
+				["Dancing Rune Weapon"] = {
 					["enabled"] = true,
-					["refSpellID"] = 13750,
+					["refSpellID"] = 49028,
 					["spellIDs"] = {
-						[13750] = true,
-					},
-					["cooldown"] = 150,
-					["texture"] = 136206,
-				},
-				["Rebuke"] = {
-					["enabled"] = true,
-					["refSpellID"] = 96231,
-					["spellIDs"] = {
-						[96231] = true,
-					},
-					["cooldown"] = 15,
-					["texture"] = 523893,
-				},
-				["Storm Bolt"] = {
-					["enabled"] = true,
-					["refSpellID"] = 107570,
-					["spellIDs"] = {
-						[107570] = true,
-					},
-					["cooldown"] = 30,
-					["texture"] = 613535,
-				},
-				["Shadowy Duel"] = {
-					["enabled"] = true,
-					["refSpellID"] = 207736,
-					["spellIDs"] = {
-						[207736] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 1020341,
-				},
-				["Dark Regeneration"] = {
-					["enabled"] = true,
-					["refSpellID"] = 108359,
-					["spellIDs"] = {
-						[108359] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 537516,
-				},
-				["Aspect of the Turtle"] = {
-					["enabled"] = true,
-					["refSpellID"] = 186265,
-					["spellIDs"] = {
-						[186265] = true,
+						[49028] = true,
 					},
 					["cooldown"] = 180,
-					["texture"] = 132199,
+					["texture"] = 135277,
 				},
-				["Feral Lunge"] = {
+				["Gladiator's Medallion"] = {
 					["enabled"] = true,
-					["refSpellID"] = 196884,
+					["refSpellID"] = 208683,
 					["spellIDs"] = {
-						[196884] = true,
-					},
-					["cooldown"] = 30,
-					["texture"] = 1027879,
-				},
-				["Power Infusion"] = {
-					["enabled"] = true,
-					["refSpellID"] = 10060,
-					["spellIDs"] = {
-						[10060] = true,
+						[208683] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 135939,
+					["texture"] = 1322720,
+				},
+				["Death Pact"] = {
+					["enabled"] = true,
+					["refSpellID"] = 48743,
+					["spellIDs"] = {
+						[48743] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 136146,
+				},
+				["Shockwave"] = {
+					["enabled"] = true,
+					["refSpellID"] = 46968,
+					["spellIDs"] = {
+						[46968] = true,
+					},
+					["cooldown"] = 40,
+					["texture"] = 236312,
+				},
+				["Freezing Trap"] = {
+					["enabled"] = true,
+					["refSpellID"] = 187650,
+					["spellIDs"] = {
+						[187650] = true,
+					},
+					["cooldown"] = 25,
+					["texture"] = 135834,
+				},
+				["Avenging Wrath"] = {
+					["enabled"] = true,
+					["refSpellID"] = 31884,
+					["spellIDs"] = {
+						[31884] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 135875,
+				},
+				["Trueshot"] = {
+					["enabled"] = true,
+					["refSpellID"] = 193526,
+					["spellIDs"] = {
+						[193526] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 132329,
+				},
+				["Shadowfury"] = {
+					["enabled"] = true,
+					["refSpellID"] = 30283,
+					["spellIDs"] = {
+						[30283] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 607865,
+				},
+				["Shambling Rush"] = {
+					["enabled"] = true,
+					["refSpellID"] = 91802,
+					["spellIDs"] = {
+						[91802] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 237569,
+				},
+				["Bladestorm"] = {
+					["enabled"] = true,
+					["refSpellID"] = 227847,
+					["spellIDs"] = {
+						[227847] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 236303,
+				},
+				["Cheat Death"] = {
+					["enabled"] = true,
+					["refSpellID"] = 31230,
+					["spellIDs"] = {
+						[31230] = true,
+					},
+					["cooldown"] = 360,
+					["texture"] = 132285,
+				},
+				["Chaos Nova"] = {
+					["enabled"] = true,
+					["refSpellID"] = 179057,
+					["spellIDs"] = {
+						[179057] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 135795,
+				},
+				["Netherwalk"] = {
+					["enabled"] = true,
+					["refSpellID"] = 196555,
+					["spellIDs"] = {
+						[196555] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 463284,
+				},
+				["Duel"] = {
+					["enabled"] = true,
+					["refSpellID"] = 236273,
+					["spellIDs"] = {
+						[236273] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 1455893,
+				},
+				["Wyvern Sting"] = {
+					["enabled"] = true,
+					["refSpellID"] = 19386,
+					["spellIDs"] = {
+						[19386] = true,
+					},
+					["cooldown"] = 45,
+					["texture"] = 135125,
 				},
 				["Dismantle"] = {
 					["enabled"] = true,
@@ -50960,32 +50959,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 54,
 					["texture"] = 1418286,
 				},
-				["Holy Avenger"] = {
+				["Pain Suppression"] = {
 					["enabled"] = true,
-					["refSpellID"] = 105809,
+					["refSpellID"] = 33206,
 					["spellIDs"] = {
-						[105809] = true,
+						[33206] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 571555,
+					["cooldown"] = 210,
+					["texture"] = 135936,
 				},
-				["Earthgrab Totem"] = {
+				["Greater Fade"] = {
 					["enabled"] = true,
-					["refSpellID"] = 51485,
+					["refSpellID"] = 213602,
 					["spellIDs"] = {
-						[51485] = true,
+						[213602] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 136100,
+					["texture"] = 135994,
 				},
-				["Counterspell"] = {
+				["Shadowmeld"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2139,
+					["refSpellID"] = 58984,
 					["spellIDs"] = {
-						[2139] = true,
+						[58984] = true,
 					},
-					["cooldown"] = 24,
-					["texture"] = 135856,
+					["cooldown"] = 120,
+					["texture"] = 132089,
 				},
 				["Ursol's Vortex"] = {
 					["enabled"] = true,
@@ -50996,14 +50995,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 571588,
 				},
-				["Blood Mirror"] = {
+				["Ice Block"] = {
 					["enabled"] = true,
-					["refSpellID"] = 206977,
+					["refSpellID"] = 45438,
 					["spellIDs"] = {
-						[206977] = true,
+						[45438] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 134084,
+					["cooldown"] = 240,
+					["texture"] = 135841,
 				},
 				["Dispersion"] = {
 					["enabled"] = true,
@@ -51014,50 +51013,50 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 237563,
 				},
-				["Revival"] = {
+				["Guardian of Ancient Kings"] = {
 					["enabled"] = true,
-					["refSpellID"] = 115310,
+					["refSpellID"] = 86659,
 					["spellIDs"] = {
-						[115310] = true,
+						[86659] = true,
 					},
-					["cooldown"] = 180,
-					["texture"] = 1020466,
+					["cooldown"] = 300,
+					["texture"] = 135919,
 				},
-				["Blessing of Sacrifice"] = {
+				["Demonic Trample"] = {
 					["enabled"] = true,
-					["refSpellID"] = 6940,
+					["refSpellID"] = 205629,
 					["spellIDs"] = {
-						[6940] = true,
+						[205629] = true,
 					},
-					["cooldown"] = 75,
-					["texture"] = 135966,
+					["cooldown"] = 30,
+					["texture"] = 134294,
 				},
-				["Power Word: Barrier"] = {
+				["Diffuse Magic"] = {
 					["enabled"] = true,
-					["refSpellID"] = 62618,
+					["refSpellID"] = 122783,
 					["spellIDs"] = {
-						[62618] = true,
+						[122783] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 253400,
+					["cooldown"] = 90,
+					["texture"] = 775460,
 				},
-				["Dampen Harm"] = {
+				["Blur"] = {
 					["enabled"] = true,
-					["refSpellID"] = 122278,
+					["refSpellID"] = 198589,
 					["spellIDs"] = {
-						[122278] = true,
+						[198589] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 620827,
+					["cooldown"] = 60,
+					["texture"] = 1305150,
 				},
-				["Parley"] = {
+				["Evocation"] = {
 					["enabled"] = true,
-					["refSpellID"] = 199743,
+					["refSpellID"] = 12051,
 					["spellIDs"] = {
-						[199743] = true,
+						[12051] = true,
 					},
-					["cooldown"] = 20,
-					["texture"] = 236448,
+					["cooldown"] = 90,
+					["texture"] = 136075,
 				},
 				["Dragon Charge"] = {
 					["enabled"] = true,
@@ -51068,23 +51067,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 20,
 					["texture"] = 1380676,
 				},
-				["Shadowstep"] = {
+				["Essence of G'Hanir"] = {
 					["enabled"] = true,
-					["refSpellID"] = 36554,
+					["refSpellID"] = 208253,
 					["spellIDs"] = {
-						[36554] = true,
+						[208253] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 132303,
+					["cooldown"] = 90,
+					["texture"] = 1115592,
 				},
-				["Bloodlust"] = {
+				["Intercept"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2825,
+					["refSpellID"] = 198304,
 					["spellIDs"] = {
-						[2825] = true,
+						[198304] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 136012,
+					["cooldown"] = 17,
+					["texture"] = 132365,
 				},
 				["Typhoon"] = {
 					["enabled"] = true,
@@ -51122,23 +51121,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 180,
 					["texture"] = 135872,
 				},
-				["Reverse Magic"] = {
+				["Barkskin"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205604,
+					["refSpellID"] = 22812,
 					["spellIDs"] = {
-						[205604] = true,
+						[22812] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 1380372,
+					["texture"] = 136097,
 				},
-				["Kick"] = {
+				["Spirit of Redemption"] = {
 					["enabled"] = true,
-					["refSpellID"] = 1766,
+					["refSpellID"] = 215769,
 					["spellIDs"] = {
-						[1766] = true,
+						[215769] = true,
 					},
-					["cooldown"] = 15,
-					["texture"] = 132219,
+					["cooldown"] = 300,
+					["texture"] = 132864,
 				},
 				["Spell Lock"] = {
 					["enabled"] = true,
@@ -51149,19 +51148,19 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 24,
 					["texture"] = 136174,
 				},
-				["Sigil of Silence"] = {
+				["Force of Nature"] = {
 					["enabled"] = true,
-					["refSpellID"] = 202137,
+					["refSpellID"] = 205636,
 					["spellIDs"] = {
-						[202137] = true,
+						[205636] = true,
 					},
-					["cooldown"] = 36,
-					["texture"] = 1418288,
+					["cooldown"] = 60,
+					["texture"] = 132129,
 				},
 			},
+			["DBVersion"] = 8,
 		},
-		["Rotrin - Area 52"] = {
-			["DBVersion"] = 8,
+		["Fhayrin - Area 52"] = {
 			["SpellCDs"] = {
 				["Life Cocoon"] = {
 					["enabled"] = true,
@@ -52774,14 +52773,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 136214,
 				},
-				["Force of Nature"] = {
+				["Sigil of Silence"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205636,
+					["refSpellID"] = 202137,
 					["spellIDs"] = {
-						[205636] = true,
+						[202137] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 132129,
+					["cooldown"] = 36,
+					["texture"] = 1418288,
 				},
 				["Master's Call"] = {
 					["enabled"] = true,
@@ -52801,14 +52800,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 25,
 					["texture"] = 1033909,
 				},
-				["Spirit of Redemption"] = {
+				["Kick"] = {
 					["enabled"] = true,
-					["refSpellID"] = 215769,
+					["refSpellID"] = 1766,
 					["spellIDs"] = {
-						[215769] = true,
+						[1766] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 132864,
+					["cooldown"] = 15,
+					["texture"] = 132219,
 				},
 				["Invoke Xuen, the White Tiger"] = {
 					["enabled"] = true,
@@ -52828,14 +52827,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 300,
 					["texture"] = 135865,
 				},
-				["Barkskin"] = {
+				["Reverse Magic"] = {
 					["enabled"] = true,
-					["refSpellID"] = 22812,
+					["refSpellID"] = 205604,
 					["spellIDs"] = {
-						[22812] = true,
+						[205604] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 136097,
+					["texture"] = 1380372,
 				},
 				["Ironbark"] = {
 					["enabled"] = true,
@@ -52873,23 +52872,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 651728,
 				},
-				["Intercept"] = {
+				["Bloodlust"] = {
 					["enabled"] = true,
-					["refSpellID"] = 198304,
+					["refSpellID"] = 2825,
 					["spellIDs"] = {
-						[198304] = true,
+						[2825] = true,
 					},
-					["cooldown"] = 17,
-					["texture"] = 132365,
+					["cooldown"] = 60,
+					["texture"] = 136012,
 				},
-				["Essence of G'Hanir"] = {
+				["Shadowstep"] = {
 					["enabled"] = true,
-					["refSpellID"] = 208253,
+					["refSpellID"] = 36554,
 					["spellIDs"] = {
-						[208253] = true,
+						[36554] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 1115592,
+					["cooldown"] = 30,
+					["texture"] = 132303,
 				},
 				["Kidney Shot"] = {
 					["enabled"] = true,
@@ -52909,23 +52908,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 1029585,
 				},
-				["Evocation"] = {
+				["Parley"] = {
 					["enabled"] = true,
-					["refSpellID"] = 12051,
+					["refSpellID"] = 199743,
 					["spellIDs"] = {
-						[12051] = true,
+						[199743] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 136075,
+					["cooldown"] = 20,
+					["texture"] = 236448,
 				},
-				["Blur"] = {
+				["Dampen Harm"] = {
 					["enabled"] = true,
-					["refSpellID"] = 198589,
+					["refSpellID"] = 122278,
 					["spellIDs"] = {
-						[198589] = true,
+						[122278] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 1305150,
+					["cooldown"] = 120,
+					["texture"] = 620827,
 				},
 				["Dire Beast: Basilisk"] = {
 					["enabled"] = true,
@@ -52936,14 +52935,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 1412204,
 				},
-				["Diffuse Magic"] = {
+				["Power Word: Barrier"] = {
 					["enabled"] = true,
-					["refSpellID"] = 122783,
+					["refSpellID"] = 62618,
 					["spellIDs"] = {
-						[122783] = true,
+						[62618] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 775460,
+					["cooldown"] = 120,
+					["texture"] = 253400,
 				},
 				["Tombstone"] = {
 					["enabled"] = true,
@@ -52954,23 +52953,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 132151,
 				},
-				["Demonic Trample"] = {
+				["Blessing of Sacrifice"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205629,
+					["refSpellID"] = 6940,
 					["spellIDs"] = {
-						[205629] = true,
+						[6940] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 134294,
+					["cooldown"] = 75,
+					["texture"] = 135966,
 				},
-				["Guardian of Ancient Kings"] = {
+				["Revival"] = {
 					["enabled"] = true,
-					["refSpellID"] = 86659,
+					["refSpellID"] = 115310,
 					["spellIDs"] = {
-						[86659] = true,
+						[115310] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 135919,
+					["cooldown"] = 180,
+					["texture"] = 1020466,
 				},
 				["Nether Bond"] = {
 					["enabled"] = true,
@@ -52999,14 +52998,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 25,
 					["texture"] = 135968,
 				},
-				["Ice Block"] = {
+				["Blood Mirror"] = {
 					["enabled"] = true,
-					["refSpellID"] = 45438,
+					["refSpellID"] = 206977,
 					["spellIDs"] = {
-						[45438] = true,
+						[206977] = true,
 					},
-					["cooldown"] = 240,
-					["texture"] = 135841,
+					["cooldown"] = 120,
+					["texture"] = 134084,
 				},
 				["Invisibility"] = {
 					["enabled"] = true,
@@ -53044,32 +53043,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 20,
 					["texture"] = 134153,
 				},
-				["Shadowmeld"] = {
+				["Counterspell"] = {
 					["enabled"] = true,
-					["refSpellID"] = 58984,
+					["refSpellID"] = 2139,
 					["spellIDs"] = {
-						[58984] = true,
+						[2139] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 132089,
+					["cooldown"] = 24,
+					["texture"] = 135856,
 				},
-				["Greater Fade"] = {
+				["Earthgrab Totem"] = {
 					["enabled"] = true,
-					["refSpellID"] = 213602,
+					["refSpellID"] = 51485,
 					["spellIDs"] = {
-						[213602] = true,
+						[51485] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 135994,
+					["texture"] = 136100,
 				},
-				["Pain Suppression"] = {
+				["Holy Avenger"] = {
 					["enabled"] = true,
-					["refSpellID"] = 33206,
+					["refSpellID"] = 105809,
 					["spellIDs"] = {
-						[33206] = true,
+						[105809] = true,
 					},
-					["cooldown"] = 210,
-					["texture"] = 135936,
+					["cooldown"] = 90,
+					["texture"] = 571555,
 				},
 				["Illidan's Grasp"] = {
 					["enabled"] = true,
@@ -53098,23 +53097,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 1376045,
 				},
-				["Wyvern Sting"] = {
+				["Power Infusion"] = {
 					["enabled"] = true,
-					["refSpellID"] = 19386,
+					["refSpellID"] = 10060,
 					["spellIDs"] = {
-						[19386] = true,
+						[10060] = true,
 					},
-					["cooldown"] = 45,
-					["texture"] = 135125,
+					["cooldown"] = 120,
+					["texture"] = 135939,
 				},
-				["Duel"] = {
+				["Feral Lunge"] = {
 					["enabled"] = true,
-					["refSpellID"] = 236273,
+					["refSpellID"] = 196884,
 					["spellIDs"] = {
-						[236273] = true,
+						[196884] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 1455893,
+					["cooldown"] = 30,
+					["texture"] = 1027879,
 				},
 				["Unending Resolve"] = {
 					["enabled"] = true,
@@ -53125,32 +53124,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 150,
 					["texture"] = 136150,
 				},
-				["Netherwalk"] = {
+				["Aspect of the Turtle"] = {
 					["enabled"] = true,
-					["refSpellID"] = 196555,
+					["refSpellID"] = 186265,
 					["spellIDs"] = {
-						[196555] = true,
+						[186265] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 132199,
+				},
+				["Dark Regeneration"] = {
+					["enabled"] = true,
+					["refSpellID"] = 108359,
+					["spellIDs"] = {
+						[108359] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 463284,
+					["texture"] = 537516,
 				},
-				["Chaos Nova"] = {
+				["Shadowy Duel"] = {
 					["enabled"] = true,
-					["refSpellID"] = 179057,
+					["refSpellID"] = 207736,
 					["spellIDs"] = {
-						[179057] = true,
+						[207736] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 135795,
-				},
-				["Cheat Death"] = {
-					["enabled"] = true,
-					["refSpellID"] = 31230,
-					["spellIDs"] = {
-						[31230] = true,
-					},
-					["cooldown"] = 360,
-					["texture"] = 132285,
+					["cooldown"] = 120,
+					["texture"] = 1020341,
 				},
 				["Vendetta"] = {
 					["enabled"] = true,
@@ -53161,14 +53160,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 458726,
 				},
-				["Bladestorm"] = {
+				["Storm Bolt"] = {
 					["enabled"] = true,
-					["refSpellID"] = 227847,
+					["refSpellID"] = 107570,
 					["spellIDs"] = {
-						[227847] = true,
+						[107570] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 236303,
+					["cooldown"] = 30,
+					["texture"] = 613535,
+				},
+				["Rebuke"] = {
+					["enabled"] = true,
+					["refSpellID"] = 96231,
+					["spellIDs"] = {
+						[96231] = true,
+					},
+					["cooldown"] = 15,
+					["texture"] = 523893,
 				},
 				["Dark Transformation"] = {
 					["enabled"] = true,
@@ -53179,23 +53187,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 342913,
 				},
-				["Shambling Rush"] = {
+				["Adrenaline Rush"] = {
 					["enabled"] = true,
-					["refSpellID"] = 91802,
+					["refSpellID"] = 13750,
 					["spellIDs"] = {
-						[91802] = true,
+						[13750] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 237569,
-				},
-				["Shadowfury"] = {
-					["enabled"] = true,
-					["refSpellID"] = 30283,
-					["spellIDs"] = {
-						[30283] = true,
-					},
-					["cooldown"] = 30,
-					["texture"] = 607865,
+					["cooldown"] = 150,
+					["texture"] = 136206,
 				},
 				["Blessing of Protection"] = {
 					["enabled"] = true,
@@ -53215,77 +53214,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135824,
 				},
-				["Trueshot"] = {
+				["Strangulate"] = {
 					["enabled"] = true,
-					["refSpellID"] = 193526,
+					["refSpellID"] = 47476,
 					["spellIDs"] = {
-						[193526] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 132329,
-				},
-				["Avenging Wrath"] = {
-					["enabled"] = true,
-					["refSpellID"] = 31884,
-					["spellIDs"] = {
-						[31884] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 135875,
-				},
-				["Freezing Trap"] = {
-					["enabled"] = true,
-					["refSpellID"] = 187650,
-					["spellIDs"] = {
-						[187650] = true,
-					},
-					["cooldown"] = 25,
-					["texture"] = 135834,
-				},
-				["Shockwave"] = {
-					["enabled"] = true,
-					["refSpellID"] = 46968,
-					["spellIDs"] = {
-						[46968] = true,
-					},
-					["cooldown"] = 40,
-					["texture"] = 236312,
-				},
-				["Death Pact"] = {
-					["enabled"] = true,
-					["refSpellID"] = 48743,
-					["spellIDs"] = {
-						[48743] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 136146,
-				},
-				["Gladiator's Medallion"] = {
-					["enabled"] = true,
-					["refSpellID"] = 208683,
-					["spellIDs"] = {
-						[208683] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 1322720,
-				},
-				["Dancing Rune Weapon"] = {
-					["enabled"] = true,
-					["refSpellID"] = 49028,
-					["spellIDs"] = {
-						[49028] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 135277,
-				},
-				["Guardian Spirit"] = {
-					["enabled"] = true,
-					["refSpellID"] = 47788,
-					["spellIDs"] = {
-						[47788] = true,
+						[47476] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 237542,
+					["texture"] = 136214,
 				},
 				["Healing Tide Totem"] = {
 					["enabled"] = true,
@@ -53296,86 +53232,149 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 180,
 					["texture"] = 538569,
 				},
-				["Strangulate"] = {
+				["Guardian Spirit"] = {
 					["enabled"] = true,
-					["refSpellID"] = 47476,
+					["refSpellID"] = 47788,
 					["spellIDs"] = {
-						[47476] = true,
+						[47788] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 136214,
+					["texture"] = 237542,
 				},
-				["Adrenaline Rush"] = {
+				["Dancing Rune Weapon"] = {
 					["enabled"] = true,
-					["refSpellID"] = 13750,
+					["refSpellID"] = 49028,
 					["spellIDs"] = {
-						[13750] = true,
-					},
-					["cooldown"] = 150,
-					["texture"] = 136206,
-				},
-				["Rebuke"] = {
-					["enabled"] = true,
-					["refSpellID"] = 96231,
-					["spellIDs"] = {
-						[96231] = true,
-					},
-					["cooldown"] = 15,
-					["texture"] = 523893,
-				},
-				["Storm Bolt"] = {
-					["enabled"] = true,
-					["refSpellID"] = 107570,
-					["spellIDs"] = {
-						[107570] = true,
-					},
-					["cooldown"] = 30,
-					["texture"] = 613535,
-				},
-				["Shadowy Duel"] = {
-					["enabled"] = true,
-					["refSpellID"] = 207736,
-					["spellIDs"] = {
-						[207736] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 1020341,
-				},
-				["Dark Regeneration"] = {
-					["enabled"] = true,
-					["refSpellID"] = 108359,
-					["spellIDs"] = {
-						[108359] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 537516,
-				},
-				["Aspect of the Turtle"] = {
-					["enabled"] = true,
-					["refSpellID"] = 186265,
-					["spellIDs"] = {
-						[186265] = true,
+						[49028] = true,
 					},
 					["cooldown"] = 180,
-					["texture"] = 132199,
+					["texture"] = 135277,
 				},
-				["Feral Lunge"] = {
+				["Gladiator's Medallion"] = {
 					["enabled"] = true,
-					["refSpellID"] = 196884,
+					["refSpellID"] = 208683,
 					["spellIDs"] = {
-						[196884] = true,
-					},
-					["cooldown"] = 30,
-					["texture"] = 1027879,
-				},
-				["Power Infusion"] = {
-					["enabled"] = true,
-					["refSpellID"] = 10060,
-					["spellIDs"] = {
-						[10060] = true,
+						[208683] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 135939,
+					["texture"] = 1322720,
+				},
+				["Death Pact"] = {
+					["enabled"] = true,
+					["refSpellID"] = 48743,
+					["spellIDs"] = {
+						[48743] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 136146,
+				},
+				["Shockwave"] = {
+					["enabled"] = true,
+					["refSpellID"] = 46968,
+					["spellIDs"] = {
+						[46968] = true,
+					},
+					["cooldown"] = 40,
+					["texture"] = 236312,
+				},
+				["Freezing Trap"] = {
+					["enabled"] = true,
+					["refSpellID"] = 187650,
+					["spellIDs"] = {
+						[187650] = true,
+					},
+					["cooldown"] = 25,
+					["texture"] = 135834,
+				},
+				["Avenging Wrath"] = {
+					["enabled"] = true,
+					["refSpellID"] = 31884,
+					["spellIDs"] = {
+						[31884] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 135875,
+				},
+				["Trueshot"] = {
+					["enabled"] = true,
+					["refSpellID"] = 193526,
+					["spellIDs"] = {
+						[193526] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 132329,
+				},
+				["Shadowfury"] = {
+					["enabled"] = true,
+					["refSpellID"] = 30283,
+					["spellIDs"] = {
+						[30283] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 607865,
+				},
+				["Shambling Rush"] = {
+					["enabled"] = true,
+					["refSpellID"] = 91802,
+					["spellIDs"] = {
+						[91802] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 237569,
+				},
+				["Bladestorm"] = {
+					["enabled"] = true,
+					["refSpellID"] = 227847,
+					["spellIDs"] = {
+						[227847] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 236303,
+				},
+				["Cheat Death"] = {
+					["enabled"] = true,
+					["refSpellID"] = 31230,
+					["spellIDs"] = {
+						[31230] = true,
+					},
+					["cooldown"] = 360,
+					["texture"] = 132285,
+				},
+				["Chaos Nova"] = {
+					["enabled"] = true,
+					["refSpellID"] = 179057,
+					["spellIDs"] = {
+						[179057] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 135795,
+				},
+				["Netherwalk"] = {
+					["enabled"] = true,
+					["refSpellID"] = 196555,
+					["spellIDs"] = {
+						[196555] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 463284,
+				},
+				["Duel"] = {
+					["enabled"] = true,
+					["refSpellID"] = 236273,
+					["spellIDs"] = {
+						[236273] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 1455893,
+				},
+				["Wyvern Sting"] = {
+					["enabled"] = true,
+					["refSpellID"] = 19386,
+					["spellIDs"] = {
+						[19386] = true,
+					},
+					["cooldown"] = 45,
+					["texture"] = 135125,
 				},
 				["Dismantle"] = {
 					["enabled"] = true,
@@ -53395,32 +53394,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 54,
 					["texture"] = 1418286,
 				},
-				["Holy Avenger"] = {
+				["Pain Suppression"] = {
 					["enabled"] = true,
-					["refSpellID"] = 105809,
+					["refSpellID"] = 33206,
 					["spellIDs"] = {
-						[105809] = true,
+						[33206] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 571555,
+					["cooldown"] = 210,
+					["texture"] = 135936,
 				},
-				["Earthgrab Totem"] = {
+				["Greater Fade"] = {
 					["enabled"] = true,
-					["refSpellID"] = 51485,
+					["refSpellID"] = 213602,
 					["spellIDs"] = {
-						[51485] = true,
+						[213602] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 136100,
+					["texture"] = 135994,
 				},
-				["Counterspell"] = {
+				["Shadowmeld"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2139,
+					["refSpellID"] = 58984,
 					["spellIDs"] = {
-						[2139] = true,
+						[58984] = true,
 					},
-					["cooldown"] = 24,
-					["texture"] = 135856,
+					["cooldown"] = 120,
+					["texture"] = 132089,
 				},
 				["Ursol's Vortex"] = {
 					["enabled"] = true,
@@ -53431,14 +53430,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 571588,
 				},
-				["Blood Mirror"] = {
+				["Ice Block"] = {
 					["enabled"] = true,
-					["refSpellID"] = 206977,
+					["refSpellID"] = 45438,
 					["spellIDs"] = {
-						[206977] = true,
+						[45438] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 134084,
+					["cooldown"] = 240,
+					["texture"] = 135841,
 				},
 				["Dispersion"] = {
 					["enabled"] = true,
@@ -53449,50 +53448,50 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 237563,
 				},
-				["Revival"] = {
+				["Guardian of Ancient Kings"] = {
 					["enabled"] = true,
-					["refSpellID"] = 115310,
+					["refSpellID"] = 86659,
 					["spellIDs"] = {
-						[115310] = true,
+						[86659] = true,
 					},
-					["cooldown"] = 180,
-					["texture"] = 1020466,
+					["cooldown"] = 300,
+					["texture"] = 135919,
 				},
-				["Blessing of Sacrifice"] = {
+				["Demonic Trample"] = {
 					["enabled"] = true,
-					["refSpellID"] = 6940,
+					["refSpellID"] = 205629,
 					["spellIDs"] = {
-						[6940] = true,
+						[205629] = true,
 					},
-					["cooldown"] = 75,
-					["texture"] = 135966,
+					["cooldown"] = 30,
+					["texture"] = 134294,
 				},
-				["Power Word: Barrier"] = {
+				["Diffuse Magic"] = {
 					["enabled"] = true,
-					["refSpellID"] = 62618,
+					["refSpellID"] = 122783,
 					["spellIDs"] = {
-						[62618] = true,
+						[122783] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 253400,
+					["cooldown"] = 90,
+					["texture"] = 775460,
 				},
-				["Dampen Harm"] = {
+				["Blur"] = {
 					["enabled"] = true,
-					["refSpellID"] = 122278,
+					["refSpellID"] = 198589,
 					["spellIDs"] = {
-						[122278] = true,
+						[198589] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 620827,
+					["cooldown"] = 60,
+					["texture"] = 1305150,
 				},
-				["Parley"] = {
+				["Evocation"] = {
 					["enabled"] = true,
-					["refSpellID"] = 199743,
+					["refSpellID"] = 12051,
 					["spellIDs"] = {
-						[199743] = true,
+						[12051] = true,
 					},
-					["cooldown"] = 20,
-					["texture"] = 236448,
+					["cooldown"] = 90,
+					["texture"] = 136075,
 				},
 				["Dragon Charge"] = {
 					["enabled"] = true,
@@ -53503,23 +53502,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 20,
 					["texture"] = 1380676,
 				},
-				["Shadowstep"] = {
+				["Essence of G'Hanir"] = {
 					["enabled"] = true,
-					["refSpellID"] = 36554,
+					["refSpellID"] = 208253,
 					["spellIDs"] = {
-						[36554] = true,
+						[208253] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 132303,
+					["cooldown"] = 90,
+					["texture"] = 1115592,
 				},
-				["Bloodlust"] = {
+				["Intercept"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2825,
+					["refSpellID"] = 198304,
 					["spellIDs"] = {
-						[2825] = true,
+						[198304] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 136012,
+					["cooldown"] = 17,
+					["texture"] = 132365,
 				},
 				["Typhoon"] = {
 					["enabled"] = true,
@@ -53557,23 +53556,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 180,
 					["texture"] = 135872,
 				},
-				["Reverse Magic"] = {
+				["Barkskin"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205604,
+					["refSpellID"] = 22812,
 					["spellIDs"] = {
-						[205604] = true,
+						[22812] = true,
 					},
 					["cooldown"] = 60,
-					["texture"] = 1380372,
+					["texture"] = 136097,
 				},
-				["Kick"] = {
+				["Spirit of Redemption"] = {
 					["enabled"] = true,
-					["refSpellID"] = 1766,
+					["refSpellID"] = 215769,
 					["spellIDs"] = {
-						[1766] = true,
+						[215769] = true,
 					},
-					["cooldown"] = 15,
-					["texture"] = 132219,
+					["cooldown"] = 300,
+					["texture"] = 132864,
 				},
 				["Spell Lock"] = {
 					["enabled"] = true,
@@ -53584,16 +53583,17 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 24,
 					["texture"] = 136174,
 				},
-				["Sigil of Silence"] = {
+				["Force of Nature"] = {
 					["enabled"] = true,
-					["refSpellID"] = 202137,
+					["refSpellID"] = 205636,
 					["spellIDs"] = {
-						[202137] = true,
+						[205636] = true,
 					},
-					["cooldown"] = 36,
-					["texture"] = 1418288,
+					["cooldown"] = 60,
+					["texture"] = 132129,
 				},
 			},
+			["DBVersion"] = 8,
 		},
 	},
 }

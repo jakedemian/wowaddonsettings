@@ -43,7 +43,6 @@ bind CTRL-F7 NONE
 bind CTRL-F8 NONE
 bind CTRL-F9 NONE
 bind CTRL-F10 NONE
-bind CTRL-1 CLICK BT4Button73:LeftButton
 bind CTRL-2 CLICK BT4Button74:LeftButton
 bind CTRL-3 CLICK BT4Button75:LeftButton
 bind CTRL-4 CLICK BT4Button76:LeftButton

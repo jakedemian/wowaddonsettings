@@ -1,3 +1,8 @@
+VER 3 000000000000003E " " "136184"
+#showtooltip Psychic Scream
+/cast Psychic Scream
+/roar
+END
 VER 3 000000000000002C " " "ABILITY_RACIAL_BEARFORM"
 /castsequece [nostance:1] Bear Form; [nocombat] Bear Form;
 END
@@ -8,11 +13,6 @@ VER 3 0000000000000046 " " "1100041"
 #showtooltip Wraith Walk
 /cast [nomounted] Wraith Walk
 END
-VER 3 000000000000003E " " "136184"
-#showtooltip Psychic Scream
-/cast Psychic Scream
-/roar
-END
 VER 3 000000000000002F " artifact" "135408"
 #showtooltip 16
 /run if ArtifactFrame:IsVisible() then HideUIPanel(ArtifactFrame) else SocketInventoryItem(16)end
@@ -22,7 +22,7 @@ VER 3 0000000000000019 "/roll" "Ability_Druid_EclipseOrange"
 END
 VER 3 0000000000000043 "AAP_MACRO" "INV_MISC_QUESTIONMARK"
 #showtooltip
-/use Voodoo'ed Aggression Formula
+/use Fading Umbral Wand
 END
 VER 3 000000000000003A "afdsa" "INV_MISC_QUESTIONMARK"
 /target Yuhas
@@ -31,6 +31,12 @@ VER 3 000000000000002D "art_prog" "237139"
 /run local k=GetAchievementCriteriaInfo; local x,b; local a=0; for i=1,11 do _,_,_,x,b = k(11152,i); a=a+x; end; local _,_,_,c, d = k(11153,1) local _,_,_,e, f = k(11154,1) print("\nWQs: "..c.."/"..d.."\nPvP: "..e.."/"..f.."\nDungeons:"..a.."/"..b)
 END
 VER 3 0000000000000042 "blah" "1394892"
+END
+VER 3 0000000000000048 "hbCrashProt_0" "Spell_Holy_SealOfSacrifice"
+1:H:
+END
+VER 3 0000000000000047 "hbCrashProt_1" "Spell_Holy_SealOfSacrifice"
+Thart:p:ayer-3676-0AAB7F49:1:
 END
 VER 3 0000000000000035 "health" "134744"
 /use Healthstone
@@ -65,13 +71,13 @@ VER 3 0000000000000045 "sadf" "1380371"
 END
 VER 3 0000000000000033 "selfcast innerva" "SPELL_NATURE_LIGHTNING"
 END
-VER 3 000000000000003B "sigryn" "INV_MISC_QUESTIONMARK"
-/target Sigryn
-/cast Repentance
-END
 VER 3 0000000000000038 "sigryn" "413591"
 /target Sigryn
 /cast Blind
+END
+VER 3 000000000000003B "sigryn" "INV_MISC_QUESTIONMARK"
+/target Sigryn
+/cast Repentance
 END
 VER 3 0000000000000028 "skull" "INV_MISC_BONE_HUMANSKULL_02"
 /run SetRaidTarget("target", 8)

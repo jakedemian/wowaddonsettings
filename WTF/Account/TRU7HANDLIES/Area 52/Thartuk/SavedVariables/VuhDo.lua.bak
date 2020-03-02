@@ -1620,7 +1620,7 @@ VUHDO_CONFIG = {
 				["isBarGlow"] = false,
 				["isOthers"] = true,
 			},
-			["307950"] = {
+			["282432"] = {
 				["animate"] = true,
 				["isColor"] = false,
 				["isIconGlow"] = false,
@@ -1631,7 +1631,7 @@ VUHDO_CONFIG = {
 				["isBarGlow"] = false,
 				["isOthers"] = true,
 			},
-			["282432"] = {
+			["265662"] = {
 				["animate"] = true,
 				["isColor"] = false,
 				["isIconGlow"] = false,
@@ -1675,7 +1675,7 @@ VUHDO_CONFIG = {
 				["isBarGlow"] = false,
 				["isOthers"] = true,
 			},
-			["297907"] = {
+			["284662"] = {
 				["animate"] = true,
 				["isColor"] = false,
 				["isIconGlow"] = false,
@@ -1719,7 +1719,7 @@ VUHDO_CONFIG = {
 				["isBarGlow"] = false,
 				["isOthers"] = true,
 			},
-			["297586"] = {
+			["297907"] = {
 				["animate"] = true,
 				["isColor"] = false,
 				["isIconGlow"] = false,
@@ -1730,7 +1730,7 @@ VUHDO_CONFIG = {
 				["isBarGlow"] = false,
 				["isOthers"] = true,
 			},
-			["284662"] = {
+			["297586"] = {
 				["animate"] = true,
 				["isColor"] = false,
 				["isIconGlow"] = false,
@@ -1807,7 +1807,7 @@ VUHDO_CONFIG = {
 				["isBarGlow"] = false,
 				["isOthers"] = true,
 			},
-			["265662"] = {
+			["307950"] = {
 				["animate"] = true,
 				["isColor"] = false,
 				["isIconGlow"] = false,
@@ -2180,9 +2180,9 @@ VUHDO_PANEL_SETUP = {
 			["orientation"] = "TOPLEFT",
 			["relativePoint"] = "BOTTOMLEFT",
 			["scale"] = 1,
-			["height"] = 176.0000152587891,
+			["height"] = 50.00001525878906,
 			["growth"] = "TOPLEFT",
-			["width"] = 273,
+			["width"] = 139.0000152587891,
 		},
 		["RAID_ICON"] = {
 			["show"] = true,
@@ -2193,6 +2193,7 @@ VUHDO_PANEL_SETUP = {
 		},
 		["frameStrata"] = "MEDIUM",
 		["MODEL"] = {
+			["ordering"] = 0,
 			["groups"] = {
 				1, -- [1]
 				2, -- [2]
@@ -2205,7 +2206,6 @@ VUHDO_PANEL_SETUP = {
 				40, -- [9]
 			},
 			["sort"] = 6,
-			["ordering"] = 0,
 			["isReverse"] = false,
 		},
 		["TOOLTIP"] = {
@@ -4581,10 +4581,25 @@ VUHDO_PANEL_SETUP = {
 	},
 }
 VUHDO_SPELL_ASSIGNMENTS = {
+	["1"] = {
+		nil, -- [1]
+		"1", -- [2]
+		"target", -- [3]
+	},
+	["shift2"] = {
+		nil, -- [1]
+		"2", -- [2]
+		"menu", -- [3]
+	},
 	["3"] = {
 		"", -- [1]
 		"3", -- [2]
 		"Lay on Hands", -- [3]
+	},
+	["2"] = {
+		nil, -- [1]
+		"2", -- [2]
+		"dropdown", -- [3]
 	},
 }
 VUHDO_HOSTILE_SPELL_ASSIGNMENTS = {
@@ -4715,6 +4730,7 @@ VUHDO_BUFF_SETTINGS = {
 			["B"] = 1,
 		},
 		["enabled"] = false,
+		["name"] = "Thartuk",
 		["filter"] = {
 			[999] = true,
 		},
@@ -4735,6 +4751,7 @@ VUHDO_BUFF_SETTINGS = {
 			["B"] = 1,
 		},
 		["enabled"] = false,
+		["name"] = "Thartuk",
 		["filter"] = {
 			[999] = true,
 		},
@@ -4755,6 +4772,7 @@ VUHDO_BUFF_SETTINGS = {
 			["B"] = 1,
 		},
 		["enabled"] = false,
+		["name"] = "Thartuk",
 		["filter"] = {
 			[999] = true,
 		},
@@ -4775,7 +4793,7 @@ VUHDO_BUFF_SETTINGS = {
 			["B"] = 1,
 		},
 		["enabled"] = false,
-		["name"] = "Tahnok",
+		["name"] = "Thartuk",
 		["filter"] = {
 			[999] = true,
 		},
@@ -4941,9 +4959,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w10", -- [2]
 			"", -- [3]
 		},
-		["ctrl2"] = {
-			"CTRL-", -- [1]
-			"-w6", -- [2]
+		["ctrlshift2"] = {
+			"CTRL-SHIFT-", -- [1]
+			"-w14", -- [2]
 			"", -- [3]
 		},
 		["2"] = {
@@ -4951,9 +4969,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w2", -- [2]
 			"", -- [3]
 		},
-		["ctrlshift2"] = {
-			"CTRL-SHIFT-", -- [1]
-			"-w14", -- [2]
+		["shift1"] = {
+			"SHIFT-", -- [1]
+			"-w7", -- [2]
 			"", -- [3]
 		},
 		["shift2"] = {
@@ -5006,9 +5024,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w3", -- [2]
 			"", -- [3]
 		},
-		["shift1"] = {
-			"SHIFT-", -- [1]
-			"-w7", -- [2]
+		["ctrl2"] = {
+			"CTRL-", -- [1]
+			"-w6", -- [2]
 			"", -- [3]
 		},
 	},
@@ -5057,6 +5075,10 @@ VUHDO_SPELLS_KEYBOARD = {
 			"Blessing of Freedom", -- [1]
 			"SHIFT-F", -- [2]
 		}, -- [10]
+		{
+			"Holy Prism", -- [1]
+			"4", -- [2]
+		}, -- [11]
 	},
 	["SPELL7"] = "",
 	["SPELL12"] = "",
@@ -5078,9 +5100,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w10", -- [2]
 			"", -- [3]
 		},
-		["ctrl2"] = {
-			"CTRL-", -- [1]
-			"-w6", -- [2]
+		["ctrlshift2"] = {
+			"CTRL-SHIFT-", -- [1]
+			"-w14", -- [2]
 			"", -- [3]
 		},
 		["2"] = {
@@ -5088,9 +5110,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w2", -- [2]
 			"", -- [3]
 		},
-		["ctrlshift2"] = {
-			"CTRL-SHIFT-", -- [1]
-			"-w14", -- [2]
+		["shift1"] = {
+			"SHIFT-", -- [1]
+			"-w7", -- [2]
 			"", -- [3]
 		},
 		["shift2"] = {
@@ -5143,9 +5165,9 @@ VUHDO_SPELLS_KEYBOARD = {
 			"-w3", -- [2]
 			"", -- [3]
 		},
-		["shift1"] = {
-			"SHIFT-", -- [1]
-			"-w7", -- [2]
+		["ctrl2"] = {
+			"CTRL-", -- [1]
+			"-w6", -- [2]
 			"", -- [3]
 		},
 	},
@@ -5184,14 +5206,14 @@ VUHDO_SPEC_LAYOUTS = {
 VUHDO_GROUP_SIZE = 1
 VUHDO_RAID = {
 	["player"] = {
-		["zone"] = "Cenarion Refuge",
+		["zone"] = "Zuldazar",
 		["baseRange"] = true,
 		["class"] = "PALADIN",
 		["role"] = 61,
-		["sortMaxHp"] = 8694,
-		["map"] = "Zangarmarsh",
+		["sortMaxHp"] = 254800,
+		["map"] = "Zuldazar",
 		["threat"] = 0,
-		["powermax"] = 1435,
+		["powermax"] = 20000,
 		["threatPerc"] = 0,
 		["isPet"] = false,
 		["name"] = "Thartuk",
@@ -5202,16 +5224,15 @@ VUHDO_RAID = {
 		["range"] = true,
 		["unit"] = "player",
 		["powertype"] = 0,
-		["healthmax"] = 8834,
-		["lifeLossPerc"] = 1.009830818472794,
+		["healthmax"] = 254800,
 		["dead"] = false,
 		["charmed"] = false,
 		["fullName"] = "Thartuk",
-		["power"] = 1435,
+		["power"] = 20000,
 		["aggro"] = false,
 		["visible"] = true,
 		["targetUnit"] = "target",
-		["health"] = 8834,
+		["health"] = 254800,
 		["className"] = "Paladin",
 		["afk"] = false,
 		["debuff"] = 0,
@@ -5241,9 +5262,9 @@ VUHDO_INDICATOR_CONFIG = {
 		},
 		["SWIFTMEND_INDICATOR"] = "Role & Summon Status Icon",
 		["THREAT_MARK"] = "",
+		["SIDE_RIGHT"] = "",
 		["MANA_BAR"] = "Manabars: Mana only",
 		["BAR_BORDER"] = "Border: Multi + Aggro",
-		["SIDE_RIGHT"] = "",
 		["HEALTH_BAR"] = "Health Bar: (generic, gradient)",
 		["SIDE_LEFT"] = "",
 		["DAMAGE_FLASH_BAR"] = "",

@@ -1,8 +1,0 @@
-## Interface: 70200
-## Title: LockItems
-## SavedVariablesPerCharacter: LockedItems
-## Author: Colin Stewart
-## Notes: Hides items that you want to keep while vendoring.
-## Version: 0.3
-
-LockItems.lua

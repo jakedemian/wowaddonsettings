@@ -14,6 +14,7 @@ DraenorTreasuresDB = {
 		["Dulgan - Kilrogg"] = "Default",
 		["Primerlock - Kel'Thuzad"] = "Default",
 		["Primepriest - Area 52"] = "Default",
+		["Rotrin - Area 52"] = "Default",
 		["Uwutuskdaddy - Area 52"] = "Default",
 		["Pewpybholes - Area 52"] = "Default",
 		["Fhayrin - Area 52"] = "Default",

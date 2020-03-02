@@ -1,3 +1,7 @@
+VER 3 0000000000000046 " " "1100041"
+#showtooltip Wraith Walk
+/cast [nomounted] Wraith Walk
+END
 VER 3 000000000000003E " " "136184"
 #showtooltip Psychic Scream
 /cast Psychic Scream
@@ -9,10 +13,6 @@ END
 VER 3 000000000000003F " " "136200"
 /target Hearthsinger Forresten
 END
-VER 3 0000000000000046 " " "1100041"
-#showtooltip Wraith Walk
-/cast [nomounted] Wraith Walk
-END
 VER 3 000000000000002F " artifact" "135408"
 #showtooltip 16
 /run if ArtifactFrame:IsVisible() then HideUIPanel(ArtifactFrame) else SocketInventoryItem(16)end
@@ -22,7 +22,7 @@ VER 3 0000000000000019 "/roll" "Ability_Druid_EclipseOrange"
 END
 VER 3 0000000000000043 "AAP_MACRO" "INV_MISC_QUESTIONMARK"
 #showtooltip
-/use Voodoo'ed Aggression Formula
+/use Fading Umbral Wand
 END
 VER 3 000000000000003A "afdsa" "INV_MISC_QUESTIONMARK"
 /target Yuhas

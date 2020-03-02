@@ -1,16 +1,10 @@
-lightweight tag c9833a44dac6c552afcaec4045ead1fed7b3bb5b v8.2.5.046
+lightweight tag b6e0e25d61a6916be2787fe1ad0c26c585da608f v8.3.0.047
 Author:	Tercio Jose <terciob19@hotmail.com>
-Date:	Sun Nov 17 11:57:28 2019 -0300
+Date:	Mon Feb 17 16:41:30 2020 -0300
 
-commit c9833a44dac6c552afcaec4045ead1fed7b3bb5b
+commit b6e0e25d61a6916be2787fe1ad0c26c585da608f
 Author: Tercio Jose <terciob19@hotmail.com>
-Date:   Sun Nov 17 11:57:28 2019 -0300
+Date:   Mon Feb 17 16:41:30 2020 -0300
 
-    Sync plugin version with github release version
-
-commit 46ceec8e9700a7e57b81135065b208bc2526c2d7
-Author: Tercio Jose <terciob19@hotmail.com>
-Date:   Sun Nov 17 11:55:53 2019 -0300
-
-    Fixed plugin load issue
+    ToC Update patch 8.3
 

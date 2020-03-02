@@ -1,5 +1,10 @@
 
 EncounterDetailsDB = {
+	["emotes"] = {
+		{
+			["boss"] = "Thrall the Corrupted",
+		}, -- [1]
+	},
 	["encounter_spells"] = {
 		[297746] = {
 			["school"] = 1,
@@ -24,10 +29,5 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Thrall",
 		},
-	},
-	["emotes"] = {
-		{
-			["boss"] = "Thrall the Corrupted",
-		}, -- [1]
 	},
 }

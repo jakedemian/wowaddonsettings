@@ -9,6 +9,7 @@ HandyNotesDB = {
 		["Dulgan - Kilrogg"] = "Dulgan - Kilrogg",
 		["Primerlock - Kel'Thuzad"] = "Primerlock - Kel'Thuzad",
 		["Primepriest - Area 52"] = "Primepriest - Area 52",
+		["Rotrin - Area 52"] = "Rotrin - Area 52",
 		["Uwutuskdaddy - Area 52"] = "Uwutuskdaddy - Area 52",
 		["Pewpybholes - Area 52"] = "Pewpybholes - Area 52",
 		["Fhayrin - Area 52"] = "Fhayrin - Area 52",
@@ -42,6 +43,8 @@ HandyNotesDB = {
 		["Primerlock - Kel'Thuzad"] = {
 		},
 		["Primepriest - Area 52"] = {
+		},
+		["Rotrin - Area 52"] = {
 		},
 		["Uwutuskdaddy - Area 52"] = {
 		},
@@ -79,6 +82,7 @@ HandyNotes_HandyNotesDB = {
 		["Dulgan - Kilrogg"] = "Dulgan - Kilrogg",
 		["Primerlock - Kel'Thuzad"] = "Primerlock - Kel'Thuzad",
 		["Primepriest - Area 52"] = "Primepriest - Area 52",
+		["Rotrin - Area 52"] = "Rotrin - Area 52",
 		["Uwutuskdaddy - Area 52"] = "Uwutuskdaddy - Area 52",
 		["Pewpybholes - Area 52"] = "Pewpybholes - Area 52",
 		["Fhayrin - Area 52"] = "Fhayrin - Area 52",
@@ -108,6 +112,8 @@ HandyNotes_HandyNotesDB = {
 		["Primerlock - Kel'Thuzad"] = {
 		},
 		["Primepriest - Area 52"] = {
+		},
+		["Rotrin - Area 52"] = {
 		},
 		["Uwutuskdaddy - Area 52"] = {
 		},

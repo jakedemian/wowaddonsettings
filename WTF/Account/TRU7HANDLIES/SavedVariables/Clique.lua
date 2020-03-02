@@ -7,51 +7,51 @@ CliqueDB3 = {
 			["spec3_profileKey"] = "Primepriest - Area 52",
 			["downclick"] = false,
 			["fastooc"] = false,
-			["spec2_profileKey"] = "Primepriest - Area 52",
 			["specswap"] = false,
+			["spec2_profileKey"] = "Primepriest - Area 52",
 		},
 		["Rotrin - Area 52"] = {
 			["spec1_profileKey"] = "Rotrin - Area 52",
-			["spec3_profileKey"] = "Rotrin - Area 52",
+			["alerthidden"] = true,
 			["downclick"] = false,
 			["fastooc"] = false,
-			["spec2_profileKey"] = "Rotrin - Area 52",
 			["specswap"] = false,
-			["alerthidden"] = true,
+			["spec2_profileKey"] = "Rotrin - Area 52",
+			["spec3_profileKey"] = "Rotrin - Area 52",
 		},
 		["Uwutuskdaddy - Area 52"] = {
 			["spec1_profileKey"] = "Uwutuskdaddy - Area 52",
 			["specswap"] = false,
 			["downclick"] = false,
 			["fastooc"] = false,
-			["spec3_profileKey"] = "Uwutuskdaddy - Area 52",
 			["spec2_profileKey"] = "Uwutuskdaddy - Area 52",
+			["spec3_profileKey"] = "Uwutuskdaddy - Area 52",
 		},
 		["Primehunter - Area 52"] = {
 			["spec1_profileKey"] = "Primehunter - Area 52",
 			["spec2_profileKey"] = "Primehunter - Area 52",
 			["downclick"] = false,
 			["fastooc"] = false,
-			["alerthidden"] = true,
-			["spec3_profileKey"] = "Primehunter - Area 52",
 			["specswap"] = false,
+			["spec3_profileKey"] = "Primehunter - Area 52",
+			["alerthidden"] = true,
 		},
 		["Iamprime - Area 52"] = {
 			["spec1_profileKey"] = "Iamprime - Area 52",
 			["spec3_profileKey"] = "Iamprime - Area 52",
 			["downclick"] = false,
 			["fastooc"] = false,
-			["specswap"] = false,
 			["spec2_profileKey"] = "Iamprime - Area 52",
+			["specswap"] = false,
 		},
 		["Ahriak - Area 52"] = {
 			["spec1_profileKey"] = "Ahriak - Area 52",
-			["spec3_profileKey"] = "Ahriak - Area 52",
+			["spec2_profileKey"] = "Ahriak - Area 52",
 			["downclick"] = false,
 			["fastooc"] = false,
-			["spec2_profileKey"] = "Ahriak - Area 52",
-			["specswap"] = false,
+			["spec3_profileKey"] = "Ahriak - Area 52",
 			["alerthidden"] = true,
+			["specswap"] = false,
 		},
 		["Plskillme - Kilrogg"] = {
 			["spec1_profileKey"] = "Plskillme - Kilrogg",
@@ -65,51 +65,51 @@ CliqueDB3 = {
 			["alerthidden"] = true,
 			["downclick"] = false,
 			["fastooc"] = false,
-			["specswap"] = false,
-			["spec2_profileKey"] = "Fhaykum - Area 52",
 			["spec3_profileKey"] = "Fhaykum - Area 52",
+			["spec2_profileKey"] = "Fhaykum - Area 52",
+			["specswap"] = false,
 		},
 		["Primelocker - Kel'Thuzad"] = {
 			["spec1_profileKey"] = "Primelocker - Kel'Thuzad",
 			["spec3_profileKey"] = "Primelocker - Kel'Thuzad",
 			["downclick"] = false,
 			["fastooc"] = false,
-			["spec2_profileKey"] = "Primelocker - Kel'Thuzad",
 			["specswap"] = false,
+			["spec2_profileKey"] = "Primelocker - Kel'Thuzad",
 		},
 		["Fhayge - Area 52"] = {
 			["spec1_profileKey"] = "Fhayge - Area 52",
 			["spec2_profileKey"] = "Fhayge - Area 52",
 			["downclick"] = false,
 			["fastooc"] = false,
-			["spec3_profileKey"] = "Fhayge - Area 52",
 			["specswap"] = false,
+			["spec3_profileKey"] = "Fhayge - Area 52",
 		},
 		["Thartuk - Area 52"] = {
 			["spec1_profileKey"] = "Thartuk - Area 52",
 			["fastooc"] = false,
-			["specswap"] = false,
-			["downclick"] = false,
 			["alerthidden"] = true,
-			["spec3_profileKey"] = "Thartuk - Area 52",
+			["downclick"] = false,
+			["specswap"] = false,
 			["spec2_profileKey"] = "Thartuk - Area 52",
+			["spec3_profileKey"] = "Thartuk - Area 52",
 		},
 		["Fhayslam - Area 52"] = {
 			["spec1_profileKey"] = "Fhayslam - Area 52",
 			["specswap"] = false,
 			["downclick"] = false,
 			["fastooc"] = false,
-			["spec2_profileKey"] = "Fhayslam - Area 52",
 			["spec3_profileKey"] = "Fhayslam - Area 52",
+			["spec2_profileKey"] = "Fhayslam - Area 52",
 		},
 		["Primerlock - Kel'Thuzad"] = {
 			["spec1_profileKey"] = "Primerlock - Kel'Thuzad",
 			["specswap"] = false,
 			["downclick"] = false,
 			["fastooc"] = false,
-			["alerthidden"] = true,
-			["spec3_profileKey"] = "Primerlock - Kel'Thuzad",
 			["spec2_profileKey"] = "Primerlock - Kel'Thuzad",
+			["spec3_profileKey"] = "Primerlock - Kel'Thuzad",
+			["alerthidden"] = true,
 		},
 	},
 	["profileKeys"] = {
@@ -122,28 +122,28 @@ CliqueDB3 = {
 		["Fhaykum - Area 52"] = "Fhaykum - Area 52",
 		["Primerlock - Kel'Thuzad"] = "Primerlock - Kel'Thuzad",
 		["Primepriest - Area 52"] = "Primepriest - Area 52",
-		["Fhayrin - Area 52"] = "Fhayrin - Area 52",
+		["Rotrin - Area 52"] = "Rotrin - Area 52",
 		["Uwutuskdaddy - Area 52"] = "Uwutuskdaddy - Area 52",
 		["Pewpybholes - Area 52"] = "Pewpybholes - Area 52",
 		["Warodner - Moon Guard"] = "Warodner - Moon Guard",
 		["Iamprime - Area 52"] = "Iamprime - Area 52",
 		["Ahriak - Area 52"] = "Ahriak - Area 52",
 		["Plskillme - Kilrogg"] = "Plskillme - Kilrogg",
-		["Primepriest - Kel'Thuzad"] = "Primepriest - Kel'Thuzad",
+		["Primehunter - Area 52"] = "Primehunter - Area 52",
 		["Primelocker - Kel'Thuzad"] = "Primelocker - Kel'Thuzad",
 		["Fhayge - Area 52"] = "Fhayge - Area 52",
-		["Primehunter - Area 52"] = "Primehunter - Area 52",
+		["Primepriest - Kel'Thuzad"] = "Primepriest - Kel'Thuzad",
 		["Paintprimer - Kel'Thuzad"] = "Paintprimer - Kel'Thuzad",
-		["Rotrin - Area 52"] = "Rotrin - Area 52",
+		["Fhayrin - Area 52"] = "Fhayrin - Area 52",
 	},
 	["profiles"] = {
 		["Thepride - Area 52"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -159,10 +159,10 @@ CliqueDB3 = {
 		["Fhayup - Area 52"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -178,10 +178,10 @@ CliqueDB3 = {
 		["Thartuk - Area 52"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -195,13 +195,6 @@ CliqueDB3 = {
 					["spell"] = "Blessing of Sacrifice",
 				}, -- [2]
 				{
-					["type"] = "menu",
-					["key"] = "BUTTON2",
-					["sets"] = {
-						["default"] = true,
-					},
-				}, -- [3]
-				{
 					["type"] = "spell",
 					["key"] = "1",
 					["sets"] = {
@@ -209,16 +202,7 @@ CliqueDB3 = {
 					},
 					["icon"] = 135972,
 					["spell"] = "Holy Shock",
-				}, -- [4]
-				{
-					["type"] = "spell",
-					["key"] = "Q",
-					["sets"] = {
-						["default"] = true,
-					},
-					["icon"] = 135907,
-					["spell"] = "Flash of Light",
-				}, -- [5]
+				}, -- [3]
 				{
 					["type"] = "spell",
 					["key"] = "BUTTON3",
@@ -227,24 +211,43 @@ CliqueDB3 = {
 					},
 					["icon"] = 135928,
 					["spell"] = "Lay on Hands",
+				}, -- [4]
+				{
+					["type"] = "spell",
+					["key"] = "C",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 135949,
+					["spell"] = "Cleanse",
+				}, -- [5]
+				{
+					["type"] = "spell",
+					["key"] = "SHIFT-F",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 135968,
+					["spell"] = "Blessing of Freedom",
 				}, -- [6]
 				{
 					["type"] = "spell",
-					["key"] = "CTRL-1",
+					["key"] = "Q",
 					["sets"] = {
 						["default"] = true,
 					},
-					["icon"] = 236247,
-					["spell"] = "Beacon of Light",
+					["icon"] = 135907,
+					["spell"] = "Flash of Light",
 				}, -- [7]
 				{
 					["type"] = "spell",
-					["key"] = "E",
+					["key"] = "T",
+					["spell"] = "Spirit of Preservation",
 					["sets"] = {
 						["default"] = true,
 					},
-					["icon"] = 135981,
-					["spell"] = "Holy Light",
+					["icon"] = 2967101,
+					["spellSubName"] = "Azerite Essence",
 				}, -- [8]
 				{
 					["type"] = "spell",
@@ -256,32 +259,21 @@ CliqueDB3 = {
 					["spell"] = "Blessing of Protection",
 				}, -- [9]
 				{
-					["type"] = "spell",
-					["key"] = "R",
+					["type"] = "menu",
+					["key"] = "BUTTON2",
 					["sets"] = {
 						["default"] = true,
 					},
-					["icon"] = 461859,
-					["spell"] = "Light of Dawn",
 				}, -- [10]
 				{
 					["type"] = "spell",
-					["key"] = "SHIFT-F",
+					["key"] = "BUTTON5",
 					["sets"] = {
 						["default"] = true,
 					},
-					["icon"] = 135968,
-					["spell"] = "Blessing of Freedom",
+					["icon"] = 236247,
+					["spell"] = "Beacon of Light",
 				}, -- [11]
-				{
-					["type"] = "spell",
-					["key"] = "C",
-					["sets"] = {
-						["default"] = true,
-					},
-					["icon"] = 135949,
-					["spell"] = "Cleanse",
-				}, -- [12]
 				{
 					["type"] = "spell",
 					["key"] = "2",
@@ -290,16 +282,43 @@ CliqueDB3 = {
 					},
 					["icon"] = 1360762,
 					["spell"] = "Light of the Martyr",
+				}, -- [12]
+				{
+					["type"] = "spell",
+					["key"] = "R",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 461859,
+					["spell"] = "Light of Dawn",
 				}, -- [13]
+				{
+					["type"] = "spell",
+					["key"] = "E",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 135981,
+					["spell"] = "Holy Light",
+				}, -- [14]
+				{
+					["type"] = "spell",
+					["key"] = "BUTTON4",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 1030095,
+					["spell"] = "Beacon of Faith",
+				}, -- [15]
 			},
 		},
 		["Fhayslam - Area 52"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -315,10 +334,10 @@ CliqueDB3 = {
 		["Primeboi - Area 52"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -334,10 +353,10 @@ CliqueDB3 = {
 		["Dulgan - Kilrogg"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -353,10 +372,10 @@ CliqueDB3 = {
 		["Fhaykum - Area 52"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -426,10 +445,10 @@ CliqueDB3 = {
 		["Primerlock - Kel'Thuzad"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -454,10 +473,10 @@ CliqueDB3 = {
 		["Primepriest - Area 52"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -470,13 +489,13 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
-		["Fhayrin - Area 52"] = {
+		["Rotrin - Area 52"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -487,15 +506,24 @@ CliqueDB3 = {
 						["default"] = true,
 					},
 				}, -- [2]
+				{
+					["type"] = "spell",
+					["key"] = "BUTTON3",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 136210,
+					["spell"] = "Soulstone",
+				}, -- [3]
 			},
 		},
 		["Uwutuskdaddy - Area 52"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -511,10 +539,10 @@ CliqueDB3 = {
 		["Pewpybholes - Area 52"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -530,10 +558,10 @@ CliqueDB3 = {
 		["Warodner - Moon Guard"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -549,10 +577,10 @@ CliqueDB3 = {
 		["Iamprime - Area 52"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -568,10 +596,10 @@ CliqueDB3 = {
 		["Ahriak - Area 52"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -596,63 +624,6 @@ CliqueDB3 = {
 		["Plskillme - Kilrogg"] = {
 			["bindings"] = {
 				{
-					["sets"] = {
-						["default"] = true,
-					},
-					["type"] = "target",
-					["key"] = "BUTTON1",
-					["unit"] = "mouseover",
-				}, -- [1]
-				{
-					["type"] = "menu",
-					["key"] = "BUTTON2",
-					["sets"] = {
-						["default"] = true,
-					},
-				}, -- [2]
-			},
-		},
-		["Primepriest - Kel'Thuzad"] = {
-			["bindings"] = {
-				{
-					["sets"] = {
-						["default"] = true,
-					},
-					["type"] = "target",
-					["key"] = "BUTTON1",
-					["unit"] = "mouseover",
-				}, -- [1]
-				{
-					["type"] = "menu",
-					["key"] = "BUTTON2",
-					["sets"] = {
-						["default"] = true,
-					},
-				}, -- [2]
-			},
-		},
-		["Primelocker - Kel'Thuzad"] = {
-			["bindings"] = {
-				{
-					["type"] = "target",
-					["sets"] = {
-						["default"] = true,
-					},
-					["key"] = "BUTTON1",
-					["unit"] = "mouseover",
-				}, -- [1]
-				{
-					["type"] = "menu",
-					["key"] = "BUTTON2",
-					["sets"] = {
-						["default"] = true,
-					},
-				}, -- [2]
-			},
-		},
-		["Fhayge - Area 52"] = {
-			["bindings"] = {
-				{
 					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
@@ -672,10 +643,10 @@ CliqueDB3 = {
 		["Primehunter - Area 52"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -697,7 +668,45 @@ CliqueDB3 = {
 				}, -- [3]
 			},
 		},
-		["Paintprimer - Kel'Thuzad"] = {
+		["Primelocker - Kel'Thuzad"] = {
+			["bindings"] = {
+				{
+					["sets"] = {
+						["default"] = true,
+					},
+					["type"] = "target",
+					["key"] = "BUTTON1",
+					["unit"] = "mouseover",
+				}, -- [1]
+				{
+					["type"] = "menu",
+					["key"] = "BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [2]
+			},
+		},
+		["Fhayge - Area 52"] = {
+			["bindings"] = {
+				{
+					["sets"] = {
+						["default"] = true,
+					},
+					["type"] = "target",
+					["key"] = "BUTTON1",
+					["unit"] = "mouseover",
+				}, -- [1]
+				{
+					["type"] = "menu",
+					["key"] = "BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [2]
+			},
+		},
+		["Primepriest - Kel'Thuzad"] = {
 			["bindings"] = {
 				{
 					["type"] = "target",
@@ -716,13 +725,13 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
-		["Rotrin - Area 52"] = {
+		["Paintprimer - Kel'Thuzad"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -733,15 +742,25 @@ CliqueDB3 = {
 						["default"] = true,
 					},
 				}, -- [2]
+			},
+		},
+		["Fhayrin - Area 52"] = {
+			["bindings"] = {
 				{
-					["type"] = "spell",
-					["key"] = "BUTTON3",
 					["sets"] = {
 						["default"] = true,
 					},
-					["icon"] = 136210,
-					["spell"] = "Soulstone",
-				}, -- [3]
+					["type"] = "target",
+					["key"] = "BUTTON1",
+					["unit"] = "mouseover",
+				}, -- [1]
+				{
+					["type"] = "menu",
+					["key"] = "BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [2]
 			},
 		},
 	},
